@@ -98,7 +98,19 @@ En Allemagne, jugée seule responsable du conflit et lourdement sanctionnée, ce
 
 # Démocraties fragilisées et expériences totalitaires dans l'Europe de l'entre-deux-guerres
 
+Les Etats-Unis jouent un rôle central dans l’économie européenne des années 1920 – 1930. En effet, un « **triangle financier** » s’est mis en place : les banques américaines prêtent à l’Allemagne qui peut ainsi payer les annuités de réparations qu’elle devait à la France. En retour, la France peut alors rembourser ses dettes de guerre aux Etats-Unis. 
+
+A la suite du crash boursier de Wall Street, la situation financière de l’Allemagne devient délicate et la **crise s’étend aux pays européens**, provoquant une contraction de l’activité économique. **L’économie européenne s’en trouve ravagée** avec des conséquences sociales effrayantes (**très fort niveau de chômage**).
 ## L'URSS de Staline
+
+Après la révolution de 1917, Lénine veut imposer l’idéologie communiste en URSS et en Europe. Il pose les bases d’un régime totalitaire que Staline, seul chef de 1924 à 1953, achève. Celui-ci décide que l’Etat doit contrôler l’ensemble de l’économie. Il impose la collectivisation des terres en obligeant les paysans à intégrer les kolkhozes. L’Etat fixe les objectifs économiques à atteindre dans des plans quinquennaux, notamment dans l’industrie. 
+
+La police politique, le NKVD, surveille la population. Toute contestation, réelle ou 
+supposée, conduit au goulag. De grands procès sont organisés en 1937 – 1938 contre 
+les membres du parti. 
+
+La propagande développe le culte de la personnalité et la jeunesse est embrigadée. 
+
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]
