@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Liste de Fiches de Révisions.md",
+                "file": "Fiche de révisions/Fiche de révision Histoire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "363d03c5cd0af69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Liste de Fiches de Révisions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Liste de Fiches de Révisions.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiche de révisions/Liste de Fiches de Révisions.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,12 +172,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c5920a4e2edd7ec7",
+  "active": "363d03c5cd0af69b",
   "lastOpenFiles": [
+    "Fiche de révisions/Fiche de révision Histoire.md",
+    "Fiche de révisions/Fiche de révision Géographie.md",
     "Fiche de révisions/Fiche de révision Français.md",
     "Fiche de révisions/Liste de Fiches de Révisions.md",
-    "Fiche de révisions/Fiche de révision Géographie.md",
-    "Fiche de révisions/Fiche de révision Histoire.md",
     "Untitled.canvas",
     "2024-02-21.md",
     "Fiche de révisions/Fiche de Révision Histoire.md",

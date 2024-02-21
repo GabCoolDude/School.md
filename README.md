@@ -1,7 +1,7 @@
 # School.md
 
-This is a private repository i use ( or atleast try to use ) for School stuff.
+Ceci est une "repository" privée que j'utilise pour l'école.
 
-Make sure to use [Obsidian](https://obsidian.md/) to view these files because GitHub does some weird stuff with Markdown.
+Utiliser [Obsidian](https://obsidian.md/) pour regarder ces fichiers car GitHub n'aime pas trop le format de fichier que j'utilise.
 
-Dracula Theme is heavily recommended.
+Utiliser le thème "Obsidianite"

@@ -220,6 +220,3 @@ La rime peut être plus ou moins riche selon la longueur de la sonorité qui se 
 Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
 
 
-# Autre Fiches de Révisions :
-[[Fiche de Révision Histoire]]
-[[Fiche de Révision Géographie]]
