@@ -45,6 +45,17 @@ Pour maintenir le moral des populations, les Etats **censurent** la presse et le
 - **Censure** : contrôle des textes par une autorité qui décide de leur autorisation ou de leur interdiction (totale ou partielle). 
 - **Propagande** : communication qui vise à répandre une opinion ou des idées dans la population. 
 
+### Le génocide des Arméniens
+
+Pendant la Première guerre mondiale a eu lieu le génocide des Arméniens. Un génocide est la mise à mort programmée, méthodique et organisée de tout un peuple en raison de son origine, de sa religion, de son appartenance ethnique ou culturelle. Celui-ci concerne les Arméniens, minorité chrétienne de l’Est de l’Empire ottoman. 
+
+Allié à l’Empire allemand et à l’Empire austro-hongrois, l’Empire ottoman est chargé de combattre sur le front est et d’affronter la Russie. En janvier 1915, il subit une lourde défaite contre la Russie. Le gouvernement cherche alors des responsables et désigne les Arméniens. D’avril 1915 à juillet 1916, se met en place une série de violences à l’encontre de cette population : déportations, marches forcées, concentration dans des camps, absence de nourriture, exécutions et massacres… 
+
+Ce génocide provoque la mort d’environ 1,2 million d’Arméniens soit plus des 2 /3 de la communauté arménienne de l’Empire ottoman.
+
+Les civils subissent également les violences de la guerre comme la famine, les bombardements, les travaux forcés etc. 
+
+En 1915 – 1916 dans l’Empire ottoman, les Arméniens font l’objet d’un **génocide**.
 
 
 
