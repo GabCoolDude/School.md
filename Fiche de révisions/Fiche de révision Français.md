@@ -78,7 +78,7 @@ Valeurs de l’impératif :
 
 | Classe | Définition | Catégorie |
 | ---- | ---- | ---- |
-| Préposition | Introduit un groupe prépositionnel ; <br>ne peut pas être employée seule<br>Peut être combiné avec un groupe <br>nominal pour former un <br>groupe nominal prépositionnel<br> | À, dans, par, pour, en, vers, <br>avec, de, sans, sous, sur, contre, <br>grâce à, à cause de, etc<br>J’aime la voix de ce chanteur |
+| Préposition | Introduit un groupe prépositionnel ; <br>ne peut pas être employée seule<br>Peut être combiné avec un groupe <br>nominal pour former un <br>groupe nominal prépositionnel<br> | À, dans, par, pour, en, vers, <br>avec, de, sans, sous, sur, contre, <br>grâce à, à cause de, etc.<br>J’aime la voix <u>de ce chanteur</u> |
 | Adverbe | Peut être supprimé ou déplacé<br>Permet souvent de modifier le <br>sens d’un verbe, adjectif, <br>adverbe ou d’une proposition<br><br><br><br><br><br><br>Peut coordonner deux <br>proposition ou deux phrases <br>entre elles<br><br>Peut marquer la négation, <br>l’interrogation ou l’exclamation<br> | - lieu : ici, là, loin, dessus, etc<br>- temps : auparavant, aujourd’hui, demain, hier, etc <br>- manière : facilement, vite, etc<br>- comparaison : plus, moins, aussi, autant, etc<br>- intensité : très, trop, si, tellement, etc<br>- modalisation : certes, heureusement, etc<br><br><br>- liaison : alors, en effet, ainsi, cependant, etc<br><br><br>- négation : non, ne … pas, ne … jamais, etc<br>- interrogatifs : où ? quand ? pourquoi ? etc<br>- exclamatifs : comme … ! que … ! combien … ! etc |
 | Conjonction de<br>coordination | Relie deux mots ou groupe <br>de mots de classe <br>grammaticale identique <br>ou relie deux phrases | Mais, ou, et, donc, or, ni, car |
 | Conjonction de<br>subordination | Relie un proposition <br>subordonnée à sa <br>proposition principale<br><br> | - Que, puisque, parce que, alors que, <br>afin que, si bien que, etc<br>- Quand, comme, si<br>Il dit **qu**’il t’apprécie |
@@ -88,8 +88,18 @@ Valeurs de l’impératif :
 ## Les fonctions liés au nom et à l'adjectif :
 
 Un nom peut être complété par différent expansions qui font parti du groupe nominal:
-- Le complément du nom, relié au nom par une préposition : un louis d’or
-- Epithète (lié ou détaché), adjectif placé près du nom qu’il complète: une jeune beauté
+- Le complément du nom, relié au nom par une préposition : un louis **<u>d</u>’or**
+- Epithète (lié ou détaché), adjectif placé près du nom qu’il complète: une **jeune** beauté
 - Le complément de l’antécédent, proposition subordonnée relative ( commence par qui, que, quoi… et complète un nom ) placée près du nom qu’elle complète: un homme qui prie le Ciel tout le jour
 - Apposition, qui désigne la même personne ou le même objet que le nom qu’elle complète : Molière, **l’auteur de Dom Juan**
-Le complément de l’adjectif peut être soit un groupe prépositionnel (un homme attaqué par trois autres ) ou une proposition subordonnée complétive conjonctive ( Dom Juan est fier qu’on l’écoute ).
+Le complément de l’adjectif peut être soit un groupe prépositionnel (un homme <u>attaqué</u> **par trois autres** ) ou une proposition subordonnée complétive conjonctive ( Dom Juan est fier **qu’on l’écoute** ).
+
+## Les fonctions liés au Verbe et au Sujet :
+
+Le Sujet indique qui fait l’action dans la phrase.
+
+Le Complément d’objet direct ( COD ) répond à la question “qui ? quoi?” posée après le verbe **et** peut généralement être remplacé par un pronom (lui, leur, y, en): Honorine me fait **des regards sanglants**
+
+Le Complément d’objet indirect ( COI ) répond à la question “à qui ? à quoi ? de quoi ? de qui ?” posée après le verbe **et** peut généralement être remplacé par un pronom (lui, leur, y, en): Marius est guéri **de son désir d’évasion**
+
+L’attribut du sujet est relié au sujet qu’il caractérise par un verbe d’état ( être, paraître, sembler… ): L’amitié est une chose admirable
