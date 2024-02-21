@@ -62,8 +62,8 @@ Valeurs de l’impératif :
 - conseil
 - prière
 - défense
-
-# Les classe grammaticales ( natures ) :
+---
+# Les classes grammaticales ( natures ) :
 
 ## Les classes grammaticales variables :
 
@@ -71,7 +71,7 @@ Valeurs de l’impératif :
 | ---- | ---- | ---- |
 | Verbe | Exprime une action ou un état<br>Peut se conjuguer à des modes <br>( indicatif, subjonctif, etc..) et à des temps ( présent, imparfait, passé composé) différents<br> | - Verbe d’action : marcher, boire, manger, agir, etc.<br><br>- Verbe d’état : être, sembler, paraître, etc. ( pour le reconnaître, remplacer par le verbe être )<br><br>- Verbe intransitif : Il a déjà mangé. ( pas de COD ou de COI )<br><br>- Verbe transitif direct : Je fais du sport. ( COD seulement )<br><br>- Verbe transitif indirect : Le chien a réagi à l’appel de son maître ( COI seulement )<br><br>- Verbe doublement transitif : Marie a prêté son livre à Julien. ( COD et COI ) |
 | Nom | Désigne un être vivant, une chose concrète ( chaise ) ou une chose abstraite ( liberté )<br>Il est généralement précédé d’un déterminant | - Nom commun : chaise, table, bouteille, etc<br><br><br>- Nom propre : Europe, Gabriel |
-| Déterminant | Précède et introduit un nom ; indique son genre et son nombre<br>Forme avec le nom un groupe nominal <br>( une tortue ) | - Article défini : le, la, les<br>- Article défini contracté : au, aux, du, des<br>- Article indéfini : un, une, des<br>- Article partitif : du, de la<br>- Déterminant possessif : mon, ma, ta, sa, son, ses, notre, nos, votre, vos,  etc <br>- Déterminant démonstratif : ce, cet, cette, ces<br>- Déterminant numéral : un, vingt, mille, etc<br>- Déterminant indéfini : plusieurs, certains, quelques, etc<br>- Déterminant interrogatif : quel ? quelles? etc<br>- Déterminant exclamatif : quelle ! quels ! etc<br> |
+| Déterminant | Précède et introduit un nom ; indique son genre et son nombre<br>Forme avec le nom un groupe nominal <br>( une tortue ) | - Article défini : le, la, les<br>- Article défini contracté : au, aux, du, des<br>- Article indéfini : un, une, des<br>- Article partitif : du, de la<br>- Déterminant possessif : mon, ma, ta, sa, son, ses, notre, nos, votre, vos,  etc <br>- Déterminant démonstratif : ce, cet, cette, ces<br>- Déterminant numéral : un, vingt, mille, etc<br>- Déterminant indéfini : plusieurs, certains, quelques, etc.<br>- Déterminant interrogatif : quel ? quelles? etc.<br>- Déterminant exclamatif : quelle ! quels ! etc.<br> |
 | Adjectif | Apporte une précision sur un nom ou un pronom.<br>Une homme **habile**.<br>Il est **charmant**. | - Adjectif qualificatif : gentil, sérieux, etc<br>- Participe passé ou adjectif verbal formé à partir du participe présent : émerveillé, déçu, charmant, etc |
 | Pronom | Remplace un groupe nominal ( ou un nom, ou une proposition )<br>Léo est malade, il dort.<br>Désigne un être ou un objet au moment ou l’on parle<br>Regarde-**le** !<br>Je **te** vois. | - Pronom personnel : je, tu, me, leur, etc<br>- Pronom démonstratif : celui-ci, celle-là, ceci, etc<br>- Pronom possessif : le mien, le vôtre, etc<br>- Pronom adverbial : y, en<br>- Pronom relatif : qui, que, quoi, dont, où, lequel, auquel, duquel, etc<br>- Pronom interrogatif : qui ? lequel ? laquelle ? etc<br>- Pronom indéfini : quelques-uns, certains, etc<br>- Pronom numéral : deux, les trois, etc<br> |
 ## Les classes grammaticales invariables :
@@ -83,3 +83,13 @@ Valeurs de l’impératif :
 | Conjonction de<br>coordination | Relie deux mots ou groupe <br>de mots de classe <br>grammaticale identique <br>ou relie deux phrases | Mais, ou, et, donc, or, ni, car |
 | Conjonction de<br>subordination | Relie un proposition <br>subordonnée à sa <br>proposition principale<br><br> | - Que, puisque, parce que, alors que, <br>afin que, si bien que, etc<br>- Quand, comme, si<br>Il dit **qu**’il t’apprécie |
 | Interjection | Exprime un sentiment de l’interlocuteur. <br>Souvent employées dans <br>les dialogues | Ah ? oh ! hein ? ouf ! zut ! <br>oups ! aïe ! mince ! pfff, etc |
+# Les fonctions :
+
+## Les fonctions liés au nom et à l'adjectif :
+
+Un nom peut être complété par différent expansions qui font parti du groupe nominal:
+- Le complément du nom, relié au nom par une préposition : un louis d’or
+- Epithète (lié ou détaché), adjectif placé près du nom qu’il complète: une jeune beauté
+- Le complément de l’antécédent, proposition subordonnée relative ( commence par qui, que, quoi… et complète un nom ) placée près du nom qu’elle complète: un homme qui prie le Ciel tout le jour
+- Apposition, qui désigne la même personne ou le même objet que le nom qu’elle complète : Molière, **l’auteur de Dom Juan**
+Le complément de l’adjectif peut être soit un groupe prépositionnel (un homme attaqué par trois autres ) ou une proposition subordonnée complétive conjonctive ( Dom Juan est fier qu’on l’écoute ).
