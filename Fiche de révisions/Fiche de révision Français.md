@@ -114,7 +114,7 @@ Les compléments circonstanciels peuvent être supprimés et déplacés. Ils pr�
 - de but, “dans quel but ?”: *Nous travaillons **pour gagner notre vie**.*
 - d’hypothèse, “dans quelle hypothèse ?”: *Je louerai une voiture **si je pars en voyage***.
 - de condition, “à quelle condition ?”: ***S’il vient demain**, nous irons à Lidl.*
-- d’opposition, “à l’opposé de quoi ?”: *Alors qu’il étudie pour l’examen,** son ami regarde la télévision**.*
+- d’opposition, “à l’opposé de quoi ?”: *Alors qu’il étudie pour l’examen, **son ami regarde la télévision**.*
 - de concession, “malgré quoi ? En dépit de quoi ?”: *Nous partirons en vacances **malgré le mauvais temps***.
 - d’accompagnement, “avec qui ?”: *Les enfants étudient **avec leurs professeurs**.*
 # Types de phrases :
@@ -199,13 +199,13 @@ La stichomythie est une succession de répliques brèves, créant un rythme rapi
 Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent pair:
 - 8 syllabes : un octosyllabes
 - 10 syllabes : un décasyllabes
-- <mark style="background: #ffff00;">12 syllabes : un alexandrin. Il est souvent partagé en deux parties de six syllabes ( “hémistiche”) avec une pause centrale (“césure”):</mark> *Heureux qui comme Ulysse / A fait un beau voyage*
+- <u>12 syllabes : un alexandrin. Il est souvent partagé en deux parties de six syllabes ( “hémistiche”) avec une pause centrale (“césure”)</u>: *Heureux qui comme Ulysse / A fait un beau voyage*
 
 La strophe est un groupement de vers séparé un blanc ( **= paragraphe** )
 - 1 vers : monostiche
 - 2 vers : un distique
-- <mark style="background: #ffff00;">3 vers : un tercet</mark>
-- <mark style="background: #ffff00;">4 vers : un quatrain</mark>
+- <u>3 vers : un tercet</u>
+- <u>4 vers : un quatrain</u>
 - 6 vers : un sizain
 - 7 vers : un septain
 - 8 vers : un huitain
