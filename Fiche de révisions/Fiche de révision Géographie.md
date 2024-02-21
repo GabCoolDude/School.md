@@ -54,3 +54,34 @@ Les **facteurs de localisation** des espaces industriels ont ainsi évolué : al
 - **Facteur de localisation** : élément expliquant l’installation et le développement des activités économiques. 
 
 ## La spécialisation des espaces agricoles
+
+La France est la première puissance agricole de l’Union européenne et le 5ème 
+exportateur mondial de produits agricoles. La **filière agro-alimentaire** française est 
+également très puissante. 
+
+La **politique agricole commune** (PAC) européenne et la mondialisation ont poussé les agriculteurs français à se moderniser dans les années 1960. Avec la mécanisation et la spécialisation, les exploitations sont devenues productivistes, surtout dans les régions de grande céréaliculture (Beauce), d’élevage hors sol (Bretagne) ou de production de fruits (vallée du Rhône). 
+
+Cependant, cette **agriculture productiviste** a des conséquences sur l’environnement. 
+Pour remédier aux pollutions et pour répondre aux nouvelles attentes des consommateurs, l**’agriculture biologique** se développe et la qualité est de plus en plus favorisée (labels). 
+
+- **Filière agro-alimentaire** : ensemble des activités qui interviennent dans la transformation des productions agricoles en produits alimentaires. 
+- **Politique agricole commune** (PAC) : politique mise en place par l’UE dans les années 1960 pour augmenter la production agricole. Elle vise aujourd’hui à soutenir les agriculteurs et à préserver l’environnement. 
+- **Agriculture productiviste** : agriculture intensive recherchant des rendements élevés par l’utilisation  massive d’engrais, de machines etc. 
+- **Agriculture biologique** : mode de production agricole sans produits chimiques, préservant l’environnement et le bien-être animal. 
+
+### Etude de cas : le modèle agricole breton
+
+Ce vignoble bordelais produit un vin de très grande quantité et réputé, exporté dans le 
+monde entier. Face à la concurrence mondiale, la production viticole mise sur la qualité grâce aux AOC ou à une récolte manuelle afin de se démarquer. Ce vin est essentiellement destiné à l'exportation.
+
+La diversification des activités autour de la viticulture (oenotourisme) permet de profiter de la renommée des vins de Bordeaux et de garantir d'autres sources de revenues.
+
+## La concentration des services dans les métropoles
+
+Les activités de services emploient 78 % de la population active. Elles sont essentiellement concentrées dans les grandes villes. Les métropoles accueillent les fonctions de commandement et de décision comme dans les quartiers d’affaires. Dans les périphéries des villes, on trouve les centres commerciaux, les entrepôts etc. 
+
+La France est la première destination touristique mondiale grâce à son patrimoine culturel et ses parcs de loisirs.
+
+![](https://lh7-us.googleusercontent.com/CycKvO3n4LdpS_0Fs0OtuR8Bc_Wv6iZ3uxvubh14_t372l6qihkrlOFsENsorVVqpNR2A9ArpFE6L8YqhWz66WjzrxudHituhGd6u1GbUXc7mS92cuUkRKIbxxD5KRpwG298lYWjGdg8zkGRrkK5P2woGxR8iUGI)
+
+![](https://lh7-us.googleusercontent.com/S3_RLHe028bg1vJRBmhe4VKI0DFLa7D4KuFRTKW0HFhi0G1k6Fyl0o3Ss_oO3na6LLJYFPFNc62xYHI-_LjyaZQl15y3pOs2DJ9IXLwa8Jpgyy22Dgd19ZtNbztZxv_lj591Bk-jdl4_Zy6gMtW5ag6bzvRg8Yhb)
