@@ -106,4 +106,22 @@ L’attribut du sujet est relié au sujet qu’il caractérise par un verbe d’
 💡Astuce : On peut reconnaître les verbes d'états en les remplaçants par le signe égal ( = ) ou par un autre verbe d'état
 
 Les compléments essentiels ne peuvent pas être supprimés ni déplacés. Ils peuvent être de lieu
-( après un verbe de localisation, de mouvement et de certain tournures passives comme être situé: *Gabriel habite à Paris*), de temps ( après les verbes durer et dater: Le voyage de Marius a duré 2 ans) et de mesure ( après les verbes coûter, peser, mesurer et parcourir: Ce paquet de bonbon coûte 2 euros).
+( après un verbe de localisation, de mouvement et de certain tournures passives comme être situé: *Gabriel habite **à Paris***), de temps ( après les verbes durer et dater : *Le voyage de Marius a duré **2 ans***) et de mesure ( après les verbes coûter, peser, mesurer et parcourir: *Ce paquet de bonbon coûte **2 euros***).
+
+## Les Compléments Circonstanciels :
+
+Les compléments circonstanciels peuvent être supprimés et déplacés. Ils précisent les circonstances de l’action, il peut être:
+- de temps, “quand ?”: Ce matin, j’ai oublié de déjeuner.
+- de lieu, “où ?”: Je suis à la gare.
+- de manière, “de quelle manière ?”: Tu parles trop vite.
+- de moyen, “à l’aide de quel outil ?”: J’irai en tram à l’école.
+- de cause, “pour quelle raison ?”: L’arbre s’est abattu à cause de la tempête.
+- de conséquence, “avec quelle conséquence / résultat ?”: Paul a couru au point d’avoir une crampe.
+- de but, “dans quel but ?”: Nous travaillons pour gagner notre vie.
+- d’hypothèse, “dans quelle hypothèse ?”: Je louerai une voiture si je pars en voyage.
+- de condition, “à quelle condition ?”: S’il vient demain, nous irons à Lidl.
+- d’opposition, “à l’opposé de quoi ?”: Alors qu’il étudie pour l’examen,  son ami regarde la télévision.
+- de concession, “malgré quoi ? En dépit de quoi ?”: Nous partirons en vacances en dépit du mauvais temps.
+- d’accompagnement, “avec qui ?”: Les enfants étudient avec leurs professeurs.
+
+# Types de phrases :
