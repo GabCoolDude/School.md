@@ -161,6 +161,7 @@ Plusieurs éléments ressortent des différentes études :
 
 ## Les démocraties européennes face à la montée des périls
 
+La France est elle aussi touchée par la crise de 1929 et par des difficultés politiques. Cependant, contrairement à l’Italie ou l’Allemagne, elle ne sombre pas dans le totalitarisme.
 ### L'expérience du Front Populaire
 
 Dans les années 1930 la France s’enfonce dans une grave crise économique, sociale et politique. Le danger que représente la montée de l’**extrême-droite** pousse les partis de gauche à s’unir dans une coalition électorale : le **Front Populaire**. Comment arrive-t-il au pouvoir et quelles mesures prend-il ? 
@@ -175,6 +176,17 @@ Les mesures du Front populaire n’ont été suffisantes pour sortir le pays de 
 - **Front populaire** : alliance électorale des partis communiste, socialiste (SFIO) et radical constituée en vue des élections législatives de 1936. 
 - **SFIO** : Section française de l’Internationale ouvrière, fondée en 1905. 
 - **Conventions collectives** : accords passés entre le patronat et les syndicats concernant les salaires et les conditions de travail.
+
+### La montée des périls en Europe
+
+A partir de 1935-1936, Hitler multiplie les provocations en Europe. Il remet en cause le traité de Versailles en réinstaurant le service militaire et en remilitarisant la Rhénanie. Il noue des alliances avec des régimes autoritaires, notamment avec l’Italie de Mussolini et soutient Franco dans la guerre d’Espagne. Pour garantir l’ « **espace vital** » de son peuple, il annexe l’Autriche (**Anschluss**) en 1938. 
+
+Lors de la conférence de Munich, les démocraties européennes veulent garantir la paix et accordent aux nazis les territoires qu’ils réclament, à savoir la région des Sudètes en Tchécoslovaquie. 
+
+En août 1939, Hitler signe avec l’URSS un pacte de non-agression (pacte germano-soviétique) qui lui permet ensuite d’envahir la Pologne.
+
+
+
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]
