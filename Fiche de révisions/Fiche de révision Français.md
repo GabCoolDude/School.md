@@ -184,3 +184,40 @@ L’oxymore est une association de mots avec des sens contraires.
 *Une douce violence.*
 
 # Lexique du théâtre
+
+Les didascalies sont des énoncés qui donnent des informations et qui ne sont pas censé être prononcé sur scène par les acteurs : *CRÉON, murmure, comme pour lui*
+
+Les répliques sont des prises de paroles des personnages qui sont destinées à être prononcés sur scène par les acteurs : *Quel jeu joues-tu ?*
+
+Une tirade est une longue réplique qui permet à un personnage de développer sa pensée, c’est souvent un moment important.
+
+Un monologue est une tirade qu’un personnage se tient à lui-même ( **il parle tout seul** ) pour évoquer le passé, exprimer un sentiment ou autre.
+
+Un aparté est une réplique qu’un acteur dit “à part” sur la scène et qui n’est censé être entendue que par les spectateurs.
+
+La stichomythie est une succession de répliques brèves, créant un rythme rapide convenant bien aux scènes d’affrontement.
+
+# Lexique de la poésie :
+
+Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent pair:
+- 8 syllabes : un octosyllabes
+- 10 syllabes : un décasyllabes
+- 12 syllabes : un alexandrin. Il est souvent partagé en deux parties de six syllabes ( “ hémistiche”) avec une pause centrale (“césure”): “Heureux qui comme Ulysse / A fait un beau voyage
+
+La strophe est un groupement de vers séparé un blanc ( = paragraphe )
+- 1 vers : monostiche
+- 2 vers : un distique
+- 3 vers : un tercet
+- 4 vers : un quatrain
+- 6 vers : un sizain
+- 7 vers : un septain
+- 8 vers : un huitain
+Le vers libre : un vers qui n’obéit pas à une structure régulière : ni mètre, ni rime
+
+Le rime est fondamentale dans la poésie, il détient plusieurs dispositions : 
+- Rimes suivies ou plates : AA BB CC
+- Rimes croisées : ABAB
+- Rimes embrassés : ABBA
+- Rimes orpheline : A, B, C
+La rime peut être plus ou moins riche selon la longueur de la sonorité qui se répète d’un vers à l’autre.
+Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
