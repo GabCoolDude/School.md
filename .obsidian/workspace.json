@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Fiche de révisions/Fiche de Révision Histoire.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Géographie.md",
+                "file": "Fiche de révisions/Fiche de Révision Géographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Fiche de révisions/Fiche de Révision Histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Fiche de révisions/Fiche de Révision Histoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md"
+                "file": "Fiche de révisions/Fiche de Révision Histoire.md"
               }
             }
           }
@@ -169,10 +169,10 @@
   },
   "active": "3cdd4458ca7b1e0a",
   "lastOpenFiles": [
+    "Fiche de révisions/Fiche de Révision Français.md",
+    "Fiche de révisions/Fiche de Révision Géographie.md",
+    "Fiche de révisions/Fiche de Révision Histoire.md",
     "README.md",
-    "Fiche de révisions/Fiche de révision Histoire.md",
-    "Fiche de révisions/Fiche de révision Français.md",
-    "Fiche de révisions/Fiche de révision Géographie.md",
     "Untitled.canvas",
     "Fiche de révisions"
   ]

@@ -2,5 +2,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "readableLineLength": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }

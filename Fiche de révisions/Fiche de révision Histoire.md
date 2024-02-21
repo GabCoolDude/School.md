@@ -63,9 +63,36 @@ En 1915 – 1916 dans l’Empire ottoman, les Arméniens font l’objet d’un *
 
 ### Les révolutions russes
 
+En février 1917, suite à des grèves liées au manque de nourriture et à la flambée des prix, le tsar Nicolas II est contraint d’abdiquer et un gouvernement provisoire est installé. 
+
+Les difficultés persistent et, en octobre, le **parti bolchevik** de Lénine s’empare du pouvoir et instaure une dictature pour construire un régime **communiste**. 
+
+Les idées des révolutions russes se répandent dans d’autres pays européens comme l’Allemagne.
+
+- **Parti bolchevik** : parti fondé en 1912 par Lénine favorable à la révolution pour installer le communisme. 
+- **Soviets** : assemblées composées d’ouvriers, de paysans et de soldats créées pendant les révolutions de 1917. 
+- **Communisme** : idéologie dans laquelle il n’y a plus de classes sociales ni de propriété privée. 
+
+### Des sociétés bouleversées et des Etas fragilisés
+
+Le bilan humain et matériel de la Première Guerre mondiale est très lourd. On compte 10 millions de soldats morts et plus de 20 millions de blessés, parfois appelés « gueules cassées » dont les séquelles physiques et psychologiques sont très importantes. 
+
+Sur le plan matériel, l’Europe doit faire face aux très nombreuses destructions. 
+
+Enfin, la guerre a ruiné les finances publiques des Etats qui, de plus, doivent financer la reconstruction et rembourser leurs emprunts. 
+
+### Une nouvelle carte de l'Europe
+
+L’armistice entre les Alliés et l’Empire d’Allemagne est signé à Rethondes le 11 novembre 1918. Or, un armistice décide de l’arrêt des combats mais n’établit pas la paix.
+
+La paix entre les Alliés et les forces de l’Axe n’est entérinée que par la signature d’un traité de paix. Différents traités de paix sont signés mais le plus important est le traité de Versailles, signé le 28 juin 1919 entre les Alliés et l’Allemagne. Ce traité a été signé dans la galerie des glaces du château de Versailles. 
 
 
 
-Voir aussi : 
+
+
+
+
+# Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]

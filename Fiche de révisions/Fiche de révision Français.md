@@ -223,5 +223,5 @@ Il existe des rimes féminins et des rimes masculins. Les rimes féminins se ter
 
 
 Voir aussi :
-[[Fiche de révision Histoire]]
-[[Fiche de révision Géographie]]
+[[Fiche de Révision Histoire]]
+[[Fiche de Révision Géographie]]
