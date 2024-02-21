@@ -11,12 +11,8 @@
             "id": "3cdd4458ca7b1e0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiche de révisions/Fiche de Révision Histoire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Fiche de Révision Français.md",
+                "file": "Fiche de révisions/Fiche de révision Français.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Fiche de Révision Français.md",
+                "file": "Fiche de révisions/Fiche de révision Français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Fiche de Révision Français.md",
+                "file": "Fiche de révisions/Fiche de révision Français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiche de révisions/Fiche de Révision Français.md"
+                "file": "Fiche de révisions/Fiche de révision Français.md"
               }
             }
           }

@@ -5,7 +5,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
   "obsidian-icon-folder",
-  "obsidian-pandoc",
   "obsidian-tasks-plugin",
-  "obsidian-underline"
+  "obsidian-underline",
+  "better-export-pdf"
 ]
