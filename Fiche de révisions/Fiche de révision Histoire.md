@@ -59,6 +59,10 @@ En 1915 – 1916 dans l’Empire ottoman, les Arméniens font l’objet d’un *
 
 - **Génocide** : mise à mort programmée, méthodique et organisée de tout un peuple en raison de son origine, de sa religion, de son appartenance ethnique ou culturelle. 
 
+## Les conséquences de la guerre
+
+### Les révolutions russes
+
 
 
 
