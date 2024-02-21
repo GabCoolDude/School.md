@@ -45,7 +45,6 @@ Valeurs du conditionnel présent :
 - expression d’une hypothèse : « Le tueur se cacherait dans les bois. »
 - expression de l’imaginaire : « Moi je serais le docteur et toi tu serais la malade. »
 
-
 Valeurs du subjonctif présent : 
 
 - souhait
