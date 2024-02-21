@@ -185,6 +185,31 @@ Lors de la conférence de Munich, les démocraties européennes veulent garantir
 
 En août 1939, Hitler signe avec l’URSS un pacte de non-agression (pacte germano-soviétique) qui lui permet ensuite d’envahir la Pologne.
 
+- **Anschluss** (« réunion » en all
+- 
+- 
+- emand) : rattachement de l’Autriche à l’Allemagne. 
+- « **Espace vital** » : pour les nazis, expression désignant les territoires nécessaires au développement du peuple allemand.
+
+![](https://lh7-us.googleusercontent.com/7iF8pCEazDTRJ6IMde7vK9BWroBOnOwzmKZPqrC3nzaVpTvnIvpST20-MPX52VnOoVWtSUZvIuDcHilq1ZffvqmpbSK19a-wfrpdcbItHcqaC9Yisp29-pQSGelF5dr2NglowkTe4Q6LnFmTcJ7dcZlsy_V5bLjB)
+
+# La Deuxième Guerre Mondiale, une guerre d'anéantissement
+
+A partir de 1935-1936, Hitler multiplie les provocations en Europe. Il remet en cause le traité de Versailles en réinstaurant le service militaire et en remilitarisant la Rhénanie. Il noue des alliances avec des régimes autoritaires, notamment avec l’Italie de Mussolini et soutient Franco dans la guerre d’Espagne. Pour garantir l’« espace vital » de son peuple, il annexe l’Autriche (Anschluss) en 1938.
+
+Lors de la conférence de Munich, les démocraties européennes veulent garantir la paix et accordent aux nazis les territoires qu’ils réclament, à savoir la région des Sudètes en Tchécoslovaquie. 
+
+En août 1939, Hitler signe avec l’URSS un pacte de non-agression (pacte germano-soviétique) qui lui permet ensuite d’envahir la Pologne. L’invasion de la Pologne est l’événement déclencheur de la Deuxième Guerre mondiale : le 3 Septembre, la France et le Royaume-Uni déclarent la guerre à l’Allemagne. 
+## Un conflit planétaire
+
+La Deuxième Guerre mondiale est une guerre planétaire qui engage des pays du monde entier. Les terrains d’affrontement se situent en Europe, dans le bassin méditerranéen et en Asie Pacifique. 
+
+Les pays qui s’affrontent ont des idéologies opposées. L’Allemagne nazie veut conquérir un « espace vital » à l’est de l’Europe, détruire le communisme en URSS et exterminer les Juifs. Le Royaume-Uni et les Etats-Unis veulent mettre fin au nazisme au nom des libertés. L’URSS veut affirmer la supériorité du communisme alors que les Japonais veulent exploiter l’Asie orientale. Les pays engagés dans le conflit prennent part à une alliance : soit l’**Axe** soit les **Alliés**.
+
+- **Axe** : l’Allemagne et ses alliés, notamment l’Italie et le Japon. 
+- **Alliés** : alliance des pays en guerre contre les pays de l’Axe (notamment les Etats-Unis, le Royaume-Uni, l’URSS).
+
+## Une guerre totale et d'une extrême violence
 
 
 # Autre Fiches de Révisions
