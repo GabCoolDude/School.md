@@ -237,7 +237,15 @@ Lors de l’invasion de l’URSS en juin 1941, les **Einsatzgruppen** sont charg
 
 ### Les centres de mise à mort
 
-Fin 1941, Hitler décide de l’extermination des Juifs d’Europe. En janvier 1942, la conférence de Wannsee organise la « Solution finale ». Des centres de mise à mort sont construits en Pologne (Auschwitz, Treblinka, Sobibor…) et l’on y achemine les Juifs d’Europe mais aussi des Tziganes. L’extermination se fait dans les chambres à gaz et les corps sont ensuite passés au four crématoire. Le génocide des Juifs, aussi appelé Shoah, fait plus de 5 millions de morts. Au moins 250 000 Tziganes sont également tués, auxquels il faut ajouter diverses autres populations.
+Fin 1941, Hitler décide d'exterminatier les Juifs d’Europe. En janvier 1942, la conférence de Wannsee organise la « Solution finale ». Des centres de mise à mort sont construits en Pologne (Auschwitz, Treblinka, Sobibor…) et l’on y achemine les Juifs d’Europe mais aussi des Tziganes. L’extermination se fait dans les chambres à gaz et les corps sont ensuite passés au four crématoire.
+
+Le génocide des Juifs, aussi appelé Shoah, fait plus de 5 millions de morts. Au moins 250 000 Tziganes sont également tués, auxquels il faut ajouter diverses autres populations.
+
+Face à l’extrême violence de la Deuxième Guerre mondiale, des tribunaux militaires internationaux ont été convoqués pour qualifier les massacres qui ont visé les civils. Les coupables ont été jugés lors des procès de Nuremberg (novembre 1945 – octobre 1946) et de Tokyo (1946). C’est à ce moment qu’est créée la notion de crime contre l’humanité. 
+
+Pour garantir la paix durablement à l’échelle mondiale, Roosevelt et Churchill réunissent une conférence à San Francisco en avril – juin 1945 qui aboutit à la création de l’ONU le 26 juin 1945. 
+
+![](https://lh7-us.googleusercontent.com/dFg_JwARyVSGL4Q8fmiIullaoG5g1Es9yLCkXd8F8Tzyfbo90Awp0KI2ddUfLfUYpJxAnA6CMrjJDz21pVXWsthkyh9VT2sGS4M0lJa4lcCXzbwQqmhHQnIzDkpNYPfVcBAz44TjbBoiQ3PjX-0ZgwD5C9PpziwA)
 
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
