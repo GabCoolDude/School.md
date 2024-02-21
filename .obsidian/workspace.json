@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "65524740dc857fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiche de révisions/Fiche de Révision Géographie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56a5c4de6f380264",
             "type": "leaf",
             "state": {
@@ -169,8 +157,8 @@
   },
   "active": "3cdd4458ca7b1e0a",
   "lastOpenFiles": [
-    "Fiche de révisions/Fiche de Révision Français.md",
     "Fiche de révisions/Fiche de Révision Géographie.md",
+    "Fiche de révisions/Fiche de Révision Français.md",
     "Fiche de révisions/Fiche de Révision Histoire.md",
     "README.md",
     "Untitled.canvas",

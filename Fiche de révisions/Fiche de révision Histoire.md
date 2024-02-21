@@ -85,12 +85,18 @@ Enfin, la guerre a ruiné les finances publiques des Etats qui, de plus, doivent
 
 L’armistice entre les Alliés et l’Empire d’Allemagne est signé à Rethondes le 11 novembre 1918. Or, un armistice décide de l’arrêt des combats mais n’établit pas la paix.
 
-La paix entre les Alliés et les forces de l’Axe n’est entérinée que par la signature d’un traité de paix. Différents traités de paix sont signés mais le plus important est le traité de Versailles, signé le 28 juin 1919 entre les Alliés et l’Allemagne. Ce traité a été signé dans la galerie des glaces du château de Versailles. 
+La paix entre les Alliés et les forces de l’Axe n’est entérinée que par la signature d’un traité de paix. Différents traités de paix sont signés mais le plus important est le traité de Versailles, signé le 28 juin 1919 entre les Alliés et l’Allemagne. 
 
+Sous l’impulsion du président américain, Wilson, la Société des Nations (SDN) est instaurée pour permettre aux pays de coopérer pour la paix. 
 
+En Allemagne, jugée seule responsable du conflit et lourdement sanctionnée, certains dénoncent un « diktat ». 
 
+## Annexe
 
+![](https://lh7-us.googleusercontent.com/mtu7hv0Q2OcsFczVaHz9sROMWkdrUF6Sr7s6MKBUn6-1NuFTuDXtqTfwYyzbojNra5UeuzCRkaK2nEYA7nHP6BONItn6oksV8bULowbPKtgyNmuAlKGkBDHjtdaVDRmntjcAljzXp6gbJswxC82tN0j1hl4xuSpd)
+![](https://lh7-us.googleusercontent.com/g0vU8iVgF3qLxJgsr016EqBPULYD5Dmwq1QJlUPyHSNkZPwEtf9LENqBE2dXxaKTtO61THCYf0aVdy9WSbfqGdgDyaA3nhg3NFik0q1cd3Srkq_kOOQ_KeNUjsa-3r8857VSHKK2G2qrCt92FD5BYASvQ8t-lDqw)
 
+# Démocraties fragilisées et expériences totalitaires dans l'Europe de l'entre-deux-guerres
 
 
 # Autre Fiches de Révisions
