@@ -91,7 +91,6 @@ Sous l’impulsion du président américain, Wilson, la Société des Nations (S
 
 En Allemagne, jugée seule responsable du conflit et lourdement sanctionnée, certains dénoncent un « diktat ». 
 
-## Annexe
 
 ![](https://lh7-us.googleusercontent.com/mtu7hv0Q2OcsFczVaHz9sROMWkdrUF6Sr7s6MKBUn6-1NuFTuDXtqTfwYyzbojNra5UeuzCRkaK2nEYA7nHP6BONItn6oksV8bULowbPKtgyNmuAlKGkBDHjtdaVDRmntjcAljzXp6gbJswxC82tN0j1hl4xuSpd)
 ![](https://lh7-us.googleusercontent.com/g0vU8iVgF3qLxJgsr016EqBPULYD5Dmwq1QJlUPyHSNkZPwEtf9LENqBE2dXxaKTtO61THCYf0aVdy9WSbfqGdgDyaA3nhg3NFik0q1cd3Srkq_kOOQ_KeNUjsa-3r8857VSHKK2G2qrCt92FD5BYASvQ8t-lDqw)
