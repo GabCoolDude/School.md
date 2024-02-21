@@ -10,7 +10,7 @@
   "displayMetadata": false,
   "debug": false,
   "prevConfig": {
-    "pageSise": "Tabloid",
+    "pageSise": "Letter",
     "marginType": "1",
     "showTitle": true,
     "open": true,
