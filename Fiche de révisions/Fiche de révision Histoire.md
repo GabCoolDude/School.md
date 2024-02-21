@@ -162,6 +162,19 @@ Plusieurs éléments ressortent des différentes études :
 ## Les démocraties européennes face à la montée des périls
 
 ### L'expérience du Front Populaire
+
+Dans les années 1930 la France s’enfonce dans une grave crise économique, sociale et politique. Le danger que représente la montée de l’**extrême-droite** pousse les partis de gauche à s’unir dans une coalition électorale : le **Front Populaire**. Comment arrive-t-il au pouvoir et quelles mesures prend-il ? 
+
+Dans ce contexte de crise, le Front populaire (PCF, **SFIO**, Radicaux) remporte les Élections législatives de mai 1936. Le socialiste Léon Blum devient alors président du Conseil et forme le gouvernement. Cette victoire de la gauche suscite alors un immense espoir chez les ouvriers. Afin de soutenir le gouvernement et de faire pression sur le patronat, les ouvriers se mettent en grève et occupent les usines dans tout le pays. 
+
+Cette situation pousse le gouvernement de Blum à agir en réunissant à Matignon les représentants des syndicats patronaux et ouvriers. Les négociations aboutissent à la signature des accords dits de Matignon le 7 juin 1936. Les travailleurs obtiennent des avancées importantes comme la reconnaissance du droit syndical et des délégués d’ateliers, ainsi qu’une augmentation des salaires de 7 à 15 %. Par la suite, des lois sociales sont votées : des lois sociales instaurant des **conventions collectives**, deux semaines de congés payés et la semaine de travail de 40 heures au lieu de 48. 
+
+Les mesures du Front populaire n’ont été suffisantes pour sortir le pays de la crise et Léon Blum est contraint de démissionner en 1937. Le gouvernement du Front populaire prend fin en 1938.
+
+- **Ligues d’extrême-droite** : organisations qui défendent des idées d’extrême-droite et qui s’opposent à la République parlementaire. 
+- **Front populaire** : alliance électorale des partis communiste, socialiste (SFIO) et radical constituée en vue des élections législatives de 1936. 
+- **SFIO** : Section française de l’Internationale ouvrière, fondée en 1905. 
+- **Conventions collectives** : accords passés entre le patronat et les syndicats concernant les salaires et les conditions de travail.
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]
