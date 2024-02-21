@@ -62,7 +62,6 @@ Valeurs de l’impératif :
 - conseil
 - prière
 - défense
----
 # Les classes grammaticales ( natures ) :
 
 ## Les classes grammaticales variables :
@@ -131,14 +130,14 @@ Les compléments circonstanciels peuvent être supprimés et déplacés. Ils pr�
 
 - Forme affirmative
 - Forme négative
-- Forme active ( le sujet fait l’action ) : Le chat mange la souris
-- Forme passive ( le sujet subit l’action, l’action est réalisé par le complément d’agent  ) : La souris est mangé par le chat
+- Forme active ( le sujet fait l’action ) : *Le chat mange la souris*.
+- Forme passive ( le sujet subit l’action, l’action est réalisé par le complément d’agent  ) : *La souris est mangé par le chat.*
 - Forme emphatique 
 ## Forme emphatique :
 
 L'emploi de la forme emphatique permet de mettre en évidence un élément spécifique de la phrase de plusieurs façons:
 
-- par modification de l’ordre habituel des mots : **Qu’elle vienne lui parler**, elle espère tous les jours
+- par modification de l’ordre habituel des mots : ***Qu’elle vienne lui parler**, elle espère tous les jours*
 - par détachement d’un mot en début ou fin de phrase et reprise par un pronom: *Mais <u>Louis</u>, **il** est timide et <u>elle</u>, **elle** est si belle*
 
 # Les paroles rapportées :
@@ -146,14 +145,42 @@ L'emploi de la forme emphatique permet de mettre en évidence un élément spéc
 ## Discours direct :
 
 Présence d’un verbe de parole, de guillemets ou de tirets, verbes au présent, 1ère et 2ème personnes
-
 ## Discours indirect :
 
 Disparition de la ponctuation du discours direct, verbes souvent au passé et 3ème personnes
-
 ## Discours indirect libre :
 
 Contrairement au discours indirect, conserve exclamation, interrogation, apostrophe, lexique et niveau de langue
 
-## Figures de styles :
+# Figures de styles :
 
+La comparaison met en relation deux éléments (des mots) à l’aide d’un outil (mot) de comparaison.
+*Des yeux qui brillent comme des étoiles.*
+Les outils de comparaison les plus fréquents sont comme, tel que et pareil (que).
+
+La métaphore met en relation deux éléments sans outil de comparaison.
+*La mer est un miroir.*
+
+La personnification attribue des comportements humains à des animaux, des éléments de la nature, des objets…
+*La nuit rassemble son troupeau d'étoiles.*
+
+L’antithèse consiste à opposer deux expressions ou deux notions contraires.
+*Plus on veut les brouiller, plus on va les unir.*
+
+
+L’euphémisme sert à atténuer un propos désagréable ou choquant.
+*Il nous a quittés.* ( atténuation de *Il est mort.* )
+
+L’hyperbole est une mise en valeur via l'exagération.
+*Je meurs de faim.* : exagération de *J'ai très faim.*
+
+L’énumération est une suite de mots qui se rapportent à des mêmes idées.
+*J'ai amené mes patins, mes skis, mes bottes et mes raquettes.*
+
+L’anaphore est une répétition d’une même expression ou d’un même mot en début de phrase ou de vers.
+*Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire*
+
+L’oxymore est une association de mots avec des sens contraires.
+*Une douce violence.*
+
+# Lexique du théâtre
