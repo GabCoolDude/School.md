@@ -220,3 +220,6 @@ Le rime est fondamentale dans la poésie, il détient plusieurs dispositions :
 - Rimes orpheline : A, B, C
 La rime peut être plus ou moins riche selon la longueur de la sonorité qui se répète d’un vers à l’autre.
 Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
+
+
+[[Fiche de révision Histoire]]

@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56a5c4de6f380264",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiche de révisions/Fiche de révision Histoire.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +152,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3cdd4458ca7b1e0a",
+  "active": "56a5c4de6f380264",
   "lastOpenFiles": [
     "Fiche de révisions/Fiche de révision Français.md",
     "Fiche de révisions/Fiche de révision Histoire.md",
