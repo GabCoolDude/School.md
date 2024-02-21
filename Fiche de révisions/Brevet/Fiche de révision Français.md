@@ -136,7 +136,6 @@ L'emploi de la forme emphatique permet de mettre en évidence un élément spéc
 
 - par modification de l’ordre habituel des mots : ***Qu’elle vienne lui parler**, elle espère tous les jours*
 - par détachement d’un mot en début ou fin de phrase et reprise par un pronom: *Mais <u>Louis</u>, **il** est timide et <u>elle</u>, **elle** est si belle*
-
 # Les paroles rapportées :
 
 ## Discours direct :
@@ -148,7 +147,6 @@ Disparition de la ponctuation du discours direct, verbes souvent au passé et 3�
 ## Discours indirect libre :
 
 Contrairement au discours indirect, conserve exclamation, interrogation, apostrophe, lexique et niveau de langue
-
 # Figures de styles :
 
 La comparaison met en relation deux éléments (des mots) à l’aide d’un outil (mot) de comparaison.
@@ -164,7 +162,6 @@ La personnification attribue des comportements humains à des animaux, des élé
 L’antithèse consiste à opposer deux expressions ou deux notions contraires.
 *Plus on veut les brouiller, plus on va les unir.*
 
-
 L’euphémisme sert à atténuer un propos désagréable ou choquant.
 *Il nous a quittés.* ( atténuation de *Il est mort.* )
 
@@ -179,7 +176,6 @@ L’anaphore est une répétition d’une même expression ou d’un même mot e
 
 L’oxymore est une association de mots avec des sens contraires.
 *Une douce violence.*
-
 # Lexique du théâtre
 
 Les didascalies sont des énoncés qui donnent des informations et qui ne sont pas censé être prononcé sur scène par les acteurs : *CRÉON, murmure, comme pour lui*
@@ -193,7 +189,6 @@ Un monologue est une tirade qu’un personnage se tient à lui-même ( **il parl
 Un aparté est une réplique qu’un acteur dit “à part” sur la scène et qui n’est censé être entendue que par les spectateurs.
 
 La stichomythie est une succession de répliques brèves, créant un rythme rapide convenant bien aux scènes d’affrontement.
-
 # Lexique de la poésie :
 
 Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent pair:
@@ -217,6 +212,7 @@ Le rime est fondamentale dans la poésie, il détient plusieurs dispositions :
 - Rimes embrassés : ABBA
 - Rimes orpheline : A, B, C
 La rime peut être plus ou moins riche selon la longueur de la sonorité qui se répète d’un vers à l’autre.
+
 Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
 
 
