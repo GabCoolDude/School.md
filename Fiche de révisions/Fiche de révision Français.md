@@ -28,3 +28,45 @@ Valeurs du plus-que-parfait :
 - exprime une atténuation : « J’étais venu vous demander un peu de sucre. »
 - exprime une hypothèse : Si + plus-que-parfait, conditionnel passé  « S’il avait révisé, il aurait réussi. »
 
+Valeurs du futur simple : 
+
+- exprime une action qui va se produire de façon certaine : « J’irai au théâtre ce soir. »
+- futur à valeur jussive : « Tu viendras me voir sans faute à dix heures. »
+- futur de promesse : « Désormais, je ne boirai que du café. »
+- futur de politesse : « Cela fera cinq euros. »
+- Si + présent de l'indicatif, futur simple : « Si je travaille, je réussirai ».
+
+Valeurs du conditionnel présent : 
+
+- futur dans le passé : « Il pense qu’elle réussira » => « Il pensait qu’elle réussirait. »
+- expression de l’atténuation (ordre, reproche) : « Je voudrais un renseignement » ; « Tu pourrais écouter »
+- expression du désir, du souhait : « J’aimerais un cadeau. »
+- fait soumis à une condition : Si + imparfait, conditionnel présent : « Si tu venais aujourd'hui, je serais content. »
+- expression d’une hypothèse : « Le tueur se cacherait dans les bois. »
+- expression de l’imaginaire : « Moi je serais le docteur et toi tu serais la malade. »
+
+
+Valeurs du subjonctif présent : 
+
+- souhait
+- doute
+- probabilité
+- fait non réalisé
+- ordre à la 3ème personne 
+- action à venir
+- but
+
+Valeurs de l’impératif : 
+
+- ordre
+- conseil
+- prière
+- défense
+
+# Les classe grammaticales ( natures ) :
+
+## Les classes grammaticales variables :
+
+|  |  |  |
+| ---- | ---- | ---- |
+|  |  |  |
