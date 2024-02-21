@@ -98,7 +98,7 @@ En Allemagne, jugée seule responsable du conflit et lourdement sanctionnée, ce
 
 # Démocraties fragilisées et expériences totalitaires dans l'Europe de l'entre-deux-guerres
 
-
+## L'URSS de Staline
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]
