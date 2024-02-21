@@ -129,7 +129,40 @@ Rapidement, Hitler supprime les libertés et les autres partis politiques. En 19
 - **NSDAP** : Parti national-socialiste des travailleurs allemands, fondé en 1920. 
 - **Reichsführer** : combinaison des fonctions de Président de la République et de chancelier entre les mains d’Hitler. 
 
-### Un ré
+### Un régime totalitaire et raciste
+
+L’idéologie nazie repose sur la croyance en la supériorité de la **race aryenne** dont feraient partie les Allemands. 
+
+Dès 1933, Hitler met en place une politique **antisémite**, les Juifs étant accusés de menacer la pureté de la race aryenne. En 1935, les lois de Nuremberg privent les Juifs de la citoyenneté allemande. Ils sont par ailleurs soumis à de nombreuses interdictions. 
+
+La société est encadrée : les jeunes doivent intégrer les **Jeunesses hitlériennes**, l’Etat recourt à la propagande et aux grandes manifestations pour montrer la puissance du régime. 
+
+La violence est utilisée : la **Gestapo** et les **SS** pourchassent les opposants politiques. Beaucoup d’opposants, de Juifs mais aussi d’homosexuels sont envoyés dans des **camps de concentration**.
+
+- **Race aryenne** : Concept issu des théories racialistes de la fin du XIXe siècle dans lequel les  premiers peuples de langue indo-européenne et leurs descendants constitueraient une race supérieure. Dans les théories nazies, il était affirmé que les premiers Aryens ressemblaient aux représentants des peuples nordiques (ce que la science n’a jamais prouvé). 
+- **Antisémitisme** : attitudes et actes d’hostilité envers les Juifs. 
+- **Jeunesses hitlériennes** : organisations nationales-socialistes chargées, dès l’arrivée d’Hitler au pouvoir, d’embrigader et de former militairement les jeunes Allemands. 
+- **Embrigader** : contrôler les pensées et les opinions par la propagande et l’éducation. 
+- **Gestapo** : police politique nazie, chargée de traquer les opposants au régime. 
+- **SS (abréviation du terme allemand Schutzstaffel « escadron de protection »)** : service d’ordre du parti nazi, chargé de la protection d’Hitler. Les SS portent un uniforme noir. 
+- **Camp de concentration** : camp où sont enfermés les individus jugés dangereux par les nazis. Ils  sont soumis au travail forcé, très peu nourris et maltraités. 
+
+Qu’est-ce qu’un régime totalitaire ? 
+Plusieurs éléments ressortent des différentes études : 
+- Un chef
+- Une idéologie officielle
+- Un contrôle de la société
+- Une suppression des libertés
+- Une répression de l’opposition
+
+- **Régime totalitaire** : dictature qui, par un ensemble de moyens (propagande, 		embrigadement, terreur), cherche à obtenir la soumission et l’obéissance de la société. 
+- **Dictature** : régime politique dans lequel un homme ou un parti exerce le pouvoir  sans contrôle et de façon autoritaire. 
+
+![](https://lh7-us.googleusercontent.com/fO0-0xiDP95T8CS1ceYMcJQ1fnfWfYPHGY-BS_s-o3ncHM71B9582HCzboBF_2N2AJjgHSDq95quhMTC1tNbOiTIbdJoZHyQAUfNFuMObtF6BmZJnehZG04vHeej328gPDyhgk98NchPRW__WQIWCvz55dlmiwmv)
+
+## Les démocraties européennes face à la montée des périls
+
+### L'expérience du Front Populaire
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]
