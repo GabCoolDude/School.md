@@ -103,14 +103,33 @@ Les Etats-Unis jouent un rôle central dans l’économie européenne des année
 A la suite du crash boursier de Wall Street, la situation financière de l’Allemagne devient délicate et la **crise s’étend aux pays européens**, provoquant une contraction de l’activité économique. **L’économie européenne s’en trouve ravagée** avec des conséquences sociales effrayantes (**très fort niveau de chômage**).
 ## L'URSS de Staline
 
-Après la révolution de 1917, Lénine veut imposer l’idéologie communiste en URSS et en Europe. Il pose les bases d’un régime totalitaire que Staline, seul chef de 1924 à 1953, achève. Celui-ci décide que l’Etat doit contrôler l’ensemble de l’économie. Il impose la collectivisation des terres en obligeant les paysans à intégrer les kolkhozes. L’Etat fixe les objectifs économiques à atteindre dans des plans quinquennaux, notamment dans l’industrie. 
+Après la révolution de 1917, Lénine veut imposer l’idéologie communiste en **URSS** et en Europe. Il pose les bases d’un régime totalitaire que Staline, seul chef de 1924 à 1953, achève. Celui-ci décide que l’Etat doit contrôler l’ensemble de l’économie. Il impose la **collectivisation des terres** en obligeant les paysans à intégrer les **kolkhozes**. L’Etat fixe les objectifs économiques à atteindre dans des **plans quinquennaux**, notamment dans l’industrie. 
 
 La police politique, le NKVD, surveille la population. Toute contestation, réelle ou 
-supposée, conduit au goulag. De grands procès sont organisés en 1937 – 1938 contre 
+supposée, conduit au **goulag**. De grands procès sont organisés en 1937 – 1938 contre 
 les membres du parti. 
 
-La propagande développe le culte de la personnalité et la jeunesse est embrigadée. 
+La propagande développe le **culte de la personnalité** et la jeunesse est embrigadée. 
 
+- **URSS (Union des Républiques Socialistes Soviétiques)** : nom donné à la Russie à partir de 1922. 
+- **Collectivisation des terres** : mise en commun des terres dans de grandes exploitations collectives. 
+- **Kolkhoze** : exploitation collective appartenant à un groupe de paysans qui ont mis en commun leurs terres, outils et bétails. 
+- **Plan quinquennal** : plan décidé par l’Etat, qui fixe les grands objectifs de production pour les cinq ans à venir. 
+- **Goulag** : camp de concentration et de travaux forcés où sont enfermées les personnes considérées comme ennemies du régime soviétique. 
+- **Culte de la personnalité** : ensemble de pratiques utilisées pour convaincre un peuple qu’une  personne est supérieure et infaillible. Cette personne est quasiment divinisée. 
+
+## L'Allemagne nazie
+
+### Des élections à la dictature
+
+A partir de 1929, dans un contexte de crise économique et de contestation du traité de Versailles, le **NSDAP** d’Hitler progresse fortement lors des élections jusqu’à devenir le premier parti d’Allemagne. Le 30 janvier 1933, Hitler est nommé chancelier par le président Hindenburg. 
+
+Rapidement, Hitler supprime les libertés et les autres partis politiques. En 1934, il devient **Reichsführer**.
+
+- **NSDAP** : Parti national-socialiste des travailleurs allemands, fondé en 1920. 
+- **Reichsführer** : combinaison des fonctions de Président de la République et de chancelier entre les mains d’Hitler. 
+
+### Un ré
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
 [[Fiche de révision Géographie]]
