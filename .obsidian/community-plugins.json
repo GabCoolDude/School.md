@@ -1,4 +1,10 @@
 [
   "obsidian-discordrpc",
-  "obsidian-git"
+  "obsidian-git",
+  "better-word-count",
+  "cm-editor-syntax-highlight-obsidian",
+  "highlightr-plugin",
+  "obsidian-icon-folder",
+  "obsidian-pandoc",
+  "obsidian-tasks-plugin"
 ]
