@@ -211,6 +211,33 @@ Les pays qui s’affrontent ont des idéologies opposées. L’Allemagne nazie v
 
 ## Une guerre totale et d'une extrême violence
 
+La Deuxième Guerre mondiale est une **guerre totale**. 87 millions de soldats ont été 
+mobilisés dans le conflit et ont fait face à l’extrême violence des combats. 
+
+Les civils ont également été mobilisés : femmes et hommes travaillent à la production massive d’armes toujours plus destructrices pour anéantir l’adversaire, les emprunts 
+sont sollicités, la propagande est importante. 
+
+La Deuxième Guerre mondiale est également une **guerre d’anéantissement**. La violence est sans limite et les civils deviennent des cibles : les villes sont bombardées, certains villages sont pillés par les Japonais et les Nazis. 
+
+Le conflit fait près de 60 millions de morts, dont la plupart sont des civils. 
+
+- **Guerre totale** : guerre qui mobilise toutes les ressources humaines, technologiques et économiques des Etats concernés.
+- **Guerre d’anéantissement** : guerre qui a pour objectif de détruire l’adversaire, sans distinction entre civils et militaires.
+
+## Les crimes nazis : de la persécution aux génocides des Juifs et des Tziganes
+
+### Ghettoïsation et Einsatzgruppen
+
+Après la conquête de la Pologne, les Nazis regroupent les Juifs polonais dans des **ghettos** d’où ils ne peuvent sortir et meurent de faim ou de maladies. A partir de 1942, les habitants des ghettos sont transférés dans des centres de mise à mort. 
+
+Lors de l’invasion de l’URSS en juin 1941, les **Einsatzgruppen** sont chargés de suivre l’armée allemande et d’y exterminer les Juifs et les Tziganes
+
+- **Ghetto** : quartier juif. Pendant la Deuxième Guerre mondiale, ce terme désigne un quartier isolé du reste de la ville par un mur ou des barbelés dans lequel les nazis forcent les populations juives à vivre. 
+- **Einsatzgruppen** (« groupes d’intervention ») : unités de soldats SS chargées de tuer les Juifs, les Tziganes et les responsables communistes en URSS.
+
+### Les centres de mise à mort
+
+Fin 1941, Hitler décide de l’extermination des Juifs d’Europe. En janvier 1942, la conférence de Wannsee organise la « Solution finale ». Des centres de mise à mort sont construits en Pologne (Auschwitz, Treblinka, Sobibor…) et l’on y achemine les Juifs d’Europe mais aussi des Tziganes. L’extermination se fait dans les chambres à gaz et les corps sont ensuite passés au four crématoire. Le génocide des Juifs, aussi appelé Shoah, fait plus de 5 millions de morts. Au moins 250 000 Tziganes sont également tués, auxquels il faut ajouter diverses autres populations.
 
 # Autre Fiches de Révisions
 [[Fiche de révision Français]]
