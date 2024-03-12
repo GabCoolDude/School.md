@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "01a4f5170721facc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +150,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "edfcb229e66bdca8",
+  "active": "01a4f5170721facc",
   "lastOpenFiles": [
     "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Liste de Fiches de Révisions.md",
