@@ -10,4 +10,4 @@ Il reste encore des Fiches de Révisions à faire :
 - [ ] Fiche de révision Physique-Chimie ➕ 2024-02-21 
 - [ ] Fiche de révision EMC➕ 2024-02-21 
 - [ ] Fiche de révision Technologie  ➕ 2024-02-21 
-- [ ] Fiche de révision Mathématique ⏫ ➕ 2024-02-21 
+- [ ] Fiche de révision Mathématique  ➕ 2024-02-21 

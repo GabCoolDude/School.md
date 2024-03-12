@@ -11,22 +11,15 @@
             "id": "edfcb229e66bdca8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "01a4f5170721facc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -150,12 +147,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "01a4f5170721facc",
+  "active": "edfcb229e66bdca8",
   "lastOpenFiles": [
     "Fiche de révisions/Brevet/Fiche de révision Français.md",
-    "Liste de Fiches de Révisions.md",
     "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
     "Fiche de révisions/Brevet/Fiche de révision Histoire.md",
+    "Liste de Fiches de Révisions.md",
     "Fiche de révisions/Brevet",
     "README.md",
     "Untitled.canvas",
