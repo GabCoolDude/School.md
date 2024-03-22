@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liste de Fiches de Révisions.md",
+                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liste de Fiches de Révisions.md",
+                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Liste de Fiches de Révisions.md",
+                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Liste de Fiches de Révisions.md"
+                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "edfcb229e66bdca8",
   "lastOpenFiles": [
-    "README.md",
-    "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
+    "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Fiche de révisions/Brevet/Fiche de révision Histoire.md",
     "Liste de Fiches de Révisions.md",
+    "README.md",
     "Fiche de révisions/Brevet",
     "Untitled.canvas",
     "2024-02-21.md",
