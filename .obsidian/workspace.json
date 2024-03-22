@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d6388ba6087368b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oraux de langues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "Oraux de langues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "Oraux de langues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md"
+                "file": "Oraux de langues.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "edfcb229e66bdca8",
+  "active": "8d6388ba6087368b",
   "lastOpenFiles": [
-    "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
     "Fiche de révisions/Brevet/Fiche de révision Français.md",
+    "Oraux de langues.md",
+    "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
     "Fiche de révisions/Brevet/Fiche de révision Histoire.md",
     "Liste de Fiches de Révisions.md",
     "README.md",
