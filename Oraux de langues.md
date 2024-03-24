@@ -1,4 +1,4 @@
-# Arriver en avance.
+## Arriver en avance.
 # Anglais
 ## Introduction
 
@@ -13,7 +13,6 @@ Who is talking ?
 	There is (a woman, a man, a child, etc...) talking.
 What is your opinion on... ?
 	 I think that...
-
 ## Goodbye
 
 Dire aurevoir à tout le monde et dire " Thank you for having me today. "
