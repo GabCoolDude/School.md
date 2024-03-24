@@ -23,12 +23,26 @@
             "id": "8d6388ba6087368b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Oraux de langues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8ff675207ecc6a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oraux de langues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oraux de langues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Oraux de langues.md"
+              }
             }
           }
         ]
@@ -152,7 +170,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8d6388ba6087368b",
+  "active": "f8ff675207ecc6a9",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Oraux de langues.md",
