@@ -35,9 +35,11 @@
             "id": "f8ff675207ecc6a9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Oraux de langues.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -170,7 +172,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f8ff675207ecc6a9",
+  "active": "8512c0ca28a16fd9",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Oraux de langues.md",

@@ -1,6 +1,5 @@
+# Arriver en avance.
 # Anglais
-
-Arriver en avance.
 ## Introduction
 
 Hello, good morning. Let me introduce myself. My name is Gabriel FREVILLE, I'm 14 years old, I'm in third grade at Collège Thomas Masaryk in Châtenay-Malabry, and, one day, I would love to visit the United States of America.
@@ -23,15 +22,16 @@ Dire aurevoir à tout le monde et dire " Thank you for having me today. "
 Faire simple.
 ## Introduction
 
-Buenos dias, Que tal
+Hola, Buenos dias, Que tal
 
-Me llamo Gabriel FREVILLE, tengo quatorce anos, yo vivo en chatenay malaby y soy frances
-
+Mi nombre es Gabriel FREVILLE, tengo 14 años, estoy en tercer grado en el Collège Thomas Masaryk en Châtenay-Malabry.
 ## Audio
 
 Répondre aux questions en espagnol en reprenant des éléments de la question.
-## Goodbye
+## Au revoir
 
 Dire aurevoir à tout le monde
+
+
 
 
