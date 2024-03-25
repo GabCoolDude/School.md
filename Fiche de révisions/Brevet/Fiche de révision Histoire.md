@@ -243,6 +243,8 @@ Le génocide des Juifs, aussi appelé Shoah, fait plus de 5 millions de morts. A
 
 Face à l’extrême violence de la Deuxième Guerre mondiale, des tribunaux militaires internationaux ont été convoqués pour qualifier les massacres qui ont visé les civils. Les coupables ont été jugés lors des procès de Nuremberg (novembre 1945 – octobre 1946) et de Tokyo (1946). C’est à ce moment qu’est créée la notion de crime contre l’humanité. 
 
-Pour garantir la paix durablement à l’échelle mondiale, Roosevelt et Churchill réunissent une conférence à San Francisco en avril – juin 1945 qui aboutit à la création de l’ONU le 26 juin 1945. 
+Pour garantir la paix durablement à l’échelle mondiale, Roosevelt et Churchill réunissent une conférence à San Francisco en avril – juin 1945 qui aboutit à la création de l’ONU le 26 juin 1945.
 
 ![](https://lh7-us.googleusercontent.com/dFg_JwARyVSGL4Q8fmiIullaoG5g1Es9yLCkXd8F8Tzyfbo90Awp0KI2ddUfLfUYpJxAnA6CMrjJDz21pVXWsthkyh9VT2sGS4M0lJa4lcCXzbwQqmhHQnIzDkpNYPfVcBAz44TjbBoiQ3PjX-0ZgwD5C9PpziwA)
+
+---
