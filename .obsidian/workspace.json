@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,11 +174,11 @@
   },
   "active": "f8ff675207ecc6a9",
   "lastOpenFiles": [
+    "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
     "Fiche de révisions/Brevet/Fiche de révision Histoire.md",
     "Liste de Fiches de Révisions.md",
     "Oraux de langues.md",
-    "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Untitled.canvas",
     "README.md",
     "Fiche de révisions/Brevet",
