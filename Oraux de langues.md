@@ -16,6 +16,8 @@ What is your opinion on... ?
 ## Goodbye
 
 Dire aurevoir à tout le monde et dire " Thank you for having me today. "
+
+---
 # Espagnol
 
 Faire simple.
@@ -23,7 +25,7 @@ Faire simple.
 
 Hola, Buenos dias, Que tal
 
-Mi nombre es Gabriel FREVILLE, tengo 14 años., naci el uno de Octubre de dos mil nueve en Saint-Denis. Estoy en tercer grado en el Collège Thomas Masaryk en Châtenay-Malabry. No tengo hermanos y mascotas. Vivo con mi madre y mi padre en un piso. Mi sueño es trabajar 
+Mi nombre es Gabriel FREVILLE, tengo 14 años., naci el uno de Octubre de dos mil nueve en Saint-Denis. Estoy en tercer grado en el Collège Thomas Masaryk en Châtenay-Malabry. No tengo hermanos y mascotas. Vivo con mi madre y mi padre en un piso. Mi sueño es trabajar en la informatica porque es mi pasion desde mi enfanca.
 ## Audio
 
 Répondre aux questions en espagnol en reprenant des éléments de la question.
