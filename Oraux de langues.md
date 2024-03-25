@@ -1,4 +1,6 @@
-## Arriver en avance.
+# Arriver en avance.
+
+---
 # Anglais
 ## Introduction
 
