@@ -1,8 +1,8 @@
 # Puissances
 
-a x a = a²
+a x a = aⁿ
 
-aⁿ se lit "a exposant 2" ou "a puissance 2"
+aⁿ se lit "a exposant n" ou "a puissance n"
 
 ⁿ est l'exposant
 
