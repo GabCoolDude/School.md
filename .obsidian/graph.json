@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Fiche de révisions\"  ",
       "color": {
         "a": 1,
         "rgb": 5335782
+      }
+    },
+    {
+      "query": "path:Collège  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -20,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.874220374220374,
   "repelStrength": 9.83367983367983,
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 1.0000000000000016,
-  "close": true
+  "close": false
 }

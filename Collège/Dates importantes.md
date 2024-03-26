@@ -1,0 +1,4 @@
+- [ ] Certification Pix - 21 mai 2024
+- [ ] Conseil de classe 3ème trimestre - 30 mai 2024
+- [ ] Oraux DNB - Début juin
+- [ ] DNB - 1 et 2 juillet 2024

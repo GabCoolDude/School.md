@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Géographie.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates importantes.md",
+                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96efac55994ac55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collège/Dates importantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dates importantes.md",
+                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dates importantes.md",
+                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dates importantes.md"
+                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md"
               }
             }
           }
@@ -162,21 +174,22 @@
   },
   "active": "25fd28d52da01a6d",
   "lastOpenFiles": [
-    "Fiche de révisions/Liste de Fiches de Révisions.md",
-    "Dates importantes.md",
-    "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
-    "Oral DNB.md",
-    "Oraux de langues.md",
+    "Collège",
+    "Lycée",
+    "Collège/Dates importantes.md",
+    "Collège/Oral DNB.md",
+    "Collège/Oraux de langues.md",
+    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "README.md",
-    "Untitled",
-    "Fiche de révisions/Brevet/Fiche de révision Français.md",
-    "Fiche de révisions/Brevet/Fiche de révision Histoire.md",
+    "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Untitled.canvas",
-    "Fiche de révisions/Brevet",
+    "Collège/Fiche de révisions/Brevet",
     "2024-02-21.md",
     "Fiche de révisions/Fiche de Révision Histoire.md",
     "Fiche de révisions/Fiche de Révision Géographie.md",
     "Fiche de révisions/Fiche de Révision Français.md",
-    "Fiche de révisions"
+    "Collège/Fiche de révisions"
   ]
 }
