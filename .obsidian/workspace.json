@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bed3de1510696bef",
+        "id": "676c3fe2626cbddc",
         "type": "tabs",
         "children": [
           {
-            "id": "edfcb229e66bdca8",
+            "id": "3789a66d64ae9b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "Oral DNB.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8d6388ba6087368b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oraux de langues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8ff675207ecc6a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "Oral DNB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md",
+                "file": "Oral DNB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiche de révisions/Brevet/Fiche de révision Français.md"
+                "file": "Oral DNB.md"
               }
             }
           }
@@ -168,14 +147,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f8ff675207ecc6a9",
+  "active": "3789a66d64ae9b4d",
   "lastOpenFiles": [
+    "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Oraux de langues.md",
+    "Oral DNB.md",
     "README.md",
     "Liste de Fiches de Révisions.md",
     "Fiche de révisions/Brevet/Fiche de révision Géographie.md",
     "Fiche de révisions/Brevet/Fiche de révision Histoire.md",
-    "Fiche de révisions/Brevet/Fiche de révision Français.md",
     "Untitled.canvas",
     "Fiche de révisions/Brevet",
     "2024-02-21.md",
