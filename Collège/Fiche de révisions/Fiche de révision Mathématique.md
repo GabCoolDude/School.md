@@ -13,5 +13,5 @@ a<sup>0</sup> = 1
 
 a<sup>-n</sup> désigne l'inverse a de : a<sup>-n</sup>  = 1/aⁿ
 
-a
+
 

@@ -1,4 +1,20 @@
 {
   "obsidian-underline:toggle-link-block": [],
-  "obsidian-underline:toggle-link-heading": []
+  "obsidian-underline:toggle-link-heading": [],
+  "templater-obsidian:Templates/Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "templater-obsidian:Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
 }
