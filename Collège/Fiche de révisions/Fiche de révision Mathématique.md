@@ -1,5 +1,7 @@
 # Puissances
 
+## Puissances d'un nombre relatif
+
 a x a = aⁿ
 
 aⁿ se lit "a exposant n" ou "a puissance n"
@@ -12,6 +14,4 @@ a<sup>1</sup> = a
 a<sup>0</sup> = 1
 
 a<sup>-n</sup> désigne l'inverse a de : a<sup>-n</sup>  = 1/aⁿ
-
-
-
+##
