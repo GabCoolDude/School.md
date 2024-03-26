@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad25db96441eef21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
+                "file": "Templates/Untitled.md"
               }
             }
           }
@@ -169,14 +181,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "96efac55994ac55f",
+  "active": "8512c0ca28a16fd9",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Templates/Untitled.md",
+    "Templates",
     "Collège/Dates importantes.md",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège",
     "Lycée",
     "Collège/Oral DNB.md",
