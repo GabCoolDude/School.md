@@ -51,3 +51,5 @@ Exemple :
 
 Une fonction est un processus mathématique qui à tout nombre x fait correspondre un unique nombre noté f(x)![[Fonction.png]]
 
+| f : x --> f(x) | Imparfait |
+| -------------- | --------- |
