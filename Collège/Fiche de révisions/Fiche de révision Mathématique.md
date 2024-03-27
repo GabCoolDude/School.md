@@ -73,4 +73,6 @@ On dit aussi que 4 est **un antécédent de** 16 par la fonction g.
 **Il est important de savoir qu'une fonction peut avoir plusieurs antécédents.
 Il peut aussi y avoir plusieurs fonctions par exercice, donc il est important de dire par la fonction de ...**
 
+## Tableau de valeur et représentation graphique
 
+h(x) = 1
