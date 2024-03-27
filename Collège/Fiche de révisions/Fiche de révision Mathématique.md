@@ -34,11 +34,19 @@ Exemple :
 1457,8 = 1,4578 x 10<sup>3</sup>
 63854,9 = 6,38549 x 10<sup>4</sup>
 
-| 10<sup>12</sup> | Téra | T   |
-| --------------- | ---- | --- |
-| 10<sup>9</sup>  |      |     |
-|                 |      |     |
-|                 |      |     |
-|                 |      |     |
-|                 |      |     |
-|                 |      |     |
+| 10<sup>12</sup>  | Téra  | T   |
+| ---------------- | ----- | --- |
+| 10<sup>9</sup>   | Giga  | G   |
+| 10<sup>6</sup>   | Méga  | M   |
+| 10<sup>3</sup>   | Kilo  | k   |
+| 10<sup>2</sup>   | Hecto | h   |
+| 10<sup>1</sup>   | Déca  | da  |
+| 10<sup>-1</sup>  | Déci  | d   |
+| 10<sup>-2</sup>  | Centi | c   |
+| 10<sup>-3</sup>  | Milli | m   |
+| 10<sup>-6</sup>  | Micro | µ   |
+| 10<sup>-9</sup>  | Nano  | n   |
+| 10<sup>-12</sup> | Pico  | p   |
+# Fonctions
+
+Une fonction est un processus mathématique qui à tout nombre x fait correspondre un unique nombre noté f(x)
