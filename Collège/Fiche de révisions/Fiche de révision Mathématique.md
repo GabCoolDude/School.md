@@ -62,3 +62,10 @@ Exemple :
 ## Image et Antécédent
 
 ![[Antécédent & Image.png]]
+
+Exemple : 
+
+g(x) = x²
+g(4) = 16
+
+On dit que l'image de 4 par la fonction de g est 16
