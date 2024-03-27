@@ -24,4 +24,21 @@ a<sup>-n</sup> désigne l'inverse a de : a<sup>-n</sup>  = 1/aⁿ
 
 ( 7 x 5 )<sup>4</sup> = 7<sup>4</sup> x 5<sup>4</sup>
 
-( 3/4 )<sup>6</sup> = 3<sup>6</sup>
+( 3/4 )<sup>6</sup> = 3<sup>6</sup>/4<sup>4</sup>
+
+## Ecriture scientifique d'un nombre décimal
+
+Exemple : 
+
+0,004 = 4 x 10<sup>-3</sup>
+1457,8 = 1,4578 x 10<sup>3</sup>
+63854,9 = 6,38549 x 10<sup>4</sup>
+
+| 10<sup>12</sup> | Téra | T   |
+| --------------- | ---- | --- |
+| 10<sup>9</sup>  |      |     |
+|                 |      |     |
+|                 |      |     |
+|                 |      |     |
+|                 |      |     |
+|                 |      |     |
