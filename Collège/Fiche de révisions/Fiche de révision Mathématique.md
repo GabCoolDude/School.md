@@ -68,4 +68,9 @@ Exemple :
 g(x) = x²
 g(4) = 16
 
-On dit que l'image de 4 par la fonction de g est 16
+On dit que l'image de 4 par la fonction de g est 16.
+On dit aussi que 4 est **un antécédent de** 16 par la fonction g.
+**Il est important de savoir qu'une fonction peut avoir plusieurs antécédents.
+Il peut aussi y avoir plusieurs fonctions par exercice, donc il est important de dire par la fonction de ...**
+
+
