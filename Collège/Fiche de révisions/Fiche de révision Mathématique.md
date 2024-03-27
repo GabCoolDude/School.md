@@ -75,4 +75,9 @@ Il peut aussi y avoir plusieurs fonctions par exercice, donc il est important de
 
 ## Tableau de valeur et représentation graphique
 
-h(x) = 1
+$$h\left(x\right)=\frac{1}{\left(x-1\right)}$$
+
+| x    | -2           | 0   | 2   | 4           |
+| ---- | ------------ | --- | --- | ----------- |
+| h(x) | $$-\frac13$$ | -1  | 1   | $$\frac13$$ |
+
