@@ -75,10 +75,18 @@ Il peut aussi y avoir plusieurs fonctions par exercice, donc il est important de
 
 ## Tableau de valeur et représentation graphique
 
-| x    | -3  |
-| ---- | --- |
-| f(x) | 5   |
+f(x) = x² + x - 1
 
-| Ecriture 1                        | Ecriture 2              |
-| --------------------------------- | ----------------------- |
-| f : x -> f(x) = 2x + 3            |                         |
+| x    | -3  | -2  | -1  | -0,5  | 0   | 1   | 2   |
+| ---- | --- | --- | --- | ----- | --- | --- | --- |
+| f(x) | 5   | 1   | -1  | -1,25 | -1  | 1   | 5   |
+
+![[IMG_0368.jpeg]]
+
+# Homothétie
+
+L' Homothétie permet d'agrander ou de réduire des figures géométriques.
+
+On peut la reconnaître grâce à :
+-  Un centre
+- Un rapport k supérieur à 0
