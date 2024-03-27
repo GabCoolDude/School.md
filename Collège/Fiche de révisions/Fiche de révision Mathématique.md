@@ -89,7 +89,7 @@ L' Homothétie permet d'agrander ou de réduire des figures géométriques.
 
 On peut la reconnaître grâce à :
 -  Un centre
-- Un rapport k qui n'est pas égal à 0
+-  Un rapport k qui n'est pas égal à 0
 ![[IMG_0369.jpeg]]
 
 Lorsque k est supérieur à 1, l'homothétie effectue un agrandissement de la figure.
