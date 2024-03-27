@@ -75,9 +75,10 @@ Il peut aussi y avoir plusieurs fonctions par exercice, donc il est important de
 
 ## Tableau de valeur et représentation graphique
 
-$$h\left(x\right)=\frac{1}{\left(x-1\right)}$$
+| x    | -3  |
+| ---- | --- |
+| f(x) | 5   |
 
-| x    | -2           | 0   | 2   | 4           |
-| ---- | ------------ | --- | --- | ----------- |
-| h(x) | $$-\frac13$$ | -1  | 1   | $$\frac13$$ |
-
+| Ecriture 1                        | Ecriture 2              |
+| --------------------------------- | ----------------------- |
+| f : x -> f(x) = 2x + 3            |                         |
