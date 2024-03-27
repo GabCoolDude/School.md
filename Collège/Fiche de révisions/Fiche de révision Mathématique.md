@@ -61,3 +61,4 @@ Exemple :
 | f : -2 --> f(x) = 2 x -2 + 3 = -1 | f(-2) = 2 x -2 + 3 = -1 |
 ## Image et Antécédent
 
+![[Antécédent & Image.png]]
