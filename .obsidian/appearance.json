@@ -2,5 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Obsidianite",
-  "translucency": false
+  "translucency": false,
+  "textFontFamily": "Rubik",
+  "interfaceFontFamily": "Rubik"
 }
