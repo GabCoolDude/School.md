@@ -5,5 +5,6 @@ L'auteur utilise le champ lexical de la raison pour faire opposition à l'imagin
 Le champ lexical de la précipitation est utilisé pour dire que la plupart du temps, l'homme cherche à aller vite et ne vérifie pas ses faits.
 # Apologue
 
-L'auteur a crée un récit pour "illustrer" sa pensée. Il apaise le lecteur en utilisant un lieu différent de la France et un temps différent que celui auquel le récit a été écrit
+L'auteur a crée un récit pour "illustrer" sa pensée. Il apaise le lecteur en utilisant un lieu différent que la France et un temps différent que celui auquel le récit a été écrit.
+Le mot "rumeur" est utilisé pour décrire la dent d'or, même si les savants ne sont pas sûrs
 # Conclusion
