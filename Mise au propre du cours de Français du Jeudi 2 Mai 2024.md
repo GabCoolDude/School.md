@@ -14,4 +14,4 @@ Le mot "historien" est un jeu de mot, généralement il veut signifie "spéciali
 Il utilise de l'ironie pour se moquer et rabaisser les savants.
 # Conclusion
 
-Ici, il est dit que l'apologue est seulement un exemple et que l'humain agit ne vérifie pas ses faits naturellement.
+Ici, il est dit que l'apologue est seulement un exemple et que l'humain agit ne vérifie pas ses faits naturellement. Il donne une définition intéressante de l'ignorance qui est "trouver des raisons à ce qui n'existe pas". Pour finir, le pronom personnel "nous" est utilisé pour dire que l'auteur aussi est victime de cela car, lui aussi est humain.
