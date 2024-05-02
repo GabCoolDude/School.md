@@ -6,5 +6,6 @@ Le champ lexical de la précipitation est utilisé pour dire que la plupart du t
 # Apologue
 
 L'auteur a crée un récit pour "illustrer" sa pensée. Il apaise le lecteur en utilisant un lieu différent que la France et un temps différent que celui auquel le récit a été écrit.
-Le mot "rumeur" est utilisé pour décrire la dent d'or, même si les savants ne sont pas sûrs
+Le mot "rumeur" est utilisé pour décrire la dent d'or, même si les savants ne sont pas sûrs de la vérité de la rumeur, ils la propagent quand même sans vérifier.
+L'auteur
 # Conclusion
