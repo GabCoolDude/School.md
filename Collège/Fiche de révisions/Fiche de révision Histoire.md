@@ -308,4 +308,31 @@ En 1944, les Alliés débarquent en Normandie (juin) puis en Provence (août). P
 
 En 1947, les Etats-Unis prônent l’endiguement du communisme par la voix du président Truman. La même année, Andreï Jdanov répond pour l’URSS en condamnant le modèle américain : c’est le début de la guerre froide. Il s’agit d’une période de tension sans conflit direct entre les deux grands vainqueurs de la Deuxième guerre mondiale : l’URSS et les Etats-Unis. Chacune de ces grandes puissances a ses alliés : la bipolarisation du monde en deux blocs est consacrée.  
 
-### Une guerre culturelle et d'informations
+### Une guerre culturelle et d'informations permanente
+
+Les Etats-Unis et l’URSS possédant tous les deux l’arme atomique, la dissuasion nucléaire empêche qu’un conflit direct n’éclate entre les deux puissances. Celles-ci se livrent alors une guerre idéologique et culturelle (radio, cinéma, BD etc.) et rivalisent dans tous les domaines. Par exemple, la conquête spatiale devient un outil de propagande. En 1961, les Soviétiques envoient le premier homme dans l’espace mais en 1969, c’est un Américain qui marche pour la première fois sur la Lune.  
+
+## Chronologie de la guerre froide : crises et tensions
+
+### Les crises de la guerre froide
+
+Si l’URSS et les Etats-Unis ne s’affrontent pas directement, il existe néanmoins de nombreuses crises et guerres locales. Entre 1950 et 1953, les deux puissances s’affrontent indirectement en Corée. En 1962, la crise de Cuba met le monde au bord de la guerre mondiale. Pourtant, la guerre n’éclate jamais par peur de la guerre nucléaire. La compétition entre URSS et Etats-Unis est entretenue par la **course aux armements**. 
+
+- **Course aux armements** : rivalité entre Etats-Unis et Urss pour se doter d’armements toujours plus nombreux et puissants.  
+
+### La détente et la fin de la guerre froide
+
+Suite à la crise de Cuba, une période de **détente** commence entre l’URSS et les Etats-Unis qui favorisent les négociations et les discussions. Dans les années 1970, des accords de désarmement sont signés entre les deux puissances. En 1975, elles lancent la mission Apollo-Soyouz, symbole de cette période de détente.  
+
+La détente n’exclut pour autant pas des conflits indirects, comme l’intervention américaine au Vietnam en 1964. 
+
+- **Détente** : période marquée par un relatif apaisement des tensions et une ouverture du dialogue Est – Ouest malgré des affrontements meurtriers dans le Tiers-monde.  
+
+En 1980, Ronald Reagan devient président des Etats-Unis et relance la course aux armements. L’URSS s’avère incapable de suivre le rythme de cette nouvelle rivalité. Dès 1985, le nouveau dirigeant de l’URSS, Mikhaïl Gorbatchev, entreprend des réformes et tente de mettre fin à la défiance envers les Etats-Unis. En 1987, il signe avec Reagan le premier de traité de désarmement nucléaire. 
+
+En Europe de l’Est, l’opposition au communisme et l’aspiration à la liberté et à la démocratie se développent sans que l’URSS n’intervienne. Le 9 novembre 1989, la chute du mur de Berlin annonce la fin de la bipolarisation du monde et l’effondrement des régimes communistes d’Europe de l’Est. 
+
+En 1991, les principales nationalités de l’URSS proclament leur indépendance. L’URSS se morcelle alors en 15 Etats et disparaît le 25 décembre 1991. 
+
+## Berlin et l'Allemagne, symboles de la guerre froide
+
