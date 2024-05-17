@@ -185,4 +185,4 @@ Les habitants sont également des acteurs influents et sollicités dans l’amé
 - **Collectivités territoriale**s : régions, département, communes. Elles ont des compétences dans certains domaines et un budget : elles peuvent ainsi prendre certaines décisions.  
 - **Région** : territoire administratif situé entre l’échelle nationale et l’échelle locale. Elle est dirigée par un conseil régional. Depuis la loi NOTRe du 7 août 2015, les régions métropolitaines françaises sont au nombre de 13 (au lieu de 22 auparavant). 
 
-![[Capture d'écran 2024-05-17 221552.png]]
+![[Capture d'écran 2024-05-17 221552.png]]![[IMG_0374.png]]![[IMG_0375.png]]
