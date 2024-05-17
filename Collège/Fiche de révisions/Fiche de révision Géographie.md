@@ -124,7 +124,21 @@ Ces dernières décennies, les espaces de faible densité redeviennent attractif
 
 - **Tourisme vert** : tourisme durable centré sur la découverte de la nature, les activités de plein air et le respect de l’environnement.  
 - **Néoruraux** : nouveaux habitants d’origine urbaine en zone rurale.  
-
+![[IMG_0373.png]]
 # Aménager pour répondre aux inégalités croissantes entre territoires français, à toutes les échelles
 
 Dans les chapitres précédents, nous avons vu que les territoires français sont inégalement intégrés à la mondialisation. Des aménagements mis en place pour tenter de réduire les inégalités territoriales.  
+
+## Etude de cas : le Louvre-Lens
+
+Lens est une ville située dans le nord de la France, dans le département du Pas-de-Calais et dans la région des Hauts-de-France. C’est une ville dont l’économie a été longtemps été dominée par l’activité minière et qui souffre désormais du chômage (plus d’un quart des habitants de l’agglomération lensoise) et d’un taux important de pauvreté (près d’un tiers de la population locale est considérée comme pauvre).   
+
+L’arrivée du Louvre-Lens a nourri de nombreux espoirs de redynamisation de la ville et même de la région. Ce projet a été favorisé par le réseau routier et ferroviaire lensois qui permet aux visiteurs de se rendre au musée. La ligne TGV et les autoroutes connectent Lens à la région des Hauts-de-France, à la France et à l’Europe du Nord.
+
+Ce projet a été porté par divers acteurs. Des acteurs publics ont financé le Louvre-Lens à diverses échelles : l’Union européenne, l’État, mais surtout les collectivités territoriales (région, département, agglomération). Des entreprises ont aussi financé le projet.
+
+Le Louvre-Lens a entraîné la construction de nouveaux logements, d’établissements hôteliers et de bureaux. Lens développe ainsi des aménagements nouveaux correspondant à des activités tournées vers le tourisme, la recherche, la formation et les services. C’est aussi devenu un outil culturel à l’échelle régionale. Il permet ainsi aux élèves des écoles du Nord-Pas-de-Calais de découvrir des œuvres d’art et d’attirer de nombreux touristes en nombre. 
+
+## Mise en perspective : aménager le territoire français pour réduire les inégalités
+
+### Un territoire marqué par les inégalités
