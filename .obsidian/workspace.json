@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+                "file": "Collège/Dates importantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+                "file": "Collège/Dates importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+                "file": "Collège/Dates importantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Géographie.md"
+                "file": "Collège/Dates importantes.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "b0dc647b020904d6",
   "lastOpenFiles": [
+    "Collège/Oraux de langues.md",
+    "Collège/Oral DNB.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Images/Géographie/Capture d'écran 2024-05-17 223030.png",
     "Images/Géographie/Capture d'écran 2024-05-17 223026.png",
     "Images/Géographie/Capture d'écran 2024-05-17 222233.png",
@@ -180,9 +183,7 @@
     "Images/Math",
     "Images",
     "Images/Math/IMG_0369.jpeg",
-    "Images/Math/IMG_0368.jpeg",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Images/Math",
@@ -191,8 +192,6 @@
     "Collège/Dates importantes.md",
     "Collège",
     "Lycée",
-    "Collège/Oral DNB.md",
-    "Collège/Oraux de langues.md",
     "README.md",
     "Untitled.canvas",
     "2024-02-21.md",
