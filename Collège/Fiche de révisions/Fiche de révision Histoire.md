@@ -346,4 +346,14 @@ Dès la fin des années 1984, en RDA comme dans les autres démocraties populair
 
 Ainsi, la situation et l'histoire de Berlin entre 1948 et 1989 sont révélatrices des grandes périodes et des crises de la guerre froide. L'Allemagne entame sa réunification qui aboutit en octobre 1990 alors que la guerre froide prend fin en 1991 avec le morcellement de l'URSS.
 
--
+- **Blocus** : isolement d'un territoire dans le but de couper l'accès à tout ravitaillement.
+- **RFA ( République Fédérale d'Allemagne )** : Etat ouest-allemand fondé le 29 mai 1949, allié du bloc américain.
+- **RDA ( République démocratique allemande )** : Etat est-allemand fondé le 7 octobre 1949, allié du bloc soviétique.
+
+# Indépendances et construction de nouveaux Etats
+
+La Seconde guerre mondiale affaiblit considérablement les puissances coloniales qui perdent leur prestige auprès des populations colonisées. Des mouvements nationalistes émergent dans les colonies. 
+
+Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont favorables à la décolonisation. L’ONU soutient également les indépendances au nom du droit des peuples à disposer d’eux-mêmes.  
+
+## Etude de cas – Un exemple de décolonisation violente : la guerre d’Algérie (1954 – 1962) 
