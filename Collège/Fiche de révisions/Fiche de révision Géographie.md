@@ -92,5 +92,9 @@ La France est la première destination touristique mondiale grâce à son patrim
 
 ## Etude de cas : le Cantal, entre crise et renouveau
 
-Le Cantal est un département qui manque de dynamisme car sa population est en constante diminution depuis 1850, passant de 254 000 en 1850 à 143 627 en 2019. De plus, alors que la densité moyenne en France de 118 hab./km², elle est de 26 hab./km²
+Le Cantal est un département qui manque de dynamisme car sa population est en constante diminution depuis 1850, passant de 254 000 en 1850 à 143 627 en 2019. De plus, alors que la densité moyenne en France de 118 hab./km², elle est de 26 hab./km² dans le Cantal. Par ailleurs, le part des moins de 15 ans est inférieur à la moyenne nationale alors que la part des plus de 60 ans est largement supérieure à la moyenne nationale.
+
+La population se concentre essentiellement dans les villes d'Aurillac et de Saint-Flour. Ce sont des villes desservies par les réseaux de transports.
+
+Le Cantal est département relativement isolé du fait de l'absence d'un réseau de transport dense, d'un relief parfois supérieur à 1000 m et enfin, du Parc naturel régional des volcans d'Auvergne dont l'occupation et l'usage sont très réglementés.
 
