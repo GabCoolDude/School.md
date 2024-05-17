@@ -186,3 +186,23 @@ Les habitants sont également des acteurs influents et sollicités dans l’amé
 - **Région** : territoire administratif situé entre l’échelle nationale et l’échelle locale. Elle est dirigée par un conseil régional. Depuis la loi NOTRe du 7 août 2015, les régions métropolitaines françaises sont au nombre de 13 (au lieu de 22 auparavant). 
 
 ![[Capture d'écran 2024-05-17 221552.png]]![[IMG_0374.png]]![[IMG_0375.png]]
+
+# Les territoires ultra-marins français : une problématique spécifique
+
+## A l'échelle mondiale : des territoires éloigné et spécifiques
+
+![[Capture d'écran 2024-05-17 222233.png]]
+
+Les **territoires ultra-marins**, qui regroupent près de 3 millions d’habitants, sont des territoires très éloignés de la France métropolitaine, localisés dans des régions tropicales ou dans les mers des régions polaires. 
+
+Leurs statuts sont divers : on distingue les **DROM** ( Guadeloupe, Martinique, Réunion, Guyane, Mayotte ), des **COM** ( Tahiti, Saint-Pierre-et-Miquelon par exemple ) ou encore les **TAAF**. 
+
+Ils présentent de nombreux points communs : ce sont des îles ou des archipels, à l’exception de la Guyane qui, par son immensité, n’en est pas moins isolée. Par ailleurs, ils ont des reliefs accidentés.  
+
+Tous ces territoires permettent à la France de posséder la deuxième **ZEE** du monde.  
+
+- Territoires ultra-marins : territoire français localisé en dehors du continent européen.  
+- DROM ( Départements et régions d’outre-mer ) : collectivités territoriales disposent du même qu’un département ou une région métropolitaine : les lois et règlements français s’y appliquent.  
+- COM (Collectivités d’outre-mer) : elles regroupent d’anciens territoires d’outre-mer (TOM) ainsi que d’autres collectivités territoriales à statut particulier (autonomie dans certains domaines). 
+- TAAF (Terres australes et antarctiques françaises) 
+- ZEE (Zone économique exclusive) : espace maritime sur lequel un Etat possède des droits d’exploration et d’exploitation des ressources. Une ZEE s’étend jusqu’à 370 kilomètres d’un littoral.  
