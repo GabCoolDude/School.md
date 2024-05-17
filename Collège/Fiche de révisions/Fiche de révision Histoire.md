@@ -336,4 +336,4 @@ En 1991, les principales nationalités de l’URSS proclament leur indépendance
 
 ## Berlin et l'Allemagne, symboles de la guerre froide
 
-Suite à la Deuxième Guerre Mondiale, en 1945, l'Allemagne vaincue est divisée et occupée par les Alliés : Etats-Unis, URSS, Royaume-Uni et France. Berlin, qui se trouve dans la partie occupée par l'URSS, est également divisée en quatre secteurs d'occupation. A partir
+Suite à la Deuxième Guerre Mondiale, en 1945, l'Allemagne vaincue est divisée et occupée par les Alliés : Etats-Unis, URSS, Royaume-Uni et France. Berlin, qui se trouve dans la partie occupée par l'URSS, est également divisée en quatre secteurs d'occupation. A partir de 1947, URSS et Etats-Unis s'opposent idéologiquement et entrent dans la guerre froide. Enquoi Be
