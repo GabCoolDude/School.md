@@ -256,13 +256,17 @@ La France et le Royaume-Uni déclarent la guerre à l’Allemagne le 3 septembre
 ## Le choc de la défaite de 1940
 
 En mai 1940, l’armée allemande lance sa guerre éclair et met l’armée franco-britannique en déroute, provoquant l’exode. 
+
 Le maréchal Philippe Pétain est nommé Président du Conseil par le président de la République le 16 juin 1940 et signe l’armistice avec l’Allemagne le 22 juin à Rethondes. Les conditions de l’armistice sont lourdes pour la France.  
 
 ## Le régime de Vichy
 
 ### Un régime autoritaire et antisémite
 
-Le gouvernement est installé à Vichy, en zone libre. Le 10 juillet, le Parlement confie à Pétain les pleins pouvoirs pour modifier la Constitution. Le 11 juillet, il promulgue des actes constitutionnels qui mettent fin à la IIIe République et donnent naissance à l’Etat français.  L’Etat français est un régime autoritaire : les élections sont supprimées, l’opposition est surveillée, les médias sont censurés et diffusent la propagande, un culte de la personnalité se développe. 
+Le gouvernement est installé à Vichy, en zone libre. Le 10 juillet, le Parlement confie à Pétain les pleins pouvoirs pour modifier la Constitution. Le 11 juillet, il promulgue des actes constitutionnels qui mettent fin à la IIIe République et donnent naissance à l’Etat français. 
+
+L’Etat français est un régime autoritaire : les élections sont supprimées, l’opposition est surveillée, les médias sont censurés et diffusent la propagande, un culte de la personnalité se développe. 
+
 Pétain souhaite restaurer l’ancienne France et instaure une **Révolution nationale** centrée sur les valeurs qui composent la nouvelle devise « Travail, famille, patrie ». 
 Le régime de Vichy est également antisémite et exclut les Juifs de la société française dès octobre 1940. 
 
@@ -274,3 +278,34 @@ En octobre 1940, Pétain, poussé par le chef du gouvernement Pierre Laval, enga
 L’Etat français livre des Juifs étrangers de la zone libre et aide les Allemands à arrêter les Juifs français de la zone occupée comme lors de la **rafle** du Vel’ d’Hiv’ le 16 juillet 1942. 
 En novembre 1942, l’Allemagne envahit la zone libre. L’Etat organise alors le **Service du travail obligatoire (STO)** et laisse la **Milice** traquer les Juifs et les résistants.  
 
+- **Collaboration** : pour les habitants d’un pays, fait de coopérer avec l’ennemi / pour la France, aide apportée à l’Allemagne nazie par le gouvernement de Vichy et l’administration française.  
+- **Rafle** : arrestation massive opérée à l’improviste par la police.  
+- **Service du travail obligatoire (STO)** : à partir de 1943, obligation pour les jeunes hommes français de 21 à 23 ans d’aller travailler en Allemagne.   
+- **Milice** : organisation fondée en 1943 qui pourchasse les résistants, les Juifs et les opposants en collaborant avec le régime de Vichy et les troupes allemandes. 
+
+## La résistance
+
+Le 18 juin 1940, le général De Gaulle lance un appel à la résistance depuis l’Angleterre via la BBC. Il refuse la défaite et appelle les Français à continuer les combats. Il est reconnu comme le chef de la France libre par les Britanniques et forme les Forces françaises libres (FFL), une armée destinée à combattre aux côtés des Alliés. Certaines colonies et leurs armées se rallient à De Gaulle. Les FFL combattent en Afrique et dans le bassin méditerranéen.
+
+En France, dès la fin 1940, des Français entrent en lutte clandestine contre le régime de Vichy et l’occupation allemande. Ils se rassemblent dans différents mouvements de Résistance qui ont peu de contacts entre eux. Progressivement, des groupes se structurent dans la clandestinité comme Libération-Sud ou Combat. Les actions des résistants sont diverses : tracts, sabotages, aides à des évadés, création de journaux clandestins, fabrication de faux-papiers… 
+
+A partir de 1943, avec l’instauration du STO, les effectifs de la **Résistance** augmentent avec l’arrivée de jeunes qui veulent y échapper. 
+
+Le général De Gaulle charge Jean Moulin d’unifier les **mouvements de résistance**. Il crée en 1943 le Conseil National de la Résistance (CNR) afin de préparer la libération du pays et la refondation de la République. 
+
+En 1944, les Alliés débarquent en Normandie (juin) puis en Provence (août). Paris est libérée en août 1944. De Gaulle devient le chef du Gouvernement Provisoire de la République Française (GPRF). 
+
+- **Résistance** : action menée en France et dans le monde pour lutter contre le régime de Vichy et l’occupation allemande.  
+- **Mouvement de résistance** : organisation de résistance menant des actions d’information de la population (tracts, journaux) et des actions armées.  
+- **Maquis** : groupe de résistants installé dans une zone retirée (montagnes, forêts) qui mène des actions contre l’armée allemande. Le maquis désigne également le lieu où ils se retrouvent.  
+
+
+# Un monde bipolaire au temps de la guerre froide
+
+## La division du monde en deux blocs
+
+### L'opposition de deux idéologies
+
+En 1947, les Etats-Unis prônent l’endiguement du communisme par la voix du président Truman. La même année, Andreï Jdanov répond pour l’URSS en condamnant le modèle américain : c’est le début de la guerre froide. Il s’agit d’une période de tension sans conflit direct entre les deux grands vainqueurs de la Deuxième guerre mondiale : l’URSS et les Etats-Unis. Chacune de ces grandes puissances a ses alliés : la bipolarisation du monde en deux blocs est consacrée.  
+
+### Une guerre culturelle et d'informations
