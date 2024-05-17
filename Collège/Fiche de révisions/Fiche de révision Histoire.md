@@ -340,4 +340,10 @@ Suite à la Deuxième Guerre Mondiale, en 1945, l'Allemagne vaincue est divisée
 
 En juin 1948, les Soviétiques instaurent un **blocus** de Berlin-Ouest en coupant toutes les communications terrestres afin d'empêcher son ravitaillement. Les Etats-Unis répliquent alors en mettant en place un pont aérien qui permet de fournir des vivres aux habitants et qui met en échec le blocus. Suite à ce blocus, l'Allemagne et Berlin sont définitivement coupées en deux selon les deux blocs qui s'opposent pendant la guerre froide. Deux Etats distincts naissent alors : la **RFA ( République Fédérale d'Allemagne )** et la **RDA ( République démocratique allemande )**. La ville de Berlin appartient alors à deux Etats différents.
 
-De nombreux Berlinois de l'Est sont hostiles au système communiste et passent alors à l'Ouest. Face à cet exode massif, les Soviétiques construisent en 1961 un mur pour isoler
+De nombreux Berlinois de l'Est sont hostiles au système communiste et passent alors à l'Ouest. Face à cet exode massif, les Soviétiques construisent en 1961 un mur pour isoler Berlin-Ouest. Le "rideau de fer" dont parlait Churchill lors de la conférence de Fulton en 1946 se matérialise alors par un véritable mur infranchissable dans Berlin.
+
+Dès la fin des années 1984, en RDA comme dans les autres démocraties populaires, les populations se montrent de plus en plus hostiles au système communiste et réclament des libertés et plus de démocratie. C'est dans ce contexte que le 9, alors que la liberté de circulation est annoncée, des milliers de Berlinois de l'Est forcent les points de passage et pénètrent dans Berlin Ouest. C'est la chute du mur.
+
+Ainsi, la situation et l'histoire de Berlin entre 1948 et 1989 sont révélatrices des grandes périodes et des crises de la guerre froide. L'Allemagne entame sa réunification qui aboutit en octobre 1990 alors que la guerre froide prend fin en 1991 avec le morcellement de l'URSS.
+
+-
