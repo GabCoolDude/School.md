@@ -17,9 +17,9 @@
 
 De février à décembre 1916, la bataille de Verdun oppose l’armée française à l’armée allemande sur le front occidental. 
 
-Cette bataille est d’une extrême violence et illustre la guerre industrielle qu’est la Première guerre mondiale. En effet, les tirs de projectiles sont omniprésents, notamment les obus qui font de nombreuses victimes. Des armes nouvelles sont par ailleurs utilisées telles les armes chimiques.
+Cette bataille est d’une extrême violence et illustre la **guerre industrielle** qu’est la Première guerre mondiale. En effet, les tirs de projectiles sont omniprésents, notamment les obus qui font de nombreuses victimes. Des armes nouvelles sont par ailleurs utilisées telles les armes chimiques.
 
-Outre la violence des combats les soldats sont soumis à des conditions de vie extrêmement difficiles. Les militaires n’ont que peu d’espace pour vivre dans les tranchées. Les lettres de poilus témoignent de la rudesse de ces conditions de vie marquées par la boue, les rats, les poux etc. Pour surmonter ces conditions, les soldats fraternisent et maintiennent des liens avec leurs proches par l’intermédiaires de lettres. 
+Outre la violence des combats les soldats sont soumis à des conditions de vie extrêmement difficiles. Les militaires n’ont que peu d’espace pour vivre dans les tranchées. Les lettres de **poilus** témoignent de la rudesse de ces conditions de vie marquées par la boue, les rats, les poux etc. Pour surmonter ces conditions, les soldats fraternisent et maintiennent des liens avec leurs proches par l’intermédiaires de lettres. 
 
 La bataille de Verdun est l’une des plus meurtrières du XXe siècle, faisant plus de 300 000 morts et plus de 400 000 blessés. Elle marque également durablement le paysage. 
 
@@ -263,4 +263,14 @@ Le maréchal Philippe Pétain est nommé Président du Conseil par le président
 ### Un régime autoritaire et antisémite
 
 Le gouvernement est installé à Vichy, en zone libre. Le 10 juillet, le Parlement confie à Pétain les pleins pouvoirs pour modifier la Constitution. Le 11 juillet, il promulgue des actes constitutionnels qui mettent fin à la IIIe République et donnent naissance à l’Etat français.  L’Etat français est un régime autoritaire : les élections sont supprimées, l’opposition est surveillée, les médias sont censurés et diffusent la propagande, un culte de la personnalité se développe. 
-Pétain souhaite restaurer l’ancienne France et instaure une Révolution nationale centrée sur les valeurs qui composent la nouvelle devise « Travail, famille, patrie ».  Le régime de Vichy est également antisémite et exclut les Juifs de la société française dès octobre 1940. 
+Pétain souhaite restaurer l’ancienne France et instaure une **Révolution nationale** centrée sur les valeurs qui composent la nouvelle devise « Travail, famille, patrie ». 
+Le régime de Vichy est également antisémite et exclut les Juifs de la société française dès octobre 1940. 
+
+- **Révolution nationale** : idéologie du régime de Vichy fondée sur la devise « Travail, famille, patrie » et qui rompt avec les principes républicains de liberté, d’égalité et de fraternité.  
+
+### Un régime collaborationniste
+
+En octobre 1940, Pétain, poussé par le chef du gouvernement Pierre Laval, engage une politique de **collaboration policière**, militaire et économique avec l’Allemagne. 
+L’Etat français livre des Juifs étrangers de la zone libre et aide les Allemands à arrêter les Juifs français de la zone occupée comme lors de la **rafle** du Vel’ d’Hiv’ le 16 juillet 1942. 
+En novembre 1942, l’Allemagne envahit la zone libre. L’Etat organise alors le **Service du travail obligatoire (STO)** et laisse la **Milice** traquer les Juifs et les résistants.  
+
