@@ -86,8 +86,6 @@ La France est la première destination touristique mondiale grâce à son patrim
 
 ![](https://lh7-us.googleusercontent.com/S3_RLHe028bg1vJRBmhe4VKI0DFLa7D4KuFRTKW0HFhi0G1k6Fyl0o3Ss_oO3na6LLJYFPFNc62xYHI-_LjyaZQl15y3pOs2DJ9IXLwa8Jpgyy22Dgd19ZtNbztZxv_lj591Bk-jdl4_Zy6gMtW5ag6bzvRg8Yhb)
 
----
-
 # Les espaces de faible densité et leurs atouts
 
 ## Etude de cas : le Cantal, entre crise et renouveau

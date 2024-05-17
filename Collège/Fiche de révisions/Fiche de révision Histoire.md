@@ -247,7 +247,7 @@ Pour garantir la paix durablement à l’échelle mondiale, Roosevelt et Churchi
 
 ![](https://lh7-us.googleusercontent.com/dFg_JwARyVSGL4Q8fmiIullaoG5g1Es9yLCkXd8F8Tzyfbo90Awp0KI2ddUfLfUYpJxAnA6CMrjJDz21pVXWsthkyh9VT2sGS4M0lJa4lcCXzbwQqmhHQnIzDkpNYPfVcBAz44TjbBoiQ3PjX-0ZgwD5C9PpziwA)
 
----
+
 
 # La France défaite et occupée. Régime de Vichy, collaboration, Résistance
 
@@ -398,3 +398,5 @@ Les Etats nouvellement indépendants cherchent à s’organiser et à faire ente
 Lors de leur indépendance, les pays du Tiers-monde sont des pays pauvres, peu industrialisés et souffrant de problèmes de développement. A partir des années 1960, ces pays cherchent à se développer. Ils obtiennent la création de la **CNUCED** à l’ONU en 1964 et forment le groupe des 77 qui se charge de défendre leurs intérêts économiques.  
 
 - **CNUCED** (Conférence des Nations-Unies pour le Commerce et le Développement) : organisation créée en 1964 au sein de l’ONU chargée d’aider les pays en développement à améliorer leur commerce et à se développer.  
+
+--- 
