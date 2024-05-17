@@ -248,3 +248,19 @@ Pour garantir la paix durablement à l’échelle mondiale, Roosevelt et Churchi
 ![](https://lh7-us.googleusercontent.com/dFg_JwARyVSGL4Q8fmiIullaoG5g1Es9yLCkXd8F8Tzyfbo90Awp0KI2ddUfLfUYpJxAnA6CMrjJDz21pVXWsthkyh9VT2sGS4M0lJa4lcCXzbwQqmhHQnIzDkpNYPfVcBAz44TjbBoiQ3PjX-0ZgwD5C9PpziwA)
 
 ---
+
+# La France défaite et occupée. Régime de Vichy, collaboration, Résistance
+
+La France et le Royaume-Uni déclarent la guerre à l’Allemagne le 3 septembre 1939 après l’invasion de la Pologne le 1er septembre. A partir de mai 1940, l’Allemagne lance sa guerre-éclair à l’encontre des Alliés en Europe de l’Ouest (Belgique, Pays-Bas, France notamment). L’Allemagne remporte rapidement des victoires et occupe la moitié nord de la France.  
+
+## Le choc de la défaite de 1940
+
+En mai 1940, l’armée allemande lance sa guerre éclair et met l’armée franco-britannique en déroute, provoquant l’exode. 
+Le maréchal Philippe Pétain est nommé Président du Conseil par le président de la République le 16 juin 1940 et signe l’armistice avec l’Allemagne le 22 juin à Rethondes. Les conditions de l’armistice sont lourdes pour la France.  
+
+## Le régime de Vichy
+
+### Un régime autoritaire et antisémite
+
+Le gouvernement est installé à Vichy, en zone libre. Le 10 juillet, le Parlement confie à Pétain les pleins pouvoirs pour modifier la Constitution. Le 11 juillet, il promulgue des actes constitutionnels qui mettent fin à la IIIe République et donnent naissance à l’Etat français.  L’Etat français est un régime autoritaire : les élections sont supprimées, l’opposition est surveillée, les médias sont censurés et diffusent la propagande, un culte de la personnalité se développe. 
+Pétain souhaite restaurer l’ancienne France et instaure une Révolution nationale centrée sur les valeurs qui composent la nouvelle devise « Travail, famille, patrie ».  Le régime de Vichy est également antisémite et exclut les Juifs de la société française dès octobre 1940. 
