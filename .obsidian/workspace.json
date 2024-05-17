@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25fd28d52da01a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad25db96441eef21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0dc647b020904d6",
             "type": "leaf",
             "state": {
@@ -42,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6482074b9ce6871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,21 +162,26 @@
   },
   "active": "b0dc647b020904d6",
   "lastOpenFiles": [
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
-    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+    "Template.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
-    "Images/Math/IMG_0369.jpeg",
-    "Images/Math/IMG_0368.jpeg",
+    "Mise au propre du cours de Français du Jeudi 2 Mai 2024.md",
     "Images/Math/Fonction.png",
     "Images/Math/Antécédent & Image.png",
     "Images/Math",
-    "Mise au propre du cours de Français du Jeudi 2 Mai 2024.md",
-    "Template.md",
+    "Images",
+    "Images/Math/IMG_0369.jpeg",
+    "Images/Math/IMG_0368.jpeg",
+    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+    "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+    "Images/Math/IMG_0369.jpeg",
+    "Images/Math/IMG_0368.jpeg",
+    "Images/Math/Antécédent & Image.png",
+    "Images/Math",
     "Images/Math/IMG_0368 1.jpeg",
     "Images",
     "IMG_0368 1.jpeg",
-    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Templates",
     "Collège/Dates importantes.md",
     "Collège",

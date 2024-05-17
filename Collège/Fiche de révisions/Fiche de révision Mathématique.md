@@ -49,7 +49,7 @@ Exemple :
 | 10<sup>-12</sup> | Pico  | p   |
 # Fonctions
 
-Une fonction est un processus mathématique qui à tout nombre x fait correspondre un unique nombre noté f(x)![[Fonction.png]]
+Une fonction est un processus mathématique qui à tout nombre x fait correspondre un unique nombre noté f(x)!![[Fonction.png]]
 
 Exemple :
 
