@@ -102,4 +102,31 @@ Tout cela a des conséquences, comme la désertification médicale puisque le no
 
 Néanmoins, le Cantal est un département qui présente des atouts et quit tente de les mettre en valeur afin d'attirer de nouveau les populations. Ce département possède un patrimoine culturel et de loisirs grâce aux stations de skis réputées comme celle du Lioran ou au Parc naturel des volcans d'Auvergne. Le viaduc du Garabit, oeuvre de Gustave Eiffel, a longtemps été le pont le plus haut du monde et est maintenant une attraction touristique.
 
-De plus, des politique favorisant l'installation de nouveaux habitants ont été menés en développant le numérique ou encore à travers des aides à l'installation ( )
+De plus, des politique favorisant l'installation de nouveaux habitants ont été menés en développant le numérique ou encore à travers des aides à l'installation ( logements passerelle, rémunération provisoire au SMIC lors de l'installation, avantages fiscaux pour les créations d'entreprises... ).
+
+Cela permet de ralentir le déclin démographique que connaît le département du Cantal.
+
+## Mise en perspective : faiblesses et atouts des espaces de faible densité
+
+### Vieillissement et déprise agricole
+
+Les espaces de faible densité sont des espaces ruraux de moins de 30 habitants/km². Ils occupent 48% du territoire français et regroupent 4 millions de personnes.  
+
+Leurs principales caractéristiques sont une faible natalité, une perte d’habitants et leur vieillissement, l’éloignement des villes et des services et une économie marquée par l’agriculture et l’agro-alimentaire. Cependant, l’agriculture dans certains de ces espaces est en crise et connaît une **déprise agricole** qui se manifeste par une diminution du nombre d’exploitations, des équipements moins modernes et des abandons de terres agricoles. 
+
+- **Déprise agricole** : abandon progressif des activités agricoles sur un territoire. 
+
+### Un renouveau grâce à la valorisation des atouts
+
+Les espaces de faible densité ont des atouts qui peuvent les valoriser. Dans certains de ces espaces, l’agriculture les dynamise comme dans les régions d’agriculture productiviste. Certains espaces peuvent aussi profiter du classement en AOP de leurs productions. 
+
+La valorisation peut également passer par le tourisme. Le **tourisme vert** s’est développé en même temps que la création des parcs naturels et les régions de montagne bénéficient de l’attrait pour les sports d’hiver.
+
+Ces dernières décennies, les espaces de faible densité redeviennent attractifs pour des habitants à la recherche d’une meilleure qualité de vie ( **néoruraux**, retraités… ). Cette attractivité est aidée par le classement en zone de revitalisation rurale qui permet d’attirer les entreprises grâce à des avantages fiscaux. 
+
+- **Tourisme vert** : tourisme durable centré sur la découverte de la nature, les activités de plein air et le respect de l’environnement.  
+- **Néoruraux** : nouveaux habitants d’origine urbaine en zone rurale.  
+
+# Aménager pour répondre aux inégalités croissantes entre territoires français, à toutes les échelles
+
+Dans les chapitres précédents, nous avons vu que les territoires français sont inégalement intégrés à la mondialisation. Des aménagements mis en place pour tenter de réduire les inégalités territoriales.  
