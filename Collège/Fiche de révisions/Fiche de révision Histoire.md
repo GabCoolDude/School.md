@@ -336,4 +336,8 @@ En 1991, les principales nationalités de l’URSS proclament leur indépendance
 
 ## Berlin et l'Allemagne, symboles de la guerre froide
 
-Suite à la Deuxième Guerre Mondiale, en 1945, l'Allemagne vaincue est divisée et occupée par les Alliés : Etats-Unis, URSS, Royaume-Uni et France. Berlin, qui se trouve dans la partie occupée par l'URSS, est également divisée en quatre secteurs d'occupation. A partir de 1947, URSS et Etats-Unis s'opposent idéologiquement et entrent dans la guerre froide. Enquoi Be
+Suite à la Deuxième Guerre Mondiale, en 1945, l'Allemagne vaincue est divisée et occupée par les Alliés : Etats-Unis, URSS, Royaume-Uni et France. Berlin, qui se trouve dans la partie occupée par l'URSS, est également divisée en quatre secteurs d'occupation. A partir de 1947, URSS et Etats-Unis s'opposent idéologiquement et entrent dans la guerre froide. En quoi Berlin est-elle un symbole des enjeux de la guerre froide ?
+
+En juin 1948, les Soviétiques instaurent un **blocus** de Berlin-Ouest en coupant toutes les communications terrestres afin d'empêcher son ravitaillement. Les Etats-Unis répliquent alors en mettant en place un pont aérien qui permet de fournir des vivres aux habitants et qui met en échec le blocus. Suite à ce blocus, l'Allemagne et Berlin sont définitivement coupées en deux selon les deux blocs qui s'opposent pendant la guerre froide. Deux Etats distincts naissent alors : la **RFA ( République Fédérale d'Allemagne )** et la **RDA ( République démocratique allemande )**. La ville de Berlin appartient alors à deux Etats différents.
+
+De nombreux Berlinois de l'Est sont hostiles au système communiste et passent alors à l'Ouest. Face à cet exode massif, les Soviétiques construisent en 1961 un mur pour isoler
