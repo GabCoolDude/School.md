@@ -100,4 +100,6 @@ Le Cantal est département relativement isolé du fait de l'absence d'un réseau
 
 Tout cela a des conséquences, comme la désertification médicale puisque le nombre de médecins généralistes et de structures de santé ( telles que les pharmacies ) tend à baisser. Il devient donc de plus en plus difficile de se faire soigner pour les habitants de ce département. Cette disparition des médecins s'explique par la baisse de la population : moins d'habitants, c'est moins de malades à soigner, donc un chiffre d'affaires qui baisse et des médecins qui décident de partir ou qui ne sont pas remplacés lors de leur départ en retraite.
 
-Néanmoins, le Cantal est un département qui présente des atouts et quit tente de les mettre en valeur afin d'attirer de nouveau les populations. Ce département possède un patrimoine culturel et de loisirs grâce aux stations de skis réputées comme celle du Lioran ou au Parc
+Néanmoins, le Cantal est un département qui présente des atouts et quit tente de les mettre en valeur afin d'attirer de nouveau les populations. Ce département possède un patrimoine culturel et de loisirs grâce aux stations de skis réputées comme celle du Lioran ou au Parc naturel des volcans d'Auvergne. Le viaduc du Garabit, oeuvre de Gustave Eiffel, a longtemps été le pont le plus haut du monde et est maintenant une attraction touristique.
+
+De plus, des politique favorisant l'installation de nouveaux habitants ont été menés en développant le numérique ou encore à travers des aides à l'installation ( )
