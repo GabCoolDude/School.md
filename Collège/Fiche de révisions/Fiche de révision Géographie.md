@@ -142,3 +142,47 @@ Le Louvre-Lens a entraîné la construction de nouveaux logements, d’établiss
 ## Mise en perspective : aménager le territoire français pour réduire les inégalités
 
 ### Un territoire marqué par les inégalités
+
+Les inégalités entre les territoires français sont nombreuses. 
+
+Tout d’abord, le territoire français est marqué par la prépondérance de Paris et de l’Ile-de-France qui concentrent 1/3 du PIB et 20% de la population française. De manière générale, les plus grandes métropoles concentrent les activités, les emplois et les richesses (cf. chapitre 1).
+
+Par ailleurs, il y a des inégalités entre les littorales de l’Ouest et les régions frontalières qui sont dynamiques et bien intégrées à la mondialisation, contrairement aux régions en déprise industrielle (cf. chapitre 2), aux régions rurales et aux DROM-COM qui ont tendance à être isolés.
+
+Les inégalités existent aussi à l’échelle locale puisque même dans les régions ou les communes dynamiques, il existe des communes ou des quartiers défavorisés. Ainsi, 65% des personnes pauvres vivent dans les grandes agglomérations. 
+
+Les inégalités entre les territoires se traduisent dans plusieurs domaines : 
+- L’accès aux services publics : les hôpitaux, les écoles, les bibliothèques etc. - La présence d’entreprises créatrices d’emplois et de richesses sur le territoire. 
+- L’accès aux infrastructures de transports et aux transports en commun.
+- L’accès aux services non publics : médecins, pharmacies, commerces etc. 
+
+Le but de l’aménagement du territoire est donc de réduire ces inégalités.  
+
+### Les enjeux de l'aménagement du territoire
+
+**L’aménagement du territoire** a pour but de renforcer l’attractivité des territoires dans un contexte de concurrence mondiale. Cela se traduit notamment par la multiplication des **technopôles**. 
+
+Pour réduire les difficultés des espaces ruraux, ceux-ci sont soutenus par le classement en zone de revitalisation rurale (ZRR) afin de limiter leur déclin économique et démographique (cf. chapitre 3). Des maisons de santé et de services au public sont créées pour répondre aux besoins des citoyens les plus éloignés des services publics.  
+
+La lutte contre les inégalités sociales dans les aires urbaines passe par une politique urbaine qui vise à améliorer la vie dans certains quartiers pauvres des grandes villes où la mixité sociale est très faible. Ces quartiers sont surtout localisés en Ile-de-France, à Marseille, Lille, Lyon, Strasbourg, Toulouse et Bordeaux.  
+
+Enfin, les politiques publiques souhaitent réduire les inégalités d’accès aux transports. L’ouverture de l’autoroute A75 a eu pour but de désenclaver le Massif central et notamment le Cantal, des LGV sont financées pour rapprocher les territoires nationaux et européens (la LGV Sud Europe Atlantique par exemple). A l’échelle régionale ou locale, des transports en communs sont développés (tramway à Tours pour faciliter les liens entre les grands pôles de l’agglomération ; Grand Paris express pour faciliter les déplacements de tous les Franciliens, et notamment les déplacements banlieues – banlieues). 
+
+- **Aménagement du territoire** : ensemble des actions et/ou des politiques menées pour améliorer le fonctionnement d’un territoire et pour réduire les inégalités entre les territoires et accroître leur compétitivité. 
+- **Technopôles** : zones d’activités économiques réunissant des industries de pointe, des centres de recherche et développement ainsi que des universités.  
+
+### Les acteurs de l'aménagement du territoire
+
+L’aménagement du territoire est décidé et réalisé par différents acteurs qui agissent à différentes échelles.  
+
+L’Union européenne et l’Etat français sont des acteurs essentiels pour l’aménagement du territoire français et notamment dans son financement. Des lois sont votées pour organiser de grands aménagements (LGV, aéroports, autoroutes…).  
+
+Avec la **décentralisation**, les **collectivités territoriales** jouent un rôle de plus en plus important. Les compétences des **régions** ont ainsi été élargies (gestion des lycées, transports régionaux etc.).
+
+Les habitants sont également des acteurs influents et sollicités dans l’aménagement du territoire. 
+
+- **Décentralisation** : transfert de certaines compétences de l’Etat vers les collectivités territoriales (régions, départements, communes).   
+- **Collectivités territoriale**s : régions, département, communes. Elles ont des compétences dans certains domaines et un budget : elles peuvent ainsi prendre certaines décisions.  
+- **Région** : territoire administratif situé entre l’échelle nationale et l’échelle locale. Elle est dirigée par un conseil régional. Depuis la loi NOTRe du 7 août 2015, les régions métropolitaines françaises sont au nombre de 13 (au lieu de 22 auparavant). 
+
+![[Capture d'écran 2024-05-17 221552.png]]
