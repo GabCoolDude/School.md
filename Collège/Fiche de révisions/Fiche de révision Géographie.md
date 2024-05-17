@@ -98,3 +98,5 @@ La population se concentre essentiellement dans les villes d'Aurillac et de Sain
 
 Le Cantal est département relativement isolé du fait de l'absence d'un réseau de transport dense, d'un relief parfois supérieur à 1000 m et enfin, du Parc naturel régional des volcans d'Auvergne dont l'occupation et l'usage sont très réglementés.
 
+Tout cela a des conséquences, comme la désertification médicale puisque le nombre de médecins généralistes et de structures de santé ( telles que les pharmacies ) tend à baisser. Il devient donc de plus en plus difficile de se faire soigner pour les habitants de ce département. Cette disparition des médecins s'explique par la baisse de la population : moins d'habitants
+
