@@ -201,8 +201,26 @@ Ils présentent de nombreux points communs : ce sont des îles ou des archipels,
 
 Tous ces territoires permettent à la France de posséder la deuxième **ZEE** du monde.  
 
-- Territoires ultra-marins : territoire français localisé en dehors du continent européen.  
-- DROM ( Départements et régions d’outre-mer ) : collectivités territoriales disposent du même qu’un département ou une région métropolitaine : les lois et règlements français s’y appliquent.  
-- COM (Collectivités d’outre-mer) : elles regroupent d’anciens territoires d’outre-mer (TOM) ainsi que d’autres collectivités territoriales à statut particulier (autonomie dans certains domaines). 
-- TAAF (Terres australes et antarctiques françaises) 
-- ZEE (Zone économique exclusive) : espace maritime sur lequel un Etat possède des droits d’exploration et d’exploitation des ressources. Une ZEE s’étend jusqu’à 370 kilomètres d’un littoral.  
+- **Territoires ultra-marins** : territoire français localisé en dehors du continent européen.  
+- **DROM ( Départements et régions d’outre-mer )** : collectivités territoriales disposent du même qu’un département ou une région métropolitaine : les lois et règlements français s’y appliquent.  
+- **COM ( Collectivités d’outre-mer )** : elles regroupent d’anciens territoires d’outre-mer (TOM) ainsi que d’autres collectivités territoriales à statut particulier (autonomie dans certains domaines). 
+- **TAAF ( Terres australes et antarctiques françaises )** 
+- **ZEE ( Zone économique exclusive )** : espace maritime sur lequel un Etat possède des droits d’exploration et d’exploitation des ressources. Une ZEE s’étend jusqu’à 370 kilomètres d’un littoral.  
+
+## A l'échelle régionale: une difficile intégration
+
+Le niveau de développement des territoires d’outre-mer est inférieur à celui de la France métropolitaine et de l’Union européenne. Leur économie est fortement dépendante des subventions ( des aides ) nationales et européennes. Le taux de chômage y est élevé. Le développement économique des territoires ultramarins passe par la construction d’infrastructures de transport, par des aménagements touristiques ou encore portuaires. 
+
+Situés dans des régions au niveau de développement faible, les territoires ultramarins apparaissent néanmoins comme des îlots de développement attractifs pour les populations des pays voisins ( Suriname et Brésil pour la Guyane ; Comores pour Mayotte… ). Cela est à l’origine de flux migratoires régionaux, en partie illégaux.  
+
+Pour autant, les territoires ultramarins sont assez peu intégrés à leur aire régionale, malgré des aménagements (pont sur l’Oyapock) et le développement de certaines activités (difficultés touristiques du fait de la concurrence entre Maurice et La Réunion).  
+
+## A l'échelle locale : aménager pour réduire les inégalités et les déséquilibres
+
+L’aménagement des territoires ultramarins cherche à répondre aux besoins des habitants et à s’adapter aux contraintes naturelles de ces territoires.  
+
+Les littoraux des territoires ultramarins concentrent l’essentiel des populations et des activités. Les infrastructures de transport, bien que parfois contestées sont des aménagements privilégiés pour favoriser les liaisons entre territoires ( entre îles d’un archipel, avec les pays voisins, avec la métropole ). 
+
+Les aménagements ont également pour vocation de développer l’économie des territoires ultramarins, particulièrement le tourisme. En effet, les espaces intérieurs, beaucoup moins peuplés, offrent un riche patrimoine naturel protégé et une importante biodiversité favorables au développement d’un tourisme durable.  
+![[Capture d'écran 2024-05-17 223026.png]]
+![[Capture d'écran 2024-05-17 223030.png]]
