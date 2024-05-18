@@ -509,6 +509,20 @@ h6 {
   background-image: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%);
 }
 
+.markdown-source-view .HyperMD-header-2 .cm-header, .markdown-rendered h2 {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
+}
+
+.markdown-source-view .HyperMD-header-3 .cm-header, .markdown-rendered h3 {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%);
+}
+
 .HyperMD-header.HyperMD-header-2 {
   border-bottom: 1px solid;
   border-width: 1px;
