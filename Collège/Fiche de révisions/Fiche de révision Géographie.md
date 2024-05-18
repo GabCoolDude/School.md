@@ -112,7 +112,7 @@ Les espaces de faible densité sont des espaces ruraux de moins de 30 habitants/
 
 Leurs principales caractéristiques sont une faible natalité, une perte d’habitants et leur vieillissement, l’éloignement des villes et des services et une économie marquée par l’agriculture et l’agro-alimentaire. Cependant, l’agriculture dans certains de ces espaces est en crise et connaît une **déprise agricole** qui se manifeste par une diminution du nombre d’exploitations, des équipements moins modernes et des abandons de terres agricoles. 
 
-- **Déprise agricole** : abandon progressif des activités agricoles sur un territoire. 
+- **Déprise agricole** : abandon progressif des activités agricoles sur un territoire 
 
 ### Un renouveau grâce à la valorisation des atouts
 
