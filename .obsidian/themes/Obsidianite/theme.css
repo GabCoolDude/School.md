@@ -44,10 +44,10 @@
 } */
 
 .theme-dark {
-  --background-primary: #100e17;
-  --background-primary-alt: #0d0b12;
-  --background-secondary: #191621;
-  --background-secondary-alt: #0d0b12;
+  --background-primary: rgb(17, 24, 39);
+  --background-primary-alt: rgb(15, 24, 43);
+  --background-secondary: rgb(31, 41, 55);
+  --background-secondary-alt: rgb(24, 35, 51);
   --text-normal: #bebebe;
   --text-accent: rgb(245 158 11);
   --text-sub-accent: rgb(239 68 68);
