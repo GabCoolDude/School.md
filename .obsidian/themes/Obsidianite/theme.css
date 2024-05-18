@@ -506,7 +506,7 @@ h6 {
   border-bottom: 1px solid;
   border-width: 1px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+  border-image-source: linear-gradient(to right, var(--text-sub-accent), var(--text-sub-accent), #100e17, #100e17);
 }
 
 .HyperMD-header.HyperMD-header-3,
@@ -516,7 +516,7 @@ h6 {
   border-bottom: 1px solid;
   border-width: 1px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-sub-accent-2)), #100e17, #100e17, #100e17);
+  border-image-source: linear-gradient(to right, var(--text-accent), var(--text-faint), #100e17, #100e17);
 }
 
 .HyperMD-header {
