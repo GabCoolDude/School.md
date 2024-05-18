@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Dates importantes.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Dates importantes.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Dates importantes.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Dates importantes.md"
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "b0dc647b020904d6",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Collège/Dates importantes.md",
     "Collège/Oraux de langues.md",
     "Collège/Oral DNB.md",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
@@ -176,7 +178,6 @@
     "Images/Nouveau dossier",
     "IMG_0373.heic",
     "Template.md",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Mise au propre du cours de Français du Jeudi 2 Mai 2024.md",
     "Images/Math/Fonction.png",
     "Images/Math/Antécédent & Image.png",
@@ -189,7 +190,6 @@
     "Images/Math",
     "Images",
     "Templates",
-    "Collège/Dates importantes.md",
     "Collège",
     "Lycée",
     "README.md",
