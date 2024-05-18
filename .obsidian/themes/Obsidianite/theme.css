@@ -10,15 +10,13 @@
 **  —— Modified with ❤️ by GabCoolGuy
 ** --------------------------------------------------------------- */
 
-/******************************************
-   Currently only comes in dark theme,
-   Light theme is still working in progress,
-   but it wil come soon or later.
-******************************************/
+/*********************************************
+   Light theme is still a working in progress
+**********************************************/
 
 .theme-light {
   --background-primary: rgb(232, 234, 236);
-  --background-primary-alt: rgb(232, 234, 236);
+  --background-primary-alt: rgb(214, 215, 217);
   --background-secondary: rgb(214, 215, 217);
   --background-secondary-alt: rgb(214, 215, 217);
   --text-normal: #333;
@@ -36,7 +34,7 @@
   --text-a-hover: rgb(245, 158, 11);
   --text-mark: #d3ffa4;
   --code-background: var(--background-secondary);
-  --interactive-accent: #92a1a1;
+  --interactive-accent: rgb(245 158 11);
   --interactive-accent-hover: #b4bbbb;
   --interactive-before: #5e6565;
   --background-modifier-border: #92a1a17a;
@@ -45,6 +43,13 @@
   --interactive-accent-rgb: 61, 215, 251;
   --font-family-editor: 'Rubik';
   --font-family-preview: 'Rubik';
+  --bg-sub-accent-55: rgba(244, 86, 157, 0.55);
+  --bg-accent-55: rgba(14, 210, 247, 0.55);
+  --bg-accent-25: rgba(14, 210, 247, 0.25);
+  --text-highlight-bg: rgba(244, 86, 157, 0.25);
+  --table-border-color: rgb(14, 210, 247, 0.15);
+  --test-color: rgb(122, 162, 247);
+  --editor-border-color: #101014;
 }
 
 .theme-dark {
