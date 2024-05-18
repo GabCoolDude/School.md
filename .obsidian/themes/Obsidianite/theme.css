@@ -51,6 +51,7 @@
   --text-normal: #bebebe;
   --text-accent: #0fb6d6;
   --text-sub-accent: #f4569d;
+  --text-sub-accent-2: #d95808;
   --text-dim: #45aaff;
   --text-faint: #7aa2f7;
   --text-title-h1: #cbdbe5;
@@ -501,7 +502,13 @@ h6 {
   font-weight: 600;
 }
 
-.HyperMD-header.HyperMD-header-2,
+.HyperMD-header.HyperMD-header-2 {
+  border-bottom: 1px solid;
+  border-width: 1px;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+}
+
 .HyperMD-header.HyperMD-header-3,
 .HyperMD-header.HyperMD-header-4,
 .HyperMD-header.HyperMD-header-5,
@@ -509,7 +516,7 @@ h6 {
   border-bottom: 1px solid;
   border-width: 1px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+  border-image-source: linear-gradient(to right, var(--text-sub-accent-2)), #100e17, #100e17, #100e17);
 }
 
 .HyperMD-header {
