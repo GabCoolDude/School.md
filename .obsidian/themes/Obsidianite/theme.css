@@ -675,8 +675,6 @@ strong kbd {
 | ITALIC STYLES
 **--------------------**/
 
-
-
 .markdown-source-view .cm-em, .markdown-rendered em {
   -webkit-background-clip: text;
   color: transparent;
