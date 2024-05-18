@@ -17,10 +17,10 @@
 ******************************************/
 
 .theme-light {
-  --background-primary: rgb(207, 210, 213);
-  --background-primary-alt: #fbfbfb;
-  --background-secondary: #fbfbfb;
-  --background-secondary-alt: #2e3236;
+  --background-primary: rgb(232, 234, 236);
+  --background-primary-alt: rgb(232, 234, 236);
+  --background-secondary: rgb(214, 215, 217);
+  --background-secondary-alt: rgb(214, 215, 217);
   --text-normal: #333;
   --text-faint: #b2b2b2;
   --text-title-h1: #333;
