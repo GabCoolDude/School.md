@@ -51,8 +51,8 @@
   --text-normal: #bebebe;
   --text-accent: rgb(245 158 11);
   --text-sub-accent: rgb(239 68 68);
-  --text-dim: #45aaff;
-  --text-faint: #7aa2f7;
+  --text-dim: rgb(245 158 11);
+  --text-faint: rgb(245 158 11);
   --text-title-h1: #bebebe;
   --text-title-h2: #a4a4a4;
   --text-title-h3: #8a8a8a;
