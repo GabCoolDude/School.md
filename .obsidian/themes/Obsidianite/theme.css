@@ -54,10 +54,10 @@
   --text-dim: #45aaff;
   --text-faint: #7aa2f7;
   --text-title-h1: #bebebe;
-  --text-title-h2: #bebebe;
-  --text-title-h3: #bebebe;
-  --text-title-h4: #bebebe;
-  --text-title-h5: #bebebe;
+  --text-title-h2: #a4a4a4;
+  --text-title-h3: #8a8a8a;
+  --text-title-h4: #757575;
+  --text-title-h5: #504f4f;
   --text-link: rgb(245, 158, 11);
   --text-a: #6bcafb;
   --text-a-hover: #6bcafb;
@@ -505,10 +505,10 @@ body {
   --inline-title-color: var(--h1-color);
   --h1-color: var(--text-title-h1);
   --h2-color: var(--text-title-h2);
-  --h3-color: var(--text-title-h1);
-  --h4-color: var(--text-title-h1);
-  --h5-color: var(--text-title-h1);
-  --h6-color: var(--text-title-h1);
+  --h3-color: var(--text-title-h3);
+  --h4-color: var(--text-title-h4);
+  --h5-color: var(--text-title-h5);
+  --h6-color: var(--text-title-h6);
 }
 
 .HyperMD-header.HyperMD-header-2 {
