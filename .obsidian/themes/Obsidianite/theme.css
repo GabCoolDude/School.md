@@ -675,10 +675,13 @@ strong kbd {
 | ITALIC STYLES
 **--------------------**/
 
-.cm-em,
-em {
-  color: #bb9af7 !important;
+
+
+.markdown-source-view .cm-em, .markdown-rendered em {
+  -webkit-background-clip: text;
+  color: transparent;
   font-family: OperatorMonoSSmLig-Book, Rubik, var(--default-font) !important;
+  background-image: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%);
 }
 
 .cm-em.cm-formatting-em {
