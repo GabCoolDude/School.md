@@ -59,7 +59,7 @@
   --text-title-h3: #cbdbe5;
   --text-title-h4: #cbdbe5;
   --text-title-h5: #cbdbe5;
-  --text-link: #b4b4b4;
+  --text-link: rgb(245, 158, 11);
   --text-a: #6bcafb;
   --text-a-hover: #6bcafb;
   --text-mark: #263d92;
@@ -506,7 +506,7 @@ h6 {
   border-bottom: 1px solid;
   border-width: 1px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-sub-accent), var(--text-sub-accent), #100e17, #100e17);
+  border-image-source: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%, #100e17, #100e17);
 }
 
 .HyperMD-header.HyperMD-header-3,
@@ -516,7 +516,7 @@ h6 {
   border-bottom: 1px solid;
   border-width: 1px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-accent), var(--text-faint), #100e17, #100e17);
+  border-image-source: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%, #100e17, #100e17);
 }
 
 .HyperMD-header {
