@@ -502,13 +502,13 @@ h6 {
 }
 
 body {
-  -inline-title-color: var(--h1-color);
+  --inline-title-color: var(--h1-color);
   --h1-color: var(--text-accent);
   --h2-color: var(--text-sub-accent);
   --h3-color: var(--text-accent);
-  --h4-color: var(--color-green);
-  --h5-color: var(--color-blue);
-  --h6-color: var(--color-purple);
+  --h4-color: var(--text-sub-accent);
+  --h5-color: var(--text-accent);
+  --h6-color: var(--text-sub-accent);
 }
 
 .HyperMD-header.HyperMD-header-2 {
