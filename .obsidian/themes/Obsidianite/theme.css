@@ -501,14 +501,12 @@ h6 {
   font-weight: 600;
 }
 
-body {
-  --inline-title-color: var(--h1-color);
-  --h1-color: var(--text-title-h1);
-  --h2-color: var(--text-title-h2);
-  --h3-color: var(--text-title-h3);
-  --h4-color: var(--text-title-h4);
-  --h5-color: var(--text-title-h5);
-  --h6-color: var(--text-title-h6);
+/* gradient for h1*/
+.markdown-source-view .HyperMD-header-1 .cm-header, .markdown-rendered h1 {
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%);
 }
 
 .HyperMD-header.HyperMD-header-2 {
