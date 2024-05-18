@@ -16,8 +16,8 @@
    but it wil come soon or later.
 ******************************************/
 
-/* .theme-light {
-  --background-primary: #fbfbfb;
+.theme-light {
+  --background-primary: rgb(207, 210, 213);
   --background-primary-alt: #fbfbfb;
   --background-secondary: #fbfbfb;
   --background-secondary-alt: #2e3236;
@@ -41,7 +41,7 @@
   --interactive-accent-rgb: 61, 215, 251;
   --font-family-editor: Avenir, 'Avenir Next';
   --font-family-preview: Avenir, 'Avenir Next';
-} */
+}
 
 .theme-dark {
   --background-primary: rgb(17, 24, 39);
