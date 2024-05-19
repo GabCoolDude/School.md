@@ -221,7 +221,7 @@ a.tag[href*='#想法'] {
 
 .status-bar {
   background-color: var(--background-primary-alt);
-  border-color: #101014;
+  border-color: var(--divider-color);
   color: var(--text-faint);
   position: absolute;
   margin: auto;
