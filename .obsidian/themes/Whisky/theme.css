@@ -349,7 +349,7 @@ body:not(.is-grabbing) .nav-folder-title:hover .nav-folder-collapse-indicator {
 
 /** SETTINGS STYLES **/
 .checkbox-container.is-enabled {
-  background-color: rgba(14, 210, 247, 0.7);
+  background-color: rgb(245, 158, 11);
 }
 
 .workspace-drop-overlay {
