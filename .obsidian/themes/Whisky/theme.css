@@ -14,9 +14,9 @@
    Light theme is still a working in progress
 **********************************************/
 
-/*.theme-light {
+.theme-light {
   --background-primary: rgb(232, 234, 236);
-  --background-primary-alt: rgb(214, 215, 217);
+  --background-primary-alt: rgb(111, 130, 169);
   --background-secondary: rgb(214, 215, 217);
   --background-secondary-alt: rgb(214, 215, 217);
   --text-normal: #333;
@@ -52,7 +52,7 @@
   --editor-border-color: #101014;
   --divider-color: rgb(186, 191, 195);
   --status-bar-border-width: 0px;
-}*/
+}
 
 .theme-dark {
   --background-primary: rgb(17, 24, 39);
