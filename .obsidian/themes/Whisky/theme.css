@@ -15,10 +15,10 @@
 **********************************************/
 
 .theme-light {
-  --background-primary: rgb(232, 234, 236);
-  --background-primary-alt: rgb(111, 130, 169);
-  --background-secondary: rgb(214, 215, 217);
-  --background-secondary-alt: rgb(214, 215, 217);
+  --background-primary: rgb(212, 213, 214);
+  --background-primary-alt: rgb(200, 201, 203);
+  --background-secondary: rgb(200, 201, 203);
+  --background-secondary-alt: rgb(200, 201, 203);
   --text-normal: #333;
   --text-accent: rgb(245 158 11);
   --text-sub-accent: rgb(239 68 68);
