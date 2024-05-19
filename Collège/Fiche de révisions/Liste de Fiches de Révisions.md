@@ -7,8 +7,6 @@ Voici les Fiches de Révisions pour le Brevet :
 
 Il reste encore des Fiches de Révisions à faire :
 
-<ul></ul>
-
 - [ ] Fiche de révision SVT ➕ 2024-02-21
 - [ ] Fiche de révision Physique-Chimie ➕ 2024-02-21 
 - [ ] Fiche de révision Technologie  ➕ 2024-02-21 
