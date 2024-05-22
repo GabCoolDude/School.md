@@ -149,9 +149,6 @@ Disparition de la ponctuation du discours direct, verbes souvent au passé et 3�
 Contrairement au discours indirect, conserve exclamation, interrogation, apostrophe, lexique et niveau de langue
 # Figures de styles :
 
-L’énumération est une suite de mots qui se rapportent à des mêmes idées.
-*J'ai amené mes patins, mes skis, mes bottes et mes raquettes.*
-
 L’anaphore est une répétition d’une même expression ou d’un même mot en début de phrase ou de vers.
 *Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire*
 ### Figures de ressemblance et d'opposition
@@ -166,18 +163,22 @@ L’anaphore est une répétition d’une même expression ou d’un même mot e
 | Périphrase       | Remplace un mot par une expression de même sens.<br>*Il maitrise parfaitement la langue de Shakespeare.* (= l'anglais)                                                                                                |
 ### Figures d'opposition
 
-| Figure de style | Définition et exemple                                                                                                 |
-| --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Antithèse       | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.* |
-| Oxymore         | Association de mots avec des sens contraires.<br>*Une douce violence.*                                                |
+| Figure de style | Définition et exemple                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Antithèse       | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.*                 |
+| Oxymore         | Association de mots avec des sens contraires.<br>*Une douce violence.*                                                                |
+| Antiphrase      | Consiste à dire le contraire de ce que l'on veut exprimer ( souvent ironique)<br>*Prends ton temps surtout, hein !* (= dépêche toi !) |
 ### Figures d'amplification
-| Figure de style | Définition et exemple                                                                               |
-| --------------- | --------------------------------------------------------------------------------------------------- |
-| Hyperbole       | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.* |
+| Figure de style | Définition et exemple                                                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hyperbole       | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.*                                                                                   |
+| Accumulation    | Consiste à énumérer des éléments pour donner une impression de grande quantité ou pour insister sur un aspect.<br>*Des liquides rouges, jaunes, verts, bruns, de toutes les nuances.* |
+| Gradation       |  Succession d'éléments ordonnées de manière croissant ou décroissante                                                                                                                 |
 ### Figures d'atténuation
 | Figure de style | Définition et exemple                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------ |
 | Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* ) |
+| Litote          | Consiste à dire moins pour suggérer plus.<br>*Va, je ne te hais point.* (= je t'aime)                        |
 ### Figures de répétition
 | Figure de style | Définition et exemple                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------ |
