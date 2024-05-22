@@ -156,7 +156,7 @@ Contrairement au discours indirect, conserve exclamation, interrogation, apostro
 | Métaphore        | Met en relation deux éléments sans outil de comparaison.<br>*La mer est un miroir.*                                                                                                                                   |
 | Personnification | Attribue des comportements humains à des animaux, des éléments de la nature, des objets…<br>*La nuit rassemble son troupeau d'étoiles.*                                                                               |
 | Allégorie        | Représente de manière concrète une réalité abstraite.<br>*Cupidon est une allégorie de l'amour : les yeux bandés représentent l'aveuglement de l'amour, la flèche représente la blessure de l'amour*                  |
-| Métonymie        | Remplace un mot par un autre selon un lien logique (contenu/contenant ; oeuvre/auteur, etc.)<br>*Boire un verre. Croiser le fer*                                                                                      |
+| Métonymie        | Remplace un mot par un autre selon un lien logique (contenu/contenant ; oeuvre/auteur, etc.)<br>*Nous avons bu une excellente bouteille* - La bouteille (contenant) désigne le vin (contenu).                         |
 | Périphrase       | Remplace un mot par une expression de même sens.<br>*Il maitrise parfaitement la langue de Shakespeare.* (= l'anglais)                                                                                                |
 ### Figures d'opposition
 
