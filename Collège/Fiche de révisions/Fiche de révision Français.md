@@ -148,9 +148,6 @@ Disparition de la ponctuation du discours direct, verbes souvent au passé et 3�
 
 Contrairement au discours indirect, conserve exclamation, interrogation, apostrophe, lexique et niveau de langue
 # Figures de styles :
-
-L’anaphore est une répétition d’une même expression ou d’un même mot en début de phrase ou de vers.
-*Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire*
 ### Figures de ressemblance et d'opposition
 
 | Figure de style  | Définition et exemple                                                                                                                                                                                                 |
@@ -175,14 +172,16 @@ L’anaphore est une répétition d’une même expression ou d’un même mot e
 | Accumulation    | Consiste à énumérer des éléments pour donner une impression de grande quantité ou pour insister sur un aspect.<br>*Des liquides rouges, jaunes, verts, bruns, de toutes les nuances.* |
 | Gradation       |  Succession d'éléments ordonnées de manière croissant ou décroissante                                                                                                                 |
 ### Figures d'atténuation
-| Figure de style | Définition et exemple                                                                                        |
-| --------------- | ------------------------------------------------------------------------------------------------------------ |
-| Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* ) |
-| Litote          | Consiste à dire moins pour suggérer plus.<br>*Va, je ne te hais point.* (= je t'aime)                        |
+| Figure de style | Définition et exemple                                                                                                                                                                                     |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* )                                                                                              |
+| Litote          | Consiste à dire moins pour suggérer plus.<br>*Va, je ne te hais point.* (= je t'aime)<br>Au contraire de l'euphémisme, la litote n'a pas pour but d'atténuer le propos, mais de lui donner plus de force. |
 ### Figures de répétition
-| Figure de style | Définition et exemple                                                                                        |
-| --------------- | ------------------------------------------------------------------------------------------------------------ |
-| Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* ) |
+| Figure de style | Définition et exemple                                                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Anaphore        | Répétition d’une même expression ou d’un même mot en début de phrase ou de vers.<br>*Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire* |
+| Assonance       | Consiste à répéter un **son** voyelle.<br>*Tout m'affl**i**ge et me nu**i**t et conspire à me nu**i**re*                                                                              |
+| Allitération    | Consiste à répéter un **son** consonne.                                                                                                                                               |
 # Lexique du théâtre
 
 Les didascalies sont des énoncés qui donnent des informations et qui ne sont pas censé être prononcé sur scène par les acteurs : *CRÉON, murmure, comme pour lui*
