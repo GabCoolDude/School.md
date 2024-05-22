@@ -1,8 +1,8 @@
 # Valeurs des temps :
+## Présent de l’indicatif :
 
-Présent de l’indicatif :
-
-habitude / vérité générale / énonciation / injonction (ordre) / passé proche / futur proche
+Habitude / Vérité générale / Enonciation / Injonction (ordre) / Passé proche / Futur proche
+## Passé simple et Imparfait
 
 | Passé simple                                                                                                                                                                                 | Imparfait                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -19,24 +19,21 @@ A quoi d'autre sert l'imparfait ?
 - imparfait de concordance : après un verbe au passé, le présent d’une proposition subordonnée est transposée mécaniquement par un imparfait : «Créon déclara : ‘‘*Je désire la paix*’’. » => «* Créon déclara qu’il désirait la paix.* » (au discours indirect libre : « *Créon prit la parole. Il désirait la paix.* »)
 - l'imparfait d’atténuation ou d’hypothèse : « *Je voulais des carottes, pas des petits pois.* »
 - imparfait en système hypothétique : SI + imparfait, conditionnel présent => « *Si Antigone parvenait à enterrer son frère, elle accomplirait la volonté des dieux.* »
-
-Valeurs du plus-que-parfait : 
+## Plus-que-parfait
 
 - exprime un fait passé et accompli, sans précision de début ou de fin : « Il avait neigé. »
 - indique une répétition dans le passé : «Quand il avait neigé, on passait le chasse-neige.»
 - indique l’antériorité par rapport à l’imparfait, au passé simple ou au passé composé (= le passé dans le passé) : « Quand il avait neigé, on passait le chasse-neige. »
 - exprime une atténuation : « J’étais venu vous demander un peu de sucre. »
 - exprime une hypothèse : Si + plus-que-parfait, conditionnel passé  « S’il avait révisé, il aurait réussi. »
-
-Valeurs du futur simple : 
+## Futur simple
 
 - exprime une action qui va se produire de façon certaine : « J’irai au théâtre ce soir. »
 - futur à valeur jussive : « Tu viendras me voir sans faute à dix heures. »
 - futur de promesse : « Désormais, je ne boirai que du café. »
 - futur de politesse : « Cela fera cinq euros. »
 - Si + présent de l'indicatif, futur simple : « Si je travaille, je réussirai ».
-
-Valeurs du conditionnel présent : 
+## Conditionnel présent
 
 - futur dans le passé : « Il pense qu’elle réussira » => « Il pensait qu’elle réussirait. »
 - expression de l’atténuation (ordre, reproche) : « Je voudrais un renseignement » ; « Tu pourrais écouter »
@@ -44,8 +41,7 @@ Valeurs du conditionnel présent :
 - fait soumis à une condition : Si + imparfait, conditionnel présent : « Si tu venais aujourd'hui, je serais content. »
 - expression d’une hypothèse : « Le tueur se cacherait dans les bois. »
 - expression de l’imaginaire : « Moi je serais le docteur et toi tu serais la malade. »
-
-Valeurs du subjonctif présent : 
+## Subjonctif présent
 
 - souhait
 - doute
@@ -54,8 +50,7 @@ Valeurs du subjonctif présent :
 - ordre à la 3ème personne 
 - action à venir
 - but
-
-Valeurs de l’impératif : 
+##  Impératif présent
 
 - ordre
 - conseil
