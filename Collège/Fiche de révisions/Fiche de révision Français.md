@@ -1,6 +1,8 @@
 # Valeurs des temps :
 
-Présent de l’indicatif : habitude / vérité générale / énonciation / injonction (ordre) / passé proche / futur proche
+Présent de l’indicatif :
+
+habitude / vérité générale / énonciation / injonction (ordre) / passé proche / futur proche
 
 | Passé simple                                                                                                                                                                                 | Imparfait                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
