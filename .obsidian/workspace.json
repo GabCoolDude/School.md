@@ -11,8 +11,12 @@
             "id": "b0dc647b020904d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md"
+              }
             }
           }
         ]
@@ -140,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8512c0ca28a16fd9",
+  "active": "b0dc647b020904d6",
   "lastOpenFiles": [
     "DNB.md",
     "Collège/Dates importantes.md",
