@@ -150,7 +150,7 @@ Contrairement au discours indirect, conserve exclamation, interrogation, apostro
 # Figures de styles :
 ### Figures de ressemblance et d'opposition
 
-| Figure de style  | Définition et exemple                                                                                                                                                                                                 |
+| Figure de style  | Définition et example                                                                                                                                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Comparaison      | Met en relation deux éléments (des mots) à l’aide d’un outil (mot) de comparaison.<br>*Des yeux qui brillent comme des étoiles.*<br>Les outils de comparaison les plus fréquents sont comme, tel que et pareil (que). |
 | Métaphore        | Met en relation deux éléments sans outil de comparaison.<br>*La mer est un miroir.*                                                                                                                                   |
