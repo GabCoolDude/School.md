@@ -148,7 +148,7 @@ Disparition de la ponctuation du discours direct, verbes souvent au passé et 3�
 
 Contrairement au discours indirect, conserve exclamation, interrogation, apostrophe, lexique et niveau de langue
 # Figures de styles :
-## Figures de ressemblance et d'opposition
+## Figures de ressemblance
 
 | Figure de style  | Définition et example                                                                                                                                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
