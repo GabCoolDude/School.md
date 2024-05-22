@@ -7,3 +7,5 @@ Utiliser [Obsidian](https://obsidian.md/) pour regarder ces fichiers car GitHub 
 Il est recommander d'utiliser le thème [Whisky](https://github.com/GabCoolDude/Obsidian-Whisky) qui doit **normalement** venir préinstaller
 
 ---
+
+FAIT PAR GABRIEL
