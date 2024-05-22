@@ -164,18 +164,33 @@ L’anaphore est une répétition d’une même expression ou d’un même mot e
 L’oxymore est une association de mots avec des sens contraires.
 *Une douce violence.*
 
-### Figures de ressemblance et d
+### Figures de ressemblance et d'opposition
 
 | Figure de style  | Définition et exemple                                                                                                                                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Comparaison      | Met en relation deux éléments (des mots) à l’aide d’un outil (mot) de comparaison.<br>*Des yeux qui brillent comme des étoiles.*<br>Les outils de comparaison les plus fréquents sont comme, tel que et pareil (que). |
 | Métaphore        | Met en relation deux éléments sans outil de comparaison.<br>*La mer est un miroir.*                                                                                                                                   |
 | Personnification | Attribue des comportements humains à des animaux, des éléments de la nature, des objets…<br>*La nuit rassemble son troupeau d'étoiles.*                                                                               |
-| Antithèse        | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.*                                                                                                 |
-| Euphémisme       | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* )                                                                                                          |
-| Hyperbole        | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.*                                                                                                                   |
+| Allégorie        | Représente de manière concrète une réalité abstraite.<br>*Cupidon est une all*                                                                                                                                        |
 |                  |                                                                                                                                                                                                                       |
 
+### Figure d'opposition
+
+| Figure de style | Définition et exemple                                                                                                 |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Antithèse       | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.* |
+### Figures d'amplification
+| Figure de style | Définition et exemple                                                                               |
+| --------------- | --------------------------------------------------------------------------------------------------- |
+| Hyperbole       | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.* |
+### Figures d'atténuation
+| Figure de style | Définition et exemple                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------ |
+| Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* ) |
+### Figures de répétition
+| Figure de style | Définition et exemple                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------ |
+| Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* ) |
 # Lexique du théâtre
 
 Les didascalies sont des énoncés qui donnent des informations et qui ne sont pas censé être prononcé sur scène par les acteurs : *CRÉON, murmure, comme pour lui*
