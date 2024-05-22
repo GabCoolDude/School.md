@@ -181,7 +181,8 @@ Contrairement au discours indirect, conserve exclamation, interrogation, apostro
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Anaphore        | Répétition d’une même expression ou d’un même mot en début de phrase ou de vers.<br>*Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire* |
 | Assonance       | Consiste à répéter un **son** voyelle.<br>*Tout m'affl**i**ge et me nu**i**t et conspire à me nu**i**re*                                                                              |
-| Allitération    | Consiste à répéter un **son** consonne.                                                                                                                                               |
+| Allitération    | Consiste à répéter un **son** consonne.<br>*Pour qui **s**ont **c**es serpents qui **s**iffle **s**ur nos têtes*                                                                      |
+| Paranomase      | Rapproche des mots qui ont des sonorités identiques ou similaires.<br>*Il **pleure** dans mon cœur comme il **pleut** dans la ville*                                                  |
 # Lexique du théâtre
 
 Les didascalies sont des énoncés qui donnent des informations et qui ne sont pas censé être prononcé sur scène par les acteurs : *CRÉON, murmure, comme pour lui*
