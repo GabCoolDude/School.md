@@ -149,24 +149,11 @@ Disparition de la ponctuation du discours direct, verbes souvent au passé et 3�
 Contrairement au discours indirect, conserve exclamation, interrogation, apostrophe, lexique et niveau de langue
 # Figures de styles :
 
-La comparaison met en relation deux éléments (des mots) à l’aide d’un outil (mot) de comparaison.
-*Des yeux qui brillent comme des étoiles.*
-Les outils de comparaison les plus fréquents sont comme, tel que et pareil (que).
 
-La métaphore met en relation deux éléments sans outil de comparaison.
-*La mer est un miroir.*
 
-La personnification attribue des comportements humains à des animaux, des éléments de la nature, des objets…
-*La nuit rassemble son troupeau d'étoiles.*
 
-L’antithèse consiste à opposer deux expressions ou deux notions contraires.
-*Plus on veut les brouiller, plus on va les unir.*
 
-L’euphémisme sert à atténuer un propos désagréable ou choquant.
-*Il nous a quittés.* ( atténuation de *Il est mort.* )
 
-L’hyperbole est une mise en valeur via l'exagération.
-*Je meurs de faim.* : exagération de *J'ai très faim.*
 
 L’énumération est une suite de mots qui se rapportent à des mêmes idées.
 *J'ai amené mes patins, mes skis, mes bottes et mes raquettes.*
@@ -176,6 +163,19 @@ L’anaphore est une répétition d’une même expression ou d’un même mot e
 
 L’oxymore est une association de mots avec des sens contraires.
 *Une douce violence.*
+
+### Figures de ressemblance et d
+
+| Figure de style  | Définition et exemple                                                                                                                                                                                                 |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comparaison      | Met en relation deux éléments (des mots) à l’aide d’un outil (mot) de comparaison.<br>*Des yeux qui brillent comme des étoiles.*<br>Les outils de comparaison les plus fréquents sont comme, tel que et pareil (que). |
+| Métaphore        | Met en relation deux éléments sans outil de comparaison.<br>*La mer est un miroir.*                                                                                                                                   |
+| Personnification | Attribue des comportements humains à des animaux, des éléments de la nature, des objets…<br>*La nuit rassemble son troupeau d'étoiles.*                                                                               |
+| Antithèse        | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.*                                                                                                 |
+| Euphémisme       | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* )                                                                                                          |
+| Hyperbole        | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.*                                                                                                                   |
+|                  |                                                                                                                                                                                                                       |
+
 # Lexique du théâtre
 
 Les didascalies sont des énoncés qui donnent des informations et qui ne sont pas censé être prononcé sur scène par les acteurs : *CRÉON, murmure, comme pour lui*
