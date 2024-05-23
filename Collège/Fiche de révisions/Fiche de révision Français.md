@@ -56,8 +56,7 @@ A quoi d'autre sert l'imparfait ?
 - conseil
 - prière
 - défense
-# Les classes grammaticales ( natures ) :
-
+# Les classes grammaticales (natures) :
 ## Les classes grammaticales variables :
 
 | Classe | Définition | Catégorie |
@@ -77,7 +76,6 @@ A quoi d'autre sert l'imparfait ?
 | Conjonction de<br>subordination | Relie un proposition <br>subordonnée à sa <br>proposition principale<br><br> | - Que, puisque, parce que, alors que, <br>afin que, si bien que, etc<br>- Quand, comme, si<br>Il dit **qu**’il t’apprécie |
 | Interjection | Exprime un sentiment de l’interlocuteur. <br>Souvent employées dans <br>les dialogues | Ah ? oh ! hein ? ouf ! zut ! <br>oups ! aïe ! mince ! pfff, etc |
 # Les fonctions :
-
 ## Les fonctions liés au nom et à l'adjectif :
 
 Un nom peut être complété par différent expansions qui font parti du groupe nominal:
@@ -134,7 +132,6 @@ L'emploi de la forme emphatique permet de mettre en évidence un élément spéc
 - par modification de l’ordre habituel des mots : ***Qu’elle vienne lui parler**, elle espère tous les jours*
 - par détachement d’un mot en début ou fin de phrase et reprise par un pronom: *Mais <u>Louis</u>, **il** est timide et <u>elle</u>, **elle** est si belle*
 # Les paroles rapportées :
-
 ## Discours direct :
 
 Présence d’un verbe de parole, de guillemets ou de tirets, verbes au présent, 1ère et 2ème personnes
