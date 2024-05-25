@@ -556,7 +556,7 @@ h6 {
   border-bottom: 1px solid;
   border-width: 1px;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%);
+  border-image-source: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 .HyperMD-header {
@@ -566,37 +566,37 @@ h6 {
 .markdown-preview-section h1,
 .cm-header-1 {
   font-size: 34px;
-  color: var(--text-title-h1);
+  color: linear-gradient(to bottom, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 .markdown-preview-section h2,
 .cm-header-2 {
   font-size: 26px;
-  color: var(--text-title-h2);
+  color: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 .markdown-preview-section h3,
 .cm-header-3 {
   font-size: 22px;
-  color: var(--text-title-h3);
+  color: linear-gradient(to right, rgb(245 158 11) 0%, rgb(239 68 68) 100%);
 }
 
 .markdown-preview-section h4,
 .cm-header-4 {
   font-size: 18px;
-  color: var(--text-title-h4);
+  color: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 .markdown-preview-section h5,
 .cm-header-5 {
   font-size: 18px;
-  color: var(--text-title-h5);
+  color: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 .markdown-preview-section h6,
 .cm-header-6 {
   font-size: 18px;
-  color: var(--text-title-h6);
+  color: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 /** headings */
@@ -606,13 +606,13 @@ h6 {
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
   /* padding-top: 1.25rem; */
-  margin: 45px 0 20px 0;
+  margin: px 0 20px 0;
   position: relative;
-  padding-bottom: 10px;
+  padding-bottom: px;
   border-bottom: 1px solid;
   border-width: 35%;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
+  border-image-source: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);;
 }
 
 .view-header-icon {

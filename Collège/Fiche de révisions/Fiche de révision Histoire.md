@@ -418,7 +418,6 @@ Progressivement, la CEE s’affirme et devient une puissance économique et comm
 - **CEE (Communauté économique européenne)** : marché commun créé en 1957 par le traité de Rome signé par les six pays de la CECA. 
 - **Marché commun** : espace de libre circulation des marchandises avec une frontière extérieure commune. 
 ## L’affirmation du projet européen
-
 ### La naissance de l’Union européenne
 
 En 1992, les douze membres de la CEE signent le traité de Maastricht qui crée l’Union européenne (UE). Ce traité prévoit une citoyenneté européenne permettant aux citoyens de voter aux élections municipales et européennes dans n’importe quel pays membre. Il prévoit également une union économique et monétaire ainsi qu’une ébauche de **politique étrangère et de sécurité commune (PESC)**. En 2002, la nouvelle monnaie unique européenne, l’euro, est mise en circulation mais n’est pas adoptée par tous les pays de l’UE. 
