@@ -403,5 +403,45 @@ Lors de leur indépendance, les pays du Tiers-monde sont des pays pauvres, peu i
 En 1945, à l’issue de la Deuxième guerre mondiale, l’Europe est détruite. L’enjeu principal est alors de tout reconstruire et d’éviter la reproduction du même scénario. Le rapprochement des Etats européens apparaît alors comme le moyen de garantir une paix durable, d’éviter le déclin de l’Europe face aux Etats-Unis et l’URSS et de faire rempart contre le communisme. Le principal problème réside alors dans les relations franco-allemandes, considérablement détériorées. Il devient alors essentiel de créer un lien durable entre ces deux pays pour ensuite réunir autour d’eux les pays libres d’Europe. 
 
 ## Les débuts de la construction européenne (1950 – 1992)
+### De la CECA
+
+En 1950, les Français Jean Monnet et Robert Schuman proposent de mettre en commun la production et la consommation de charbon et d’acier dans le cadre d’une organisation européenne. En 1951, la RFA, la France, l’Italie, la Belgique, les Pays-Bas et le Luxembourg signent le traité qui institue la **Communauté européenne du charbon et de l’acier (CECA)** dont les principaux objectifs sont d’assurer la paix et la prospérité en Europe. 
+
+- **CECA (Communauté européenne du charbon et de l’acier)** : marché commun du charbon et de l’acier créé en 1951 par six pays d’Europe de l’Ouest
+### à la CEE
+
+En 1957, les six pays de la CECA concluent les traités de Rome qui donnent naissance à la **Communauté économique européenne (CEE)** et à la Communauté européenne de l’énergie atomique (CEEA ou EURATOM). La CEE prévoit la mise en place d’un **marché commun** permettant la libre circulation des biens, des capitaux et des personnes. La CEEA a été instituée dans le but de développer, à des fins pacifiques, l’énergie atomique au niveau européen. 
+
+Des politiques communes sont mises en œuvre dans le cadre de la CEE. Par exemple, la politique agricole commune (PAC) établie en 1962 ou encore le Fonds européen de développement régional (FEDER) mis en place en 1975 pour réduire les inégalités entre régions. 
+
+Progressivement, la CEE s’affirme et devient une puissance économique et commerciale attractive. Elle s’élargit d’abord au Royaume-Uni, à l’Irlande et au Danemark en 1973 puis à la Grèce, à l’Espagne et au Portugal dans les années 1980.
+
+- **CEE (Communauté économique européenne)** : marché commun créé en 1957 par le traité de Rome signé par les six pays de la CECA. 
+- **Marché commun** : espace de libre circulation des marchandises avec une frontière extérieure commune. 
+
+## L’affirmation du projet européen
+
+### La naissance de l’Union européenne
+
+En 1992, les douze membres de la CEE signent le traité de Maastricht qui crée l’Union européenne (UE). Ce traité prévoit une citoyenneté européenne permettant aux citoyens de voter aux élections municipales et européennes dans n’importe quel pays membre. Il prévoit également une union économique et monétaire ainsi qu’une ébauche de **politique étrangère et de sécurité commune (PESC)**. En 2002, la nouvelle monnaie unique européenne, l’euro, est mise en circulation mais n’est pas adoptée par tous les pays de l’UE. 
+
+La fin de la guerre froide favorise l’**élargissement** de l’Union européenne qui intègre notamment d’anciens pays communistes. Depuis 2013, l’UE compte 28 Etats membres. En 2020, le Royaume-Uni quitte l’UE suite au référendum sur le Brexit. 
+
+- **PESC (politique étrangère et de sécurité commune)** : politique qui encourage la coopération des Etats membres dans les domaines de la diplomatie et de la Défense. 
+- **Elargissement** : ouverture de la CEE puis de l’UE à de nouveaux Etats membres. 
+### Enjeux et défis de la construction européenne
+
+L’Union européenne n’est pas une construction figée et demeure confrontée à de nombreux défis. 
+
+Les élargissements successifs de l’Union européenne soulèvent de nombreux débats : jusqu’où l’Europe peut-elle / doit-elle s’étendre ? Comment concilier l’élargissement de l’Union européenne tout en garantissant son **approfondissement** ? 
+
+De plus, malgré l’instauration de la PESC en 1992, l’UE a toujours du mal à s’imposer comme puissance sur la scène internationale et diplomatique. Notamment, se pose la question de la mise en place d’une armée européenne. 
+
+L’Union européenne se heurte également à des divisions internes et à des résistances, particulièrement de la part de ceux qui y voient une menace pour l’indépendance nationale. Le Royaume-Uni, par exemple, est resté à l’écart de l’euro et de l’espace Schengen avant de s’engager dans un processus de sortie de l’UE depuis la victoire « oui » au référendum sur le « Brexit » de juin 2016. 
+
+De manière générale, les opinions publiques manifestent un **euroscepticisme** grandissant qui a fait échouer en 2005 le projet de Constitution européenne. En 2007, le traité de Lisbonne réforme les institutions européennes pour faciliter la prise de décision dans une Europe élargie et pour se rapprocher des citoyens. 
+
+- **Approfondissement** : intensification des liens et de la coopération entre les Etats membres. 
+- **Euroscepticisme** : ensemble des doutes et des critiques émis à l’encontre de la construction européenne et des résultats à en attendre. 
 
 --- 
