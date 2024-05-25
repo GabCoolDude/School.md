@@ -398,5 +398,10 @@ Les Etats nouvellement indépendants cherchent à s’organiser et à faire ente
 Lors de leur indépendance, les pays du Tiers-monde sont des pays pauvres, peu industrialisés et souffrant de problèmes de développement. A partir des années 1960, ces pays cherchent à se développer. Ils obtiennent la création de la **CNUCED** à l’ONU en 1964 et forment le groupe des 77 qui se charge de défendre leurs intérêts économiques.  
 
 - **CNUCED** (Conférence des Nations-Unies pour le Commerce et le Développement) : organisation créée en 1964 au sein de l’ONU chargée d’aider les pays en développement à améliorer leur commerce et à se développer.  
+# Affirmation et mise en œuvre du projet européen
+
+En 1945, à l’issue de la Deuxième guerre mondiale, l’Europe est détruite. L’enjeu principal est alors de tout reconstruire et d’éviter la reproduction du même scénario. Le rapprochement des Etats européens apparaît alors comme le moyen de garantir une paix durable, d’éviter le déclin de l’Europe face aux Etats-Unis et l’URSS et de faire rempart contre le communisme. Le principal problème réside alors dans les relations franco-allemandes, considérablement détériorées. Il devient alors essentiel de créer un lien durable entre ces deux pays pour ensuite réunir autour d’eux les pays libres d’Europe. 
+
+## Les débuts de la construction européenne (1950 – 1992)
 
 --- 
