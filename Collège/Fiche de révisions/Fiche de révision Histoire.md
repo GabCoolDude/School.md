@@ -400,8 +400,7 @@ Lors de leur indépendance, les pays du Tiers-monde sont des pays pauvres, peu i
 - **CNUCED** (Conférence des Nations-Unies pour le Commerce et le Développement) : organisation créée en 1964 au sein de l’ONU chargée d’aider les pays en développement à améliorer leur commerce et à se développer.  
 # Affirmation et mise en œuvre du projet européen
 
-En 1945, à l’issue de la Deuxième guerre mondiale, l’Europe est détruite. L’enjeu principal est alors de tout reconstruire et d’éviter la reproduction du même scénario. Le rapprochement des Etats européens apparaît alors comme le moyen de garantir une paix durable, d’éviter le déclin de l’Europe face aux Etats-Unis et l’URSS et de faire rempart contre le communisme. Le principal problème réside alors dans les relations franco-allemandes, considérablement détériorées. Il devient alors essentiel de créer un lien durable entre ces deux pays pour ensuite réunir autour d’eux les pays libres d’Europe. 
-
+En 1945, à l’issue de la Deuxième guerre mondiale, l’Europe est détruite. L’enjeu principal est alors de tout reconstruire et d’éviter la reproduction du même scénario. Le rapprochement des Etats européens apparaît alors comme le moyen de garantir une paix durable, d’éviter le déclin de l’Europe face aux Etats-Unis et l’URSS et de faire rempart contre le communisme. Le principal problème réside alors dans les relations franco-allemandes, considérablement détériorées. Il devient alors essentiel de créer un lien durable entre ces deux pays pour ensuite réunir autour d’eux les pays libres d’Europe. ![[Capture d'écran 2024-05-25 153737.png]]
 ## Les débuts de la construction européenne (1950 – 1992)
 ### De la CECA
 
@@ -418,7 +417,6 @@ Progressivement, la CEE s’affirme et devient une puissance économique et comm
 
 - **CEE (Communauté économique européenne)** : marché commun créé en 1957 par le traité de Rome signé par les six pays de la CECA. 
 - **Marché commun** : espace de libre circulation des marchandises avec une frontière extérieure commune. 
-
 ## L’affirmation du projet européen
 
 ### La naissance de l’Union européenne
