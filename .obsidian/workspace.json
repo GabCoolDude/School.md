@@ -11,12 +11,8 @@
             "id": "bed396a33b50955d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,17 +142,17 @@
   },
   "active": "bed396a33b50955d",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+    "Collège/Dates importantes.md",
     "Images/Histoire/Capture d'écran 2024-05-25 153737.png",
     "Images/Histoire",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
-    "Collège/Dates importantes.md",
-    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "DNB.md",
     "README.md",
-    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Images/Géographie/Capture d'écran 2024-05-17 221552.png",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège/Oral DNB.md",
     "Collège/Oraux de langues.md",
     "Images/Géographie/Capture d'écran 2024-05-17 223030.png",
@@ -178,7 +170,6 @@
     "Images/Math/Antécédent & Image.png",
     "Images/Math",
     "Images",
-    "Images/Math/IMG_0369.jpeg",
     "Images/Math",
     "Images",
     "Templates",
