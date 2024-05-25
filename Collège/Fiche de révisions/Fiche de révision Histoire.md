@@ -440,5 +440,4 @@ De manière générale, les opinions publiques manifestent un **euroscepticisme*
 
 - **Approfondissement** : intensification des liens et de la coopération entre les Etats membres. 
 - **Euroscepticisme** : ensemble des doutes et des critiques émis à l’encontre de la construction européenne et des résultats à en attendre. 
-
 --- 

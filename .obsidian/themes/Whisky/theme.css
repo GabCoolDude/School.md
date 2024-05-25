@@ -606,13 +606,13 @@ h6 {
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
   /* padding-top: 1.25rem; */
-  margin: px 0 20px 0;
+  margin: 15px 0 20px 0;
   position: relative;
-  padding-bottom: px;
+  padding-bottom: 0px;
   border-bottom: 1px solid;
   border-width: 35%;
   border-image-slice: 1;
-  border-image-source: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);;
+  border-image-source: linear-gradient(to right, rgb(239 68 68) 0%, rgb(245 158 11) 100%);
 }
 
 .view-header-icon {
