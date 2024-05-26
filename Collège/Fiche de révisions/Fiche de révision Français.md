@@ -95,8 +95,7 @@ Le Complément d’objet indirect ( COI ) répond à la question “à qui ? à 
 L’attribut du sujet est relié au sujet qu’il caractérise par un verbe d’état ( être, paraître, sembler… ): *L’amitié est **une chose admirable***
 💡Astuce : On peut reconnaître les verbes d'états en les remplaçants par le signe égal ( = ) ou par un autre verbe d'état
 
-Les compléments essentiels ne peuvent pas être supprimés ni déplacés. Ils peuvent être de lieu
-( après un verbe de localisation, de mouvement et de certain tournures passives comme être situé: *Gabriel habite **à Paris***), de temps ( après les verbes durer et dater : *Le voyage de Marius a duré **2 ans***) et de mesure ( après les verbes coûter, peser, mesurer et parcourir: *Ce paquet de bonbon coûte **2 euros***).
+Les compléments essentiels ne peuvent pas être supprimés ni déplacés. Ils peuvent être de lieu ( après un verbe de localisation, de mouvement et de certain tournures passives comme être situé: *Gabriel habite **à Paris***), de temps ( après les verbes durer et dater : *Le voyage de Marius a duré **2 ans***) et de mesure ( après les verbes coûter, peser, mesurer et parcourir: *Ce paquet de bonbon coûte **2 euros***).
 ## Les Compléments Circonstanciels :
 
 Les compléments circonstanciels peuvent être supprimés et déplacés. Ils précisent les circonstances de l’action, il peut être:
