@@ -183,13 +183,13 @@ Les **didascalies** sont des énoncés qui donnent des informations et qui ne so
 
 Les **répliques** sont des prises de paroles des personnages qui sont destinées à être prononcés sur scène par les acteurs : *Quel jeu joues-tu ?*
 
-Une tirade est une longue réplique qui permet à un personnage de développer sa pensée, c’est souvent un moment important.
+Une **tirade** est une longue réplique qui permet à un personnage de développer sa pensée, c’est souvent un moment important.
 
-Un monologue est une tirade qu’un personnage se tient à lui-même ( **il parle tout seul** ) pour évoquer le passé, exprimer un sentiment ou autre.
+Un **monologue** est une tirade qu’un personnage se tient à lui-même ( **il parle tout seul** ) pour évoquer le passé, exprimer un sentiment ou autre.
 
-Un aparté est une réplique qu’un acteur dit “à part” sur la scène et qui n’est censé être entendue que par les spectateurs.
+Un **aparté** est une réplique qu’un acteur dit “à part” sur la scène et qui n’est censé être entendue que par les spectateurs.
 
-La stichomythie est une succession de répliques brèves, créant un rythme rapide convenant bien aux scènes d’affrontement.
+La **stichomythie** est une succession de répliques brèves, créant un rythme rapide convenant bien aux scènes d’affrontement.
 # Lexique de la poésie :
 
 Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent pair:
@@ -215,10 +215,6 @@ Le rime est fondamentale dans la poésie, il détient plusieurs dispositions :
 La rime peut être plus ou moins riche selon la longueur de la sonorité qui se répète d’un vers à l’autre.
 
 Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
-
-
-
-
 # Propositions subordonnées
 
 ---
