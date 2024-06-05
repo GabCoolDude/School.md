@@ -439,6 +439,13 @@ De manière générale, les opinions publiques manifestent un **euroscepticisme*
 
 # Enjeux et conflits dans le monde après 1989
 ## Après 1989, un monde dominé par les Etats-Unis
-### Un "nouvel ordre international" à l'issue
+### Un "nouvel ordre international" à l'issue de la guerre froide
+
+Suite à la chute du mur de Berlin en 1989 et à la disposition de l'URSS en 1991, les Etats-Unis s'imposent comme la seule superpuissance mondiale. Ils ont gagné la guerre froide et mettent en place un nouvel ordre international.
+
+Dès 1991, les Etats-Unis et leur alliés interviennent militairement pour libérer le Koweït, envahi par l'Irak de Saddam Hussain dans le cadre de la guerre du Golfe.
+#### La guerre du Golfe
+
+Le 2 août 1990, l'Irak envahit le Koweït. Saddam Hussein, dirigeant de l'Irak, considère que le Koweït lui appartient et veut s'approprier ses réserves de pétrole.
 
 --- 
