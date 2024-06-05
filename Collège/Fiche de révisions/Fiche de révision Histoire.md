@@ -440,4 +440,15 @@ De manière générale, les opinions publiques manifestent un **euroscepticisme*
 
 - **Approfondissement** : intensification des liens et de la coopération entre les Etats membres. 
 - **Euroscepticisme** : ensemble des doutes et des critiques émis à l’encontre de la construction européenne et des résultats à en attendre. 
+
+# Indépendances et construction de nouveaux Etats 
+
+La Seconde guerre mondiale affaiblit considérablement les puissances coloniales qui perdent leur prestige auprès des populations colonisées. Des mouvements nationalistes émergent dans les colonies.  
+
+Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont favorables à la décolonisation. L’ONU soutient également les indépendances au nom du droit des peuples à disposer d’eux-mêmes.  
+
+## Etude de cas – Un exemple de décolonisation violente : la guerre d’Algérie (1954 – 1962) 
+
+L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'
+
 --- 
