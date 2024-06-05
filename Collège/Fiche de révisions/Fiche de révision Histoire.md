@@ -446,13 +446,12 @@ De manière générale, les opinions publiques manifestent un **euroscepticisme*
 La Seconde guerre mondiale affaiblit considérablement les puissances coloniales qui perdent leur prestige auprès des populations colonisées. Des mouvements nationalistes émergent dans les colonies.  
 
 Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont favorables à la décolonisation. L’ONU soutient également les indépendances au nom du droit des peuples à disposer d’eux-mêmes.  
-
 ## Etude de cas – Un exemple de décolonisation violente : la guerre d’Algérie (1954 – 1962) 
 
 L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'accentuent depuis après la Deuxième Guerre Mondiale. Comment l'Algérie accède-t-elle à l'indépendance ?
 
 En 1954, les inégalités sont fortes au sein de la population : les **pieds-noirs** dominent économiquement et sont favorisés, notamment dans les domaines scolaires et médicaux (mortalité infantile bien moins élevée chez les Européens dont les enfants sont tous scolarisés en primaire contrairement aux 20% d'enfants musulmans). Les colons Européens sont pourtant presque dix fois moins nombreux que les musulmans. Le 1er novembre 1954,, le Front de Libération Nationale (FLN) commet des attentats et revendique l'indépendance, marquant ainsi le début de la guerre d'Algérie. Le gouvernement français reste ferme et affirme sa volonté de maintenir l'unité de la nation dont fait partie l'Algérie. Il envoie alors des troupes supplémentaires sur place.
 
-Le conflit est très violent. L'aviation française bombarde et mitraille le FLN
+Le conflit est très violent. L'aviation française bombarde et mitraille le FLN, l'armée multiplie les arrestations et utilise la torture. Le FLN quant à lui, fomente de nombreux attentats et dispose d'un dispositif militaire (l'Armée de Libération Nationale) qui combat l'armée française
 
 --- 
