@@ -454,6 +454,15 @@ En 1954, les inégalités sont fortes au sein de la population : les **pieds-noi
 
 Le conflit est très violent. L'aviation française bombarde et mitraille le FLN, l'armée multiplie les arrestations et utilise la torture. Le FLN quant à lui, fomente de nombreux attentats et dispose d'un dispositif militaire (l'Armée de Libération Nationale) qui combat l'armée française. Les **harkis** soutienne les opérations militaires françaises. A partir de 1961, des partisans de l'Algérie française créent l'OAS qui commet également de nombreux attentats. Les victimes du conflit se comptent en centaines de milliers.
 
-La guerre d'Algérie s'achève par les accords d'Evian (mars 1962) et l'indépendance est proclamée en juillet 1962 à la suite d'un référendum. Les accords sont suivis par la multiplication des attentats de l'OAS qui veut garder l'Algérie française et de la part du FLN en guide de représailles. Les Européens quittent 
+La guerre d'Algérie s'achève par les accords d'Evian (mars 1962) et l'indépendance est proclamée en juillet 1962 à la suite d'un référendum. Les accords sont suivis par la multiplication des attentats de l'OAS qui veut garder l'Algérie française et de la part du FLN en guide de représailles. Les Européens quittent alors l'Algérie. Ils sont 700 000 à 800 000 à partir pour la métropole en bateau. Certains Harkis fuient aussi l'Algérie mais beaucoup n'y parviendront pas et sont massacrés dans leur pays.
+
+- **Pieds-noirs** : 
+## Le processus de la décolonisation dans le monde
+
+### Les étapes de la décolonisation
+
+La décolonisation se déroule en plusieurs phases. La première phase, de 1945 à 1955, touche essentiellement l’Asie. Elle s’étend ensuite à l’Afrique dans les années 1950 mais surtout dans les années 1960. La décolonisation de l’Afrique se poursuit jusqu’en 1989 (Namibie). 
+
+
 
 --- 
