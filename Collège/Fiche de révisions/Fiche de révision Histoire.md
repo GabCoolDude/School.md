@@ -456,12 +456,33 @@ Le conflit est très violent. L'aviation française bombarde et mitraille le FLN
 
 La guerre d'Algérie s'achève par les accords d'Evian (mars 1962) et l'indépendance est proclamée en juillet 1962 à la suite d'un référendum. Les accords sont suivis par la multiplication des attentats de l'OAS qui veut garder l'Algérie française et de la part du FLN en guide de représailles. Les Européens quittent alors l'Algérie. Ils sont 700 000 à 800 000 à partir pour la métropole en bateau. Certains Harkis fuient aussi l'Algérie mais beaucoup n'y parviendront pas et sont massacrés dans leur pays.
 
-- **Pieds-noirs** : 
+- **Pieds-noirs** : Nom revendiqué par les Français d'origine européenne installés ou nés en Algérie avant l'indépendance de ce pays.
+- **Harkis** : Français musulmans engagés par l'armée française.
 ## Le processus de la décolonisation dans le monde
 
 ### Les étapes de la décolonisation
 
-La décolonisation se déroule en plusieurs phases. La première phase, de 1945 à 1955, touche essentiellement l’Asie. Elle s’étend ensuite à l’Afrique dans les années 1950 mais surtout dans les années 1960. La décolonisation de l’Afrique se poursuit jusqu’en 1989 (Namibie). 
+La **décolonisation** se déroule en plusieurs phases. La première phase, de 1945 à 1955, touche essentiellement l’Asie. Elle s’étend ensuite à l’Afrique dans les années 1950 mais surtout dans les années 1960. La décolonisation de l’Afrique se poursuit jusqu’en 1989 (Namibie). 
+
+- **Décolonisation** : processus d’accession à l’indépendance des territoires colonisés
+### Les modalités d’accession à l’indépendance
+
+L’indépendance est obtenue par les colonies soit par la négociation soit par la guerre.
+
+En Inde, l’indépendance est obtenue par la négociation avec le Royaume-Uni en 1947. Elle donne naissance à deux Etats : l’Union indienne et le Pakistan. La France accorde par ailleurs leur indépendance au Maroc et à la Tunisie en 1956 ou encore au Sénégal en 1960. 
+
+D’autres indépendances s’obtiennent à l’issue de conflits violents comme dans le cas de l’Algérie en 1962, de l’Indochine qui se solde en 1954 par l’indépendance du Vietnam, du Laos et du Cambodge.  
+
+## L’émergence du Tiers-monde
+### La naissance du Tiers-monde 
+
+Les Etats nouvellement indépendants cherchent à s’organiser et à faire entendre leur voix pour ne pas tomber sous la domination des grandes puissances. En 1955, lors de la conférence de Bandung, ils condamnent la colonisation et dénoncent la bipolarisation du monde. Ils forment le **Tiers-monde**.  
+
+En 1961, à Belgrade, ils manifestent leur refus de s’allier à l’un ou l’autre des blocs et constituent le **mouvement des non-alignés**.  
+
+- **Tiers-monde** : ensemble de pays, souvent issus de la décolonisation et qui ont en commun un faible niveau de développement et cherchent à s’affirmer sur la scène internationale en dehors des deux blocs qui s’affrontent dans le cadre de la guerre froide.  
+- **Mouvement des non-alignés** : mouvement créé en 1961 qui prône l’indépendance des nouveaux Etats en refusant d’entrer dans la logique des bocs imposée par la guerre froide.
+### Les revendications du Tiers-monde
 
 
 
