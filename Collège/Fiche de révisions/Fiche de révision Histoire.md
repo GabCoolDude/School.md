@@ -355,19 +355,18 @@ Ainsi, la situation et l'histoire de Berlin entre 1948 et 1989 sont révélatric
 La Seconde guerre mondiale affaiblit considérablement les puissances coloniales qui perdent leur prestige auprès des populations colonisées. Des mouvements nationalistes émergent dans les colonies. 
 
 Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont favorables à la décolonisation. L’ONU soutient également les indépendances au nom du droit des peuples à disposer d’eux-mêmes.  
-
 ## Etude de cas – Un exemple de décolonisation violente : la guerre d’Algérie (1954 – 1962) 
 
-La conquête de l’Algérie commence en 1830 avec le débarquement des Français à Alger. La conquête de l’Algérie s’étale sur le XIXe siècle, jusqu’en 1870. Les Français progressent petit à petit dans le pays. Ils instaurent une colonie de peuplement car l’un des buts de la conquête est d’exploiter les ressources du territoire. Comme en métropole, le territoire algérien est organisé en départements (trois départements en Algérie). Dans la société coloniale mise en place en Algérie, les inégalités sont importantes, notamment entre les Européens vivant en Algérie et les musulmans d’Algérie. En effet, les musulmans représentent la grande majorité de la population d’Algérie mais ils sont touchés par une mortalité infantile beaucoup plus importante que les Européens, l’accès à l’éducation primaire leur est beaucoup plus difficile, de même que l’accès aux postes de cadres supérieurs. Cela provoque d’importants mécontentements dans la société coloniale et en 1945, la majorité des musulmans d’Algérie conteste de plus en plus violemment la domination sociale et économique des Français d’Algérie et réclame l’indépendance. 
+L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'accentuent depuis après la Deuxième Guerre Mondiale. Comment l'Algérie accède-t-elle à l'indépendance ?
 
-Le 1er Novembre 1954, le Front de Libération Nationale ( FLN ) commet des attentats et revendique l'indépendance, marquant ainsi le début de la guerre d'Algérie. Le gouvernement français reste ferme et affirme sa volonté de maintenir l'unité de la nation dont fait partie l'Algérie. Il envoie alors des troupes supplémentaires sur place.
+En 1954, les inégalités sont fortes au sein de la population : les **pieds-noirs** dominent économiquement et sont favorisés, notamment dans les domaines scolaires et médicaux (mortalité infantile bien moins élevée chez les Européens dont les enfants sont tous scolarisés en primaire contrairement aux 20% d'enfants musulmans). Les colons Européens sont pourtant presque dix fois moins nombreux que les musulmans. Le 1er novembre 1954,, le Front de Libération Nationale (FLN) commet des attentats et revendique l'indépendance, marquant ainsi le début de la guerre d'Algérie. Le gouvernement français reste ferme et affirme sa volonté de maintenir l'unité de la nation dont fait partie l'Algérie. Il envoie alors des troupes supplémentaires sur place.
 
-Le conflit est très violent. L'aviation française bombarde et mitraille le FLN, l'armée multiplie les arrestations et utilise la torture. Le FLN, quant à lui, fomente de nombreux attentats et dispose d'un dispositif militaire ( l'Armée de Libération Nationale ) qui combat l'armée française. Les **harkis** soutiennent es opérations militaires françaises. A partir de 1961, des partisans de l'Algérie française créent l'OAS quit commet également de nombreux attentats. Les victimes du conflit se comptent en centaines de milliers.
+Le conflit est très violent. L'aviation française bombarde et mitraille le FLN, l'armée multiplie les arrestations et utilise la torture. Le FLN quant à lui, fomente de nombreux attentats et dispose d'un dispositif militaire (l'Armée de Libération Nationale) qui combat l'armée française. Les **harkis** soutienne les opérations militaires françaises. A partir de 1961, des partisans de l'Algérie française créent l'OAS qui commet également de nombreux attentats. Les victimes du conflit se comptent en centaines de milliers.
 
-La guerre d'Algérie s'achève par les accords d'Evian ( mars 1962 ) et l'indépendance est proclamée en juillet 1962 à la suite d'un référendum. Les accords sont suivis par la multiplication des attentats de l'OAS qui veut garder l'Algérie française et de la part du FLN en guise de représailles. Les Européens quittent alors l'Algérie. Ils sont 700 000 à 800 00 à partir pour la métropole en bateau. Certains Harkis fuient aussi l'Algérie mais beaucoup n'y parviendront pas et sont massacrés dans leur pays.
+La guerre d'Algérie s'achève par les accords d'Evian (mars 1962) et l'indépendance est proclamée en juillet 1962 à la suite d'un référendum. Les accords sont suivis par la multiplication des attentats de l'OAS qui veut garder l'Algérie française et de la part du FLN en guide de représailles. Les Européens quittent alors l'Algérie. Ils sont 700 000 à 800 000 à partir pour la métropole en bateau. Certains Harkis fuient aussi l'Algérie mais beaucoup n'y parviendront pas et sont massacrés dans leur pays.
 
 - **Harkis** :  Français musulmans qui ont combattu dans l'armée française pendant la guerre d'Algérie
-
+- **Pieds-noirs** : Nom revendiqué par les Français d'origine européenne installés ou nés en Algérie avant l'indépendance de ce pays.
 ## Le processus de décolonisation dans le monde
 
 ### Les étapes de la décolonisation
@@ -375,7 +374,6 @@ La guerre d'Algérie s'achève par les accords d'Evian ( mars 1962 ) et l'indép
 La **décolonisation** se déroule en plusieurs phases. La première phase, de 1945 à 1955, touche essentiellement l’Asie. Elle s’étend ensuite à l’Afrique dans les années 1950 mais surtout dans les années 1960. La décolonisation de l’Afrique se poursuit jusqu’en 1989 (Namibie). 
 
 - **Décolonisation** : processus d’accession à l’indépendance des territoires colonisés.  
-
 ### Les modalités d'accession à l'indépendance
 
 L’indépendance est obtenue par les colonies soit par la négociation soit par la guerre.
@@ -383,7 +381,6 @@ L’indépendance est obtenue par les colonies soit par la négociation soit par
 En Inde, l’indépendance est obtenue par la négociation avec le Royaume-Uni en 1947. Elle donne naissance à deux Etats : l’Union indienne et le Pakistan. La France accorde par ailleurs leur indépendance au Maroc et à la Tunisie en 1956 ou encore au Sénégal en 1960. 
 
 D’autres indépendances s’obtiennent à l’issue de conflits violents comme dans le cas de l’Algérie en 1962, de l’Indochine qui se solde en 1954 par l’indépendance du Vietnam, du Laos et du Cambodge.  
-
 ## L'émergence du Tiers-monde
 
 ### La naissance du Tiers-monde
@@ -392,7 +389,6 @@ Les Etats nouvellement indépendants cherchent à s’organiser et à faire ente
 
 - **Tiers-monde** : ensemble de pays, souvent issus de la décolonisation et qui ont en commun un faible niveau de développement et cherchent à s’affirmer sur la scène internationale en dehors des deux blocs qui s’affrontent dans le cadre de la guerre froide. 
 - **Mouvement des non-alignés** : mouvement créé en 1961 qui prône l’indépendance des nouveaux Etats en refusant d’entrer dans la logique des bocs imposée par la guerre froide.  
-
 ### Les revendications du Tiers-monde
 
 Lors de leur indépendance, les pays du Tiers-monde sont des pays pauvres, peu industrialisés et souffrant de problèmes de développement. A partir des années 1960, ces pays cherchent à se développer. Ils obtiennent la création de la **CNUCED** à l’ONU en 1964 et forment le groupe des 77 qui se charge de défendre leurs intérêts économiques.  
@@ -402,12 +398,12 @@ Lors de leur indépendance, les pays du Tiers-monde sont des pays pauvres, peu i
 
 En 1945, à l’issue de la Deuxième guerre mondiale, l’Europe est détruite. L’enjeu principal est alors de tout reconstruire et d’éviter la reproduction du même scénario. Le rapprochement des Etats européens apparaît alors comme le moyen de garantir une paix durable, d’éviter le déclin de l’Europe face aux Etats-Unis et l’URSS et de faire rempart contre le communisme. Le principal problème réside alors dans les relations franco-allemandes, considérablement détériorées. Il devient alors essentiel de créer un lien durable entre ces deux pays pour ensuite réunir autour d’eux les pays libres d’Europe. ![[Capture d'écran 2024-05-25 153737.png]]
 ## Les débuts de la construction européenne (1950 – 1992)
-### De la CECA
+### De la CECA...
 
 En 1950, les Français Jean Monnet et Robert Schuman proposent de mettre en commun la production et la consommation de charbon et d’acier dans le cadre d’une organisation européenne. En 1951, la RFA, la France, l’Italie, la Belgique, les Pays-Bas et le Luxembourg signent le traité qui institue la **Communauté européenne du charbon et de l’acier (CECA)** dont les principaux objectifs sont d’assurer la paix et la prospérité en Europe. 
 
 - **CECA (Communauté européenne du charbon et de l’acier)** : marché commun du charbon et de l’acier créé en 1951 par six pays d’Europe de l’Ouest
-### à la CEE
+### ...à la CEE
 
 En 1957, les six pays de la CECA concluent les traités de Rome qui donnent naissance à la **Communauté économique européenne (CEE)** et à la Communauté européenne de l’énergie atomique (CEEA ou EURATOM). La CEE prévoit la mise en place d’un **marché commun** permettant la libre circulation des biens, des capitaux et des personnes. La CEEA a été instituée dans le but de développer, à des fins pacifiques, l’énergie atomique au niveau européen. 
 
@@ -440,50 +436,5 @@ De manière générale, les opinions publiques manifestent un **euroscepticisme*
 
 - **Approfondissement** : intensification des liens et de la coopération entre les Etats membres. 
 - **Euroscepticisme** : ensemble des doutes et des critiques émis à l’encontre de la construction européenne et des résultats à en attendre. 
-
-# Indépendances et construction de nouveaux Etats 
-
-La Seconde guerre mondiale affaiblit considérablement les puissances coloniales qui perdent leur prestige auprès des populations colonisées. Des mouvements nationalistes émergent dans les colonies.  
-
-Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont favorables à la décolonisation. L’ONU soutient également les indépendances au nom du droit des peuples à disposer d’eux-mêmes.  
-## Etude de cas – Un exemple de décolonisation violente : la guerre d’Algérie (1954 – 1962) 
-
-L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'accentuent depuis après la Deuxième Guerre Mondiale. Comment l'Algérie accède-t-elle à l'indépendance ?
-
-En 1954, les inégalités sont fortes au sein de la population : les **pieds-noirs** dominent économiquement et sont favorisés, notamment dans les domaines scolaires et médicaux (mortalité infantile bien moins élevée chez les Européens dont les enfants sont tous scolarisés en primaire contrairement aux 20% d'enfants musulmans). Les colons Européens sont pourtant presque dix fois moins nombreux que les musulmans. Le 1er novembre 1954,, le Front de Libération Nationale (FLN) commet des attentats et revendique l'indépendance, marquant ainsi le début de la guerre d'Algérie. Le gouvernement français reste ferme et affirme sa volonté de maintenir l'unité de la nation dont fait partie l'Algérie. Il envoie alors des troupes supplémentaires sur place.
-
-Le conflit est très violent. L'aviation française bombarde et mitraille le FLN, l'armée multiplie les arrestations et utilise la torture. Le FLN quant à lui, fomente de nombreux attentats et dispose d'un dispositif militaire (l'Armée de Libération Nationale) qui combat l'armée française. Les **harkis** soutienne les opérations militaires françaises. A partir de 1961, des partisans de l'Algérie française créent l'OAS qui commet également de nombreux attentats. Les victimes du conflit se comptent en centaines de milliers.
-
-La guerre d'Algérie s'achève par les accords d'Evian (mars 1962) et l'indépendance est proclamée en juillet 1962 à la suite d'un référendum. Les accords sont suivis par la multiplication des attentats de l'OAS qui veut garder l'Algérie française et de la part du FLN en guide de représailles. Les Européens quittent alors l'Algérie. Ils sont 700 000 à 800 000 à partir pour la métropole en bateau. Certains Harkis fuient aussi l'Algérie mais beaucoup n'y parviendront pas et sont massacrés dans leur pays.
-
-- **Pieds-noirs** : Nom revendiqué par les Français d'origine européenne installés ou nés en Algérie avant l'indépendance de ce pays.
-- **Harkis** : Français musulmans engagés par l'armée française.
-## Le processus de la décolonisation dans le monde
-
-### Les étapes de la décolonisation
-
-La **décolonisation** se déroule en plusieurs phases. La première phase, de 1945 à 1955, touche essentiellement l’Asie. Elle s’étend ensuite à l’Afrique dans les années 1950 mais surtout dans les années 1960. La décolonisation de l’Afrique se poursuit jusqu’en 1989 (Namibie). 
-
-- **Décolonisation** : processus d’accession à l’indépendance des territoires colonisés
-### Les modalités d’accession à l’indépendance
-
-L’indépendance est obtenue par les colonies soit par la négociation soit par la guerre.
-
-En Inde, l’indépendance est obtenue par la négociation avec le Royaume-Uni en 1947. Elle donne naissance à deux Etats : l’Union indienne et le Pakistan. La France accorde par ailleurs leur indépendance au Maroc et à la Tunisie en 1956 ou encore au Sénégal en 1960. 
-
-D’autres indépendances s’obtiennent à l’issue de conflits violents comme dans le cas de l’Algérie en 1962, de l’Indochine qui se solde en 1954 par l’indépendance du Vietnam, du Laos et du Cambodge.  
-
-## L’émergence du Tiers-monde
-### La naissance du Tiers-monde 
-
-Les Etats nouvellement indépendants cherchent à s’organiser et à faire entendre leur voix pour ne pas tomber sous la domination des grandes puissances. En 1955, lors de la conférence de Bandung, ils condamnent la colonisation et dénoncent la bipolarisation du monde. Ils forment le **Tiers-monde**.  
-
-En 1961, à Belgrade, ils manifestent leur refus de s’allier à l’un ou l’autre des blocs et constituent le **mouvement des non-alignés**.  
-
-- **Tiers-monde** : ensemble de pays, souvent issus de la décolonisation et qui ont en commun un faible niveau de développement et cherchent à s’affirmer sur la scène internationale en dehors des deux blocs qui s’affrontent dans le cadre de la guerre froide.  
-- **Mouvement des non-alignés** : mouvement créé en 1961 qui prône l’indépendance des nouveaux Etats en refusant d’entrer dans la logique des bocs imposée par la guerre froide.
-### Les revendications du Tiers-monde
-
-
 
 --- 
