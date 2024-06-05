@@ -446,6 +446,8 @@ Suite à la chute du mur de Berlin en 1989 et à la disposition de l'URSS en 199
 Dès 1991, les Etats-Unis et leur alliés interviennent militairement pour libérer le Koweït, envahi par l'Irak de Saddam Hussain dans le cadre de la guerre du Golfe.
 #### La guerre du Golfe
 
-Le 2 août 1990, l'Irak envahit le Koweït. Saddam Hussein, dirigeant de l'Irak, considère que le Koweït lui appartient et veut s'approprier ses réserves de pétrole.
+Le 2 août 1990, l'Irak envahit le Koweït. Saddam Hussein, dirigeant de l'Irak, considère que le Koweït lui appartient et veut s'approprier ses réserves de pétrole. Mi-août, des Occidentaux sont pris en otage. En novembre, l'ONU lance alors un ultimatum le recours à la force pour obliger l'Irak à se retirer du Koweït. Les otages sont progressivement libérés mais l'armée irakienne reste au Koweït.
+
+Le 17 Janvier 1991, une condition militaire internationale commandée par les Etats-Unis intervient
 
 --- 
