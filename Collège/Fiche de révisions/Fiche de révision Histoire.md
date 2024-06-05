@@ -449,6 +449,8 @@ Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont f
 
 ## Etude de cas – Un exemple de décolonisation violente : la guerre d’Algérie (1954 – 1962) 
 
-L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'
+L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'accentuent depuis après la Deuxième Guerre Mondiale. Comment l'Algérie accède-t-elle à l'indépendance ?
+
+En 1954, les inégalités sont fortes au sein de la population : les **pieds-noirs** dominent économiquement et sont favorisés, notamment dans les domaines scolaires et médicaux (mortalité infantile bien moins élevée chez les Européens dont les enfants sont tous scolarisés en primaire contrairement aux 20% d'enfants musulmans)
 
 --- 
