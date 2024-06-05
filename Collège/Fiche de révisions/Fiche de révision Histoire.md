@@ -451,6 +451,6 @@ Par ailleurs, les Etats-Unis et l’URSS, grands vainqueurs de la guerre, sont f
 
 L'Algérie est une colonie française depuis 1830. C'est une colonie de peuplement constituée de trois départements français. Les revendications d'indépendance s'accentuent depuis après la Deuxième Guerre Mondiale. Comment l'Algérie accède-t-elle à l'indépendance ?
 
-En 1954, les inégalités sont fortes au sein de la population : les **pieds-noirs** dominent économiquement et sont favorisés, notamment dans les domaines scolaires et médicaux (mortalité infantile bien moins élevée chez les Européens dont les enfants sont tous scolarisés en primaire contrairement aux 20% d'enfants musulmans)
+En 1954, les inégalités sont fortes au sein de la population : les **pieds-noirs** dominent économiquement et sont favorisés, notamment dans les domaines scolaires et médicaux (mortalité infantile bien moins élevée chez les Européens dont les enfants sont tous scolarisés en primaire contrairement aux 20% d'enfants musulmans). Les colons Européens sont pourtant presque dix fois moins nombreux que les musulmans. Le 1er novembre 1954,, le Front de Libération Nationale (FLN) commet des attentats et revendique l'indépendance, marquant ainsi le début de la guerre d'Algérie. Le gouvernement fr
 
 --- 
