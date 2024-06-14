@@ -568,6 +568,36 @@ Le général de Gaulle, retiré de la vie politique depuis janvier 1946 mais don
 
 Une fois au pouvoir, de Gaulle fait rédiger un projet de Constitution proposé aux Français par référendum le 28 septembre 1958. Le projet est accepté avec près de 80% des suffrages exprimés. C’est la naissance de la Ve République. Un collège électoral élit de Gaulle président de la République le 21 décembre 1958 et il est officiellement investi le 8 janvier 1959.  
 
-La Vème République est un régime parlementaire mais dont l’exécutif est fort et prime sur le pouvoir législatif détenu par le Parlement (Assemblée nationale et Sénat). On parle de **régime semi-présidentiel**. En effet, en choisissant le Premier ministre, en étant chef des armées, en pouvant organiser des référendums, en ayant un droit de dissolution de l’Assemblée nationale et en ayant la possibilité de prendre des mesures exceptionnelles, le président de la République est le personnage central de la Ve République. En 1962, pour renforcer l’autorité du Président, de Gaulle propose aux Français qu’il soit élu au suffrage universel direct. La réforme est approuvée par référendum.  
+La Vème République est un régime parlementaire mais dont l’exécutif est fort et prime sur le pouvoir législatif détenu par le Parlement (Assemblée nationale et Sénat). On parle de **régime semi-présidentiel**. En effet, en choisissant le Premier ministre, en étant chef des armées, en pouvant organiser des référendums, en ayant un droit de dissolution de l’Assemblée nationale et en ayant la possibilité de prendre des mesures exceptionnelles, le président de la République est le personnage central de la Ve République.
+
+En 1962, pour renforcer l’autorité du Président, de Gaulle propose aux Français qu’il soit élu au suffrage universel direct. La réforme est approuvée par référendum.  
+### De Gaulle et les Français
+
+Par sa pratique du pouvoir, de Gaulle chercher à maintenir un lien direct avec les Français : bains de foule, allocutions télévisées, conférences de presse, référendums etc. 
+
+En 1965, lors de la première élection au suffrage universel direct. A la surprise générale, de Gaulle est mis en ballotage et n’est élu qu’au deuxième tour face à François Mitterrand. Une partie de l’opinion publique critique le caractère personnel et quasi monarchique de son pouvoir.  
+
+En mai 1968, des manifestations étudiantes et de grandes grèves paralysent le pays. De Gaulle rétablit l’ordre mais il se sent désavoué. En 1969, il organise un référendum sur les régions et une réforme du Sénat. Or, la veille du référendum, il annonce qu’en cas de vote négatif il quittera le pouvoir. Il démissionne après la victoire du « non ».  
+## La Vème République sans son fondateur
+### Des premiers successeurs dans la continuité
+
+En 1969, Georges Pompidou, ancien Premier ministre du général de Gaulle, est élu Président de la République. Il maintient les institutions et les pratiques politiques mises en place par de Gaulle. Suite à la mort soudaine de Pompidou en 1974, c’est Valéry Giscard d’Estaing, membre de la droite non gaulliste, qui lui succède. Il cherche à mieux répondre aux aspirations de la jeunesse et abaisse la majorité (et donc le droit de vote) de 21 à 18 ans sans pour autant modifier la Constitution.  
+### L'alternance
+
+En 1981, le socialiste François Mitterrand est élu Président de la République. Les élections législatives qui ont lieu peu après donnent également la victoire au Parti socialiste et Mitterrand nomme Pierre Mauroy comme Premier ministre. C’est l’**alternance**. De 1981 à 1983, le nouveau gouvernement réalise de nombreuses réformes : nationalisations, 5ème semaine de congés payés, retraite à soixante ans, abolition de la peine de mort etc. Malgré des critiques importantes de la part de François Mitterrand concernant la Ve République, il ne change pas les pouvoirs du Président et ne modifie pas la Constitution.  
+
+- **Alternance politique** : changement de majorité, de la droite à la gauche (ou inversement), après une élection présidentielle ou législative. 
+
+![[Capture d'écran 2024-06-14 220203.png]]
+### Les cohabitations
+
+En 1986, la droite remporte les élections législatives et Mitterrand nomme un Premier ministre de droite : Jacques Chirac, chef du parti gaulliste qu’est le RPR. C’est la première **cohabitation**. Le Président de la République conserve le pouvoir dans les domaines de la Défense et de la politique étrangère mais il n’intervient plus dans les choix politiques du gouvernement. Jacques Chirac prend alors des mesures marquées à droite (privatisations, suppression de l’impôt sur la fortune). Malgré des tensions, cette situation ne paralyse pas la vie politique. 
+
+Deux autres cohabitations suivent dans l’histoire de la Ve République : l’une entre 1993 et 1995 et l’autre 3 entre 1997 et 2002. Afin d’éviter cette situation politique qui peut paralyser le pouvoir exécutif, une réforme du **quinquennat** est adoptée en septembre 2000 par référendum : le mandat présidentiel est désormais fixé à cinq ans, comme celui des députés dont l'élection suit celle du chef de l'Etat.
+
+- **Cohabitation** : situation politique où le président de la République appartient à un parti opposé à celui du Premier ministre.  
+- **Quinquennat** : mandat présidentiel d’une durée de cinq ans. Il succède au septennat.  
+
+![[Capture d'écran 2024-06-14 220424.png]]
 
 --- 
