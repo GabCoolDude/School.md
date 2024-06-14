@@ -541,6 +541,33 @@ Charles de Gaulle, qui souhaitait que le président de la République ait un pou
 ## L'instauration d'une démocratie sociale
 
 Dès la fin de la Seconde guerre mondiale, un certain nombre de réformes sont pensées puis appliquées pour améliorer la vie des Français dans de nombreux domaines.  
-### Le programme de la rési
+### Le programme de la résistance
+
+Les courants politiques actifs dans la Résistance (Parti communiste, SFIO, Gaullistes) participent en mars 1944 à l’élaboration du programme du CNR. Ils veulent renforcer la démocratie par des réformes de l’économie et des politiques sociales qui visent à améliorer les conditions de vie de tous. Ils s’inspirent notamment des mesures entamées par le Front populaire en 1936. C’est ce programme du CNR qui est appliqué à la Libération.  
+### D'importantes réformes économiques et sociales
+
+Dans l’esprit du programme du CNR, le gouvernement entreprend d’importantes réformes économiques et sociales et met en place un **Etat providence**. Des **nationalisations** sont effectuées en 1944 – 1945 dans les secteurs clés que sont les ressources énergétiques (charbon, électricité, gaz), les transports (Renault) ou encore les banques et assurances.  Par ailleurs, la Sécurité sociale est créée en 1945 par le gouvernement provisoire. Elle a pour but de protéger toute la population en prenant en charge l’assurance maladie, les allocations familiales, les accidents du travail et les retraites. Ces droits sociaux, qui doivent permettre l’amélioration des conditions de vie, sont inscrits dans le préambule de la Constitution de 1946. 
+
+- **Etat providence** : Etat qui garantit à tous le progrès social en accordant de nouveaux droits sociaux.  
+- **Nationalisation** : acquisition d’une entreprise privée par l’Etat qui en devient le propriétaire.
+### Une démocratie élargie
+
+Le GPRF élargit le droit de vote en 1944 pour reconnaître leur action dans les conflits mondiaux et dans la Résistance et instaurer ainsi un suffrage vraiment universel. Les Françaises votent pour la première fois aux élections municipales de mai 1945 et aux élections législatives d’octobre 1945. Elles sont nombreuses à voter mais restent très peu à être élues.  
+# La Vème République, de la République gaullienne à l’alternance et à la cohabitation 
+
+Quelle République est mise en place en 1958 ? Comment parvient-elle à se maintenir ?
+## La république gaullienne
+### La fin de la IVe République et l’instauration de la Ve République 
+
+Sous la IVe République, l’**instabilité gouvernementale** est grande car les gouvernements sont souvent renversés par l’Assemblée nationale. Dans le cadre de la guerre d’Algérie, le gouvernement est de plus en plus souvent paralysé par les divisions entre partisans et adversaires de l’indépendance. A Alger, en mai 1958, les partisans de l’Algérie française organisent une manifestation violente et saccagent les bâtiments officiels.  
+
+Le général de Gaulle, retiré de la vie politique depuis janvier 1946 mais dont le nom a été acclamé par les manifestants d’Alger, est « prêt à assumer les pouvoirs de la République ». Le président de la République René Coty fait alors appel à lui pour former un gouvernement. En juin 1958, l’Assemblée nationale lui accorde les pleins pouvoirs pour rétablir l’ordre et préparer une nouvelle Constitution.  
+
+- **Instabilité gouvernementale** : renversements successifs de gouvernements, obligés de démissionner dans un temps court.  
+### Un pouvoir exécutif fort
+
+Une fois au pouvoir, de Gaulle fait rédiger un projet de Constitution proposé aux Français par référendum le 28 septembre 1958. Le projet est accepté avec près de 80% des suffrages exprimés. C’est la naissance de la Ve République. Un collège électoral élit de Gaulle président de la République le 21 décembre 1958 et il est officiellement investi le 8 janvier 1959.  
+
+La Vème République est un régime parlementaire mais dont l’exécutif est fort et prime sur le pouvoir législatif détenu par le Parlement (Assemblée nationale et Sénat). On parle de **régime semi-présidentiel**. En effet, en choisissant le Premier ministre, en étant chef des armées, en pouvant organiser des référendums, en ayant un droit de dissolution de l’Assemblée nationale et en ayant la possibilité de prendre des mesures exceptionnelles, le président de la République est le personnage central de la Ve République. En 1962, pour renforcer l’autorité du Président, de Gaulle propose aux Français qu’il soit élu au suffrage universel direct. La réforme est approuvée par référendum.  
 
 --- 
