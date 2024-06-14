@@ -185,11 +185,8 @@ Lors de la conférence de Munich, les démocraties européennes veulent garantir
 
 En août 1939, Hitler signe avec l’URSS un pacte de non-agression (pacte germano-soviétique) qui lui permet ensuite d’envahir la Pologne.
 
-- **Anschluss** (« réunion » en all
-- 
-- 
-- emand) : rattachement de l’Autriche à l’Allemagne. 
-- « **Espace vital** » : pour les nazis, expression désignant les territoires nécessaires au développement du peuple allemand.
+- **Anschluss** (« réunion » en allemand) : rattachement de l’Autriche à l’Allemagne. 
+- **« Espace vital »** : pour les nazis, expression désignant les territoires nécessaires au développement du peuple allemand.
 
 ![](https://lh7-us.googleusercontent.com/7iF8pCEazDTRJ6IMde7vK9BWroBOnOwzmKZPqrC3nzaVpTvnIvpST20-MPX52VnOoVWtSUZvIuDcHilq1ZffvqmpbSK19a-wfrpdcbItHcqaC9Yisp29-pQSGelF5dr2NglowkTe4Q6LnFmTcJ7dcZlsy_V5bLjB)
 
@@ -623,8 +620,38 @@ L’arrivée de ces travailleurs étrangers, associée à un fort exode rural, r
 ## Des Trente Glorieuses à la récession
 ### Les Trente Glorieuses et les mutations de la population active 
 
-De 1945 à 1974, la France connaît une période de prospérité marquée par une forte **croissance économique** (autour de 5% par an) et le plein emploi. C’est ce que l’on appelle les **Trente Glorieuses**. Durant cette période, la population active augmente et se transforme : baisse du nombre de paysans et augmentation du nombre des ouvriers. De plus en plus de personnes, notamment les femmes, travaillent dans le domaine des services. 
+De 1945 à 1974, la France connaît une période de prospérité marquée par une forte **croissance économique** (autour de 5% par an) et le plein emploi. C’est ce que l’on appelle les **Trente Glorieuses**. Durant cette période, la **population active** augmente et se transforme : baisse du nombre de paysans et augmentation du nombre des ouvriers. De plus en plus de personnes, notamment les femmes, travaillent dans le domaine des services. 
 
 L’augmentation du niveau de vie permet aux Français de s’équiper en biens de consommation (réfrigérateurs, machines à laver, aspirateurs etc.). L’usage de l’automobile se généralise. C’est le développement de la **société de consommation**. Avec la baisse du temps de travail, les Français partent davantage en vacances et les résidences secondaires se multiplient.  
+
+- **Croissance économique** : augmentation de la production de biens et de services.  
+- **Trente Glorieuses** : période de forte croissance économique entre 1945 et 1974. 
+- **Population active** : ensemble des personnes qui travaillent ou qui sont à la recherche d’un emploi.  
+- **Société de consommation** : société dans laquelle les consommateurs sont poussés à consommer en grande quantité. 
+### La dépression économique
+
+A partir de 1974, la croissance chute du fait d’une crise économique mondiale et reste faible jusque dans les années 1980. Le nombre d’ouvriers baisse, des industries ferment. C’est la **récession**.  
+
+A partir de 1975, le nombre de chômeurs augmente nettement. Le chômage frappe davantage les jeunes sans expérience, les femmes et les ouvriers sans qualification (notamment les immigrés). Vers 1980, le chômage de longue durée fait son apparition ainsi que la pauvreté. Le nombre de personnes sans ressources ainsi que de SDF augmente. Dans les **grands ensembles**, où le chômage est considérable, les jeunes sont à l’origine de flambées de violence à partir de 1985. 
+
+Les personnes pauvres reçoivent quelques aides sociales et survivent grâce à l’aide d’associations comme les Restos du cœurs créés en 1985. Par ailleurs, en 1988, l’Etat crée le RMI (revenu minimum d’insertion) qui assure à toute personne un revenu minimal.   
+
+- **Dépression économique** : période de ralentissement et d’instabilité de la croissance économique.  
+- **Récession** : période de faible croissance économique. 
+- **Grands ensembles** : groupe d'immeubles d'habitation disposant d'équipements collectifs communs. 
+## Une société en mouvement
+### Les contestations de la jeunesse
+
+La génération issue du baby-boom est la première à accéder massivement aux études supérieures. A partir des années 1960, la jeunesse développe sa propre culture avec ses propres codes : musique, vêtements, langage etc. De plus, confrontée à un modèle familial fondé sur l’autorité du père et hostile au pouvoir gaulliste, la jeunesse réclame plus de libertés et descend dans la rue en mai 1968. En 1974, l’abaissement de la majorité à 18 ans permet aux jeunes de s’exprimer davantage politiquement. D’autres mesures tiennent compte de leurs aspirations comme la loi sur la mixité obligatoire dans les établissements scolaires en 1975.
+### Les combats pour les droits des femmes
+
+Les femmes sont de plus en plus nombreuses à travailler ou à chercher un travail à un niveau de qualification de plus en plus élevé. A partir de la fin des années 1960, les **féministes** revendiquent l’égalité avec les hommes ainsi que le droit de disposer librement de leur corps. Le Mouvement de libération des femmes naît en 1970.
+
+Les femmes parviennent à obtenir de nouveaux droits : **émancipation** à l’égard des maris (les femmes peuvent travailler sans l’accord de leur mari et ouvrir un compte bancaire seules en 1965), autorité parentale conjointe. La contraception est légalisée en 1967 (loi Neuwirth) et l’avortement (IVG) est autorisé sous certaines conditions par la loi Veil de 1975. En 1983, la loi Roudy lutte contre les inégalités salariales et professionnelles.
+
+La famille change également avec l’augmentation des divorces qui sont aussi plus faciles à obtenir (loi sur le divorce par consentement mutuel en 1975). La pratique du concubinage commence à progresser, de même que les naissances hors mariage.  
+
+- **Féminisme** : Mouvement social, courant d’idées et luttes pour promouvoir les droits des femmes dans la société.
+- **Emancipation** : Libération d’un état de dépendance, de domination
 
 --- 
