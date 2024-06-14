@@ -599,5 +599,32 @@ Deux autres cohabitations suivent dans l’histoire de la Ve République : l’u
 - **Quinquennat** : mandat présidentiel d’une durée de cinq ans. Il succède au septennat.  
 
 ![[Capture d'écran 2024-06-14 220424.png]]
+# Femmes et hommes dans la société des années 1950 aux années 1980 : nouveaux enjeux sociaux et culturels, réponses politiques 
+
+Entre les années 1950 et 1980, la société française se transforme profondément. Face à ces transformations économiques, sociales et culturelles, des lois tentent d’apporter des réponses.  
+
+Quelles sont les évolutions de la société française des années 1950 aux années 1980 ? Quelles réponses la loi apporte-t-elle à ces transformations ?  
+## La France du baby-boom
+### Une croissance démographique inédite
+
+Dans l’après-guerre, la croissance démographique s’accélère. La forte natalité traduit l’optimisme en l’avenir et s’accompagne d’un net recul de la mortalité, notamment infantile : c’est « le **baby-boom** ». 
+
+Cependant, à partir de 1965, la baisse de la fécondité et l’augmentation de l’espérance de vie entraînent un vieillissement de la population française.  
+
+- **Baby-boom** : période de forte croissance de la natalité dans les pays occidentaux pendant les années 1950 – 1960 (et pendant les années 1945 – 1965 en France).  
+### Une immigration en hausse
+
+Durant les Trente Glorieuses (1945 – 1974) et face aux besoins de reconstruction à l’issue de la guerre, la France fait un appel massif à une main-d’œuvre immigrée, venue d’Europe du Sud et de plus en plus du Maghreb et d’Afrique subsaharienne. Peu qualifiés, les **immigrés** travaillent surtout dans l’industrie (automobile notamment) et dans le bâtiment. Cette immigration contribue à l’augmentation de la population pour 1/3.  
+
+L’arrivée de ces travailleurs étrangers, associée à un fort exode rural, révèle le manque de logements : les bidonvilles se multiplient. Pour répondre à ce problème, l’Etat lance des programmes de construction d’habitations à loyer modéré (HLM). Cependant, face à la crise économique, le gouvernement décide de fermer les frontières aux immigrés en 1974. Les immigrés sont alors contraints de choisir entre le retour au pays ou l’installation définitive. Pour faciliter leur intégration, le droit au **regroupement familial** est reconnu en 1976.  
+
+- **Immigré** : personne née dans un pays différent de celui dans lequel elle s’est installée.  
+- **Regroupement familial** : autorisation pour un immigré de faire venir son conjoint et ses enfants de moins de 16 ans.  
+## Des Trente Glorieuses à la récession
+### Les Trente Glorieuses et les mutations de la population active 
+
+De 1945 à 1974, la France connaît une période de prospérité marquée par une forte **croissance économique** (autour de 5% par an) et le plein emploi. C’est ce que l’on appelle les **Trente Glorieuses**. Durant cette période, la population active augmente et se transforme : baisse du nombre de paysans et augmentation du nombre des ouvriers. De plus en plus de personnes, notamment les femmes, travaillent dans le domaine des services. 
+
+L’augmentation du niveau de vie permet aux Français de s’équiper en biens de consommation (réfrigérateurs, machines à laver, aspirateurs etc.). L’usage de l’automobile se généralise. C’est le développement de la **société de consommation**. Avec la baisse du temps de travail, les Français partent davantage en vacances et les résidences secondaires se multiplient.  
 
 --- 
