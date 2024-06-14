@@ -510,6 +510,37 @@ Enfin, de plus en plus de conflits sont liés à l’accès aux ressources (en e
 
 Comment la République est-elle refondée après la Libération ? 
 ## La restauration de la République
-### La libération du ter
+### La libération du territoire français
+
+Les débarquements alliés en Normandie (6 juin 1944) puis en Provence (15 août 1944) marquent le début de la libération du territoire qui s’achève en mai 1945. L’action de la Résistance contribue à cette victoire mais provoque des représailles de la part de l’Allemagne qui perpétue notamment des massacres contre les résistances et les civils comme à Oradour-sur-Glane ou à Maillé.  
+
+Le 25 août 1944, une insurrection de la Résistance permet la libération de Paris. Dès le lendemain, le général de Gaulle est acclamé par la foule. Il dirige le gouvernement provisoire de la République française (GPRF) qui s’installe au pouvoir en août 1944. Il regroupe les différents courants de la Résistance, y compris le Parti communiste.  
+
+La France est alors en ruine et la situation des populations est très difficile (pénuries, inflation, rationnement…).  
+### La restauration des principes républicains
+
+Dès août 1944, le GPRF rétablit les libertés (de presse, de réunion, de conscience) et la République en France. Par l’ordonnance du 9 août 1944, les lois de Vichy sont annulées. Le rétablissement de la République s’accompagne d’une restauration de l’ordre et de la justice. Ainsi, à l’épuration spontanée succède une **épuration** légale : des cours de justices sont chargées de juger les collaborateurs et miliciens. Pétain et Laval y sont jugés et condamnés.
+
+- **Epuration** : répression contre les Français accusés ou soupçonnés de collaboration avec l’Allemagne. On distingue l’épuration spontanée, hors de toute règle du droit, et l’épuration légale.  
+
+*Philippe Pétain est accusé de trahison envers la France et d’intelligence avec l’ennemi. Son procès aboutit à la peine de mort qui sera transformée ensuite par la prison à vie par le général de Gaulle. Il meurt en 1951 en détention sur l’île d’Yeu en Vendée.*
+### La mise en place de la IVème République
+
+En octobre 1945, le GPRF organise l’élection d’une **Assemblée constituante** qui est chargée de rédiger une nouvelle **constitution**. Cette élection donne la majorité aux partis engagés dans la Résistance (Parti communiste, SFIO, **MRP**). La première proposition de constitution est refusée par les Français qui se sont exprimés par référendum. La nouvelle Constitution est finalement adoptée en octobre 1946 et donne naissance à la IVe République. 
+
+La IVe République est un **régime parlementaire**. L’Assemblée nationale y joue un rôle essentiel puisqu’elle investit le gouvernement et peut le renverser. Le président de la République est élu par le **Parlement** et a un pouvoir faible.  
+
+Charles de Gaulle, qui souhaitait que le président de la République ait un pouvoir fort et indépendant de l’Assemblée nationale, a démissionné du gouvernement provisoire en janvier 1946. 
+
+- **Assemblée constituante** : Assemblée chargée de voter les lois et de rédiger une nouvelle constitution.  
+- **Constitution** : ensemble de lois qui définissent les droits fondamentaux des citoyens et fixent le fonctionnement du pouvoir politique.  
+- **MRP (Mouvement républicain populaire)** : parti politique du centre créé après la guerre.  
+- **Régime parlementaire** : régime politique dans lequel le pouvoir politique est soumis au Parlement. 
+- **Parlement** : Assemblée nationale et Sénat (Conseil de la République sous la IVe République).  
+![[Capture d'écran 2024-06-14 215311.png]]
+## L'instauration d'une démocratie sociale
+
+Dès la fin de la Seconde guerre mondiale, un certain nombre de réformes sont pensées puis appliquées pour améliorer la vie des Français dans de nombreux domaines.  
+### Le programme de la rési
 
 --- 
