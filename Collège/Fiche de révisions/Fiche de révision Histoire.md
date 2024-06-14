@@ -450,4 +450,38 @@ Le 2 août 1990, l'Irak envahit le Koweït. Saddam Hussein, dirigeant de l'Irak,
 
 Le 17 Janvier 1991, une condition militaire internationale commandée par les Etats-Unis intervient
 
+### De nombreux conflits dans l'après-guerre froide
+
+Avec la fin de la guerre froide, des conflits surgissent en Europe, notamment en ex-Yougoslavie (1991 – 1999). Au Moyen-Orient, le conflit entre Israéliens et Palestiniens ne trouve pas de solution. 
+
+En Afrique, des **guerres civiles** éclatent, en lien avec des questions ethniques, territoriales et économiques. En 1994, au Rwanda, les Tutsis sont victimes d’un génocide qui fait environ 800 000 victimes.  
+
+L’ONU intervient de plus en plus dans le règlement des conflits et pour maintenir la paix.  
+
+- **Guerre civile** : guerre opposant les populations d’un même Etat.
+
+## De nouveaux conflits depuis 2011
+### Le choc du 11 septembre
+
+Le 11 septembre 2001, les Etats-Unis sont frappés pour la première fois sur leur sol par l’attentat le plus meurtrier de l’histoire (près de 3 000 victimes). Cet attentat a été organisé par l’organisation terroriste Al-Qaida qui voulait ainsi démontrer au monde entier que les Etats-Unis n’étaient pas intouchables.  
+
+Suite à cet événement, les Etats-Unis mènent des interventions préventives comme en Afghanistan à partir d’octobre-novembre 2001 pour chasser les talibans et détruire les bases d’entraînement d’Al-Qaida puis en Irak en 2003 où ils interviennent sans l’accord de l’ONU et renversent Saddam Hussein. Dans ces pays, des guerres civiles se développent et les Etats-Unis ne parviennent pas à rétablir la paix. Ils apparaissent de plus comme des envahisseurs pour les populations locales. 
+
+Barack Obama décide du retrait des troupes américaines d’Irak en 2011 et d’Afghanistan en 2014 sans retour à la paix dans ces pays. 
+
+- **Terrorisme** : ensemble des actions violentes visant à terroriser les populations et à affaiblir un Etat.  
+
+### D'un monde unipolaire à un monde multipolaire
+
+A partir des années 2000, de nouveaux pôles de puissances s’affirment. Les **BRICS** (Brésil, Russie, Inde, Chine et Afrique du Sud) sont à la fois des puissances démographiques (40% de la population mondiale), économiques (PIB équivalent à 50% du PIB de l’UE) et militaires dont le rôle est de plus en plus important sur la scène internationale. Le Brésil et l’Inde revendiquent un siège permanent au Conseil de sécurité de l’ONU alors que la Chine et la Russie entrent en rivalité contre la puissance des Etats-Unis.  
+
+Par ailleurs, l’Union européenne, si elle une puissance économique majeure, peine néanmoins à faire entendre sa voix sur la scène internationale.  
+
+- **BRICS** : terme qui désigne les cinq principaux pays émergents (Brésil, Russie, Inde, Chine et Afrique du Sud). 
+- **Multipolaire** : organisation du monde dans laquelle la puissance est partagée entre plusieurs pôles, en opposition à la guerre froide où l’organisation du monde était dite « bipolaire ».  
+## De nouveaux conflits et de nouvelles modalités
+### Un monde multipolaire en équilibre précaire
+
+
+
 --- 
