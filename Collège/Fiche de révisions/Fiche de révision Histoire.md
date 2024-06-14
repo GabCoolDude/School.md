@@ -480,8 +480,36 @@ Par ailleurs, l’Union européenne, si elle une puissance économique majeure, 
 - **BRICS** : terme qui désigne les cinq principaux pays émergents (Brésil, Russie, Inde, Chine et Afrique du Sud). 
 - **Multipolaire** : organisation du monde dans laquelle la puissance est partagée entre plusieurs pôles, en opposition à la guerre froide où l’organisation du monde était dite « bipolaire ».  
 ## De nouveaux conflits et de nouvelles modalités
+#### Exemple : la crise ukrainienne (2014 puis 2022)
+
+En novembre 2013, le président ukrainien Ianoukovitch abandonne l’accord d’association avec l’Union européenne et cherche à renforcer la coopération avec la Russie. Cependant, cette décision déplaît à bon nombre d’Ukrainiens, provoquant des manifestations à Kiev. Les protestations s’intensifient et se manifestent sur la place Maïdan. Vladimir Poutine, en décembre, rachète une partie de la dette ukrainienne et réduit le prix du gaz que la Russie vend à l’Ukraine.  
+
+En février 2014, les affrontements entre manifestants et forces de l’ordre deviennent meurtriers. Plusieurs partenaires occidentaux se rendent sur place et négocient une élection présidentielle anticipée. Cependant, le 22 février, Ianoukovitch est destitué par le Parlement. Un gouvernement intérimaire se met en place et Vladimir Poutine dénonce un coup d’Etat.  
+
+En mars 2014, c’est la Crimée qui s’embrase, opposant militants pro et anti-Russes. La Crimée est un territoire stratégique pour la Russie. Majoritairement russophone, la Crimée n’est ukrainienne que depuis 60 ans. Le 16 mars, elle vote massivement en faveur de son rattachement à la Russie lors d’un référendum qualifié d’ « illégal » par les Etats-Unis et l’Union européenne.  Deux jours après, Vladimir Poutine signe le projet de loi rattachant la Crimée à la Russie et Moscou reprend le contrôle des bases militaires ukrainiennes. En réponse, le Canada, les États-Unis et l’Union européenne durcissent le ton et interdisent leurs territoires à des responsables politiques russes et à leurs homologues de Crimée.
+
+Les relations se tendent de nouveau en 2021. En février 2022, la Russie reconnaît les deux républiques séparatistes de Donetsk et Lougansk et les armées russes envahissent le territoire ukrainien marquant le début de la guerre entre l’Ukraine et la Russie.
 ### Un monde multipolaire en équilibre précaire
 
+Les tensions se concentrent au sein d’un « arc des crises » allant de l’Afrique au Pakistan en passant par le Proche et le Moyen-Orient. Ce dernier est touché par de nombreuses guerres civiles, ethniques et nationalistes. Les civils, qui sont les premières victimes, sont nombreux à fuir les régions en guerre et les réfugiés sont de plus en plus nombreux. 
 
+Les **cyberguerres** sont une nouvelle forme de conflictualité à l’échelle mondiale, bouleversant ainsi les logiques de guerres traditionnelles. 
+
+- **Cyberguerre** : conflit qui repose sur l’utilisation d’armes informatiques pour déstabiliser l’adversaire, voire lui causer des pertes matérielles voire humaines.  
+### De nouvelles menaces
+
+Depuis les attentats du 11 septembre 2001, le terrorisme **islamiste** se développe de façon considérable avec les actions d’Al-Qaida puis de Daesh (depuis 2006) qui frappent régulièrement les pays en guerre (Syrie, Irak etc.) et les pays occidentaux (France, Belgique, Espagne, Royaume-Uni…). Ces groupes terroristes ont des ramifications dans de nombreux pays du monde et ont pour objectif d’étendre l’islamisme dans le monde et d’ébranler l’Occident.  
+
+Certaines dictatures (Corée du Nord, Iran) cherchent par ailleurs à se doter de l’arme nucléaire ce qui crée un risque de **prolifération nucléaire**.  
+
+Enfin, de plus en plus de conflits sont liés à l’accès aux ressources (en eau, à l’énergie notamment).  
+
+- **Islamisme** : doctrine qui vise à faire de l’islam et de la loi islamique (la charia) le fondement de la vie politique et sociale. L’islamisme, qui est une doctrine politique, est à ne pas confondre avec l’islam, qui est une religion ! 
+- **Prolifération nucléaire** : augmentation du nombre de pays possédant l’arme nucléaire.  
+# 1944 – 1947, refonder la République, redéfinir la démocratie 
+
+Comment la République est-elle refondée après la Libération ? 
+## La restauration de la République
+### La libération du ter
 
 --- 
