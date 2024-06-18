@@ -122,3 +122,6 @@ Selon la Contraposée du théorème **de Pythagore**, le triangle ABC n'est pas 
 Quand le triangle est rectangle, c'est la **Réciproque**.
 Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 # Théorème de Thalès
+
+![[Triangle Thalès.png]]
+
