@@ -124,4 +124,8 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 # Théorème de Thalès
 
 ![[Triangle Thalès.png]]
+![[Egalite de Thalès.png]]
+## Réciproque du théorème de Thalès
+
+![[Triangle réciproque thalès.png]]
 
