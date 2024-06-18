@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "766fda31def02e55",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md"
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
               }
             }
           }
@@ -159,17 +148,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "766fda31def02e55",
+  "active": "bed396a33b50955d",
   "lastOpenFiles": [
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+    "Images/Math/Capture d'écran 2024-06-18 190746.png",
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Images/Histoire/Capture d'écran 2024-06-14 220424.png",
     "Images/Histoire/Capture d'écran 2024-06-14 220203.png",
     "Images/Histoire/Capture d'écran 2024-06-14 215311.png",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
     "README.md",
     "Template.md",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Collège/Dates importantes.md",
     "Images/Histoire/Capture d'écran 2024-05-25 153737.png",
@@ -182,7 +172,6 @@
     "Images/Géographie/Capture d'écran 2024-05-17 223026.png",
     "Images/Géographie/Capture d'écran 2024-05-17 222233.png",
     "Images/Géographie/IMG_0374.png",
-    "Images/Géographie/IMG_0375.png",
     "Images/Géographie",
     "Images/Nouveau dossier",
     "IMG_0373.heic",

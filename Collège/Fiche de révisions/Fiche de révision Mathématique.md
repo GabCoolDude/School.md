@@ -94,3 +94,5 @@ On peut la reconnaître grâce à :
 
 Lorsque k est supérieur à 1, l'homothétie effectue un agrandissement de la figure.
 Lorsque k est inférieur à 1 et supérieur à 0, l'homothétie effectue une réduction de la figure.
+# Théorème de Pythagore
+![[Capture d'écran 2024-06-18 190746.png]]
