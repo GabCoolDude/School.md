@@ -127,5 +127,14 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 ![[Egalite de Thalès.png]]
 ## Réciproque du théorème de Thalès
 
-![[Triangle réciproque thalès.png]]
+![[Triangle Thalès.png]]
 
+Si 
+![[Capture d'écran 2024-06-18 193525.png]]
+alors (EF) // (BC)
+### Exemple
+
+![[Triangle réciproque thalès.png]]
+![[Capture d'écran 2024-06-18 193335.png]]
+
+Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles
