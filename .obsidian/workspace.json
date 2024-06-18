@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "766fda31def02e55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bed396a33b50955d",
+  "active": "766fda31def02e55",
   "lastOpenFiles": [
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
