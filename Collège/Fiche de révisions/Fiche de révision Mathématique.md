@@ -117,7 +117,8 @@ alors, ABC rectangle en B
 12² = 144
 8² + 9² = 145
 
-Selon la Contraposée du théorème de Pythagore, le triangle ABC n'est pas rectangle.
+Selon la Contraposée du théorème **de Pythagore**, le triangle ABC n'est pas rectangle.
 
 Quand le triangle est rectangle, c'est la **Réciproque**.
-Quan
+Quand le triangle n'est pas rectangle, c'est la **Contraposée**
+# Théorème de Thalès
