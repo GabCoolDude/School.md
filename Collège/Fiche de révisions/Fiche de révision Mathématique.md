@@ -95,6 +95,7 @@ On peut la reconnaître grâce à :
 Lorsque k est supérieur à 1, l'homothétie effectue un agrandissement de la figure.
 Lorsque k est inférieur à 1 et supérieur à 0, l'homothétie effectue une réduction de la figure.
 # Théorème de Pythagore
+
 ![[Triangle hypothénuse.png]]
 
 Pour calculer l'hypothénuse :
@@ -104,9 +105,19 @@ Pour calculer les autres cotés :
 AC² - AB² = BC²
 AC² - BC² = AB²
 ## Réciproque du théorème de Pythagore
+
 ![[Triangle ABC.png]]
 
 Si AB² + BC² + AC²
 alors, ABC rectangle en B
 ### Exemple :
 
+![[Triangle 8;14;9.png]]
+
+12² = 144
+8² + 9² = 145
+
+Selon la Contraposée du théorème de Pythagore, le triangle ABC n'est pas rectangle.
+
+Quand le triangle est rectangle, c'est la **Réciproque**.
+Quan
