@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fbdcee1e3c982af3",
+        "id": "9d52ba8badc12979",
         "type": "tabs",
         "children": [
           {
-            "id": "bed396a33b50955d",
+            "id": "c14b882cea5a7748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +140,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bed396a33b50955d",
+  "active": "c14b882cea5a7748",
   "lastOpenFiles": [
+    "Recording 20240618193859.webm.md",
+    "Untitled.canvas",
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Recording 20240618193859.webm",
+    "Recording 20240618193847.webm",
     "Images/Math/Capture d'écran 2024-06-18 193525.png",
     "Images/Math/Capture d'écran 2024-06-18 193335.png",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Images/Math/Triangle Thalès.png",
     "Images/Math/Triangle 8;14;9.png",
     "Images/Math/Triangle ABC.png",
@@ -180,9 +176,6 @@
     "Images",
     "Images/Math",
     "Images",
-    "Templates",
-    "Collège",
-    "Untitled.canvas",
     "2024-02-21.md",
     "Fiche de révisions/Fiche de Révision Histoire.md",
     "Fiche de révisions/Fiche de Révision Géographie.md",
