@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
+                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md"
               }
             }
           },
@@ -153,11 +153,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "c14b882cea5a7748",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Images/Math/Pythagore/Triangle hypothénuse.png",
     "Images/Math/Pythagore/Triangle ABC.png",
     "Images/Math/Pythagore/Triangle 8;14;9.png",
@@ -168,8 +170,6 @@
     "Images/Math/Thales/Capture d'écran 2024-06-18 193335.png",
     "Images/Math/Antécédent & Image.png",
     "Images/Math/Fonction.png",
-    "Images/Math/IMG_0369.jpeg",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Images/Math/Pythagore",
     "Images/Math/Thales",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
