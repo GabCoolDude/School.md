@@ -132,8 +132,6 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 Si 
 ![[Capture d'écran 2024-06-18 193525.png]]
 alors (EF) // (BC)
-![[Recording 20240618193859.webm]]
-
 ### Exemple
 
 ![[Triangle réciproque thalès.png]]
