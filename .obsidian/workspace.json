@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,10 +171,11 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "c14b882cea5a7748",
+  "active": "398d707ac1e4d9de",
   "lastOpenFiles": [
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
