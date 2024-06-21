@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "BoBxImage",
+      "BoBxsImage",
+      "BoBxImages",
+      "BoBxsFileExport",
+      "BoBxsFileMd"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -25,5 +31,27 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
     "debugMode": false
-  }
+  },
+  "Collège": "BoBxFolder",
+  "Collège/Fiche de révisions": "BoBxFolderOpen",
+  "Images": "BoBxImages",
+  "Images/Géographie": "BoBxFolderOpen",
+  "Images/Histoire": "BoBxFolderOpen",
+  "Images/Math": "BoBxFolderOpen",
+  "Images/Math/Pythagore": "BoBxFolderOpen",
+  "Images/Math/Thales": "BoBxFolderOpen",
+  "README.md": "BoBxsFileMd",
+  "Template.md": "BoBxsFileExport",
+  "Images/Math/Pythagore/Triangle 8;14;9.png": "BoBxsImage",
+  "Images/Math/Pythagore/Triangle ABC.png": "BoBxsImage",
+  "Images/Math/Pythagore/Triangle hypothénuse.png": "BoBxsImage",
+  "Images/Math/Thales/Capture d'écran 2024-06-18 193335.png": "BoBxsImage",
+  "Images/Math/Thales/Capture d'écran 2024-06-18 193525.png": "BoBxsImage",
+  "Images/Math/Thales/Egalite de Thalès.png": "BoBxsImage",
+  "Images/Math/Thales/Triangle Thalès.png": "BoBxsImage",
+  "Images/Math/Antécédent & Image.png": "BoBxImage",
+  "Images/Math/Fonction.png": "BoBxImage",
+  "Images/Math/IMG_0368.jpeg": "BoBxImage",
+  "Images/Math/IMG_0369.jpeg": "BoBxImage",
+  "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage"
 }
