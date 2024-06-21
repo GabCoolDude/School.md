@@ -35,9 +35,18 @@
   "Collège": "BoBxFolder",
   "Collège/Fiche de révisions": "BoBxFolderOpen",
   "Images": "BoBxImages",
-  "Images/Géographie": "BoBxFolderOpen",
-  "Images/Histoire": "BoBxFolderOpen",
-  "Images/Math": "BoBxFolderOpen",
+  "Images/Géographie": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#feaa34"
+  },
+  "Images/Histoire": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#24c8ff"
+  },
+  "Images/Math": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#ff1f1f"
+  },
   "Images/Math/Pythagore": "BoBxFolderOpen",
   "Images/Math/Thales": "BoBxFolderOpen",
   "README.md": "BoBxsFileMd",
@@ -53,5 +62,6 @@
   "Images/Math/Fonction.png": "BoBxImage",
   "Images/Math/IMG_0368.jpeg": "BoBxImage",
   "Images/Math/IMG_0369.jpeg": "BoBxImage",
-  "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage"
+  "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage",
+  "Collège/Dates importantes.md": "BoBxsFileMd"
 }

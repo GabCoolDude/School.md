@@ -8,9 +8,9 @@
     "display": "Obsidian Core Quick Switcher"
   },
   "showTime": true,
-  "timeFormat": "12-hour",
+  "timeFormat": "24-hour",
   "showGreeting": true,
-  "greetingText": "Hello, Beautiful.",
+  "greetingText": "Hello, Gabriel.",
   "showInlineSearch": true,
   "inlineSearchProvider": {
     "command": "switcher:open",
