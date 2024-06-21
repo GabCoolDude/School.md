@@ -31,6 +31,7 @@
       {
         "id": "0757a394adf6fd1f",
         "type": "tabs",
+        "dimension": 66.50485436893204,
         "children": [
           {
             "id": "8512c0ca28a16fd9",
@@ -66,6 +67,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "8c417264c7e381d6",
+        "type": "tabs",
+        "dimension": 33.49514563106796,
+        "children": [
+          {
+            "id": "398d707ac1e4d9de",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c32f29fbef61878c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,16 +153,9 @@
                 "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md"
               }
             }
-          },
-          {
-            "id": "c32f29fbef61878c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,6 +177,7 @@
   },
   "active": "c14b882cea5a7748",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Images/Math/Pythagore/Triangle hypothénuse.png",
     "Images/Math/Pythagore/Triangle ABC.png",
@@ -178,7 +197,6 @@
     "Untitled.canvas",
     "Recording 20240618193859.webm",
     "Recording 20240618193847.webm",
-    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "README.md",
     "Template.md",
