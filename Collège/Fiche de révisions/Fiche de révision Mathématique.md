@@ -106,9 +106,17 @@ AC² - AB² = BC²
 AC² - BC² = AB²
 ### Exemple
 
-![[Triangle 8;14;9.png]]
+![[Triangle 8;14;9 - Copie.png]]
 Triangle ABC rectangle en B
-Selon
+Selon le théorème de Pythagore,
+AB² + BC² = AC²
+8² + 9² = AC²
+AC² = 145
+
+>[!NOTE]+ Calculer AC
+> On peut utiliser la racine carrée pour calculer AC
+> 
+
 ## Réciproque du théorème de Pythagore
 
 ![[Triangle ABC.png]]
