@@ -215,6 +215,6 @@ Résoudre l'équation: 4x - 6 = 2(x -5)
 2x = - 4                                        On a rajouter 6 pour enlever le -6.
 2x/2 = -4/2                                 On divise pour trouver x
 x = -2
-
+## Résolution d'équation produit nul
 
 ---
