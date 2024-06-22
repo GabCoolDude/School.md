@@ -161,8 +161,8 @@ alors (EF) // (BC)
 **(EF) // (BC)**
 ![[Capture d'écran 2024-06-18 193335.png]]
 Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles.
-# Trigonométrie dans le triangle rectangle
-
+# Statistiques
+## Moyenne
 
 
 ---
