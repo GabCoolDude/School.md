@@ -112,11 +112,11 @@ Selon le théorème de Pythagore,
 AB² + BC² = AC²
 8² + 9² = AC²
 AC² = 145
-
 >[!NOTE]+ Calculer AC
 > On peut utiliser la racine carrée pour calculer AC
-> 
-
+> AC 
+>> [!WARNING]- Mais..
+>> Cela ne fait pas parti du théorème.
 ## Réciproque du théorème de Pythagore
 
 ![[Triangle ABC.png]]
