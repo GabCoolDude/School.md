@@ -196,6 +196,14 @@ Il faut ranger les nombres dans l'ordre croissant avant de calculer la médiane.
 
 L'etendue est la différence entre la valeur la plus grande et la valeur la plus petite de la série.
 
->[!]
+>[!NOTE]+ Exemple
+> 8 - 11 - 7 - 16 - 19
+> L'étendue est donc: 19 - 7 = 12
+## Moyenne pondérée (coefficient)
+
+| Note        | 9   | 13  | 15  | 12  | 19  |
+| ----------- | --- | --- | --- | --- | --- |
+| Coefficient | 2   | 3   | 1   | 3   | 1   |
+
 
 ---
