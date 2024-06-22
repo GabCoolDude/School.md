@@ -104,6 +104,10 @@ AB² + BC² = AC²
 Pour calculer les autres cotés :
 AC² - AB² = BC²
 AC² - BC² = AB²
+### Exemple
+
+![[Triangle 8;14;9.png]]
+
 ## Réciproque du théorème de Pythagore
 
 ![[Triangle ABC.png]]
