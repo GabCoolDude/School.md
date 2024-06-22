@@ -233,8 +233,25 @@ La solution est donc soit -3 ou soit -2.
 
 (a + b)(a - b) = a² - b²
 
->[!NOTE]+ Exemples de développement
+>[!NOTE]+ Exemple de développement
 >(x + 7)(x - 7) = x² - 7x + 7x - 7 = x² - 7² = x² - 49
->(3x - 2)(3x + 2) = 9x² + 6x - 9x² - 4 = 9x²
+
+>[!NOTE]+ Exemple de factorisation
+>x² - 16 = x² - 4² = (x - 4)(x + 4)
+>
+>4x² - 25 = (2x)² - 5² = (2x + 5)(2x - 5)
+
+## Résolution d'équation du type x² = a, où a est un nombre relatif positif
+
+x² = 36
+x² - 36 = 0
+x² - 6² = 0
+(x + 6)(x - 6) = 0
+donc
+x + 6 = 0
+x = -6
+ou
+x - 6 = 0
+x = 
 
 ---
