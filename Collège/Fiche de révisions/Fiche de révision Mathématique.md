@@ -192,6 +192,10 @@ Il faut ranger les nombres dans l'ordre croissant avant de calculer la médiane.
 
 >[!WARNING] Attention !
 >Lorsque l'effectif totale est pair, il faut diviser l'effectif totale par 2 et arrondir au nombre supérieur.
-###
+### Etendue
+
+L'etendue est la différence entre la valeur la plus grande et la valeur la plus petite de la série.
+
+>[!]
 
 ---
