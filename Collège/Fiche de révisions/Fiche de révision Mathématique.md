@@ -166,7 +166,7 @@ Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas par
 
 La moyenne d'un série est obtenue en divisant la somme des valeurs par le nombre total de valeurs (effectif total).
 
->[!NOTE]+ Exemple :
+>[!INFO]+ Exemple
 > 9 ; 18 ; 20 ; 12 ; 13 ; 15
 > Pour calculer cette moyenne, il faut ajouter toutes les valeurs : 
 > 9 + 18 + 20 + 12 + 13 + 15 = 87
@@ -174,6 +174,8 @@ La moyenne d'un série est obtenue en divisant la somme des valeurs par le nombr
 > 87/6 = **14,5**
 ## Médiane
 
+La médiane d'une série de données est un nombre tel qu'au moins 50% des données de la série ont un valeur inférieur or égale à ce nombre et au moins 50 % des données de la série ont un valeur supérieure ou égale à ce nombre.
 
+Il faut ranger les nombres dans l'ordre croissant avant de calculer la médiane
 
 ---
