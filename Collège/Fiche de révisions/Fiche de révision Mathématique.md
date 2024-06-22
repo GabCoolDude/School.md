@@ -184,4 +184,10 @@ Il faut ranger les nombres dans l'ordre croissant avant de calculer la médiane.
 >
 > La médiane de cette série est (8 + 9)/2 = 8,5
 
+>[!NOTE]+ Exemple où l'effectif total est impair
+>5 - 5,5 - 6,3 - 7 - 7,5 - 8,9 - 9 - 9,6 - 10,2 - 11,4 - 12
+>Il y a 11 valeurs dans cette série.
+
+
+
 ---
