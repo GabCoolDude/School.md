@@ -217,4 +217,18 @@ Résoudre l'équation: 4x - 6 = 2(x -5)
 x = -2
 ## Résolution d'équation produit nul
 
+Résoudre l'équation (2x + 6)(x + 2) = 0
+
+2x + 6 = 0
+2x = -6
+x = -3
+
+**OU**
+
+x + 2 = 0
+x = -2
+
+La solution est donc soit -3 ou soit -2.
+# Identité remarquable
+
 ---
