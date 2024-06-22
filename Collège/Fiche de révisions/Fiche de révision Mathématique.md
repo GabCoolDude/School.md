@@ -139,6 +139,11 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 ![[Egalite de Thalès.png]]
 ### Exemple
 
+![[Triangle théorème thalès.png]]
+(AC) et (AB) sécantes en A
+(EF) // (BC)
+Selon le théorème de Thalès,
+
 
 
 ## Réciproque du théorème de Thalès
