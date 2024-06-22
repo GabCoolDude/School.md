@@ -209,10 +209,12 @@ L'etendue est la différence entre la valeur la plus grande et la valeur la plus
 
 Résoudre l'équation: 4x - 6 = 2(x -5)
 
-|     |     |
-| --- | --- |
-|     |     |
-
+4x - 6 = 2(x -5)
+4x - 6 = 2x - 10                          On a développé.
+2x - 6 = -10                                 On a enlevé 2x.
+2x = - 4                                        On a rajouter 6 pour enlever le -6.
+2x/2 = -4/2                                 On divise pour trouver x
+x = -2
 
 
 ---
