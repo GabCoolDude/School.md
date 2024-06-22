@@ -11,8 +11,12 @@
             "id": "c959a3d60ce6011e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
+              }
             }
           }
         ],
@@ -169,8 +177,10 @@
   },
   "active": "c959a3d60ce6011e",
   "lastOpenFiles": [
-    "Collège/Dates importantes.md",
+    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+    "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Collège/Dates importantes.md",
     "Images/Math/Thales/Egalite de thales.png",
     "Images/Math/Thales/produit en croix thales.png",
     "Images/Math/Thales/Triangle théorème thalès.png",
@@ -178,10 +188,8 @@
     "Images/Math/Pythagore/Triangle 8;14;9 - Copie.png.~tmp",
     "Images/Math/Pythagore/Triangle 8;14;9 - Copie.png",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
-    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Images/Math/Pythagore/Triangle 8;14;9.png",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Home.md",
     "Images/Math/Pythagore/Triangle hypothénuse.png",
     "Images/Math/Pythagore/Triangle ABC.png",
