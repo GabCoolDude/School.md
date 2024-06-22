@@ -234,7 +234,7 @@ La solution est donc soit -3 ou soit -2.
 (a + b)(a - b) = a² - b²
 
 >[!NOTE]+ Exemples de développement
->(x + 7)(x - 7) = x² - 7x + 7x - 7 = x² - 49
+>(x + 7)(x - 7) = x² - 7x + 7x - 7 = x² - 7² = x² - 49
 >(3x - 2)(3x + 2) = 9x² + 6x - 9x² - 4 = 9x²
 
 ---
