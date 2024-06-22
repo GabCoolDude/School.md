@@ -113,8 +113,7 @@ AB² + BC² = AC²
 8² + 9² = AC²
 AC² = 145
 >[!NOTE]+ Calculer AC
-> On peut utiliser la racine carrée pour calculer AC
-> AC = 
+> On peut utiliser la racine carrée pour calculer AC :
 >> [!WARNING]- Mais..
 >> Cela ne fait pas parti du théorème.
 ## Réciproque du théorème de Pythagore
@@ -138,6 +137,10 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 
 ![[Triangle Thalès.png]]
 ![[Egalite de Thalès.png]]
+### Exemple
+
+
+
 ## Réciproque du théorème de Thalès
 
 ![[Triangle Thalès.png]]
@@ -150,4 +153,4 @@ alors (EF) // (BC)
 ![[Triangle réciproque thalès.png]]
 ![[Capture d'écran 2024-06-18 193335.png]]
 
-Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles
+Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles.
