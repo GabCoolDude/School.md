@@ -166,7 +166,7 @@ Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas par
 
 La moyenne d'un série est obtenue en divisant la somme des valeurs par le nombre total de valeurs (effectif total).
 
->[!NOTE]+ Example :
+>[!NOTE]+ Exemple :
 > 9 ; 18 ; 20 ; 12 ; 13 ; 15
 > Pour calculer cette moyenne, il faut ajouter toutes les valeurs : 
 > 9 + 18 + 20 + 12 + 13 + 15 = 87
