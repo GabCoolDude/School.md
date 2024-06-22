@@ -107,7 +107,8 @@ AC² - BC² = AB²
 ### Exemple
 
 ![[Triangle 8;14;9.png]]
-
+Triangle ABC rectangle en B
+Selon
 ## Réciproque du théorème de Pythagore
 
 ![[Triangle ABC.png]]
