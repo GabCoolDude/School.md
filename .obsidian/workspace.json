@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md"
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
               }
             }
           }
@@ -180,6 +180,7 @@
     "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Images/Math/Pythagore/Triangle hypothénuse.png",
     "Images/Math/Pythagore/Triangle ABC.png",
     "Images/Math/Pythagore/Triangle 8;14;9.png",
@@ -192,7 +193,6 @@
     "Images/Math/Fonction.png",
     "Images/Math/Pythagore",
     "Images/Math/Thales",
-    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Recording 20240618193859.webm.md",
     "Untitled.canvas",
     "Recording 20240618193859.webm",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsComment",
       "BoBxImage",
       "BoBxsImage",
       "BoBxImages",
-      "BoBxsFileExport",
-      "BoBxsFileMd"
+      "BoBxsFileExport"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -63,5 +63,10 @@
   "Images/Math/IMG_0368.jpeg": "BoBxImage",
   "Images/Math/IMG_0369.jpeg": "BoBxImage",
   "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage",
-  "Collège/Dates importantes.md": "BoBxsFileMd"
+  "Collège/Dates importantes.md": "BoBxsFileMd",
+  "Collège/Fiche de révisions/Fiche de révision Français.md": "BoBxsFileMd",
+  "Collège/Fiche de révisions/Fiche de révision Géographie.md": "BoBxsFileMd",
+  "Collège/Fiche de révisions/Fiche de révision Histoire.md": "BoBxsFileMd",
+  "Collège/Fiche de révisions/Fiche de révision Mathématique.md": "BoBxsFileMd",
+  "Collège/Fiche de révisions/Liste de Fiches de Révisions.md": "BoBxsComment"
 }
