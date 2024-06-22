@@ -114,7 +114,7 @@ AB² + BC² = AC²
 AC² = 145
 >[!NOTE]+ Calculer AC
 > On peut utiliser la racine carrée pour calculer AC
-> AC 
+> AC = 
 >> [!WARNING]- Mais..
 >> Cela ne fait pas parti du théorème.
 ## Réciproque du théorème de Pythagore
