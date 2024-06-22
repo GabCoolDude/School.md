@@ -143,8 +143,9 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 (AC) et (AB) sécantes en A
 (EF) // (BC)
 Selon le théorème de Thalès,
-
-
+![[Egalite de thales.png]]
+( On peut faire un produit en croix pour trouver EF)
+![[produit en croix thales.png]]
 
 ## Réciproque du théorème de Thalès
 
