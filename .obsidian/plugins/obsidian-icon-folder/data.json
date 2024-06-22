@@ -65,8 +65,17 @@
   "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage",
   "Collège/Dates importantes.md": "BoBxsFileMd",
   "Collège/Fiche de révisions/Fiche de révision Français.md": "BoBxsFileMd",
-  "Collège/Fiche de révisions/Fiche de révision Géographie.md": "BoBxsFileMd",
-  "Collège/Fiche de révisions/Fiche de révision Histoire.md": "BoBxsFileMd",
-  "Collège/Fiche de révisions/Fiche de révision Mathématique.md": "BoBxsFileMd",
+  "Collège/Fiche de révisions/Fiche de révision Géographie.md": {
+    "iconName": "BoBxsFileMd",
+    "iconColor": "#ffac38"
+  },
+  "Collège/Fiche de révisions/Fiche de révision Histoire.md": {
+    "iconName": "BoBxsFileMd",
+    "iconColor": "#24c8ff"
+  },
+  "Collège/Fiche de révisions/Fiche de révision Mathématique.md": {
+    "iconName": "BoBxsFileMd",
+    "iconColor": "#ff1f1f"
+  },
   "Collège/Fiche de révisions/Liste de Fiches de Révisions.md": "BoBxsComment"
 }
