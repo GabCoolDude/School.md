@@ -240,7 +240,6 @@ La solution est donc soit -3 ou soit -2.
 >x² - 16 = x² - 4² = (x - 4)(x + 4)
 >
 >4x² - 25 = (2x)² - 5² = (2x + 5)(2x - 5)
-
 ## Résolution d'équation du type x² = a, où a est un nombre relatif positif
 
 x² = 36
@@ -252,6 +251,6 @@ x + 6 = 0
 x = -6
 ou
 x - 6 = 0
-x = 
+x = 6
 
 ---
