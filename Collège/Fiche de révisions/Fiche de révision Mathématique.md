@@ -140,13 +140,13 @@ Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 ### Exemple
 
 ![[Triangle théorème thalès.png]]
-(AC) et (AB) sécantes en A
-(EF) // (BC)
+**(AC) et (AB) sécantes en A**
+**(EF) // (BC)**
 Selon le théorème de Thalès,
 ![[Egalite de thales.png]]
 ( On peut faire un produit en croix pour trouver EF)
 ![[produit en croix thales.png]]
-
+**EF** = 4 x 12 / 12 **= 4**
 ## Réciproque du théorème de Thalès
 
 ![[Triangle Thalès.png]]
@@ -157,6 +157,12 @@ alors (EF) // (BC)
 ### Exemple
 
 ![[Triangle réciproque thalès.png]]
+**(AC) et (AB) sécantes en A**
+**(EF) // (BC)**
 ![[Capture d'écran 2024-06-18 193335.png]]
-
 Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles.
+# Trigonométrie dans le triangle rectangle
+
+
+
+---
