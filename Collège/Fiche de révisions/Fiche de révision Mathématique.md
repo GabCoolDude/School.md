@@ -204,6 +204,6 @@ L'etendue est la différence entre la valeur la plus grande et la valeur la plus
 | Note        | 9   | 13  | 15  | 12  | 19  |
 | ----------- | --- | --- | --- | --- | --- |
 | Coefficient | 2   | 3   | 1   | 3   | 1   |
-
+(9 x 2 + 13 x 3 + 15 + 12 x 3 + 19) / (2 + 3 + 1 + 3 + 1) = 127/10 = 12,7
 
 ---
