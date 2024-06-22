@@ -176,6 +176,12 @@ La moyenne d'un série est obtenue en divisant la somme des valeurs par le nombr
 
 La médiane d'une série de données est un nombre tel qu'au moins 50% des données de la série ont un valeur inférieur or égale à ce nombre et au moins 50 % des données de la série ont un valeur supérieure ou égale à ce nombre.
 
-Il faut ranger les nombres dans l'ordre croissant avant de calculer la médiane
+Il faut ranger les nombres dans l'ordre croissant avant de calculer la médiane.
+
+>[!NOTE]+ Exemple où l'effectif total est pair
+> 5 - 6 - 6 - 7 - 7 - 7 - 8 - 9 - 9 - 12 - 13 - 17 -  18 - 18
+> Il y a 14 valeurs dans cette série.
+>
+> La médiane de cette série est (8 + 9)/2 = 8,5
 
 ---
