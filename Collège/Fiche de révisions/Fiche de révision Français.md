@@ -216,11 +216,23 @@ La rime peut être plus ou moins riche selon la longueur de la sonorité qui se 
 
 Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
 # Propositions subordonnées
-## Proposition subordonnée relative
+## PS relative
 
 Complète un nom ou un pronom.
 ### PS Relative Déterminative / Essentielle
 
 Definit le sense de l'antécédent auquel elle se rapporte : **on ne peut pas la supprimer**
+### PS Relative Explicative / adjective
+
+Apporte une information supplémentaire concernant l'antécédent : **on peut la supprimer**
+## PS Complétive
+
+Ne peut être ni supprimé ni déplacé.
+### PS Interrogative indirecte totale
+
+Sert à poser une question à laquelle **on peut répondre par oui ou non**
+### PS Interrogative indirecte partielle
+
+Sert à poser une question à laquelle on **ne peut pas répondre par oui ou non**
 
 ---
