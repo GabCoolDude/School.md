@@ -244,9 +244,13 @@ Donne une information.
 Donne une circonstance, **parfois** déplaçable.
 
 Voici une liste de toutes les circonstancielles et des **exemples** de mots subordonnants:
-- PS Circonstancielle de Temps: avant que, quand, lorsque, comme, après que
-- PS Circonstancielle de Cause: parce que, puisque, comme, vu que
-- PS Circonstancielle de Conséquence: si...que, tellement.. que, tant...que
-- PS Circonstancielle de But: pour que, afin que, 
+- **PS Circonstancielle de Temps**: avant que, quand, lorsque, comme, après que
+- **PS Circonstancielle de Cause**: parce que, puisque, comme, vu que
+- **PS Circonstancielle de Conséquence**: si...que, tellement.. que, tant...que
+- **PS Circonstancielle de But**: pour que, afin que, de peur que
+- **PS Circonstancielle d'Opposition**: bien que, quoique, alors que, tandis que
+- **PS Circonstancielle de Concession**: bien que, sans que, quand même bien
+- **PS Circonstancielle de Condition**: si, selon que, suivant que
+- **PS Circonstancielle de Comparaison**: comme, ainsi que, de même que
 
 ---
