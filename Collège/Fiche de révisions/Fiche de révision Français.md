@@ -216,6 +216,8 @@ La rime peut être plus ou moins riche selon la longueur de la sonorité qui se 
 
 Il existe des rimes féminins et des rimes masculins. Les rimes féminins se terminent par un e muet ( mouette, délire, heure, vivre ). Les rimes masculins sont les autres (ardeur, vision, mourir)
 # Propositions subordonnées
+
+Pour trouver les proposition subordonnées facilement, procéder par élimination.
 ## PS relative
 
 Complète un nom ou un pronom.
@@ -230,9 +232,21 @@ Apporte une information supplémentaire concernant l'antécédent : **on peut la
 Ne peut être ni supprimé ni déplacé.
 ### PS Interrogative indirecte totale
 
-Sert à poser une question à laquelle **on peut répondre par oui ou non**
+Sert à poser une question à laquelle **on peut répondre par oui ou non**.
 ### PS Interrogative indirecte partielle
 
-Sert à poser une question à laquelle on **ne peut pas répondre par oui ou non**
+Sert à poser une question à laquelle on **ne peut pas répondre par oui ou non**.
+### PS Complétive conjonctive
+
+Donne une information.
+## PS Circonstancielle
+
+Donne une circonstance, **parfois** déplaçable.
+
+Voici une liste de toutes les circonstancielles et des **exemples** de mots subordonnants:
+- PS Circonstancielle de Temps: avant que, quand, lorsque, comme, après que
+- PS Circonstancielle de Cause: parce que, puisque, comme, vu que
+- PS Circonstancielle de Conséquence: si...que, tellement.. que, tant...que
+- PS Circonstancielle de But: pour que, afin que, 
 
 ---
