@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c5611ee3ff7a4c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "ee37e0dfc13083fb",
+  "active": "6c5611ee3ff7a4c3",
   "lastOpenFiles": [
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
