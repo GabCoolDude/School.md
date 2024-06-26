@@ -49,16 +49,18 @@ Exemple :
 | 10<sup>-12</sup> | Pico  | p   |
 # Fonctions
 
-Une fonction est un processus mathématique qui à tout nombre x fait correspondre un unique nombre noté f(x)!![[Fonction.png]]
+Une fonction est un processus mathématique qui à tout nombre x fait correspondre un unique nombre noté f(x)
+
+![[Fonction.png]]
 
 Exemple :
 
-| Ecriture 1                        | Ecriture 2              |
-| --------------------------------- | ----------------------- |
-| f : x -> f(x) = 2x + 3            |                         |
-| f : 4 -> f(x) = 2 x 4 + 3 = 11    | f(4) = 2 x 4 + 3 = 11   |
-| f : 6 --> f(x) = 2 x 6 + 3 = 15   | f(6) = 2 x 6 + 3 = 15   |
-| f : -2 --> f(x) = 2 x -2 + 3 = -1 | f(-2) = 2 x -2 + 3 = -1 |
+| Ecriture 1                       | Ecriture 2              |
+| -------------------------------- | ----------------------- |
+| f : x -> f(x) = 2x + 3           |                         |
+| f : 4 -> f(x) = 2 x 4 + 3 = 11   | f(4) = 2 x 4 + 3 = 11   |
+| f : 6 -> f(x) = 2 x 6 + 3 = 15   | f(6) = 2 x 6 + 3 = 15   |
+| f : -2 -> f(x) = 2 x -2 + 3 = -1 | f(-2) = 2 x -2 + 3 = -1 |
 ## Image et Antécédent
 
 ![[Antécédent & Image.png]]
@@ -112,10 +114,7 @@ Selon le théorème de Pythagore,
 AB² + BC² = AC²
 8² + 9² = AC²
 AC² = 145
->[!NOTE]+ Calculer AC
-> On peut utiliser la racine carrée pour calculer AC :
->> [!WARNING]- Mais..
->> Cela ne fait pas parti du théorème.
+
 ## Réciproque du théorème de Pythagore
 
 ![[Triangle ABC.png]]
