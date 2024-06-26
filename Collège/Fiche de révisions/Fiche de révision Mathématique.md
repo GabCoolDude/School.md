@@ -277,5 +277,10 @@ Calculer la longueur DR.
 **Etape 3**: On fait un produit en croix
 ![[Capture d'écran 2024-06-26 190229.png]]
 **DE =** (tan 36° x 4)/1 = (à peu près) **2,9**
+## Calculer un angle avec la trigonométrie
+
+![[Triangle 8;14;9.png]]
+Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm,
+
 
 ---
