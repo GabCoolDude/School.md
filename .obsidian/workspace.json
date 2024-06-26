@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
-                "mode": "source",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md"
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
               }
             }
           }
@@ -177,10 +177,11 @@
   },
   "active": "ee37e0dfc13083fb",
   "lastOpenFiles": [
-    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+    "Template.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Collège/Dates importantes.md",
     "Images/Math/Thales/Egalite de thales.png",
@@ -203,7 +204,6 @@
     "Recording 20240618193859.webm",
     "Recording 20240618193847.webm",
     "README.md",
-    "Template.md",
     "Images/Histoire",
     "DNB.md",
     "Collège/Oral DNB.md",
