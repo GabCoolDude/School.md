@@ -51,7 +51,6 @@
   "Images/Math/Thales": "BoBxFolderOpen",
   "README.md": "BoBxsFileMd",
   "Template.md": "BoBxsFileExport",
-  "Images/Math/Pythagore/Triangle 8;14;9.png": "BoBxsImage",
   "Images/Math/Pythagore/Triangle ABC.png": "BoBxsImage",
   "Images/Math/Pythagore/Triangle hypothénuse.png": "BoBxsImage",
   "Images/Math/Thales/Capture d'écran 2024-06-18 193335.png": "BoBxsImage",
@@ -78,5 +77,6 @@
     "iconColor": "#ff1f1f"
   },
   "Collège/Fiche de révisions/Liste de Fiches de Révisions.md": "BoBxsComment",
-  "Images/Math/Trigonométrie": "BoBxFolderOpen"
+  "Images/Math/Trigonométrie": "BoBxFolderOpen",
+  "Images/Math/Trigonométrie/Triangle 8;14;9.png": "BoBxsImage"
 }
