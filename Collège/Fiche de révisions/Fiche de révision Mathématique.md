@@ -258,7 +258,7 @@ Retenez l'acronyme: **CAHSOHTOA**
 ### Exemple
 
 ![[Triangle 8;14;9.png]]
-Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm.
+Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm,
 Calculer cos ACB, sin ACB et tan ACB.
 
 cos ACB = BC/AC = 9/12 = 0,75
@@ -266,6 +266,8 @@ sin ACB = AB/AC = 8/12
 tan ACB = AB/BC = 8/9
 ## Calculer un coté avec la trigonométrie
 
+
+Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm et l'angle CAB = 35°
 
 
 ---
