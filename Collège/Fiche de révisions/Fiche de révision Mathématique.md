@@ -287,9 +287,10 @@ Calculer l'angle BAC.
 ![[Capture d'écran 2024-06-26 195418.png]]
 **Etape 2**: On remplace avec les valeurs
 ![[Capture d'écran 2024-06-26 195524.png]]
+**Etape 3**: On fait le calcul
 >[!INFO]
 >Ici, on peut utiliser soit la fraction soit le résultat de la fraction
 
-
+**BAC =** arccos(9/12) = (à peu près) **41°**
 
 ---
