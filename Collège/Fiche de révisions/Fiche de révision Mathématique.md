@@ -259,6 +259,6 @@ Retenez l'acronyme: **CAHSOHTOA**
 
 ![[Triangle 8;14;9.png]]
 Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm.
-Calculer cos ABC, sin ABC et tan ABC
+Calculer cos ABC, sin ABC et tan ABC.
 
 ---
