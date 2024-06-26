@@ -270,6 +270,12 @@ tan ACB = AB/BC = 8/9
 Dans ce triangle rectangle nommé DEF tel que EF = 4 cm et l'angle DFE = 36°,
 Calculer la longueur DR.
 
-
+**Etape 1**: On marque l'égalité des cotés
+![[Capture d'écran 2024-06-26 185852.png]]
+**Etape 2**: On replace avec les valeurs
+![[Capture d'écran 2024-06-26 185857.png]]
+**Etape 3**: On fait un produit en croix
+![[Capture d'écran 2024-06-26 190229.png]]
+**DE =** (tan 36° x 4)/1 = (à peu près) **2,9**
 
 ---
