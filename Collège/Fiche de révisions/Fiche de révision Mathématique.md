@@ -247,8 +247,14 @@ x - 6 = 0
 x = 6
 # Trigonométrie dans le triangle rectangle
 
+Retenez l'acronyme: **CAHSOHTOA**
+
 **CAH**: cosinus = coté adjacent / hypotenuse
 **SOH**: sinus = coté opposé / hypotenuse
 **TOA**: tangente = coté opposé / coté adjacent
+>[!WARNING] N'oubliez pas que...
+> Vous pouvez noter l'acronyme sur votre brouillon pour vous en rappeler
+
+
 
 ---
