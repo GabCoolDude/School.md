@@ -11,6 +11,16 @@
             "id": "ee37e0dfc13083fb",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Math/Pythagore/Triangle 8;14;9.png"
+              }
+            }
+          },
+          {
+            "id": "6ec6c7af80ae3786",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +186,16 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "ee37e0dfc13083fb",
+  "active": "6ec6c7af80ae3786",
   "lastOpenFiles": [
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
-    "Template.md",
-    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
+    "Images/Math/Pythagore/Triangle 8;14;9.png",
+    "Images/Math/Pythagore/Triangle 8;14;9 - Copie.png",
+    "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+    "Images/Math/Trigonométrie",
+    "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Template.md",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Collège/Dates importantes.md",
     "Images/Math/Thales/Egalite de thales.png",
@@ -189,8 +203,6 @@
     "Images/Math/Thales/Triangle théorème thalès.png",
     "Collège/Fiche de révisions/Untitled.md",
     "Images/Math/Pythagore/Triangle 8;14;9 - Copie.png.~tmp",
-    "Images/Math/Pythagore/Triangle 8;14;9 - Copie.png",
-    "Images/Math/Pythagore/Triangle 8;14;9.png",
     "Home.md",
     "Images/Math/Pythagore/Triangle hypothénuse.png",
     "Images/Math/Pythagore/Triangle ABC.png",
@@ -212,7 +224,6 @@
     "Images/Nouveau dossier",
     "IMG_0373.heic",
     "Mise au propre du cours de Français du Jeudi 2 Mai 2024.md",
-    "Images/Math",
     "2024-02-21.md",
     "Fiche de révisions/Fiche de Révision Histoire.md",
     "Fiche de révisions/Fiche de Révision Géographie.md",

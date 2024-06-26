@@ -252,9 +252,12 @@ Retenez l'acronyme: **CAHSOHTOA**
 **CAH**: cosinus = coté adjacent / hypotenuse
 **SOH**: sinus = coté opposé / hypotenuse
 **TOA**: tangente = coté opposé / coté adjacent
+
 >[!WARNING] N'oubliez pas que...
 > Vous pouvez noter l'acronyme sur votre brouillon pour vous en rappeler
+### Exemple
 
-
+![[Triangle 8;14;9.png]]
+Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm.
 
 ---

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxFolderOpen",
       "BoBxsComment",
       "BoBxImage",
       "BoBxsImage",
-      "BoBxImages",
-      "BoBxsFileExport"
+      "BoBxImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,5 +77,6 @@
     "iconName": "BoBxsFileMd",
     "iconColor": "#ff1f1f"
   },
-  "Collège/Fiche de révisions/Liste de Fiches de Révisions.md": "BoBxsComment"
+  "Collège/Fiche de révisions/Liste de Fiches de Révisions.md": "BoBxsComment",
+  "Images/Math/Trigonométrie": "BoBxFolderOpen"
 }
