@@ -1,5 +1,4 @@
 # Puissances
-
 ## Puissances d'un nombre relatif
 
 a x a = aⁿ
@@ -25,7 +24,6 @@ a<sup>-n</sup> désigne l'inverse a de : a<sup>-n</sup>  = 1/aⁿ
 ( 7 x 5 )<sup>4</sup> = 7<sup>4</sup> x 5<sup>4</sup>
 
 ( 3/4 )<sup>6</sup> = 3<sup>6</sup>/4<sup>4</sup>
-
 ## Ecriture scientifique d'un nombre décimal
 
 Exemple : 
@@ -74,7 +72,6 @@ On dit que l'image de 4 par la fonction de g est 16.
 On dit aussi que 4 est **un antécédent de** 16 par la fonction g.
 **Il est important de savoir qu'une fonction peut avoir plusieurs antécédents.
 Il peut aussi y avoir plusieurs fonctions par exercice, donc il est important de dire par la fonction de ...**
-
 ## Tableau de valeur et représentation graphique
 
 f(x) = x² + x - 1
@@ -84,7 +81,6 @@ f(x) = x² + x - 1
 | f(x) | 5   | 1   | -1  | -1,25 | -1  | 1   | 5   |
 
 ![[IMG_0368.jpeg]]
-
 # Homothétie
 
 L' Homothétie permet d'agrander ou de réduire des figures géométriques.
@@ -114,7 +110,6 @@ Selon le théorème de Pythagore,
 AB² + BC² = AC²
 8² + 9² = AC²
 AC² = 145
-
 ## Réciproque du théorème de Pythagore
 
 ![[Triangle ABC.png]]
