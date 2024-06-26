@@ -259,6 +259,10 @@ Retenez l'acronyme: **CAHSOHTOA**
 
 ![[Triangle 8;14;9.png]]
 Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm.
-Calculer cos ABC, sin ABC et tan ABC.
+Calculer cos ACB, sin ACB et tan ACB.
+
+cos ACB = BC/AC = 9/12 = 0,75
+sin ACB = AB/AC = 8/12
+tan ACB = AB/BC = 8/9
 
 ---
