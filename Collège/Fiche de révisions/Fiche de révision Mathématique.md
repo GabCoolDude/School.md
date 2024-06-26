@@ -79,6 +79,8 @@ f(x) = x² + x - 1
 | x    | -3  | -2  | -1  | -0,5  | 0   | 1   | 2   |
 | ---- | --- | --- | --- | ----- | --- | --- | --- |
 | f(x) | 5   | 1   | -1  | -1,25 | -1  | 1   | 5   |
+**x va sur l'axe horizontale**
+**f(x) va sur l'axe verticale**
 
 ![[IMG_0368.jpeg]]
 # Homothétie
