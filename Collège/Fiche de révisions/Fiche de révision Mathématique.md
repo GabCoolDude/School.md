@@ -245,5 +245,10 @@ x = -6
 ou
 x - 6 = 0
 x = 6
+# Trigonométrie dans le triangle rectangle
+
+**CAH**: cosinus = coté adjacent / hypotenuse
+**SOH**: sinus = coté opposé / hypotenuse
+**TOA**: tangente = coté opposé / coté adjacent
 
 ---
