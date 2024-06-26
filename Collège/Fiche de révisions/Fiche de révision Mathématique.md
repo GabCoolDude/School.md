@@ -283,6 +283,13 @@ Calculer la longueur DR.
 Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm,
 Calculer l'angle BAC.
 
+**Etape 1**: On marque l'égalité des cotés
+![[Capture d'écran 2024-06-26 195418.png]]
+**Etape 2**: On remplace avec les valeurs
+![[Capture d'écran 2024-06-26 195524.png]]
+>[!INFO]
+>Ici, on peut utiliser soit la fraction soit le résultat de la fraction
+
 
 
 ---
