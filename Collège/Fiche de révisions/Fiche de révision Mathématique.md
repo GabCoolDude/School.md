@@ -266,8 +266,10 @@ sin ACB = AB/AC = 8/12
 tan ACB = AB/BC = 8/9
 ## Calculer un coté avec la trigonométrie
 
+![[Capture d'écran 2024-06-26 184943.png]]
+Dans ce triangle rectangle nommé DEF tel que EF = 4 cm et l'angle DFE = 35°,
+Calculer la longueur DR.
 
-Dans ce triangle rectangle nommé ABC tel que AB = 8 cm, BC = 9 cm, AC = 12 cm et l'angle CAB = 35°
 
 
 ---
