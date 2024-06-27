@@ -11,8 +11,12 @@
             "id": "d6f3b372ff86b066",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
+              }
             }
           }
         ],

@@ -154,7 +154,6 @@ alors (EF) // (BC)
 
 ![[Triangle réciproque thalès.png]]
 **(AC) et (AB) sécantes en A**
-**(EF) // (BC)**
 ![[Capture d'écran 2024-06-18 193335.png]]
 Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles.
 # Statistiques
