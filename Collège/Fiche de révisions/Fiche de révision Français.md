@@ -219,26 +219,22 @@ Il existe des rimes féminins et des rimes masculins. Les rimes féminins se ter
 
 Pour trouver les proposition subordonnées facilement, il faut procéder par élimination.
 ## PS relative
-
-Complète un nom ou un pronom.
 ### PS Relative Déterminative / Essentielle
 
-Définit le sens de l'antécédent auquel elle se rapporte : **on ne peut pas la supprimer**
+Complète un nom ou un pronom. Définit le sens de l'antécédent auquel elle se rapporte : **on ne peut pas la supprimer**
 ### PS Relative Explicative / adjective
 
-Apporte une information supplémentaire concernant l'antécédent : **on peut la supprimer sans que le sens de la phrase change** 
+Complète un nom ou un pronom. Apporte une information supplémentaire concernant l'antécédent : **on peut la supprimer sans que le sens de la phrase change** 
 ## PS Complétive
-
-Ne peut être ni supprimé ni déplacé.
 ### PS Interrogative indirecte totale
 
-Sert à poser une question à laquelle **on peut répondre par oui ou non**.
+Ne peut être ni supprimé ni déplacé. Sert à poser une question à laquelle **on peut répondre par oui ou non**.
 ### PS Interrogative indirecte partielle
 
-Sert à poser une question à laquelle on **ne peut pas répondre par oui ou non**.
+Ne peut être ni supprimé ni déplacé. Sert à poser une question à laquelle on **ne peut pas répondre par oui ou non**.
 ### PS Complétive conjonctive
 
-Donne une information.
+Ne peut être ni supprimé ni déplacé. Donne une information.
 ## PS Circonstancielle
 
 Donne une circonstance, **parfois** déplaçable.
