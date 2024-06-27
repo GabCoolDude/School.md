@@ -195,13 +195,13 @@ La **stichomythie** est une succession de répliques brèves.
 Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent pair:
 - 8 syllabes : un octosyllabes
 - 10 syllabes : un décasyllabes
-- <u>12 syllabes : un alexandrin. Il est souvent partagé en deux parties de six syllabes ( “hémistiche”) avec une pause centrale (“césure”)</u>: *Heureux qui comme Ulysse / A fait un beau voyage*
+- **12 syllabes : un alexandrin**. Il est souvent partagé en deux parties de six syllabes ( “hémistiche”) avec une pause centrale (“césure”): *Heureux qui comme Ulysse / A fait un beau voyage*
 
 La strophe est un groupement de vers séparé un blanc ( **= paragraphe** )
 - 1 vers : monostiche
 - 2 vers : un distique
-- <u>3 vers : un tercet</u>
-- <u>4 vers : un quatrain</u>
+- **3 vers : un tercet**
+- **4 vers : un quatrain**
 - 6 vers : un sizain
 - 7 vers : un septain
 - 8 vers : un huitain
