@@ -185,11 +185,11 @@ Les **répliques** sont des prises de paroles des personnages qui sont destinée
 
 Une **tirade** est une longue réplique qui permet à un personnage de développer sa pensée, c’est souvent un moment important.
 
-Un **monologue** est une tirade qu’un personnage se tient à lui-même ( **il parle tout seul** ) pour évoquer le passé, exprimer un sentiment ou autre.
+Un **monologue** est une tirade qu’un personnage se tient à lui-même ( **il parle tout seul** ).
 
-Un **aparté** est une réplique qu’un acteur dit “à part” sur la scène et qui n’est censé être entendue que par les spectateurs.
+Un **aparté** est une réplique qui n’est censé être entendue que par les spectateurs.
 
-La **stichomythie** est une succession de répliques brèves, créant un rythme rapide convenant bien aux scènes d’affrontement.
+La **stichomythie** est une succession de répliques brèves.
 # Lexique de la poésie :
 
 Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent pair:
