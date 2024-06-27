@@ -31,7 +31,7 @@
       {
         "id": "0757a394adf6fd1f",
         "type": "tabs",
-        "dimension": 69.56521739130434,
+        "dimension": 68.36363636363636,
         "children": [
           {
             "id": "8512c0ca28a16fd9",
@@ -71,7 +71,7 @@
       {
         "id": "8c417264c7e381d6",
         "type": "tabs",
-        "dimension": 30.434782608695656,
+        "dimension": 31.636363636363633,
         "children": [
           {
             "id": "398d707ac1e4d9de",
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "d6f3b372ff86b066",
+  "active": "c32f29fbef61878c",
   "lastOpenFiles": [
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
