@@ -223,7 +223,7 @@ Pour trouver les proposition subordonnées facilement, il faut procéder par él
 Complète un nom ou un pronom.
 ### PS Relative Déterminative / Essentielle
 
-Definit le sens de l'antécédent auquel elle se rapporte : **on ne peut pas la supprimer**
+Définit le sens de l'antécédent auquel elle se rapporte : **on ne peut pas la supprimer**
 ### PS Relative Explicative / adjective
 
 Apporte une information supplémentaire concernant l'antécédent : **on peut la supprimer sans que le sens de la phrase change** 
