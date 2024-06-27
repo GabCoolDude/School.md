@@ -37,7 +37,7 @@
   "Images": "BoBxImages",
   "Images/Géographie": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#feaa34"
+    "iconColor": "#88fb3c"
   },
   "Images/Histoire": {
     "iconName": "BoBxFolderOpen",
@@ -62,7 +62,7 @@
   "Collège/Fiche de révisions/Fiche de révision Français.md": "BoBxsFileMd",
   "Collège/Fiche de révisions/Fiche de révision Géographie.md": {
     "iconName": "BoBxsFileMd",
-    "iconColor": "#ffac38"
+    "iconColor": "#88ff38"
   },
   "Collège/Fiche de révisions/Fiche de révision Histoire.md": {
     "iconName": "BoBxsFileMd",
