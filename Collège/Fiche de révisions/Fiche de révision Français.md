@@ -1,12 +1,12 @@
 # Valeurs des temps :
 ## Présent de l’indicatif :
 
-- **Habitude**:
-- **Vérité générale**:
-- **Enonciation**:
-- **Injonction (ordre)**:
-- **Passé proche**:
-- **Futur proche**:
+- **Habitude**: "Tous les jours, Alex prend le bus."
+- **Vérité générale**: "Les abeilles volent."
+- **Enonciation**: "Le marathon commence."
+- **Injonction (ordre)**: "Tu prends ta douche et tu te couches !"
+- **Passé proche**: "Ils viennent tout juste de sortir."
+- **Futur proche**: "Nous allons arriver en retard de quelques minutes seulement."
 ## Passé simple et Imparfait
 
 | Passé simple                                                                                                                                                                                 | Imparfait                                                                                          |
