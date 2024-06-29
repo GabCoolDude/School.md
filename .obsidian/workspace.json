@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Français.md"
+                "file": "Collège/Fiche de révisions/Fiche de révision Mathématique.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "active": "d6f3b372ff86b066",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
@@ -193,7 +194,6 @@
     "Images/Math/Homothétie/IMG_0368.jpeg",
     "Images/Math/Fonctions",
     "Images/Math/Trigonométrie/Triangle 8;14;9.png",
-    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Images/Math/Trigonométrie",
     "Template.md",
     "Collège/Dates importantes.md",
