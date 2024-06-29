@@ -4,6 +4,7 @@
 - **Habitude**: "Tous les jours, Alex prend le bus."
 - **Vérité générale**: "Les abeilles volent."
 - **Enonciation**: "Le marathon commence."
+- **Description**: "C'est sublime. Les arbres sont gigantesques !"
 - **Narration**: "'Ils se fixaient. Hélas, ils *s'approchent*, *se rouent* de coups mais des passants *interviennent*"
 - **Injonction (ordre)**: "Tu prends ta douche et tu te couches !"
 - **Passé proche**: "Ils viennent tout juste de sortir."
