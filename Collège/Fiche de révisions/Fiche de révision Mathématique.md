@@ -85,7 +85,7 @@ f(x) = x² + x - 1
 ![[IMG_0368.jpeg]]
 # Homothétie
 
-L' Homothétie permet d'agrander ou de réduire des figures géométriques.
+L'Homothétie permet d'agrandir ou de réduire des figures géométriques.
 
 On peut la reconnaître grâce à :
 -  Un centre
@@ -106,7 +106,7 @@ AB² + BC² = AC²
 Pour calculer les autres cotés :
 AC² - AB² = BC²
 AC² - BC² = AB²
-### Exemple
+### Exemple :
 
 ![[Triangle 8;14;9 - Copie.png]]
 Triangle ABC rectangle en B
@@ -136,14 +136,14 @@ Quand le triangle est rectangle, c'est la **Réciproque**.
 Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 # Théorème de Thalès
 
-**Sert à trouver une valeur**
+**Sert à trouver un coté**
 
 ![[Triangle Thalès.png]]
 ![[Egalite de Thalès.png]]
 ### Exemple
 
 ![[Triangle théorème thalès.png]]
-**(AC) et (AB) sécantes en A**
+**Les points A,E,B et A,F,C alignés dans cet ordre**
 **(EF) // (BC)**
 Selon le théorème de Thalès,
 ![[Egalite de thales.png]]
