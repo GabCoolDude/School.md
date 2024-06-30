@@ -91,7 +91,10 @@ On peut la reconnaître grâce à :
 -  Un centre
 -  Un rapport k qui n'est pas égal à 0
 ![[IMG_0369.jpeg]]
+>[!INFO]
 >Lorsque k est supérieur à 1, l'homothétie effectue un agrandissement de la figure.
+>Lorsque k est inférieur à 1 et supérieur à 0, l'homothétie effectue une réduction de la figure.
+>Lorsque k est entre
 
 # Théorème de Pythagore
 
