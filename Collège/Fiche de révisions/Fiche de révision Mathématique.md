@@ -96,6 +96,8 @@ Lorsque k est supérieur à 1, l'homothétie effectue un agrandissement de la fi
 Lorsque k est inférieur à 1 et supérieur à 0, l'homothétie effectue une réduction de la figure.
 # Théorème de Pythagore
 
+**Sert à trouver un coté d'un triangle rectangle**
+
 ![[Triangle hypothénuse.png]]
 
 Pour calculer l'hypothénuse :
@@ -113,6 +115,8 @@ AB² + BC² = AC²
 8² + 9² = AC²
 AC² = 145
 ## Réciproque du théorème de Pythagore
+
+**Sert à savoir si le triangle est rectangle ou pas**
 
 ![[Triangle ABC.png]]
 
@@ -132,6 +136,8 @@ Quand le triangle est rectangle, c'est la **Réciproque**.
 Quand le triangle n'est pas rectangle, c'est la **Contraposée**
 # Théorème de Thalès
 
+**Sert à trouver une valeur**
+
 ![[Triangle Thalès.png]]
 ![[Egalite de Thalès.png]]
 ### Exemple
@@ -145,6 +151,8 @@ Selon le théorème de Thalès,
 ![[produit en croix thales.png]]
 **EF** = 4 x 12 / 12 **= 4**
 ## Réciproque du théorème de Thalès
+
+**Sert à montrer que deux droites sont parallèles.**
 
 ![[Triangle Thalès.png]]
 
