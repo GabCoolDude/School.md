@@ -1,12 +1,14 @@
-**Apprendre une date par cœur ne sert strictement à rien si vous n'êtes pas capable de l'expliquer**
+**Apprendre une date par cœur ne sert strictement à rien si vous n'êtes pas capable de l'expliquer. 
+Les dates qui figurent dans cette liste ne sont que les principales dates à absolument connaître dans le cadre d’un éventuel exercice de repérage chronologique. 
+D’autres dates sont à connaître pour montrer votre maîtrise d’un sujet sur lequel vous pouvez être évalués dans le cadre d’une étude de documents ou d’un développement construit.**
 # 1914-1918: Première Guerre mondiale
 - Avril 1915-Juillet 1916: Génocide des Arméniens
 - 1916: Bataille de Verdun
 - 1917: Révolution russe
-- 11 Novembre 1918: armistice avec l'Allemagne
-- 28 juin 1919: traité de Versailles
+- 11 Novembre 1918: Armistice avec l'Allemagne
+- 28 juin 1919: Traité de Versailles
 # 1933-1945: Hitler au pouvoir
-- 30 Janvier 1933: accession d'Hitler au pouvoir
+- 30 Janvier 1933: Accession d'Hitler au pouvoir
 # 1924-1953: Staline au pouvoir
 # 1936: Front populaire
 # 1939-1945: Seconde Guerre mondiale
@@ -31,8 +33,8 @@
 - 23 août 1961: Construction du Mur de Berlin
 - 1962: Crise des missiles de Cuba
 - 1963-1973: Guerre du Vietnam
-- 9 novembre 1989: chute du mer de Berlin
-- 25 décembre 1991: annonce du démembrement de l'URSS
+- 9 novembre 1989: Chute du mer de Berlin
+- 25 décembre 1991: Annonce du démembrement de l'URSS
 - 1991: Eclatement de l'URSS
 # 1955: Conférence de Bandung
 - 25 mars 1957: Traités de Rome
@@ -41,10 +43,10 @@
 - Novembre 1954: "Toussaint rouge", début de la guerre d'Algérie
 - 1955: Conférence de Bandung, création du mouvement des non-alignés (appelé "Tiers-Monde")
 - 18 mars 1962: Accords d'Evian, fin de la guerre d'Algérie
-- 5 juillet 1962: indépendance de l'Algérie
+- 5 juillet 1962: Indépendance de l'Algérie
 # 1975: Loi Veil, autorisation de l'IVG
 # 1981: Election de François Mitterrand, première alternance
 # 1992: Traité de Maastricht
 # 1995: Création de l'espace Schengen
 # 11 septembre 2001: Attentats terroristes à New-York et à Washington
-# 20
+# 2002: Mise en circulation de l'euro
