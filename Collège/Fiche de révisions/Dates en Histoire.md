@@ -29,3 +29,13 @@
 - 9 novembre 1989: chute du mer de Berlin
 - 25 décembre 1991: annonce du démembrement de l'URSS
 - 1991: Eclatement de l'URSS
+# 25 mars 1957: Traités de Rome
+# 1958: Naissance de la Vème République
+# 1954-1962: Guerre d'Algérie
+- Novembre 1954: "Toussaint rouge", début de la guerre d'Algérie
+- 1955: Conférence de Bandung, création du mouvement des non-alignés (appelé "Tiers-Monde")
+- 18 mars 1962: Accords d'Evian, fin de la guerre d'Algérie
+- 5 juillet 1962: indépendance de l'Algérie
+# 1975: Loi Veil, autorisation de l'IVG
+# 1981: Election de François Mitterrand, première alternance
+# 1992: Traité de Maastricht
