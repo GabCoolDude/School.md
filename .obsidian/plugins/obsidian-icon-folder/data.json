@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsFileMd",
       "BoBxFolderOpen",
       "BoBxsComment",
       "BoBxImage",
-      "BoBxsImage",
-      "BoBxImages"
+      "BoBxsImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,9 @@
   "Images/Math/Homothétie/IMG_0368.jpeg": "BoBxImage",
   "Images/Math/Homothétie/IMG_0369.jpeg": "BoBxImage",
   "Images/Math/Fonctions": "BoBxFolderOpen",
-  "Images/Math/Homothétie": "BoBxFolderOpen"
+  "Images/Math/Homothétie": "BoBxFolderOpen",
+  "Collège/Fiche de révisions/Dates en Histoire.md": {
+    "iconName": "BoBxsFileMd",
+    "iconColor": "#28c6fb"
+  }
 }
