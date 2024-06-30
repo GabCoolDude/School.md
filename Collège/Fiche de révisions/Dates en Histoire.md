@@ -1,9 +1,12 @@
 **Apprendre une date par cœur ne sert strictement à rien si vous n'êtes pas capable de l'expliquer**
 # 1914-1918: Première Guerre mondiale
-- 1915: Génocide des Arméniens
+- Avril 1915-Juillet 1916: Génocide des Arméniens
 - 1916: Bataille de Verdun
 - 1917: Révolution russe
+- 11 Novembre 1918: armistice avec l'Allemagne
+- 28 juin 1919: traité de Versailles
 # 1933-1945: Hitler au pouvoir
+- 30 Janvier 1933: accession d'Hitler au pouvoir
 # 1924-1953: Staline au pouvoir
 # 1936: Front populaire
 # 1939-1945: Seconde Guerre mondiale
@@ -13,6 +16,7 @@
 - 7 décembre 1941: Attaque des japonais à Pearl Harbor, entrée en guerre des Etats-Unis
 - 1942: Conférence de Wannsee: mise au point de la "Solution Finale"
 - Septembre 1942-Février 1943: Bataille de Stalingrad, première défaite majeure de l'Allemagne nazie
+- 1943: Création du CNR par Jean Moulin
 - 6 juin 1944: Débarquement des alliés en Normandie
 - 1944-1945; Libération de la France. Le général de Gaulle prend la tête du GPRF et applique le programme du CNR. Les femmes obtiennent le droit de vote
 - 8 mai 1945: Capitulation de l'Allemagne nazie, fin de la guerre en Europe
@@ -20,6 +24,7 @@
 - 9 août 1945: Bombe atomique sur Nagasaki
 - 2 septembre 1945: Capitulation du Japon, fin de la guerre dans l'Océan Pacifique
 # 1945: Création de l'ONU
+# 1947: I
 # 1947-1991: Guerre froide
 - 1948-1949: Blocus de Berlin
 - 1950-1953: Guerre de Corée
