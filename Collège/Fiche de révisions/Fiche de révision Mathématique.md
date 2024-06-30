@@ -159,7 +159,11 @@ Selon le théorème de Thalès,
 Si 
 ![[Capture d'écran 2024-06-18 193525.png]]
 alors (EF) // (BC)
-### Exemple
+### Exemple où les droites sont parallèles
+
+![[Capture d'écran 2024-06-30 152420.png]]
+
+### Exemple où les droites ne sont pas parallèles
 
 ![[Triangle réciproque thalès.png]]
 **(AC) et (AB) sécantes en A**
