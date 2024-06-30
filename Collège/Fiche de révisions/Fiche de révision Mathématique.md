@@ -162,11 +162,12 @@ alors (EF) // (BC)
 ### Exemple où les droites sont parallèles
 
 ![[Capture d'écran 2024-06-30 152420.png]]
-
+**Les points A,E,B et A,F,C alignés dans cet ordre**
+![[Capture d'écran 2024-06-30 153055.png]]
 ### Exemple où les droites ne sont pas parallèles
 
 ![[Triangle réciproque thalès.png]]
-**(AC) et (AB) sécantes en A**
+**Les points A,E,B et A,F,C alignés dans cet ordre**
 ![[Capture d'écran 2024-06-18 193335.png]]
 Selon la Contraposée **du théorème** de Thalès, (EF) et (BC) ne sont pas parallèles.
 # Statistiques
