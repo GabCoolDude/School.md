@@ -24,7 +24,7 @@
 - 9 août 1945: Bombe atomique sur Nagasaki
 - 2 septembre 1945: Capitulation du Japon, fin de la guerre dans l'Océan Pacifique
 # 1945: Création de l'ONU
-# 1947: I
+# 1947: Indépendance de l'Inde
 # 1947-1991: Guerre froide
 - 1948-1949: Blocus de Berlin
 - 1950-1953: Guerre de Corée
@@ -34,7 +34,8 @@
 - 9 novembre 1989: chute du mer de Berlin
 - 25 décembre 1991: annonce du démembrement de l'URSS
 - 1991: Eclatement de l'URSS
-# 25 mars 1957: Traités de Rome
+# 1955: Conférence de Bandung
+- 25 mars 1957: Traités de Rome
 # 1958: Naissance de la Vème République
 # 1954-1962: Guerre d'Algérie
 - Novembre 1954: "Toussaint rouge", début de la guerre d'Algérie
@@ -44,4 +45,6 @@
 # 1975: Loi Veil, autorisation de l'IVG
 # 1981: Election de François Mitterrand, première alternance
 # 1992: Traité de Maastricht
+# 1995: Création de l'espace Schengen
 # 11 septembre 2001: Attentats terroristes à New-York et à Washington
+# 20
