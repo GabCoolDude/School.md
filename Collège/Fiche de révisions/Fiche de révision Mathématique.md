@@ -94,8 +94,9 @@ On peut la reconnaître grâce à :
 >[!INFO]
 >Lorsque k est supérieur à 1, l'homothétie effectue un agrandissement de la figure.
 >Lorsque k est inférieur à 1 et supérieur à 0, l'homothétie effectue une réduction de la figure.
->Lorsque k est entre 0 et -1,
-
+>Lorsque k est entre 0 et -1, l'homothétie effectue une réduction et un retournement de la figure.
+>Lorsque k est inférieur à -1, l'homothétie effectue un agrandissement et un retournement de la figure.
+## 
 # Théorème de Pythagore
 
 **Sert à trouver un coté d'un triangle rectangle**
