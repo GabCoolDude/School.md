@@ -14,4 +14,18 @@
 - 1942: Conférence de Wannsee: mise au point de la "Solution Finale"
 - Septembre 1942-Février 1943: Bataille de Stalingrad, première défaite majeure de l'Allemagne nazie
 - 6 juin 1944: Débarquement des alliés en Normandie
-- 1944-1945; Libération de la France. Le général de Gaulle prend la t
+- 1944-1945; Libération de la France. Le général de Gaulle prend la tête du GPRF et applique le programme du CNR. Les femmes obtiennent le droit de vote
+- 8 mai 1945: Capitulation de l'Allemagne nazie, fin de la guerre en Europe
+- 6 août 1945: Bombe atomique sur Hiroshima
+- 9 août 1945: Bombe atomique sur Nagasaki
+- 2 septembre 1945: Capitulation du Japon, fin de la guerre dans l'Océan Pacifique
+# 1945: Création de l'ONU
+# 1947-1991: Guerre froide
+- 1948-1949: Blocus de Berlin
+- 1950-1953: Guerre de Corée
+- 23 août 1961: Construction du Mur de Berlin
+- 1962: Crise des missiles de Cuba
+- 1963-1973: Guerre du Vietnam
+- 9 novembre 1989: chute du mer de Berlin
+- 25 décembre 1991: annonce du démembrement de l'URSS
+- 1991: Eclatement de l'URSS
