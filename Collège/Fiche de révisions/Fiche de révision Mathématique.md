@@ -164,6 +164,8 @@ alors (EF) // (BC)
 ![[Capture d'écran 2024-06-30 152420.png]]
 **Les points A,E,B et A,F,C alignés dans cet ordre**
 ![[Capture d'écran 2024-06-30 153055.png]]
+![[Capture d'écran 2024-06-30 153503.png]]
+Selon la Réciproque **du théorème** de Thalès, (EF) // (BC)
 ### Exemple où les droites ne sont pas parallèles
 
 ![[Triangle réciproque thalès.png]]
