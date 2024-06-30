@@ -39,3 +39,4 @@
 # 1975: Loi Veil, autorisation de l'IVG
 # 1981: Election de François Mitterrand, première alternance
 # 1992: Traité de Maastricht
+# 11 septembre 2001: Attentats terroristes à New-York et à Washington
