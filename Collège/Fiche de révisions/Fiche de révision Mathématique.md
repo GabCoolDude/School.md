@@ -242,17 +242,6 @@ x + 2 = 0
 x = -2
 
 La solution est donc soit -3 ou soit -2.
-# Identité remarquable
-
-(a + b)(a - b) = a² - b²
-
->[!NOTE]+ Exemple de développement
->(x + 7)(x - 7) = x² - 7x + 7x - 7 = x² - 7² = x² - 49
-
->[!NOTE]+ Exemple de factorisation
->x² - 16 = x² - 4² = (x - 4)(x + 4)
->
->4x² - 25 = (2x)² - 5² = (2x + 5)(2x - 5)
 ## Résolution d'équation du type x² = a, où a est un nombre relatif positif
 
 x² = 36
@@ -265,6 +254,17 @@ x = -6
 ou
 x - 6 = 0
 x = 6
+# Identité remarquable
+
+(a + b)(a - b) = a² - b²
+
+>[!NOTE]+ Exemple de développement
+>(x + 7)(x - 7) = x² - 7x + 7x - 7 = x² - 7² = x² - 49
+
+>[!NOTE]+ Exemple de factorisation
+>x² - 16 = x² - 4² = (x - 4)(x + 4)
+>
+>4x² - 25 = (2x)² - 5² = (2x + 5)(2x - 5)
 # Trigonométrie dans le triangle rectangle
 
 Retenez l'acronyme: **CAHSOHTOA**
