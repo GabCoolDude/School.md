@@ -164,7 +164,6 @@ Enfin, les politiques publiques souhaitent réduire les inégalités d’accès 
 
 - **Aménagement du territoire** : ensemble des actions et/ou des politiques menées pour améliorer le fonctionnement d’un territoire et pour réduire les inégalités entre les territoires et accroître leur compétitivité. 
 - **Technopôles** : zones d’activités économiques réunissant des industries de pointe, des centres de recherche et développement ainsi que des universités.  
-
 ### Les acteurs de l'aménagement du territoire
 
 L’aménagement du territoire est décidé et réalisé par différents acteurs qui agissent à différentes échelles.  
