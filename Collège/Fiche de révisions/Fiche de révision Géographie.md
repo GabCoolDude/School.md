@@ -123,7 +123,6 @@ Ces dernières décennies, les espaces de faible densité redeviennent attractif
 # Aménager pour répondre aux inégalités croissantes entre territoires français, à toutes les échelles
 
 Dans les chapitres précédents, nous avons vu que les territoires français sont inégalement intégrés à la mondialisation. Des aménagements mis en place pour tenter de réduire les inégalités territoriales.  
-
 ## Etude de cas : le Louvre-Lens
 
 Lens est une ville située dans le nord de la France, dans le département du Pas-de-Calais et dans la région des Hauts-de-France. C’est une ville dont l’économie a été longtemps été dominée par l’activité minière et qui souffre désormais du chômage (plus d’un quart des habitants de l’agglomération lensoise) et d’un taux important de pauvreté (près d’un tiers de la population locale est considérée comme pauvre).   
