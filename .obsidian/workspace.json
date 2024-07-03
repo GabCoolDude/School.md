@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Français/Types de phrases.md",
+                "file": "Collège/Français/Lexique de la poésie.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Français/Types de phrases.md",
+                "file": "Collège/Français/Lexique de la poésie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Français/Types de phrases.md",
+                "file": "Collège/Français/Lexique de la poésie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Français/Types de phrases.md"
+                "file": "Collège/Français/Lexique de la poésie.md"
               }
             }
           }
@@ -195,9 +195,14 @@
   },
   "active": "d6f3b372ff86b066",
   "lastOpenFiles": [
-    "Collège/Français/Fonctions.md",
-    "Collège/Français/Types de phrases.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Français/Lexique de la poésie.md",
+    "Collège/Français/Lexique du théâtre.md",
+    "Collège/Français/Figures de styles.md",
+    "Collège/Français/Paroles rapportées.md",
+    "Collège/Français/Forme de phrases.md",
+    "Collège/Français/Types de phrases.md",
+    "Collège/Français/Fonctions.md",
     "Collège/Français/Natures (classes grammaticales).md",
     "Collège/Français/Valeurs des temps.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
@@ -236,8 +241,6 @@
     "Collège/Oraux de langues.md",
     "Mise au propre du cours de Français du Jeudi 2 Mai 2024.md",
     "2024-02-21.md",
-    "Fiche de révisions/Fiche de Révision Histoire.md",
-    "Fiche de révisions/Fiche de Révision Géographie.md",
-    "Fiche de révisions/Fiche de Révision Français.md"
+    "Fiche de révisions/Fiche de Révision Histoire.md"
   ]
 }

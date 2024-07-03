@@ -123,7 +123,7 @@ Les compléments circonstanciels peuvent être supprimés et déplacés. Ils pr�
 - La phrase déclarative
 - La phrase interrogative totale ou partielle ( totale si on peut répondre par oui ou non, partielle sinon )
 - La phrase injonctive ( ordres )
-- La phrase déclarative qui se combine toujours avec soit la phrase déclarative ou la phrase injonctive
+- La phrase exclamative qui se combine toujours avec soit la phrase déclarative ou la phrase injonctive
 # Forme de phrases :
 
 - Forme affirmative
