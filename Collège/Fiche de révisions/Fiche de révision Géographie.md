@@ -59,8 +59,7 @@ La France est la première puissance agricole de l’Union européenne et le 5è
 
 La **politique agricole commune** (PAC) européenne et la mondialisation ont poussé les agriculteurs français à se moderniser dans les années 1960. Avec la mécanisation et la spécialisation, les exploitations sont devenues productivistes, surtout dans les régions de grande céréaliculture (Beauce), d’élevage hors sol (Bretagne) ou de production de fruits (vallée du Rhône). 
 
-Cependant, cette **agriculture productiviste** a des conséquences sur l’environnement. 
-Pour remédier aux pollutions et pour répondre aux nouvelles attentes des consommateurs, l**’agriculture biologique** se développe et la qualité est de plus en plus favorisée (labels). 
+Cependant, cette **agriculture productiviste** a des conséquences sur l’environnement. Pour remédier aux pollutions et pour répondre aux nouvelles attentes des consommateurs, l**’agriculture biologique** se développe et la qualité est de plus en plus favorisée (labels). 
 
 - **Filière agro-alimentaire** : ensemble des activités qui interviennent dans la transformation des productions agricoles en produits alimentaires. 
 - **Politique agricole commune** (PAC) : politique mise en place par l’UE dans les années 1960 pour augmenter la production agricole. Elle vise aujourd’hui à soutenir les agriculteurs et à préserver l’environnement. 
@@ -69,8 +68,7 @@ Pour remédier aux pollutions et pour répondre aux nouvelles attentes des conso
 
 ### Etude de cas : le modèle agricole breton
 
-Ce vignoble bordelais produit un vin de très grande quantité et réputé, exporté dans le 
-monde entier. Face à la concurrence mondiale, la production viticole mise sur la qualité grâce aux AOC ou à une récolte manuelle afin de se démarquer. Ce vin est essentiellement destiné à l'exportation.
+Ce vignoble bordelais produit un vin de très grande quantité et réputé, exporté dans le monde entier. Face à la concurrence mondiale, la production viticole mise sur la qualité grâce aux AOC ou à une récolte manuelle afin de se démarquer. Ce vin est essentiellement destiné à l'exportation.
 
 La diversification des activités autour de la viticulture (oenotourisme) permet de profiter de la renommée des vins de Bordeaux et de garantir d'autres sources de revenues.
 
@@ -101,7 +99,6 @@ Néanmoins, le Cantal est un département qui présente des atouts et quit tente
 De plus, des politique favorisant l'installation de nouveaux habitants ont été menés en développant le numérique ou encore à travers des aides à l'installation ( logements passerelle, rémunération provisoire au SMIC lors de l'installation, avantages fiscaux pour les créations d'entreprises... ).
 
 Cela permet de ralentir le déclin démographique que connaît le département du Cantal.
-
 ## Mise en perspective : faiblesses et atouts des espaces de faible densité
 
 ### Vieillissement et déprise agricole
