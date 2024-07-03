@@ -55,9 +55,7 @@ Les **facteurs de localisation** des espaces industriels ont ainsi évolué : al
 
 ## La spécialisation des espaces agricoles
 
-La France est la première puissance agricole de l’Union européenne et le 5ème 
-exportateur mondial de produits agricoles. La **filière agro-alimentaire** française est 
-également très puissante. 
+La France est la première puissance agricole de l’Union européenne et le 5ème exportateur mondial de produits agricoles. La **filière agro-alimentaire** française est également très puissante. 
 
 La **politique agricole commune** (PAC) européenne et la mondialisation ont poussé les agriculteurs français à se moderniser dans les années 1960. Avec la mécanisation et la spécialisation, les exploitations sont devenues productivistes, surtout dans les régions de grande céréaliculture (Beauce), d’élevage hors sol (Bretagne) ou de production de fruits (vallée du Rhône). 
 

@@ -1,0 +1,3 @@
+Traditionnellement, l’économie est divisée en trois secteurs : le secteur primaire (agriculture, pêche…), le secteur secondaire (industrie) et le secteur tertiaire (services, tourisme etc.). Cependant, avec la mondialisation, la distinction en trois secteurs se floute et les trois secteurs s’imbriquent de plus en plus dans le cadre d’un **espace productif**.
+
+- **Espace productif** : espace aménagé et mis en valeur pour une activité économique. 

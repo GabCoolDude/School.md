@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md",
+                "file": "Collège/Géographie/2 Espaces productif et leurs évolutions/Etude de cas, modèle agricole breton.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md",
+                "file": "Collège/Géographie/2 Espaces productif et leurs évolutions/Etude de cas, modèle agricole breton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md",
+                "file": "Collège/Géographie/2 Espaces productif et leurs évolutions/Etude de cas, modèle agricole breton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md"
+                "file": "Collège/Géographie/2 Espaces productif et leurs évolutions/Etude de cas, modèle agricole breton.md"
               }
             }
           }
@@ -195,14 +195,19 @@
   },
   "active": "9ebda2d0c53aa9bb",
   "lastOpenFiles": [
+    "Collège/Géographie/2 Espaces productif et leurs évolutions/Spécialisation des espaces agricoles.md",
+    "Collège/Géographie/2 Espaces productif et leurs évolutions/Etude de cas, modèle agricole breton.md",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
-    "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md",
-    "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée/Etude de cas, aire urbaine de Paris.md",
+    "Collège/Géographie/2 Espaces productif et leurs évolutions/Espaces productifs industriels.md",
+    "Collège/Géographie/2 Espaces productif et leurs évolutions/Espaces productifs et leurs évolutions.md",
+    "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+    "Collège/Géographie/1 Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md",
+    "Collège/Géographie/2 Espaces productif et leurs évolutions",
+    "Collège/Géographie/1 Les aires urbaines, une nouvelle géographie d'un France mondialisée/Etude de cas, aire urbaine de Paris.md",
     "Collège/Français/Fonctions.md",
     "Collège/Géographie/Aires urbaines.md",
-    "Collège/Fiche de révisions/Fiche de révision Histoire.md",
-    "Collège/Géographie/Les aires urbaines, une nouvelle géographie d'un France mondialisée",
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Géographie/1 Les aires urbaines, une nouvelle géographie d'un France mondialisée",
     "Collège/Français/Figures de styles.md",
     "Collège/Français/Propositions subordonnées.md",
     "Collège/Français/Lexique de la poésie.md",
@@ -236,11 +241,6 @@
     "Template.md",
     "Images/Math/Pythagore/Triangle 8;14;9 - Copie.png.~tmp",
     "Home.md",
-    "Images/Math/Pythagore",
-    "Recording 20240618193859.webm.md",
-    "Untitled.canvas",
-    "README.md",
-    "DNB.md",
-    "Collège/Oral DNB.md"
+    "Untitled.canvas"
   ]
 }
