@@ -58,7 +58,6 @@
   "Images/Math/Thales/Egalite de Thalès.png": "BoBxsImage",
   "Images/Math/Thales/Triangle Thalès.png": "BoBxsImage",
   "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage",
-  "Collège/Dates importantes.md": "BoBxsFileMd",
   "Collège/Fiche de révisions/Fiche de révision Français.md": "BoBxsFileMd",
   "Collège/Fiche de révisions/Fiche de révision Géographie.md": {
     "iconName": "BoBxsFileMd",
@@ -81,7 +80,7 @@
   "Images/Math/Homothétie/IMG_0369.jpeg": "BoBxImage",
   "Images/Math/Fonctions": "BoBxFolderOpen",
   "Images/Math/Homothétie": "BoBxFolderOpen",
-  "Collège/Fiche de révisions/Dates importantes d'Histoire.md": {
+  "Collège/Histoire/Dates importantes d'Histoire.md": {
     "iconName": "BoBxsFileMd",
     "iconColor": "#28c6fb"
   }
