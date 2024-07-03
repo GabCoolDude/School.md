@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏫",
+      "BoBxFolder",
       "BoBxsFileMd",
       "BoBxFolderOpen",
-      "BoBxsComment",
-      "BoBxImage",
-      "BoBxsImage"
+      "BoBxsComment"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,7 @@
     "iconsInLinksEnabled": true,
     "debugMode": false
   },
-  "Collège": "BoBxFolder",
+  "Collège": "🏫",
   "Collège/Fiche de révisions": "BoBxFolderOpen",
   "Images": "BoBxImages",
   "Images/Géographie": {
@@ -83,5 +83,6 @@
   "Collège/Histoire/Dates importantes d'Histoire.md": {
     "iconName": "BoBxsFileMd",
     "iconColor": "#28c6fb"
-  }
+  },
+  "Collège/Français": "BoBxFolder"
 }

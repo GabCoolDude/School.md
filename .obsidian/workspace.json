@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Français/Lexique de la poésie.md",
+                "file": "Collège/Français/Propositions subordonnées.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Français/Lexique de la poésie.md",
+                "file": "Collège/Français/Propositions subordonnées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Français/Lexique de la poésie.md",
+                "file": "Collège/Français/Propositions subordonnées.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Français/Lexique de la poésie.md"
+                "file": "Collège/Français/Propositions subordonnées.md"
               }
             }
           }
@@ -196,6 +196,7 @@
   "active": "d6f3b372ff86b066",
   "lastOpenFiles": [
     "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Français/Propositions subordonnées.md",
     "Collège/Français/Lexique de la poésie.md",
     "Collège/Français/Lexique du théâtre.md",
     "Collège/Français/Figures de styles.md",
@@ -240,7 +241,6 @@
     "Collège/Oral DNB.md",
     "Collège/Oraux de langues.md",
     "Mise au propre du cours de Français du Jeudi 2 Mai 2024.md",
-    "2024-02-21.md",
-    "Fiche de révisions/Fiche de Révision Histoire.md"
+    "2024-02-21.md"
   ]
 }
