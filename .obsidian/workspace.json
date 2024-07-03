@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Collège/Français/Types de phrases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b3210c654e2b927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58caca4ddc403fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collège/Fiche de révisions/Fiche de révision Français.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Collège/Français/Types de phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+                "file": "Collège/Français/Types de phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Fiche de révision Histoire.md"
+                "file": "Collège/Français/Types de phrases.md"
               }
             }
           }
@@ -177,12 +195,18 @@
   },
   "active": "d6f3b372ff86b066",
   "lastOpenFiles": [
-    "Collège/Dates importantes.md",
+    "Collège/Français/Fonctions.md",
+    "Collège/Français/Types de phrases.md",
+    "Collège/Fiche de révisions/Fiche de révision Français.md",
+    "Collège/Français/Natures (classes grammaticales).md",
+    "Collège/Français/Valeurs des temps.md",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
+    "Collège/Mathématique",
+    "Collège/Français",
+    "Collège/Dates importantes.md",
     "Collège/Géographie",
     "Collège/Histoire",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Collège/Fiche de révisions/Fiche de révision Mathématique.md",
     "Collège/Histoire/Dates importantes d'Histoire.md",
     "Images/Math/Homothétie/Capture d'écran 2024-06-30 160507.png",
@@ -206,8 +230,6 @@
     "Images/Math/Thales",
     "Recording 20240618193859.webm.md",
     "Untitled.canvas",
-    "Recording 20240618193859.webm",
-    "Recording 20240618193847.webm",
     "README.md",
     "DNB.md",
     "Collège/Oral DNB.md",
