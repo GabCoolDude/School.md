@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Fiche de révisions/Liste de Fiches de Révisions.md"
+                "file": "README.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "active": "8512c0ca28a16fd9",
   "lastOpenFiles": [
+    "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Untitled",
     "Collège/Géographie/4 Répondre aux inégalités croissantes entre territoires français, à toutes les échelles/4.2 Aménager le territoire français pour réduire les sinégalités/4.2.3 Acteurs de l'aménagement du territoire.md",
     "Collège/Fiche de révisions/Fiche de révision Géographie.md",
@@ -212,7 +213,6 @@
     "Collège/Français/Paroles rapportées.md",
     "Collège/Français/Forme de phrases.md",
     "Collège/Mathématique",
-    "Collège/Français",
     "Collège/Images/Math/Homothétie/Capture d'écran 2024-06-30 160507.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153503.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153055.png",

@@ -84,5 +84,10 @@
   "Collège/Images/Math/Thales/Triangle Thalès.png": "BoBxsImage",
   "Collège/Images/Math/Trigonométrie/Triangle 8;14;9.png": "BoBxsImage",
   "Collège/Images/Math/Homothétie/IMG_0368.jpeg": "BoBxImage",
-  "Collège/Images/Math/Homothétie/IMG_0369.jpeg": "BoBxImage"
+  "Collège/Images/Math/Homothétie/IMG_0369.jpeg": "BoBxImage",
+  "Collège/Géographie": "BoBxFolder",
+  "Collège/Histoire": {
+    "iconName": "BoBxFolder",
+    "iconColor": "#00bfff"
+  }
 }
