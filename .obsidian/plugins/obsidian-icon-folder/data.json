@@ -34,30 +34,8 @@
   },
   "Collège": "🏫",
   "Collège/Fiche de révisions": "BoBxFolderOpen",
-  "Images": "BoBxImages",
-  "Images/Géographie": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#88fb3c"
-  },
-  "Images/Histoire": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#24c8ff"
-  },
-  "Images/Math": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#ff1f1f"
-  },
-  "Images/Math/Pythagore": "BoBxFolderOpen",
-  "Images/Math/Thales": "BoBxFolderOpen",
   "README.md": "BoBxsFileMd",
   "Template.md": "BoBxsFileExport",
-  "Images/Math/Pythagore/Triangle ABC.png": "BoBxsImage",
-  "Images/Math/Pythagore/Triangle hypothénuse.png": "BoBxsImage",
-  "Images/Math/Thales/Capture d'écran 2024-06-18 193335.png": "BoBxsImage",
-  "Images/Math/Thales/Capture d'écran 2024-06-18 193525.png": "BoBxsImage",
-  "Images/Math/Thales/Egalite de Thalès.png": "BoBxsImage",
-  "Images/Math/Thales/Triangle Thalès.png": "BoBxsImage",
-  "Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage",
   "Collège/Fiche de révisions/Fiche de révision Français.md": "BoBxsFileMd",
   "Collège/Fiche de révisions/Fiche de révision Géographie.md": {
     "iconName": "BoBxsFileMd",
@@ -72,17 +50,39 @@
     "iconColor": "#ff1f1f"
   },
   "Collège/Fiche de révisions/Liste de Fiches de Révisions.md": "BoBxsComment",
-  "Images/Math/Trigonométrie": "BoBxFolderOpen",
-  "Images/Math/Trigonométrie/Triangle 8;14;9.png": "BoBxsImage",
-  "Images/Math/Fonctions/Antécédent & Image.png": "BoBxImage",
-  "Images/Math/Fonctions/Fonction.png": "BoBxImage",
-  "Images/Math/Homothétie/IMG_0368.jpeg": "BoBxImage",
-  "Images/Math/Homothétie/IMG_0369.jpeg": "BoBxImage",
-  "Images/Math/Fonctions": "BoBxFolderOpen",
-  "Images/Math/Homothétie": "BoBxFolderOpen",
   "Collège/Histoire/Dates importantes d'Histoire.md": {
     "iconName": "BoBxsFileMd",
     "iconColor": "#28c6fb"
   },
-  "Collège/Français": "BoBxFolder"
+  "Collège/Français": "BoBxFolder",
+  "Collège/Images": "BoBxImages",
+  "Collège/Images/Histoire": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#24c8ff"
+  },
+  "Collège/Images/Géographie": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#88fb3c"
+  },
+  "Collège/Images/Math": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#ff1f1f"
+  },
+  "Collège/Images/Math/Fonctions": "BoBxFolderOpen",
+  "Collège/Images/Math/Pythagore": "BoBxFolderOpen",
+  "Collège/Images/Math/Trigonométrie": "BoBxFolderOpen",
+  "Collège/Images/Math/Thales": "BoBxFolderOpen",
+  "Collège/Images/Math/Homothétie": "BoBxFolderOpen",
+  "Collège/Images/Math/Fonctions/Antécédent & Image.png": "BoBxImage",
+  "Collège/Images/Math/Fonctions/Fonction.png": "BoBxImage",
+  "Collège/Images/Math/Pythagore/Triangle ABC.png": "BoBxsImage",
+  "Collège/Images/Math/Pythagore/Triangle hypothénuse.png": "BoBxsImage",
+  "Collège/Images/Math/Thales/Capture d'écran 2024-06-18 193335.png": "BoBxsImage",
+  "Collège/Images/Math/Thales/Capture d'écran 2024-06-18 193525.png": "BoBxsImage",
+  "Collège/Images/Math/Thales/Egalite de Thalès.png": "BoBxsImage",
+  "Collège/Images/Math/Thales/Triangle réciproque thalès.png": "BoBxsImage",
+  "Collège/Images/Math/Thales/Triangle Thalès.png": "BoBxsImage",
+  "Collège/Images/Math/Trigonométrie/Triangle 8;14;9.png": "BoBxsImage",
+  "Collège/Images/Math/Homothétie/IMG_0368.jpeg": "BoBxImage",
+  "Collège/Images/Math/Homothétie/IMG_0369.jpeg": "BoBxImage"
 }
