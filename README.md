@@ -8,7 +8,7 @@ Utilisez [Obsidian](https://obsidian.md/) pour regarder ces fichiers car GitHub 
 
 Il est recommander d'utiliser le thème [Whisky](https://github.com/GabCoolDude/Obsidian-Whisky) qui vient **normalement** préinstaller.
 
-Malheureuseument, à cause du format que j'utilis
+Malheureusement, à cause du format que j'utilise, l'impression des fichiers n'est pas vraiment recommandé, mais reste disponible.
 
 ---
 
