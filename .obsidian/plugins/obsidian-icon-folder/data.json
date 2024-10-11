@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxFolderOpen",
+      "BoBxImages",
       "📚",
       "BoBxsFolder",
-      "🏫",
-      "BoBxFolder",
-      "BoBxsFileMd"
+      "🏫"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,22 @@
     "iconName": "BoBxsFolder",
     "iconColor": "#ff0000"
   },
-  "Lycée": "📚"
+  "Lycée": "📚",
+  "Lycée/Images": "BoBxImages",
+  "Lycée/Histoire": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0b83f4"
+  },
+  "Lycée/Géographie": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0be907"
+  },
+  "Lycée/Français": "BoBxsFolder",
+  "Lycée/EMC": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#e811cc"
+  },
+  "Lycée/Géographie/G1": "BoBxFolderOpen",
+  "Lycée/Géographie/G1/G1.1": "BoBxFolderOpen",
+  "Lycée/Géographie/G1/G1.1/G1.1.1": "BoBxFolderOpen"
 }
