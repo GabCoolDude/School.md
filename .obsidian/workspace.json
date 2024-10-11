@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ccd13084da343d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "G1/Les défis de la démographie et du développement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Français/Figures de styles.md",
+                "file": "G1/Les défis de la démographie et du développement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Français/Figures de styles.md",
+                "file": "G1/Les défis de la démographie et du développement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Français/Figures de styles.md"
+                "file": "G1/Les défis de la démographie et du développement.md"
               }
             }
           }
@@ -177,6 +190,9 @@
   },
   "active": "8512c0ca28a16fd9",
   "lastOpenFiles": [
+    "Collège/Français/Figures de styles.md",
+    "G1/Les défis de la démographie et du développement.md",
+    "G1",
     "Lycée/Histoire",
     "Lycée/Géographie",
     "Lycée/Français",
@@ -199,9 +215,7 @@
     "Collège/Géographie/4 Répondre aux inégalités croissantes entre territoires français, à toutes les échelles/4.2 Aménager le territoire français pour réduire les sinégalités",
     "Collège/Fiche de révisions/Fiche de révision Histoire.md",
     "Collège/Géographie/3 Espaces de faible densité et leurs atouts/3.2 Faiblesses et atouts des espaces de faible densité/3.2.1 Vieillissement et déprise agricole.md",
-    "Collège/Géographie/4 Répondre aux inégalités croissantes entre territoires français, à toutes les échelles",
     "Collège/Géographie/3 Espaces de faible densité et leurs atouts/3.2 Faiblesses et atouts des espaces de faible densité/3.2.2 Renouveau grâce à la valorisation des atouts.md",
-    "Collège/Géographie/4 Aménager pour répondre aux inégalités croissantes entre territoires frçanais, à toues les échelles",
     "Collège/Géographie/3 Espaces de faible densité et leurs atouts/3.1 Etude de cas, Cantal, entre crise et renouveau.md",
     "Collège/Géographie/2 Espaces productif et leurs évolutions/2.5 Concentration des services dans les métropoles.md",
     "Collège/Géographie/2 Espaces productif et leurs évolutions/2.4 Etude de cas, modèle agricole breton.md",
@@ -212,7 +226,6 @@
     "Collège/Géographie/1 Les aires urbaines, une nouvelle géographie d'un France mondialisée/Les aires urbaines en France.md",
     "Collège/Géographie/1 Les aires urbaines, une nouvelle géographie d'un France mondialisée/Etude de cas, aire urbaine de Paris.md",
     "Collège/Géographie/Aires urbaines.md",
-    "Collège/Français/Figures de styles.md",
     "Collège/Images/Math/Homothétie/Capture d'écran 2024-06-30 160507.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153503.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153055.png",
