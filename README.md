@@ -1,7 +1,5 @@
 # School.md
 
----
-
 Ceci est une "repository" que j'utilise pour faire des fiches de révisions et noter mes cours.
 
 Utilisez [Obsidian](https://obsidian.md/) pour regarder ces fichiers car GitHub n'aime pas trop le format de fichier "markdown" que j'utilise.

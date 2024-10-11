@@ -12,3 +12,9 @@ Les facteurs de la transition démographique:
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Facteurs:<br><br>- Développement/hausse du niveau de vie<br>- Progrès de la médecine<br>- Progrès technique<br> | Facteurs:<br><br>- Scolarisation et emploi des femmes<br>- Prise de conscience de la baisse de la mortalité<br>- Augmentation des coûts liés aux enfants<br>- Baisse de l’influence de la religion<br> |
 | Moyens:<br><br>- Meilleure alimentation<br>- Suivi médical/vaccinations<br>- Meilleure hygiène                  | Moyens:<br><br>- Recul de l’âge du mariage<br>- Disponibilité des moyens de contraception                                                                                                              |
+
+**Transition démographique :** Passage d’un régime démographique *“pré-transitionnel”* (fort taux de natalité et de mortalité, faible accroissement naturel) à un régime *“post-transitionnel”* (faible taux de natalité et de mortalité, faible accroissement naturel). Pendant la phase de transition, le taux de mortalité diminue plus vite que le taux de natalité, d’où un accroissement naturel important.
+
+![[Pasted image 20241011095927.png]]
+
+**- Accroissement naturel**
