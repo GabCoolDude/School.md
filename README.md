@@ -35,6 +35,9 @@ Copiez l'url et retournez dans le terminal pour taper la commande suivant en rem
 git clone "url"
 ```
 Et voila, vous pouvez désormais ouvrir la "vault" qui doit se trouver dans "C:/Users/utilisateur".
+# Comment utiliser:
+
+Une fois que vous avez ouvert la "vault", appuyer sue Ctrl+P et taper "commit" et sélectionner "Git: Commit all", après rappuyer sur Ctrl+P et taper "push" et sélectionner "Git: P"
 # Autres:
 Si vous voulez seulement voir les fichiers sans les modifier, vous pouvez utiliser Github en cliquant sur les diverses fichiers ou vous pouvez juste [télécharger les fichiers](https://github.com/GabCoolDude/School.md/archive/refs/heads/main.zip) et les voir dans Obsidian.
 
