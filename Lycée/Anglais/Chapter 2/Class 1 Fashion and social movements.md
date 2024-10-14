@@ -6,9 +6,10 @@ Clothes are a way to..
 - Express an idea
 - Fight against injustice and the **war**
 - Describe one's personality
-- Represent a co
+- Represent a **community**
+
 Clothes are used to..
-- Defend equality
+- Defend **equality**
 - Dight against discrimination
 - Defend your ideas
-- Defend freedom
+- Defend **freedom**
