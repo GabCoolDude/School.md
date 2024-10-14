@@ -115,5 +115,9 @@
   "Lycée/Géographie/G1": "BoBxFolderOpen",
   "Lycée/Géographie/G1/G1.1": "BoBxFolderOpen",
   "Lycée/Géographie/G1/G1.1/G1.1.1": "BoBxFolderOpen",
-  "Lycée/EMC/Liberté d'expression": "BoBxFolderOpen"
+  "Lycée/EMC/Liberté d'expression": "BoBxFolderOpen",
+  "Lycée/Anglais": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#9900ff"
+  }
 }

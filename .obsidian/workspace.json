@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "11d6ea61ba594f87",
+        "id": "f7b624fdb6c47db6",
         "type": "tabs",
         "children": [
           {
-            "id": "5ccd13084da343d8",
+            "id": "593f521b25ce89a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f04fab79f2d1c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f428e7737da601a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0497f837d0167290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collège/Français/Fonctions.md",
+                "file": "Lycée/Anglais/Chapter 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collège/Français/Fonctions.md",
+                "file": "Lycée/Anglais/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collège/Français/Fonctions.md",
+                "file": "Lycée/Anglais/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Français/Fonctions.md"
+                "file": "Lycée/Anglais/Chapter 2.md"
               }
             }
           }
@@ -212,8 +175,12 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "0497f837d0167290",
+  "active": "593f521b25ce89a9",
   "lastOpenFiles": [
+    "Lycée/Anglais/Chapter 1.md",
+    "Lycée/Anglais/Chapter 2.md",
+    "Collège/Français/Fonctions.md",
+    "Lycée/Anglais",
     "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/EMC/Liberté d'expression",
     "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
@@ -233,8 +200,6 @@
     "Lycée/Géographie/G1",
     "Lycée/Histoire",
     "Lycée/Géographie",
-    "Lycée/Français",
-    "Collège/Français/Fonctions.md",
     "Collège/Français/Forme de phrases.md",
     "Collège/Français/Lexique du théâtre.md",
     "Collège/Français/Natures (classes grammaticales).md",
@@ -249,7 +214,6 @@
     "Collège/Géographie/3 Espaces de faible densité et leurs atouts/3.1 Etude de cas, Cantal, entre crise et renouveau.md",
     "Collège/Géographie/2 Espaces productif et leurs évolutions/2.5 Concentration des services dans les métropoles.md",
     "Collège/Géographie/2 Espaces productif et leurs évolutions/2.4 Etude de cas, modèle agricole breton.md",
-    "Collège/Géographie/2 Espaces productif et leurs évolutions/2.3 Spécialisation des espaces agricoles.md",
     "Collège/Images/Math/Homothétie/Capture d'écran 2024-06-30 160507.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153503.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153055.png",
