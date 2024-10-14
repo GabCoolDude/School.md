@@ -6,5 +6,6 @@
   "textFontFamily": "Rubik",
   "interfaceFontFamily": "Rubik",
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 15
 }

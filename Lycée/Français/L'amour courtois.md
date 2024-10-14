@@ -19,4 +19,36 @@ L’amant se met au service de la dame, il y a des valeurs à respecter. Tout �
 C’est une façon de se comporter avec des éthiques (=codes) spéciales. Cette codification s’applique aussi aux conversations normales que les femmes et les hommes ont entre eux.
 ## Une transgression
 
-- **Transgression** : enfreid
+- **Transgression** : enfreindre des règles
+
+C’est considéré une transgression car c’est une relation en dehors du mariage, à une femme déjà mariée. Certains textes mentionnent aussi des relations qui sont plus que platoniques.
+# L'héritage de l'amour courtois
+## A la renaissance
+
+Au XVIème siècle, il existe 2 groupes de poètes:
+
+L’école Lyonnaise:
+
+- Groupe de poètes à Lyon au XVIe siècle
+- S’inspire de la poésie Antique ( Ovide et Virgile )
+- S’inspire de la poésie italienne 
+- Exemples de poètes de l’école lyonnaise: Louise Labé et Maurice Scève
+
+La Pléiade:
+
+- Groupe de poètes de la second moitié du XVIe siècle
+- S’inspire de la poésie Antique
+- S’inspire des sources mythologiques
+- Objectif: Concurrencer la langue latine qui est considérée comme la langue la plus noble par rapport au Français
+- Exemples de poètes de la Pléiade: Pierre de Ronsard et Joachim du Bellay
+
+**Important à voir:** [[Définition de Blason]]
+## Au XVIIème siècle
+
+Le baroque est un mouvement artistique des XVIe et XVIIe siècles, le mot vient du portugais “barroco” qui signifie “perle irrégulière”. C’est un style caractérisé par la profusion ( l’abondance ), le goût du contraste et une recherche de mouvement qui s’oppose à la rigueur ( dureté ) de l’art classique.
+
+Il privilégie l’émotion par rapport à la raison et cherche à saisir l’instabilité du monde.
+
+Exemple: Poème de Pierre Marbeuf, "Et la mer et l'amour…"
+
+Dans ce poème, il renouvelle avec virtuosité le thème de l’amour amer ( qui fait souffrir ) . Ce qui est très présent dans la poésie du moyen-âge.
