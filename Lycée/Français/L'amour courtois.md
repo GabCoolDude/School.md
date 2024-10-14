@@ -54,3 +54,6 @@ Exemple: Poème de Pierre Marbeuf, "Et la mer et l'amour…"
 Dans ce poème, il renouvelle avec virtuosité le thème de l’amour amer ( qui fait souffrir ) . Ce qui est très présent dans la poésie du moyen-âge.
 ## Au XVIIIème siècle
 
+### Etude de texte: "La Jeune Tarentine", André Chénier
+
+André Chénier est un poète majeur du XVIIIème siècle
