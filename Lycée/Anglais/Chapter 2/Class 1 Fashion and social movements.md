@@ -4,8 +4,9 @@ Clothes are a way to..
 - Convey a **courageous (= brave)** message
 - Send a message
 - Express an idea
-- Fight against injustice
+- Fight against injustice and the **war**
 - Describe one's personality
+- Represent a co
 Clothes are used to..
 - Defend equality
 - Dight against discrimination
