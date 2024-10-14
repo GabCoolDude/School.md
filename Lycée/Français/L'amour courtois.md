@@ -57,4 +57,4 @@ Dans ce poème, il renouvelle avec virtuosité le thème de l’amour amer ( qui
 
 André Chénier est un poète majeur du XVIIIème siècle, il était fasciné par la littérature antique, il en prend donc inspiration dans plusieurs de ses œuvres. Il se situe entre le classicisme du XVIIème siècle et le romantisme que naît à la fin du XVIIIème siècle.
 
-Dans son poème "La jeune Tarentine", il raconte la mort tragique d'une jeune fille pendant le voyage qui devait la conduire à son fiancé. Le poème est caractérisé par son registre lyrique et par l'évocation atténuée de la mort
+Dans son poème "La jeune Tarentine", il raconte la mort tragique d'une jeune fille pendant le voyage qui devait la conduire à son fiancé. Le poème est caractérisé par son registre lyrique et par l'évocation atténuée de la mort. Il prend la forme d'un éloge funèbre aux images poétiques douces et musicales.

@@ -8,7 +8,9 @@ Il est obligatoire de faire une "fork" pour pouvoir faire des modifications. Sur
 Normalement, pour vous le bouton n'est pas grisé.
 ## Installation de Git
 
-Si vous avez dé
+Si vous avez déjà Git d'installer sur votre ordinateur, vous pouvez passer cet étape.
+
+Pour pouvoir modifier les fichiers depuis plusieurs ordinateurs et stocker les fichiers sur le "cloud", ils sont stockés sur Git. Vous devez donc l'installer.
 
 Si vous voulez seulement voir les fichiers sans les modifier, vous pouvez utiliser Github en cliquant sur les diverses fichiers ou vous pouvez juste [télécharger les fichiers](https://github.com/GabCoolDude/School.md/archive/refs/heads/main.zip) et les voir dans Obsidian.
 
