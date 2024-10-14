@@ -10,14 +10,6 @@
     },
     {
       "prefix": " ",
-      "suffix": " Characters",
-      "metric": {
-        "type": 0,
-        "counter": 1
-      }
-    },
-    {
-      "prefix": " ",
       "suffix": " Pages",
       "metric": {
         "type": 0,
@@ -25,7 +17,16 @@
       }
     }
   ],
-  "altBar": [],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": " Files in vault",
+      "metric": {
+        "type": 2,
+        "counter": 6
+      }
+    }
+  ],
   "countComments": false,
   "collectStats": false,
   "displaySectionCounts": true,
