@@ -28,7 +28,7 @@
   "altBar": [],
   "countComments": false,
   "collectStats": false,
-  "displaySectionCounts": false,
+  "displaySectionCounts": true,
   "pageWords": 300,
   "statsPath": ".obsidian/vault-stats.json"
 }
