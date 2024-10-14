@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+                "file": "Lycée/Français/L'amour courtois.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+                "file": "Lycée/Français/L'amour courtois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+                "file": "Lycée/Français/L'amour courtois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md"
+                "file": "Lycée/Français/L'amour courtois.md"
               }
             }
           }
@@ -176,8 +176,9 @@
   },
   "active": "593f521b25ce89a9",
   "lastOpenFiles": [
-    "Lycée/Anglais/Chapter 2/Class 1 Fashion and social movements.md",
     "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+    "Lycée/Français/L'amour courtois.md",
+    "Lycée/Anglais/Chapter 2/Class 1 Fashion and social movements.md",
     "Lycée/Anglais/Chapter 1",
     "Lycée/Anglais/Chapter 2",
     "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
