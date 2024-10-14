@@ -31,7 +31,6 @@
       {
         "id": "0757a394adf6fd1f",
         "type": "tabs",
-        "dimension": 68.36363636363636,
         "children": [
           {
             "id": "8512c0ca28a16fd9",
@@ -67,29 +66,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "8c417264c7e381d6",
-        "type": "tabs",
-        "dimension": 31.636363636363637,
-        "children": [
-          {
-            "id": "398d707ac1e4d9de",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c32f29fbef61878c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -100,9 +76,37 @@
     "type": "split",
     "children": [
       {
+        "id": "a8af945e6f34a821",
+        "type": "tabs",
+        "dimension": 40.16203703703704,
+        "children": [
+          {
+            "id": "c32f29fbef61878c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "abefcbaf41914b12",
         "type": "tabs",
+        "dimension": 59.83796296296296,
         "children": [
+          {
+            "id": "bb7677158c2e19e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lycée/Anglais/Chapter 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "2428d82ec6335f5e",
             "type": "leaf",
@@ -121,15 +125,11 @@
             }
           },
           {
-            "id": "bb7677158c2e19e0",
+            "id": "0137a3f6f519546e",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lycée/Anglais/Chapter 2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "timer-view",
+              "state": {}
             }
           },
           {
@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +174,7 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "593f521b25ce89a9",
+  "active": "0137a3f6f519546e",
   "lastOpenFiles": [
     "Lycée/Anglais/Chapter 1.md",
     "Lycée/Anglais/Chapter 2.md",
