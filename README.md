@@ -1,7 +1,8 @@
 # School.md
 
 Ceci est un répertoire que j'utilise pour faire des fiches de révisions et noter mes cours.
-# Comment utiliser:
+# Comment installer
+## Faire une "fork"
 
 Il est obligatoire de faire une "fork" pour pouvoir faire des modifications. Sur la [page du répertoire](https://github.com/GabCoolDude/School.md/tree/main), cliquer sur "Fork".
 ![[Pasted image 20241014161406.png]]
@@ -10,7 +11,10 @@ Normalement, pour vous le bouton n'est pas grisé.
 
 Si vous avez déjà Git d'installer sur votre ordinateur, vous pouvez passer cet étape.
 
-Pour pouvoir modifier les fichiers depuis plusieurs ordinateurs et stocker les fichiers sur le "cloud", ils sont stockés sur Git. Vous devez donc l'installer.
+Pour pouvoir modifier les fichiers depuis plusieurs ordinateurs et stocker les fichiers sur le "cloud", ils sont stockés sur [Git](https://git-scm.com/downloads). Vous devez donc l'installer.
+
+Après l'installation, appuyer sur Win+R et tapez "cmd"
+![[Pasted image 20241014162522.png]]
 
 Si vous voulez seulement voir les fichiers sans les modifier, vous pouvez utiliser Github en cliquant sur les diverses fichiers ou vous pouvez juste [télécharger les fichiers](https://github.com/GabCoolDude/School.md/archive/refs/heads/main.zip) et les voir dans Obsidian.
 
