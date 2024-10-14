@@ -10,7 +10,7 @@ Lorsque le verbe se termine par un e, on rajoute seulement un **d** à la base v
 *dance* = *dance***d**
 ## Verbe irréguliers
 
-Pour les verbes irréguliers, il faut malheureusement les **apprendre par coeur** car la formation du prétérit diffère selon le verbe.
+Pour les verbes irréguliers, il faut malheureusement les **apprendre par cœur** car la formation du prétérit diffère selon le verbe.
 
 **TODO:** ajouter liste de verbes irréguliers
 # Forme négative
