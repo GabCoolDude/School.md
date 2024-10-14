@@ -29,16 +29,16 @@ Au **XVIème siècle**, il existe 2 groupes de poètes:
 
 **L’école Lyonnaise:**
 
-- Groupe de poètes à Lyon au XVIe siècle
-- S’inspire de la poésie Antique ( Ovide et Virgile )
-- S’inspire de la poésie italienne 
+- Groupe de poètes **à Lyon au XVIe siècle**
+- S’inspire de la **poésie Antique** ( Ovide et Virgile )
+- S’inspire de la **poésie italienne** 
 - Exemples de poètes de l’école lyonnaise: Louise Labé et Maurice Scève
 
 **La Pléiade:**
 
-- Groupe de poètes de la second moitié du XVIe siècle
-- S’inspire de la poésie Antique
-- S’inspire des sources mythologiques
+- Groupe de poètes de la **seconde moitié du XVIe siècle**
+- S’inspire de la **poésie Antique**
+- S’inspire des **sources mythologiques**
 - Objectif: Concurrencer la langue latine qui est considérée comme la langue la plus noble par rapport au Français
 - Exemples de poètes de la Pléiade: Pierre de Ronsard et Joachim du Bellay
 
@@ -46,8 +46,7 @@ Au **XVIème siècle**, il existe 2 groupes de poètes:
 ## Au XVIIème siècle
 
 Le **baroque** est un mouvement artistique des XVIe et XVIIe siècles, le mot vient du portugais “barroco” qui signifie “perle irrégulière”. C’est un style caractérisé par la profusion ( l’abondance ), le goût du contraste et une recherche de mouvement qui s’oppose à la rigueur ( dureté ) de l’art classique.
-
-Il privilégie l’émotion par rapport à la raison et cherche à saisir l’instabilité du monde.
+Il privilégie **l’émotion** par rapport à la raison et cherche à saisir l’instabilité du monde.
 
 Exemple: Poème de Pierre Marbeuf, "Et la mer et l'amour…"
 
@@ -56,4 +55,4 @@ Dans ce poème, il renouvelle avec virtuosité le thème de l’amour amer ( qui
 
 ### Etude de texte: "La Jeune Tarentine", André Chénier
 
-André Chénier est un poète majeur du XVIIIème siècle
+André Chénier est un poète majeur du XVIIIème siècle, il était fasciné par la littérature antique, il en prend donc inspiration dans plusieurs de ses œuvres. Il se situe entre le classicismdu XVIIème siècle et le romantisme que naît à la fin du XVIIIème siècle
