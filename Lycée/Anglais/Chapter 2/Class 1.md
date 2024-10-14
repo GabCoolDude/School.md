@@ -1,3 +1,5 @@
+# Fashion and social movements
+
 Clothes are a way to..
 - Represent **powerful** Black people
 - Demand the **right** to vote in the elections
