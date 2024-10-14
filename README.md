@@ -34,6 +34,8 @@ Copiez l'url et retournez dans le terminal pour taper la commande suivant en rem
 ```
 git clone "url"
 ```
+Et voila, vous pouvez désormais ouvrir la "vault" qui doit se trouver dans "C:/Users/utilisateur".
+# Autres:
 Si vous voulez seulement voir les fichiers sans les modifier, vous pouvez utiliser Github en cliquant sur les diverses fichiers ou vous pouvez juste [télécharger les fichiers](https://github.com/GabCoolDude/School.md/archive/refs/heads/main.zip) et les voir dans Obsidian.
 
 Malheureusement, à cause du format [Markdown](https://docs.framasoft.org/fr/grav/markdown.html), l'impression des fichiers n'est pas vraiment recommandé, mais reste disponible.
