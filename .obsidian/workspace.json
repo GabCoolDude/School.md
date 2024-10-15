@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Anglais/Chapter 1/Prétérit simple.md"
+                "file": "README.md"
               }
             }
           }
@@ -176,6 +176,7 @@
   },
   "active": "593f521b25ce89a9",
   "lastOpenFiles": [
+    "Lycée/Anglais/Chapter 1/Prétérit simple.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
     "Lycée/Anglais/Chapter 2/Class 2.md",
     "Collège/Histoire/Dates importantes d'Histoire.md",
@@ -213,7 +214,6 @@
     "Lycée/Images/Géographie",
     "Lycée/Géographie/G1/G1.1/G1.1.2",
     "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Lycée/Anglais/Chapter 1",
     "Lycée/Anglais/Chapter 2",
     "Lycée/Anglais",
