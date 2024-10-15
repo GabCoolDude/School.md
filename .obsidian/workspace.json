@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Français/L'amour courtois.md",
-                "mode": "preview",
+                "file": "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lycée/Français/L'amour courtois.md",
+                "file": "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycée/Français/L'amour courtois.md",
+                "file": "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Français/L'amour courtois.md"
+                "file": "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md"
               }
             }
           }
@@ -175,11 +175,11 @@
   },
   "active": "593f521b25ce89a9",
   "lastOpenFiles": [
+    "Lycée/Français/L'amour courtois.md",
     "Collège/Français/Figures de styles.md",
     "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
     "Lycée/EMC/Liberté d'expression/Prise de note sur la vidéo de liberté d'expression.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
-    "Lycée/Français/L'amour courtois.md",
     "README.md",
     "Lycée/Images/Pasted image 20241014163853.png",
     "Lycée/Images/Pasted image 20241014163822.png",

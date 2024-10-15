@@ -17,4 +17,4 @@ Les facteurs de la transition démographique:
 
 ![[Pasted image 20241011095927.png]]
 
-- **Accroissement naturel:**
+- **Accroissement naturel:** La différence entre les naissances et les décès (taux de natalité - taux de mortalité)
