@@ -12,7 +12,7 @@
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Métonymie       | Remplace un mot par un autre selon un lien logique (contenu/contenant ; œuvre/auteur, etc.)<br>*Nous avons bu une excellente bouteille* - La bouteille (contenant) désigne le vin (contenu). |
 | Périphrase      | Remplace un mot par une expression de même sens.<br>*Il maitrise parfaitement la langue de Shakespeare.* (= l'anglais)                                                                       |
-| Sy              |                                                                                                                                                                                              |
+| Synecdoque      | Désigne un être ou un objet du monde par ses propriété.<br>*Les voiles au loin descendant vers Harfleur* (= le bateau)                                                                       |
 # Figures d'opposition
 
 | Figure de style | Définition et exemple                                                                                                                 |
@@ -20,6 +20,7 @@
 | Antithèse       | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.*                 |
 | Oxymore         | Association de mots avec des sens contraires.<br>*Une douce violence.*                                                                |
 | Antiphrase      | Consiste à dire le contraire de ce que l'on veut exprimer ( souvent ironique)<br>*Prends ton temps surtout, hein !* (= dépêche toi !) |
+| Chiasme         | Opposition qui prend appui sur la syntaxe pour croiser des termes opposés ( version spéciale)                                         |
 # Figures d'amplification
 | Figure de style              | Définition et exemple                                                                                                                                                                 |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
