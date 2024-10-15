@@ -8,25 +8,25 @@
 | Allégorie        | Représente de manière concrète une réalité abstraite.<br>*Cupidon est une allégorie de l'amour : les yeux bandés représentent l'aveuglement de l'amour, la flèche représente la blessure de l'amour*                  |
 | Hypallage        | Rapproche un ou plusieurs termes à un élément que l'on aurait plutôt associé à un autre élément dans la phrase.<br>*Je ne suis **pas rêveur** le **sentier solitaire***                                               |
 # Figures de subtitution
-| Figure de style | Définition et example                                                                                                                                                                        |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Métonymie       | Remplace un mot par un autre selon un lien logique (contenu/contenant ; œuvre/auteur, etc.)<br>*Nous avons bu une excellente bouteille* - La bouteille (contenant) désigne le vin (contenu). |
-| Périphrase      | Remplace un mot par une expression de même sens.<br>*Il maitrise parfaitement la langue de Shakespeare.* (= l'anglais)                                                                       |
-| Synecdoque      | Désigne un être ou un objet du monde par ses propriété.<br>*Les voiles au loin descendant vers Harfleur* (= le bateau)                                                                       |
+| Figure de style | Définition et example                                                                                                                                                                          |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Métonymie       | Remplace un mot par un autre selon un lien logique (contenu/contenant ; œuvre/auteur, etc.)<br>*Nous avons bu une excellente bouteille* - La bouteille (contenant) désigne le vin (contenu).   |
+| Périphrase      | Remplace un mot par une expression de même sens.<br>*Il maitrise parfaitement la langue de Shakespeare.* (= l'anglais)                                                                         |
+| Synecdoque      | Désigne un être ou un objet du monde par un terme représentant seulement une partie de celui-ci (cas particulier de métonymie).<br>*Les voiles au loin descendant vers Harfleur* (= le bateau) |
 # Figures d'opposition
 
-| Figure de style | Définition et exemple                                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Antithèse       | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.*                 |
-| Oxymore         | Association de mots avec des sens contraires.<br>*Une douce violence.*                                                                |
-| Antiphrase      | Consiste à dire le contraire de ce que l'on veut exprimer ( souvent ironique)<br>*Prends ton temps surtout, hein !* (= dépêche toi !) |
-| Chiasme         | Opposition qui prend appui sur la syntaxe pour croiser des termes opposés ( version spéciale)                                         |
+| Figure de style | Définition et exemple                                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Antithèse       | Consiste à opposer deux expressions ou deux notions contraires.<br>*Plus on veut les brouiller, plus on va les unir.*                                        |
+| Oxymore         | Association de mots avec des sens contraires.<br>*Une douce violence.*                                                                                       |
+| Antiphrase      | Consiste à dire le contraire de ce que l'on veut exprimer (souvent ironique)<br>*Prends ton temps surtout, hein !* (= dépêche toi !)                         |
+| Chiasme         | Opposition qui prend appui sur la syntaxe pour croiser des termes opposés <br>(version spéciale de l'antithèse)<br>*Tel qui rit vendredi, dimanche pleurera* |
 # Figures d'amplification
 | Figure de style              | Définition et exemple                                                                                                                                                                 |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hyperbole                    | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.*                                                                                   |
 | Accumulation<br>/Enumération | Consiste à énumérer des éléments pour donner une impression de grande quantité ou pour insister sur un aspect.<br>*Des liquides rouges, jaunes, verts, bruns, de toutes les nuances.* |
-| Gradation                    |  Succession d'éléments ordonnées de manière croissant ou décroissante                                                                                                                 |
+| Gradation                    | Succession d'éléments ordonnées de manière croissant ou décroissante.<br>*Je la vis, je rougis, je pâlis à sa vue !*                                                                  |
 # Figures d'atténuation
 | Figure de style | Définition et exemple                                                                                                                                                                                     |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
