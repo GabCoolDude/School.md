@@ -9,5 +9,7 @@ Ceci peut être expliquer par:
 - Au contraire, elle est **terminée** en **Europe** et en **Amérique du Nord**.
 
 Il existe à l'échelle mondiale une fracture Nord-Sud, qui est caractérisé par:
-- Espèrance de vie plus élevée au Nord (85 ans > 71 ans)
-- Fécondité
+- **Espèrance de vie** plus élevée au Nord (85 ans > 71 ans)
+- **Fécondité** plus basse au Nord (2 enfants par femme < 3,5 enfants par femme)
+
+La fécondité affecte est important car il affecte le seuil de renouvellement 

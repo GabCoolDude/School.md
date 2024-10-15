@@ -124,7 +124,10 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#41e614"
   },
-  "Lycée/EMC/Liberté d'expression": "BoBxFolderOpen",
+  "Lycée/EMC/Liberté d'expression": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#eb0fce"
+  },
   "Lycée/Anglais": {
     "iconName": "BoBxsFolder",
     "iconColor": "#9900ff"
