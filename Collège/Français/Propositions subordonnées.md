@@ -1,5 +1,5 @@
 Pour trouver les proposition subordonnées facilement, il faut procéder par élimination.
-# PS relative
+# PS Relative
 ## PS Relative Déterminative / Essentielle
 
 Complète un nom ou un pronom. Définit le sens de l'antécédent auquel elle se rapporte : **on ne peut pas la supprimer**
