@@ -165,5 +165,9 @@
     "iconName": "BoBxImages",
     "iconColor": "#0dcd0a"
   },
-  "Lycée/Images/README": "BoBxImages"
+  "Lycée/Images/README": "BoBxImages",
+  "Lycée/Images/Géographie/modèle trans. démo..png": {
+    "iconName": "BoBxImage",
+    "iconColor": "#0fdf0c"
+  }
 }
