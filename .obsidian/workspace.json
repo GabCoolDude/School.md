@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
-                "mode": "source",
+                "file": "Lycée/Français/L'amour courtois.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+                "file": "Lycée/Français/L'amour courtois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+                "file": "Lycée/Français/L'amour courtois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md"
+                "file": "Lycée/Français/L'amour courtois.md"
               }
             }
           }
@@ -175,9 +175,10 @@
   },
   "active": "593f521b25ce89a9",
   "lastOpenFiles": [
+    "Collège/Français/Figures de styles.md",
+    "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
     "Lycée/EMC/Liberté d'expression/Prise de note sur la vidéo de liberté d'expression.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
-    "Collège/Français/Figures de styles.md",
     "Lycée/Français/L'amour courtois.md",
     "README.md",
     "Lycée/Images/Pasted image 20241014163853.png",
@@ -187,7 +188,6 @@
     "Collège/Français/Fonctions.md",
     "Lycée/Images/Pasted image 20241014161406.png",
     "Lycée/Français/Définition de Blason.md",
-    "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
     "Lycée/Anglais/Chapter 1/Prétérit simple.md",
     "Lycée/Anglais/Chapter 1",
