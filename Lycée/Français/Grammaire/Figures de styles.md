@@ -22,21 +22,21 @@
 | Antiphrase      | Consiste à dire le contraire de ce que l'on veut exprimer (souvent ironique)<br>*Prends ton temps surtout, hein !* (= dépêche toi !)                         |
 | Chiasme         | Opposition qui prend appui sur la syntaxe pour croiser des termes opposés <br>(version spéciale de l'antithèse)<br>*Tel qui rit vendredi, dimanche pleurera* |
 # Figures d'amplification
-| Figure de style              | Définition et exemple                                                                                                                                                                 |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hyperbole                    | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.*                                                                                   |
-| Accumulation<br>/Enumération | Consiste à énumérer des éléments pour donner une impression de grande quantité ou pour insister sur un aspect.<br>*Des liquides rouges, jaunes, verts, bruns, de toutes les nuances.* |
-| Gradation                    | Succession d'éléments ordonnées de manière croissant ou décroissante.<br>*Je la vis, je rougis, je pâlis à sa vue !*                                                                  |
+| Figure de style                   | Définition et exemple                                                                                                                                                                 |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hyperbole                         | Est une mise en valeur via l'exagération.<br>*Je meurs de faim.* : exagération de *J'ai très faim.*                                                                                   |
+| Accumulation<br>ou<br>Enumération | Consiste à énumérer des éléments pour donner une impression de grande quantité ou pour insister sur un aspect.<br>*Des liquides rouges, jaunes, verts, bruns, de toutes les nuances.* |
+| Gradation                         | Succession d'éléments ordonnées de manière croissant ou décroissante.<br>*Je la vis, je rougis, je pâlis à sa vue !*                                                                  |
 # Figures d'atténuation
-| Figure de style | Définition et exemple                                                                                                                                                                                     |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Euphémisme      | Sert à atténuer un propos désagréable ou choquant.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* )                                                                                              |
-| Litote          | Consiste à dire moins pour suggérer plus.<br>*Va, je ne te hais point.* (= je t'aime)<br>Au contraire de l'euphémisme, la litote n'a pas pour but d'atténuer le propos, mais de lui donner plus de force. |
+| Figure de style | Définition et exemple                                                                                                                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Euphémisme      | Sert à **atténuer** un propos **désagréable ou choquant**.<br>*Il nous a quittés.* ( atténuation de *Il est mort.* )                                                                                          |
+| Litote          | Consiste à **dire moins pour suggérer plus**.<br>*Va, je ne te hais point.* (= je t'aime)<br>Au contraire de l'euphémisme, la litote n'a pas pour but d'atténuer le propos, mais de lui donner plus de force. |
 # Figures de répétition
-| Figure de style | Définition et exemple                                                                                                                                                                 |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Anaphore        | Répétition d’une même expression ou d’un même mot en début de phrase ou de vers.<br>*Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire* |
-| Assonance       | Consiste à répéter un **son voyelle**.<br>*Tout m'affl**i**ge et me nu**i**t et conspire à me nu**i**re*                                                                              |
-| Allitération    | Consiste à répéter un **son consonne**.<br>*Pour qui **s**ont **c**es serpents qui **s**iffle **s**ur nos têtes*                                                                      |
-| Paranomase      | Rapproche des mots qui ont des sonorités identiques ou similaires.<br>*Il **pleure** dans mon cœur comme il **pleut** dans la ville*                                                  |
-Rappel : Les voyelles sont : **a, e, i, o, u, y**.
+| Figure de style | Définition et exemple                                                                                                                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Anaphore        | Répétition d’une **même expression** ou d’un **même mot** en **début de phrase ou de vers**.<br>*Mon bras qu'avec respect toute l'Espagne admire, / Mon bras qui tant de fois a sauvé cet empire* |
+| Assonance       | Consiste à répéter un **son voyelle**.<br>*Tout m'affl**i**ge et me nu**i**t et conspire à me nu**i**re*                                                                                          |
+| Allitération    | Consiste à répéter un **son consonne**.<br>*Pour qui **s**ont **c**es serpents qui **s**iffle **s**ur nos têtes*                                                                                  |
+| Paranomase      | Rapproche des mots qui ont des sonorités identiques ou similaires.<br>*Il **pleure** dans mon cœur comme il **pleut** dans la ville*                                                              |
+Rappel: Les voyelles sont : **a, e, i, o, u, y**.
