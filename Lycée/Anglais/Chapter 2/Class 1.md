@@ -12,6 +12,6 @@ Clothes are a way to..
 
 Clothes are used to..
 - Defend **equality**
-- Dight against discrimination
+- Fight against discrimination
 - Defend your ideas
 - Defend **freedom**
