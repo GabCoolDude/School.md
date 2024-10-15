@@ -8,4 +8,6 @@ Ceci peut être expliquer par:
 - La **transition démographique est en cours** en **Afrique** et en **Asie**.
 - Au contraire, elle est **terminée** en **Europe** et en **Amérique du Nord**.
 
-Il existe à l'échelle mondiale une fracture Nord- Sud
+Il existe à l'échelle mondiale une fracture Nord-Sud, qui est caractérisé par:
+- Espèrance de vie plus élevée au Nord (85 ans > 71 ans)
+- Fécondité
