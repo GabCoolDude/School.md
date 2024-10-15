@@ -5,3 +5,7 @@ Accroissement naturel = taux de natalité - taux de mortalité
 ## Une planète de plus en plus peuplée
 
 [[Une planète de plus en plus peuplée]]
+
+## De larges différences dans le monde
+
+[[De larges différences dans le monde]]

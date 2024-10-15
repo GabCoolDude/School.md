@@ -15,6 +15,6 @@ Les facteurs de la transition démographique:
 
 - **Transition démographique :** Passage d’un régime démographique *“pré-transitionnel”* (fort taux de natalité et de mortalité, faible accroissement naturel) à un régime *“post-transitionnel”* (faible taux de natalité et de mortalité, faible accroissement naturel). Pendant la phase de transition, le taux de mortalité diminue plus vite que le taux de natalité, d’où un accroissement naturel important.
 
-![[Pasted image 20241011095927.png]]
+
 
 - **Accroissement naturel:** La différence entre les naissances et les décès (taux de natalité - taux de mortalité)
