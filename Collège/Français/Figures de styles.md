@@ -1,1 +1,1 @@
-[[Figure de styles]]
+[[Lycée/Français/Grammaire/Figures de styles]]
