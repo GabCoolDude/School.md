@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsFileBlank",
       "BoBxImage",
       "BoBxsFileMd",
       "BoBxFolderOpen",
-      "BoBxImages",
-      "📚"
+      "BoBxImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -131,5 +131,10 @@
   "Lycée/Images/README/Pasted image 20241014161406.png": "BoBxImage",
   "Lycée/Images/README/Pasted image 20241014162522.png": "BoBxImage",
   "Lycée/Images/README/Pasted image 20241014163822.png": "BoBxImage",
-  "Lycée/Images/README/Pasted image 20241014163853.png": "BoBxImage"
+  "Lycée/Images/README/Pasted image 20241014163853.png": "BoBxImage",
+  "Lycée/Anglais/Chapter 1/Prétérit simple.md": "BoBxsFileMd",
+  "Lycée/Anglais/Chapter 2/Class 1.md": "BoBxsFileMd",
+  "Lycée/Anglais/Chapter 2": "BoBxFolderOpen",
+  "Lycée/Anglais/Chapter 1": "BoBxFolderOpen",
+  "Lycée/Géographie/G1/Les défis de la démographie et du développement.md": "BoBxsFileBlank"
 }
