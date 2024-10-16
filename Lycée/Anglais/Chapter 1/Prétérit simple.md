@@ -25,3 +25,6 @@ A la forme interrogative, peu importe le verbe, on change juste l'ordre des mots
 *auxiliare* **did + sujet + base verbale + complément**
 
 Ex: **Did you give him** your ticket ?
+# Comment utiliser le prétérit simple
+## Sans le passé
+
