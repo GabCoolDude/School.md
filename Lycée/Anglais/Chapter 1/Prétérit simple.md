@@ -16,10 +16,9 @@ Pour les verbes irréguliers, il faut malheureusement les **apprendre par cœur*
 # Forme négative
 
 A la forme négative, peu importe le verbe, on change juste l'ordre des mots:
-**sujet +** *auxiliare* **didn't + base verbale + complément**
+**sujet +** *auxiliaire* **didn't + base verbale + complément**
 
 Ex:  **They didn't go** to **the swimming pool**
-
 # Forme interrogative
 
-A la forme interrogative 
+A la forme interrogative, peu importe le verbe, on change juste l'ordre des mots par rapport à la forme affirmative:
