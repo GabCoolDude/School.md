@@ -26,5 +26,10 @@ A la forme interrogative, peu importe le verbe, on change juste l'ordre des mots
 
 Ex: **Did you give him** your ticket ?
 # Comment utiliser le prétérit simple
-## Sans le passé
+## Dans le passé
+
+Il est utilisé pour parler des actions situées dans le passé qui sont terminées et qui sont datées.
+
+Ex: **Yesterday**, they went to the cinema. / **Last year**, I visited London.
+## La narration
 
