@@ -7,7 +7,7 @@ A partir de cela, une nouvelle vision de l’amour a émergé, qui s’appelle �
 
 Le modèle de l’amour courtois se joue en dehors du mariage, souvent entre une femme déjà mariée (qui a été forcé) et un jeune homme. Ces relations sont secrètes. Normalement, ces relations sont purement platoniques (pas de relations sexuelles). Il est souvent considéré comme un jeu de séduction. Cette forme d’amour était beaucoup utilisée dans la littérature et les poèmes et moins souvent dans la réalité. 
 
-- **Troubadour** : personne qui va dans les cours des rois pour raconter des poètes.
+- **Troubadour** : personne qui va dans les cours des rois pour raconter des poèmes.
 ## Un thème poétique
 
 Il est issu des troubadours. L’amour courtois est un thème très souvent utilisé dans les poèmes et les romans.
