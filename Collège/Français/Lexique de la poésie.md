@@ -3,7 +3,7 @@ Le vers est construit sur un nombre donné de syllabes qui sont le plus souvent 
 - 10 syllabes : un décasyllabes
 - **12 syllabes : un alexandrin**. Il est souvent partagé en deux parties de six syllabes ( “hémistiche”) avec une pause centrale (“césure”): *Heureux qui comme Ulysse / A fait un beau voyage*
 
-La strophe est un groupement de vers séparé un blanc ( **= paragraphe** )
+La strophe est un groupement de vers ( **= paragraphe** )
 - 1 vers : monostiche
 - 2 vers : un distique
 - **3 vers : un tercet**
