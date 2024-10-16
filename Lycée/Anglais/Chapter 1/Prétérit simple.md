@@ -33,3 +33,6 @@ Il est utilisé pour parler des actions situées dans le passé qui sont termin�
 Ex: **Yesterday**, they went to the cinema. / **Last year**, I visited London.
 ## La narration
 
+On peut l'utiliser quand on raconte une histoire.
+
+Ex: It was midnight. The car arrived. My parents
