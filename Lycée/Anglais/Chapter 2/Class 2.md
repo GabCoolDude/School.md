@@ -10,7 +10,7 @@ This is a good way to protest because:
 - she **attacks** the **public figures** (= personnalités publiques) and people with a lot of power
 ## Step 1: Choose a slogan
 
-We chose the slogan "Black & White".
+We chose the slogan "Black & White", becaus
 ## Step 2: Choose the item of clothing to put it on
 
 We chose to put it on hoodies and t-shirts because they are the pieces of clothing that are most worn in the street, and is therefore seen by more people.

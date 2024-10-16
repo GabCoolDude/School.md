@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lycée/Anglais/Chapter 2/Class 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "fdfa689b3a4791af",
