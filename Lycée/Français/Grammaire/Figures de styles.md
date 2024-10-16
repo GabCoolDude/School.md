@@ -6,7 +6,7 @@
 | Métaphore        | Met en relation deux éléments sans outil de comparaison.<br>*La mer est un miroir.*                                                                                                                                   |
 | Personnification | Attribue des comportements humains à des animaux, des éléments de la nature, des objets…<br>*La nuit rassemble son troupeau d'étoiles.*                                                                               |
 | Allégorie        | Représente de manière concrète une réalité abstraite.<br>*Cupidon est une allégorie de l'amour : les yeux bandés représentent l'aveuglement de l'amour, la flèche représente la blessure de l'amour*                  |
-| Hypallage        | Rapproche un ou plusieurs termes à un élément que l'on aurait plutôt associé à un autre élément dans la phrase.<br>*Je ne suis **pas rêveur** le **sentier solitaire***                                               |
+| Hypallage        | Rapproche un ou plusieurs termes à un élément que l'on aurait plutôt associé à un autre élément dans la phrase.<br>*Je ne suis* ***pas rêveur*** *le* ***sentier solitaire***                                         |
 # Figures de subtitution
 | Figure de style | Définition et example                                                                                                                                                                          |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
