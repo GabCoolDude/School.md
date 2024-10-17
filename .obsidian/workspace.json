@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Français/Grammaire/Figures de styles.md",
+                "file": "Lycée/Français/Poésie/L'amour courtois.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Figures de styles"
+              "title": "L'amour courtois"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "fdfa689b3a4791af",
@@ -210,6 +211,7 @@
   },
   "active": "9e182cfc9882e97a",
   "lastOpenFiles": [
+    "Lycée/Français/Grammaire/Figures de styles.md",
     "Collège/Français/Figures de styles.md",
     "Lycée/SVT/Chapitre 1.md",
     "Lycée/SVT",
@@ -224,7 +226,6 @@
     "Lycée/Anglais/Chapter 1/Prétérit simple.md",
     "Collège/Français/Propositions subordonnées.md",
     "Collège/Français/Lexique du théâtre.md",
-    "Lycée/Français/Grammaire/Figures de styles.md",
     "Collège/Français/Lexique de la poésie.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
     "Collège/Français/Important à réviser.md",
