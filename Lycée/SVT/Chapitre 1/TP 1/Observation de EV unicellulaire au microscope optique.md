@@ -10,3 +10,8 @@ On voit donc qu'un EV unicellulaire dispose d'une cellule unique mais est quand 
 
 **Calcul de la taille réelle d'un cellule vu au microscope**
 
+$$
+Tr = Ti/G
+$$
+
+Tr = taille réelle, Ti = taille image
