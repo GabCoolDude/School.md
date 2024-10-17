@@ -11,11 +11,10 @@ correction TD tableau:
 
 (voir feuille pour plus)
 
-
-| Fonction                                   | Matrice extracellulaire animale | Matrice extracellulaire végétale (paroi) |
-| ------------------------------------------ | ------------------------------- | ---------------------------------------- |
-| Résistance<br>(Fibre)                      |                                 |                                          |
-| Ancrage<br>(attachement <br>à la membrane) |                                 |                                          |
-| Protection contre<br>la déshydratation     |                                 |                                          |
-| Elasticité                                 |                                 |                                          |
-| Cellules présentes                         | fibroblastes                    | a                                        |
+|                  Fonction                  | Matrice extracellulaire animale | Matrice extracellulaire végétale (paroi) |
+| :----------------------------------------: | :-----------------------------: | :--------------------------------------: |
+|           Résistance<br>(Fibre)            |            collagène            |                cellulose                 |
+| Ancrage<br>(attachement <br>à la membrane) |   fibronectines<br>intégrines   |     cellulose<br>+<br>hémicellulose      |
+|   Protection contre<br>la déshydratation   |         protéoglycanes          |                 pectines                 |
+|                 Elasticité                 |            Elastine             |                  acides                  |
+|             Cellules présentes             |          fibroblastes           |                  aucune                  |
