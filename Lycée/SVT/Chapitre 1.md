@@ -1,6 +1,6 @@
 **Bilan activité 3**
 
-- Chaque EV pluricellulaire est un organisme constitu de plusieurs organes ex: coeur, foie, poumons...
+- Chaque EV pluricellulaire est un organisme constitué de plusieurs organes ex: coeur, foie, poumons...
 - Chaque organe est constitué de 1 ou plusieurs tissus assurant des fonctions particulières.
 - Chaque tissu est constitué de cellules spécialisées dans leur structure et leur fonction.
 - Toutes les cellules d'un EV proviennent d'une cellule oeuf.
