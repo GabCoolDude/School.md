@@ -6,3 +6,16 @@
 - Toutes les cellules d'un EV proviennent d'une cellule oeuf.
 - Cette cellule oeuf se divise en cellules souches indifférenciées.
 - Au cours du développement embryonnaire ces cellules se différencient par les molécules et les organites qui les constituent = elles deviennent spécialisées dans une fonction particulière.
+
+correction TD tableau:
+
+(voir feuille pour plus)
+
+
+| Fonction                                   | Matrice extracellulaire animale | Matrice extracellulaire végétale (paroi) |
+| ------------------------------------------ | ------------------------------- | ---------------------------------------- |
+| Résistance<br>(Fibre)                      |                                 |                                          |
+| Ancrage<br>(attachement <br>à la membrane) |                                 |                                          |
+| Protection contre<br>la déshydratation     |                                 |                                          |
+| Elasticité                                 |                                 |                                          |
+| Cellules présentes                         | fibroblastes                    | a                                        |
