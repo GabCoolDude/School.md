@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📚",
-      "BoBxsFolder",
-      "🏫",
-      "BoBxFolder",
-      "BoBxsFileMd"
+      "⭐",
+      "BoBxsFileBlank",
+      "BoBxImage",
+      "BoBxsFileMd",
+      "BoBxFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,9 +20,9 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":",
@@ -92,5 +92,88 @@
   "Collège/Mathématique": {
     "iconName": "BoBxsFolder",
     "iconColor": "#ff0000"
-  }
+  },
+  "Lycée": "📚",
+  "Lycée/Images": "BoBxImages",
+  "Lycée/Histoire": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0b83f4"
+  },
+  "Lycée/Géographie": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0be907"
+  },
+  "Lycée/Français": "BoBxsFolder",
+  "Lycée/EMC": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#e811cc"
+  },
+  "Lycée/Géographie/G1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#12e10e"
+  },
+  "Lycée/Géographie/G1/G1.1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#61db0f"
+  },
+  "Lycée/Géographie/G1/G1.1/G1.1.1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#41e614"
+  },
+  "Lycée/EMC/Liberté d'expression": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#eb0fce"
+  },
+  "Lycée/Anglais": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#9900ff"
+  },
+  "Lycée/Géographie/G1/G1.1/G1.1.2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#40e114"
+  },
+  "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md": "BoBxsFileMd",
+  "Lycée/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md": "BoBxsFileMd",
+  "Lycée/EMC/Liberté d'expression/Liberté d'expression.md": "BoBxsFileMd",
+  "Lycée/Images/README/Pasted image 20241014161406.png": "BoBxImage",
+  "Lycée/Images/README/Pasted image 20241014162522.png": "BoBxImage",
+  "Lycée/Images/README/Pasted image 20241014163822.png": "BoBxImage",
+  "Lycée/Images/README/Pasted image 20241014163853.png": "BoBxImage",
+  "Lycée/Anglais/Chapter 1/Prétérit simple.md": "BoBxsFileMd",
+  "Lycée/Anglais/Chapter 2/Class 1.md": "BoBxsFileMd",
+  "Lycée/Anglais/Chapter 2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#8d0de3"
+  },
+  "Lycée/Anglais/Chapter 1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#8a0cdf"
+  },
+  "Lycée/Géographie/G1/Les défis de la démographie et du développement.md": "BoBxsFileBlank",
+  "Lycée/Images/Géographie/Capture d'écran 2024-10-11 095916.png": {
+    "iconName": "BoBxImage",
+    "iconColor": "#62d714"
+  },
+  "Lycée/Images/Géographie": {
+    "iconName": "BoBxImages",
+    "iconColor": "#0dcd0a"
+  },
+  "Lycée/Images/README": "BoBxImages",
+  "Lycée/Images/Géographie/modèle trans. démo..png": {
+    "iconName": "BoBxImage",
+    "iconColor": "#0fdf0c"
+  },
+  "Lycée/Français/Grammaire/Figures de styles.md": "BoBxsFileMd",
+  "Lycée/Français/Grammaire": "BoBxFolderOpen",
+  "Lycée/Français/Poésie/Définition de Blason.md": "BoBxsFileMd",
+  "Lycée/Français/Poésie/L'amour courtois.md": "BoBxsFileMd",
+  "Lycée/Français/Poésie": "BoBxFolderOpen",
+  "Collège/Français/Important à réviser.md": "⭐",
+  "Lycée/Anglais/Chapter 2/Class 2.md": "BoBxsFileMd",
+  "Lycée/Anglais/Chapter 2/Class 3.md": "BoBxsFileMd",
+  "Lycée/Géographie/G1/G1.1/G1.1.3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#11e30d"
+  },
+  "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md": "BoBxsFileMd"
 }
