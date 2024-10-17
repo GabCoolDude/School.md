@@ -1,2 +1,4 @@
 1. La portion des plus de 65 ans dans la population est passée de 6% en 1960 à 30% en 2023. Les dépenses sur la santé sont passés de 3% en 1960 à 11,5% en 2023. Il y a une désertification des territoires ruraux. Le taux de mortalité est plus haut que le taux de natalité.
-2.  "Les femmes cherchent les 4T - pour *teishisei*(humble), *teirisuku*(emploit stable), *teinenpi*(économe) et *teiizon*(capable de vivre sans dépendre de sa femme ou de sa mère)." Les femmes ont des critères très élevés. "Le japon est un pays de forte normes sociales" Les traditions en japon sont très forte et stables, avoir des enfants hors mariage est très mal vu.
+2. Les femmes sont contraintes de choisir entre une carrière et un enfant. Or, aujourd'hui elles font le choix de la carrière, d'où la baisse de la natali
+
+
