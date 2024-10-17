@@ -1,4 +1,4 @@
-**Bilan activité 3**
+**Bilan activité 3: La différenciation et spécialisation cellulaire**
 
 - Chaque EV pluricellulaire est un organisme constitué de plusieurs organes ex: coeur, foie, poumons...
 - Chaque organe est constitué de 1 ou plusieurs tissus assurant des fonctions particulières.
@@ -18,3 +18,8 @@ correction TD tableau:
 |   Protection contre<br>la déshydratation   |         protéoglycanes          |                 pectines                 |
 |                 Elasticité                 |            Elastine             |                  acides                  |
 |             Cellules présentes             |          fibroblastes           |                  aucune                  |
+
+**Bilan act 4 ( qu'on a pas fais ): Les matrices extracellulaire**
+- Entre les cellules des organismes pluricellulaires, il existe un réseau de molécules, de nature chimique variée qui est appelé la matrice extracellulaire
+- Chez les végétaux, cette matrice extracellulaire est appelée la paroi.
+Les molécules qui com
