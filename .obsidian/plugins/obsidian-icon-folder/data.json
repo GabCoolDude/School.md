@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxFolderOpen",
       "🧑‍🔬",
       "⭐",
       "BoBxsFileBlank",
-      "BoBxImage",
-      "BoBxsFileMd"
+      "BoBxImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -175,6 +175,10 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#11e30d"
   },
-  "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md": "BoBxsFileMd",
-  "Lycée/SVT": "🧑‍🔬"
+  "Lycée/SVT": "🧑‍🔬",
+  "Lycée/Géographie/G1/G1.2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#0ef00a"
+  },
+  "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellissement.md": "BoBxsFileMd"
 }
