@@ -4,7 +4,7 @@
   "cssTheme": "Whisky",
   "translucency": false,
   "textFontFamily": "Rubik",
-  "interfaceFontFamily": "Rubik",
+  "interfaceFontFamily": "",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "baseFontSize": 18

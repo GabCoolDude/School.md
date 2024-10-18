@@ -8,4 +8,6 @@
 Le vieillissement apparaît comme une contrainte pour le développement des Etats:
 - **Baisse du nombre d'actif** (personnes qui travaillent): augmentation des personnes en dehors du monde du travail.
 - **Augmentation pauvreté des seniors**: faiblesse de retraites par rapport à l'augmentation de la part des personnes âgées.
-- **Hausse des dépenses de santé**: immatérielle (soins, retraites...) et matérielle (infrastructures)
+- **Hausse des dépenses de santé**: immatérielle (soins, retraites…) et matérielle (infrastructures comme les hôpitaux ou les maisons de retraites).
+
+Les Etats cherchent à inverses la tendance avec la mise en place de politiques natalistes:
