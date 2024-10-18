@@ -8,5 +8,5 @@ Dans ce chapitre, on va voir les défis de la démographie et du développement
 [[De larges différences dans le monde]]
 ## Les défis du vieillissement
 
-[[Les défis du viellissement]]
+[[Les défis du vieillissement]]
 # 
