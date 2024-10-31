@@ -16,4 +16,25 @@ C6H12O6(glucose) + 6O2----> 6CO2+ 6H2O
 ![[Capture d'écran 2024-10-31 150040.png]]
 # Où a lieu la photosynthèse ?
 
-La photosynthèse a lieu dans le **chloroplaste** chez les eucaryotes, ou dans le cytoplasme chez les cyanobactéries (bactéries bleues) photosynthétiques.
+La photosynthèse a lieu dans le *chloroplaste* chez les eucaryotes, ou dans le cytoplasme chez les cyanobactéries (bactéries bleues) photosynthétiques.
+
+- **Chloroplaste :** Organite cellulaire, siège des réactions de la photosynthèse en présence de lumière . Il est formé d’une cavité contenant des petits sacs = thylakoïdes .
+![[Capture d'écran 2024-10-31 150823.png]]
+
+**Bilan II -Le métabolisme autotrophe**
+
+Les EV autotrophes (comme le végétaux verts) peuvent fabriquer leur propre matière organique. Pour cela ils ont besoin de :
+- Lumière,
+- eau, ions minéraux et dioxyde de carbone (prélevés dans leur milieu de vie)
+- Pigments photosynthétiques : chlorophylle
+Ce métabolisme se caractérise par les réactions de la photosynthèse.
+Toutes les cellules d’ un EV autotrophe, ne sont pas toutes autotrophes.
+
+Exemples : les cellules des racines, ou les cellules des tiges, ne sont pas
+autotrophes
+
+**Équation bilan de la photosynthèse:**
+6 CO2 + 12 H2O + lumière +pigment photos→ C6H12O6 + 6 O2 + 6 H2O
+
+
+![[Capture d'écran 2024-10-31 150918.png]]
