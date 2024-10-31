@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Français/Poésie/L'amour courtois.md",
-                "mode": "preview",
+                "file": "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L'amour courtois"
+              "title": "Le métabolisme cellulaire"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "9ebda2d0c53aa9bb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Lycée/Français/Poésie/L'amour courtois.md",
+    "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
+    "Lycée/SVT/Chapitre 2",
+    "conflict-files-obsidian-git.md",
     "Lycée/SVT/Chapitre 1/TP 1/Observation de EV unicellulaire au microscope optique.md",
     "Lycée/SVT/Chapitre 1/Activité 4/Les matrices extracellulaire.md",
     "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md",
@@ -229,7 +231,6 @@
     "Lycée/Anglais/Chapter 2/Class 3.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
     "Lycée/Anglais/Chapter 1/Prétérit simple.md",
-    "Lycée/Images/README",
     "Collège/Français/Important à réviser.md",
     "Collège/Français/Fonctions.md",
     "Collège/Français/Forme de phrases.md",
@@ -238,7 +239,6 @@
     "README.md",
     "Collège/Fiche de révisions/Liste de Fiches de Révisions.md",
     "Collège/Géographie/4 Répondre aux inégalités croissantes entre territoires français, à toutes les échelles/4.2 Aménager le territoire français pour réduire les sinégalités/4.2.3 Acteurs de l'aménagement du territoire.md",
-    "Collège/Fiche de révisions/Fiche de révision Géographie.md",
     "Collège/Images/Math/Homothétie/Capture d'écran 2024-06-30 160507.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153503.png",
     "Collège/Images/Math/Thales/Capture d'écran 2024-06-30 153055.png",
