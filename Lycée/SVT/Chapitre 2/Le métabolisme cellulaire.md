@@ -36,5 +36,5 @@ autotrophes
 **Équation bilan de la photosynthèse:**
 6 CO2 + 12 H2O + lumière +pigment photos→ C6H12O6 + 6 O2 + 6 H2O
 
-
 ![[Capture d'écran 2024-10-31 150918.png]]
+
