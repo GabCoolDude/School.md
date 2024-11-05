@@ -9,4 +9,6 @@ Dans ce chapitre, on va voir les défis de la démographie et du développement
 ## Les défis du vieillissement
 
 [[Les défis du vieillissement]]
-# 
+# L'inégal développement dans le monde
+
+**Problématique:** Comment expliquer les inég

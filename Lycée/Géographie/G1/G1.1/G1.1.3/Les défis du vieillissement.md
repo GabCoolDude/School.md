@@ -20,3 +20,11 @@ Par exemple:
 - du matériel (fauteuil roulant, appareil auditif, canes…)
 - du financier (assurance, retraites privées…)
 - des services (cours adaptés, voyages…)
+
+Pour mesurer l'IDH, il faut combiner trois espèces: 
+
+| Critère   |     |
+| --------- | --- |
+| Economie  |     |
+| Santé     |     |
+| Education |     |
