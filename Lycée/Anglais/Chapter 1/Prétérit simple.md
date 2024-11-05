@@ -35,4 +35,4 @@ Ex: **Yesterday**, they went to the cinema. / **Last year**, I visited London.
 
 On peut l'utiliser quand on raconte une histoire.
 
-Ex: It was midnight. The car arrived. My parents
+Ex: It was midnight. The car arrived. My parents…
