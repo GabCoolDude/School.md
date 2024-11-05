@@ -9,7 +9,7 @@ Pour ces raisons, depuis les années 1990, le PNUD (Programme des Nations Unies 
 Pour mesurer l'IDH, il faut combiner trois espèces: 
 
 |  Critère  |        Mesure         |
-|:---------:|:---------------------:|
+| :-------: | :-------------------: |
 | Economie  |     PIB/habitant      |
 |   Santé   |   Espérance de vie    |
 | Education | Taux de scolarisation |
@@ -21,8 +21,8 @@ Pour mesurer l'IDH, il faut combiner trois espèces:
 | France     | plus de 30000$/hab | 82-85 ans        | 84-100 %              | ~0,8 |
 | Etats-Unis | plus de 30000$/hab |                  |                       |      |
 | Brésil     | 10400$/hab         |                  |                       |      |
-| Chine      |                    |                  |                       |      |
-| Nigeria    |                    |                  |                       |      |
-| Russie     |                    |                  |                       |      |
-| Pakistan   |                    |                  |                       |      |
-| Japon      |                    |                  |                       |      |
+| Chine      | 10000 à 30000$/hab |                  |                       |      |
+| Nigeria    | 1500 à 5000$/hab   |                  |                       |      |
+| Russie     | 13000$/hab         |                  |                       |      |
+| Pakistan   | moins de 1500$/hab |                  |                       |      |
+| Japon      | plus de 30000$/hab |                  |                       |      |
