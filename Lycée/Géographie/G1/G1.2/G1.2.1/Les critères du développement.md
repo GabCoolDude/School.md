@@ -16,13 +16,13 @@ Pour mesurer l'IDH, il faut combiner trois espèces:
 
 *A l'aide des cartes au tableau, complétez les cases du tableau, puis regroupez les pays en trois groupes: développés, émergents ou précaires selon les données de l'IDH en soulignant les pays avec trois couleurs différentes.*
 
-| Pays       | PIB par habitant    | Espérance de vie | Taux de scolarisation | IDH          |
-| ---------- | ------------------- | ---------------- | --------------------- | ------------ |
-| France     | moins de 30000$/hab | 82-85 ans        | 84-100 %              | moins de 0,8 |
-| Etats-Unis |                     |                  |                       |              |
-| Brésil     |                     |                  |                       |              |
-| Chine      |                     |                  |                       |              |
-| Nigeria    |                     |                  |                       |              |
-| Russie     |                     |                  |                       |              |
-| Pakistan   |                     |                  |                       |              |
-| Japon      |                     |                  |                       |              |
+| Pays       | PIB par habitant   | Espérance de vie | Taux de scolarisation | IDH  |
+| ---------- | ------------------ | ---------------- | --------------------- | ---- |
+| France     | plus de 30000$/hab | 82-85 ans        | 84-100 %              | ~0,8 |
+| Etats-Unis | plus de 30000$/hab |                  |                       |      |
+| Brésil     | 10400$/hab         |                  |                       |      |
+| Chine      |                    |                  |                       |      |
+| Nigeria    |                    |                  |                       |      |
+| Russie     |                    |                  |                       |      |
+| Pakistan   |                    |                  |                       |      |
+| Japon      |                    |                  |                       |      |
