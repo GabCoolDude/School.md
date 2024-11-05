@@ -108,8 +108,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "abefcbaf41914b12",
@@ -188,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +208,8 @@
   },
   "active": "9e182cfc9882e97a",
   "lastOpenFiles": [
+    "Lycée/Anglais/Chapter 2/Class 2.md",
+    "Lycée/Anglais/Chapter 2/Class 3.md",
     "Lycée/Anglais/Chapter 1/Prétérit simple.md",
     "Lycée/Français/Roman/Untitled.md",
     "Lycée/Français/Epreuve de bac de Français.md",
@@ -237,9 +239,7 @@
     "Lycée/SVT/Chapitre 1/TP 1",
     "Lycée/Français/Grammaire/Figures de styles.md",
     "Collège/Français/Figures de styles.md",
-    "Lycée/Anglais/Chapter 2/Class 3.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
-    "Lycée/Anglais/Chapter 2/Class 2.md",
     "Collège/Français/Propositions subordonnées.md",
     "Collège/Français/Lexique de la poésie.md",
     "Collège/Fiche de révisions/Fiche de révision Français.md",
