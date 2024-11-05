@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7b624fdb6c47db6",
+        "id": "11d6ea61ba594f87",
         "type": "tabs",
         "children": [
           {
-            "id": "9e182cfc9882e97a",
+            "id": "9ebda2d0c53aa9bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md",
+                "file": "Lycée/Français/Roman/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La différenciation et spécialisation cellulaire"
+              "title": "Untitled"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "0757a394adf6fd1f",
         "type": "tabs",
+        "dimension": 68.36363636363636,
         "children": [
           {
             "id": "8512c0ca28a16fd9",
@@ -74,6 +75,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "8c417264c7e381d6",
+        "type": "tabs",
+        "dimension": 31.636363636363637,
+        "children": [
+          {
+            "id": "398d707ac1e4d9de",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "c32f29fbef61878c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,68 +112,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8af945e6f34a821",
-        "type": "tabs",
-        "dimension": 40.16203703703704,
-        "children": [
-          {
-            "id": "c32f29fbef61878c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "238ad3c68b9aee53",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          }
-        ]
-      },
-      {
         "id": "abefcbaf41914b12",
         "type": "tabs",
-        "dimension": 59.83796296296296,
         "children": [
-          {
-            "id": "c0df9b15c61c235a",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
-          {
-            "id": "bb7677158c2e19e0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Les défis du viellisement"
-            }
-          },
           {
             "id": "2428d82ec6335f5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +131,21 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Les défis du viellisement"
+              "title": "Backlinks for conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "bb7677158c2e19e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -177,13 +167,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Les défis du viellisement"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,59 +192,57 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "soundscapes:Soundscapes: My Music": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "8512c0ca28a16fd9",
+  "active": "9ebda2d0c53aa9bb",
   "lastOpenFiles": [
-    "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md",
-    "Excalidraw/Drawing 2024-11-05 14.05.45.excalidraw.md",
-    "Excalidraw",
-    "Lycée/Anglais/Chapter 2/Class 3.md",
-    "Lycée/Anglais/Chapter 2/Class 2.md",
-    "Lycée/Anglais/Chapter 1/Prétérit simple.md",
-    "Lycée/Français/Roman/Untitled.md",
-    "Lycée/Français/Epreuve de bac de Français.md",
-    "Lycée/Français/Poésie/L'amour courtois.md",
-    "Lycée/Français/Roman",
-    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
-    "Collège/Français/Lexique du théâtre.md",
-    "Lycée/SVT/Chapitre 1/Activité 3/Untitled",
-    "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
-    "Lycée/Géographie/G1/G1.2/G1.2.1",
-    "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
-    "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
-    "Lycée/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md",
     "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
-    "Lycée/SVT/Chapitre 2",
+    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.1",
+    "Lycée/Géographie/G1/G1.2",
+    "Lycée/Français/Roman/Untitled.md",
+    "Lycée/Français/Roman",
+    "Lycée/Français/Epreuve de bac de Français.md",
+    "Template.md",
     "Lycée/Images/SVT/Capture d'écran 2024-10-31 150918.png",
     "Lycée/Images/SVT/Capture d'écran 2024-10-31 150823.png",
-    "Lycée/Images/SVT/Capture d'écran 2024-10-31 150040.png",
+    "README.md",
     "Lycée/Images/SVT",
-    "Lycée/Géographie/G1/G1.2",
+    "Lycée/Images/SVT/Capture d'écran 2024-10-31 150040.png",
+    "Lycée/Français/Poésie/L'amour courtois.md",
+    "Lycée/SVT/Chapitre 2",
+    "conflict-files-obsidian-git.md",
     "Lycée/SVT/Chapitre 1/TP 1/Observation de EV unicellulaire au microscope optique.md",
     "Lycée/SVT/Chapitre 1/Activité 4/Les matrices extracellulaire.md",
+    "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md",
+    "Lycée/SVT/Chapitre 1/TP 1",
     "Lycée/SVT/Chapitre 1/Activité 4",
     "Lycée/SVT/Chapitre 1/Activité 3",
-    "Lycée/SVT/Chapitre 1/TP 2",
-    "Lycée/Français/Grammaire/Figures de styles.md",
+    "Lycée/SVT/Chapitre 1",
+    "Lycée/SVT",
+    "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
     "Collège/Français/Figures de styles.md",
-    "Lycée/Anglais/Chapter 2/Class 1.md",
-    "Collège/Français/Propositions subordonnées.md",
-    "Collège/Français/Lexique de la poésie.md",
-    "Collège/Fiche de révisions/Fiche de révision Français.md",
-    "Collège/Français/Important à réviser.md",
-    "Lycée/Français/Poésie/Définition de Blason.md",
-    "README.md",
-    "Lycée/Images/Géographie/modèle trans. démo..png",
-    "Lycée/Images/Géographie/Capture d'écran 2024-10-11 095916.png",
-    "Lycée/Images/Géographie/Pasted image 20241011095927.png",
+    "Lycée/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md",
+    "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
     "Lycée/Images/README/Pasted image 20241014163853.png",
     "Lycée/Images/README/Pasted image 20241014163822.png",
     "Lycée/Images/README/Pasted image 20241014162522.png",
     "Lycée/Images/README/Pasted image 20241014161406.png",
+    "Lycée/Images/Géographie/modèle trans. démo..png",
+    "Lycée/Images/Géographie/Capture d'écran 2024-10-11 095916.png",
+    "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
+    "Lycée/Français/Poésie/Définition de Blason.md",
+    "Lycée/Français/Grammaire/Figures de styles.md",
+    "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+    "Lycée/Anglais/Chapter 2/Class 2.md",
+    "Lycée/Anglais/Chapter 2/Class 3.md",
+    "Lycée/Anglais/Chapter 2/Class 1.md",
+    "Lycée/Anglais/Chapter 1/Prétérit simple.md",
+    "Collège/Français/Important à réviser.md",
+    "Collège/Français/Fonctions.md",
+    "Collège/Français/Forme de phrases.md",
+    "Collège/Images/Math/Homothétie/Capture d'écran 2024-06-30 160507.png",
     "Untitled.canvas"
   ]
 }
