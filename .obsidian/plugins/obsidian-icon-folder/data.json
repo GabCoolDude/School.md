@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsFolder",
       "BoBxsFileMd",
       "BoBxImage",
       "BoBxImages",
-      "BoBxFolderOpen",
-      "🧑‍🔬"
+      "BoBxFolderOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -156,7 +156,7 @@
   },
   "Lycée/Images/Géographie": {
     "iconName": "BoBxImages",
-    "iconColor": "#0dcd0a"
+    "iconColor": "#fea710"
   },
   "Lycée/Images/README": "BoBxImages",
   "Lycée/Images/Géographie/modèle trans. démo..png": {
@@ -175,7 +175,10 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#fea50b"
   },
-  "Lycée/SVT": "🧑‍🔬",
+  "Lycée/SVT": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#44ff00"
+  },
   "Lycée/Géographie/G1/G1.2": {
     "iconName": "BoBxFolderOpen",
     "iconColor": "#ffa50a"
@@ -189,5 +192,19 @@
   "Lycée/Images/SVT/Capture d'écran 2024-10-31 150040.png": "BoBxImage",
   "Lycée/Images/SVT/Capture d'écran 2024-10-31 150823.png": "BoBxImage",
   "Lycée/Images/SVT/Capture d'écran 2024-10-31 150918.png": "BoBxImage",
-  "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md": "BoBxsFileMd"
+  "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md": "BoBxsFileMd",
+  "Lycée/SVT/Chapitre 1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#60ff0a"
+  },
+  "Lycée/SVT/Chapitre 1/Activité 3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#37ff00"
+  },
+  "Lycée/SVT/Chapitre 1/Activité 4": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#40fe0b"
+  },
+  "Lycée/SVT/Chapitre 1/TP 2": "BoBxFolderOpen",
+  "Lycée/SVT/Chapitre 1/TP 1": "BoBxFolderOpen"
 }
