@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsFileMd",
+      "BoBxImage",
+      "BoBxImages",
       "BoBxFolderOpen",
-      "🧑‍🔬",
-      "⭐",
-      "BoBxsFileBlank",
-      "BoBxImage"
+      "🧑‍🔬"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -101,7 +101,7 @@
   },
   "Lycée/Géographie": {
     "iconName": "BoBxsFolder",
-    "iconColor": "#0be907"
+    "iconColor": "#fba209"
   },
   "Lycée/Français": "BoBxsFolder",
   "Lycée/EMC": {
@@ -110,15 +110,15 @@
   },
   "Lycée/Géographie/G1": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#12e10e"
+    "iconColor": "#f69f09"
   },
   "Lycée/Géographie/G1/G1.1": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#61db0f"
+    "iconColor": "#fba40e"
   },
   "Lycée/Géographie/G1/G1.1/G1.1.1": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#41e614"
+    "iconColor": "#fda50d"
   },
   "Lycée/EMC/Liberté d'expression": {
     "iconName": "BoBxFolderOpen",
@@ -130,7 +130,7 @@
   },
   "Lycée/Géographie/G1/G1.1/G1.1.2": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#40e114"
+    "iconColor": "#fea710"
   },
   "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md": "BoBxsFileMd",
   "Lycée/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md": "BoBxsFileMd",
@@ -173,12 +173,21 @@
   "Lycée/Anglais/Chapter 2/Class 3.md": "BoBxsFileMd",
   "Lycée/Géographie/G1/G1.1/G1.1.3": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#11e30d"
+    "iconColor": "#fea50b"
   },
   "Lycée/SVT": "🧑‍🔬",
   "Lycée/Géographie/G1/G1.2": {
     "iconName": "BoBxFolderOpen",
-    "iconColor": "#0ef00a"
+    "iconColor": "#ffa50a"
   },
-  "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md": "BoBxsFileMd"
+  "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md": "BoBxsFileMd",
+  "Lycée/Géographie/G1/G1.2/G1.2.1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#ffa50a"
+  },
+  "Lycée/Images/SVT": "BoBxImages",
+  "Lycée/Images/SVT/Capture d'écran 2024-10-31 150040.png": "BoBxImage",
+  "Lycée/Images/SVT/Capture d'écran 2024-10-31 150823.png": "BoBxImage",
+  "Lycée/Images/SVT/Capture d'écran 2024-10-31 150918.png": "BoBxImage",
+  "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md": "BoBxsFileMd"
 }
