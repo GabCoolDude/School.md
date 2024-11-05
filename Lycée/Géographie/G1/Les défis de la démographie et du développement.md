@@ -12,3 +12,4 @@ Dans ce chapitre, on va voir les défis de la démographie et du développement
 # L'inégal développement dans le monde
 
 **Problématique:** Comment expliquer les inégalités de développement dans le monde ?
+## Les critères du développement
