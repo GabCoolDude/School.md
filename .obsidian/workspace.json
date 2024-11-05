@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Epreuve de bac de Français"
             }
+          },
+          {
+            "id": "d5da79c38a6a0606",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,11 +215,10 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "soundscapes:Soundscapes: My Music": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e182cfc9882e97a",
+  "active": "d5da79c38a6a0606",
   "lastOpenFiles": [
     "Lycée/Français/Roman/Untitled.md",
     "Lycée/Français/Epreuve de bac de Français.md",
