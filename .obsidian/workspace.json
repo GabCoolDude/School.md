@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "La différenciation et spécialisation cellulaire"
             }
-          },
-          {
-            "id": "55708bcdaaead8e7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-05 14.05.45.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-05 14.05.45.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +206,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55708bcdaaead8e7",
+  "active": "8512c0ca28a16fd9",
   "lastOpenFiles": [
     "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md",
     "Excalidraw/Drawing 2024-11-05 14.05.45.excalidraw.md",
