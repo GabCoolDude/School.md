@@ -8,8 +8,8 @@ Pour ces raisons, depuis les années 1990, le PNUD (Programme des Nations Unies 
 
 Pour mesurer l'IDH, il faut combiner trois espèces: 
 
-| Critère   |     |
-| --------- | --- |
-| Economie  |     |
-| Santé     |     |
-| Education |     |
+| Critère   | Mesure       |
+| --------- | ------------ |
+| Economie  | PIB/habitant |
+| Santé     |              |
+| Education |              |

@@ -205,6 +205,20 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#40fe0b"
   },
-  "Lycée/SVT/Chapitre 1/TP 2": "BoBxFolderOpen",
-  "Lycée/SVT/Chapitre 1/TP 1": "BoBxFolderOpen"
+  "Lycée/SVT/Chapitre 1/TP 2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#63ff0f"
+  },
+  "Lycée/SVT/Chapitre 1/TP 1": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#54ff0a"
+  },
+  "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md": "BoBxsFileMd",
+  "Lycée/SVT/Chapitre 1/Activité 4/Les matrices extracellulaire.md": "BoBxsFileMd",
+  "Lycée/SVT/Chapitre 1/TP 1/Observation de EV unicellulaire au microscope optique.md": "BoBxsFileMd",
+  "Lycée/SVT/Chapitre 2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#11ff00"
+  },
+  "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md": "BoBxsFileMd"
 }
