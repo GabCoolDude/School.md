@@ -8,8 +8,10 @@ Pour ces raisons, depuis les années 1990, le PNUD (Programme des Nations Unies 
 
 Pour mesurer l'IDH, il faut combiner trois espèces: 
 
-| Critère   | Mesure       |
-| --------- | ------------ |
-| Economie  | PIB/habitant |
-| Santé     |              |
-| Education |              |
+|  Critère  |        Mesure         |
+|:---------:|:---------------------:|
+| Economie  |     PIB/habitant      |
+|   Santé   |   Espérance de vie    |
+| Education | Taux de scolarisation |
+
+A l'aide des cartes au tableau, complétez les cases du tableau, puis regroupez les pays en trois groupes: développés, émergents ou précaires selon les données de l'IDH en soulignant les pays avec t

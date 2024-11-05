@@ -97,8 +97,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "238ad3c68b9aee53",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "abefcbaf41914b12",
@@ -177,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +201,12 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "soundscapes:Soundscapes: My Music": false
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e182cfc9882e97a",
+  "active": "238ad3c68b9aee53",
   "lastOpenFiles": [
     "Collège/Français/Lexique du théâtre.md",
     "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
