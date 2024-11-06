@@ -9,3 +9,6 @@
 
 **Solutions:**
 
+- Buy used items
+- Buy second-hand
+- We want to keep clothes in use longer
