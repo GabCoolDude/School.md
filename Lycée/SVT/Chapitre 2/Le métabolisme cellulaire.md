@@ -19,7 +19,8 @@ C6H12O6(glucose) + 6 O2 → 6 CO2 + 6 H2O
 
 La photosynthèse a lieu dans le *chloroplaste* chez les eucaryotes, ou dans le cytoplasme chez les cyanobactéries (bactéries bleues) photosynthétiques.
 
-- **Chloroplaste :** Organite cellulaire, siège des réactions de la photosynthèse en présence de lumière . Il est formé d’une cavité contenant des petits sacs = thylakoïdes .
+- **Chloroplaste :** Organite cellulaire, siège des réactions de la photosynthèse en présence de lumière . Il est formé d’une cavité contenant des petits sacs = thylakoïdes.
+
 ![[Capture d'écran 2024-10-31 150823.png]]
 
 **Bilan II -Le métabolisme autotrophe**
