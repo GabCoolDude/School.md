@@ -53,4 +53,12 @@ absence ou disparition d’un réactif/nutriment essentiel).
 **D’où provient la matière et l'énergie dont ces cellules ont besoin ?**
 
 Les cellules échangent de la matière avec d'autres cellules de l'organisme (par
-exemple, des autotrophes vers des hétérotrophes) ou avec le milieu. Cette matière est transformée par de multiples voies métaboliques.
+exemple, des autotrophes vers des hétérotrophes) ou avec le milieu. Cette matière est transformée par de multiples voies métaboliques. Elle porte une certaine quantité d'énergie, elle-même échangée entre les cellules.
+*Ex :* cellule du foie → glucose → cellule musculaire, ou cellule de feuille → saccharose => cellule racinaire.
+Ces échanges peuvent aussi avoir lieu avec d'autres organismes, dans le
+même milieu ou avec un EV symbiotique (ex : cellule intestinales /microbiote,
+ou corail/algue hébergée...)
+
+- **Symbiose:** Association biologique, durable et réciproquement profitable, entre deux organismes vivants.
+- **Microbiote:** Ensemble des micro-organismes vivant dans un écosystème donné.
+
