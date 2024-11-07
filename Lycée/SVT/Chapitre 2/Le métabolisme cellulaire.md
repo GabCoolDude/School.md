@@ -47,8 +47,7 @@ autotrophes
 Chez certains mutant, le métabolisme est différent.
 La capacité d’une cellule à réaliser ses réactions chimiques dépend: 
 - De son information génétique
-- Des conditions du milieu (variables au cours du temps par exemple, avec
-absence ou disparition d’un réactif/nutriment essentiel).
+- Des conditions du milieu (variables au cours du temps par exemple, avec absence ou disparition d’un réactif/nutriment essentiel).
 
 **D’où provient la matière et l'énergie dont ces cellules ont besoin ?**
 
