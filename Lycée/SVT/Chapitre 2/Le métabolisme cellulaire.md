@@ -10,7 +10,7 @@ La respiration a lieu dans les cellules des eucaryotes, au niveau des *mitochond
 **NB : les EV autotrophes pluricellulaires (ex végétaux, algues), réalisent aussi la respiration pour dégrader les sucres produits lors de la photosynthèse.**
 
 **Équation Bilan de la respiration:**
-C6H12O6(glucose) + 6O2----> 6CO2+ 6H2O
+C6H12O6(glucose) + 6 O2 → 6 CO2 + 6 H2O
 
 - **Mitochondrie :** organite intracellulaire qui permet la dégradation de molécule organique pour la production de l’énergie cellulaire. Il est présent chez les cellules des eucaryotes, les bactéries ne possèdent pas de mitochondrie,
 
@@ -35,7 +35,7 @@ Exemples : les cellules des racines, ou les cellules des tiges, ne sont pas
 autotrophes
 
 **Équation bilan de la photosynthèse:**
-6 CO2 + 12 H2O + lumière +pigment photos→ C6H12O6 + 6 O2 + 6 H2O
+6 CO2 + 12 H2O + lumière +pigment photos → C6H12O6 + 6 O2 + 6 H2O
 
 ![[Capture d'écran 2024-10-31 150918.png]]
 
