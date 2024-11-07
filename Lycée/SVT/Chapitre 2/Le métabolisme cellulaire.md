@@ -40,3 +40,6 @@ autotrophes
 
 ![[Capture d'écran 2024-10-31 150918.png]]
 
+# Influence du patrimoine génétique et rôle de l'environnement
+
+![[Pasted image 20241107140359.png]]
