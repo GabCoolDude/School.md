@@ -220,16 +220,7 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#11ff00"
   },
-  "Lycée/Anglais/Chapter 2/Class 4.md": "BoBxsFileMd",
   "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md": "BoBxsFileMd",
-  "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md": "BoBxsFileMd",
-  "Lycée/Géographie/G1/G1.2/G1.2.2": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#f9a410"
-  },
-  "Lycée/EMC/Harcèlement": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#ff14e0"
-  },
-  "Lycée/EMC/Harcèlement/Harcèlement.md": "SiExcalidraw"
+  "Lycée/Anglais/Chapter 2/Class 4.md": "BoBxsFileMd",
+  "Lycée/Français/Epreuves de Bac de Français.md": "SiExcalidraw"
 }
