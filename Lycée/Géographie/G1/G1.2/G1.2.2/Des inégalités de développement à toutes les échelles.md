@@ -15,3 +15,4 @@
 | :-------------------------------------------------: | :----------------------: | :---------------------------------------------------: | :---------------------------------: | :-------------------------------------------------------------------: |
 |                         IDH                         |    inférieur à<br>0,7    |                 entre 0,7<br>et 0,81                  |        entre 0,7<br>et 0,81         |                          supérieur à<br>0,81                          |
 | Organisation<br>spatiale à<br>l'échelle<br>mondiale | Périphérie en<br>réserve | Amazonie:<br>périphérie en<br>cours<br>d'exploitation | Périphérie en<br>voie d'intégration | Centre avec<br>forte concentration<br>de population et<br>d'activités |
+*Proposition de *
