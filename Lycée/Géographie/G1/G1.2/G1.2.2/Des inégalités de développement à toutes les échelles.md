@@ -5,7 +5,8 @@
 
 |        | Niveau de développement élevé (IDH > 0,8) | Niveau de développement moyen/faible (IDH < 0,8) |
 |:------:|:-----------------------------------------:|:------------------------------------------------:|
-| "Nord" |            Etats-Unis, Canada             |                      Brésil                      |
-| "Sud"  |                                           |                   Chine, Inde                    |
+| "Nord" |            Etats-Unis, Canada             |                                                  |
+| "Sud"  |                  Brésil                   |                   Chine, Inde                    |
+### Des inégalités à l'échelle nationale
 
-### Des inégalités
+**Indice de Gini:** Indice mesurant les inégalit
