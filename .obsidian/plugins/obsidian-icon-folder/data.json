@@ -227,6 +227,9 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#f9a410"
   },
-  "Lycée/EMC/Harcèlement": "BoBxFolderOpen",
+  "Lycée/EMC/Harcèlement": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#ff14e0"
+  },
   "Lycée/EMC/Harcèlement/Harcèlement.md": "SiExcalidraw"
 }

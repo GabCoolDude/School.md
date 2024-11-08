@@ -11,20 +11,6 @@
             "id": "9e182cfc9882e97a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Liberté d'expression"
-            }
-          },
-          {
-            "id": "2653d4bea4aecdef",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Lycée/EMC/Harcèlement/Harcèlement.md"
@@ -33,8 +19,7 @@
               "title": "Harcèlement"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2653d4bea4aecdef",
+  "active": "9e182cfc9882e97a",
   "lastOpenFiles": [
+    "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+    "Lycée/EMC/Harcèlement/Harcèlement.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
@@ -237,8 +224,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
-    "Lycée/EMC/Harcèlement/Harcèlement.md",
     "Lycée/EMC/Harcèlement",
     "Lycée/Images/README/Pasted image 20241014163822.png",
     "Lycée/Images/README/Pasted image 20241014163853.png",
@@ -251,7 +236,6 @@
     "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/Géographie/G1/G1.2/G1.2.2",
     "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
-    "Lycée/Images/SVT/Pasted image 20241107140359.png",
     "Lycée/Anglais/Chapter 2/Class 4.md",
     "conflict-files-obsidian-git.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
