@@ -11,7 +11,9 @@ Malheureusement, à cause du format [Markdown](https://docs.framasoft.org/fr/gra
 ## Faire une "fork"
 
 Il est obligatoire de faire une "fork" pour pouvoir faire des modifications. Sur la [page du répertoire](https://github.com/GabCoolDude/School.md/tree/main), cliquer sur "Fork".
-![[Pasted image 20241014161406.png]]
+
+![fork button image](https://github.com/user-attachments/assets/618a5c50-562d-4449-832d-30901f3ece51)
+
 Normalement, pour vous le bouton n'est pas grisé.
 ## Installation de Git
 
@@ -20,7 +22,8 @@ Si vous avez déjà Git d'installer sur votre ordinateur, vous pouvez passer cet
 Pour pouvoir modifier les fichiers depuis plusieurs ordinateurs et stocker les fichiers sur le "cloud", ils sont stockés sur [Git](https://git-scm.com/downloads). Vous devez donc l'installer.
 
 Après l'installation, appuyer sur Win+R et tapez "cmd"
-![[Pasted image 20241014162522.png]]
+
+![opening cmd](https://github.com/user-attachments/assets/811a1a02-9ec1-4612-b9f9-891937439a96)
 
 Tapez la commande suivante, en remplaçant "your name" par votre nom d'utilisateur Github.
 ```
@@ -33,9 +36,13 @@ git config --global user.email "your.name@domain.com"
 ## Installation des fichiers sur votre ordinateur
 
 Retournez sur votre "fork" et cliquez sur "Code":
-![[Pasted image 20241014163822.png]]
+
+![Pasted image 20241014163822](https://github.com/user-attachments/assets/f3418fbd-802a-42db-b0e8-4b68de3523a4)
+
 Ensuite appuyez sur "HTTPS":
-![[Pasted image 20241014163853.png]]
+
+![Pasted image 20241014163853](https://github.com/user-attachments/assets/e6d1b1c7-5a10-4a81-ac56-9d5891c26f56)
+
 Copiez l'url et retournez dans le terminal pour taper la commande suivant en remplaçant "url" avec ce que vous aviez copier avant.
 ```
 git clone "url"
