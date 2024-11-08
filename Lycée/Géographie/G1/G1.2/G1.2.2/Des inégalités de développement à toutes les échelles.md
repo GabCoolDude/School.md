@@ -11,7 +11,7 @@
 
 **Indice de Gini:** Indice mesurant les inégalités de revenus entre les habitants d'un Etat. Il varie de 0 (égalité parfaite) à 1 (inégalité absolue).
 
-|                                                     |      Nordeste      |         Nord         |     Centre-Ouest     |     Sudeste/Sud     |
-| :-------------------------------------------------: | :----------------: | :------------------: | :------------------: | :-----------------: |
-|                         IDH                         | inférieur à<br>0,7 | entre 0,7<br>et 0,81 | entre 0,7<br>et 0,81 | supérieur à<br>0,81 |
-| Organisation<br>spatiale à<br>l'échelle<br>mondiale |                    |                      |                      |                     |
+|                                                     |         Nordeste         |                         Nord                          |            Centre-Ouest             |                              Sudeste/Sud                              |
+| :-------------------------------------------------: | :----------------------: | :---------------------------------------------------: | :---------------------------------: | :-------------------------------------------------------------------: |
+|                         IDH                         |    inférieur à<br>0,7    |                 entre 0,7<br>et 0,81                  |        entre 0,7<br>et 0,81         |                          supérieur à<br>0,81                          |
+| Organisation<br>spatiale à<br>l'échelle<br>mondiale | Périphérie en<br>réserve | Amazonie:<br>périphérie en<br>cours<br>d'exploitation | Périphérie en<br>voie d'intégration | Centre avec<br>forte concentration<br>de population et<br>d'activités |
