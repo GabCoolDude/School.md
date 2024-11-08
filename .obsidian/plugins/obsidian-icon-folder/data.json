@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiExcalidraw",
       "BoBxsFolder",
       "BoBxsFileMd",
       "BoBxImage",
-      "BoBxImages",
-      "BoBxFolderOpen"
+      "BoBxImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -227,5 +227,6 @@
     "iconName": "BoBxFolderOpen",
     "iconColor": "#f9a410"
   },
-  "Lycée/EMC/Harcèlement": "BoBxFolderOpen"
+  "Lycée/EMC/Harcèlement": "BoBxFolderOpen",
+  "Lycée/EMC/Harcèlement/Harcèlement.md": "SiExcalidraw"
 }
