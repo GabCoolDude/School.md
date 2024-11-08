@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
+                "file": "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le métabolisme cellulaire"
+              "title": "Les défis du vieillissement"
             }
           }
         ]
@@ -202,18 +202,23 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "soundscapes:Soundscapes: My Music": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8512c0ca28a16fd9",
+  "active": "9e182cfc9882e97a",
   "lastOpenFiles": [
+    "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
+    "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.2",
+    "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
     "Lycée/Images/SVT/Pasted image 20241107140359.png",
     "Lycée/Anglais/Chapter 2/Class 4.md",
     "conflict-files-obsidian-git.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
     "Lycée/Anglais/Chapter 2/Class 2.md",
     "Lycée/Anglais/Chapter 2/Class 3.md",
-    "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
     "Excalidraw/Drawing 2024-11-05 14.05.45.excalidraw.md",
     "Lycée/SVT/Chapitre 1/Activité 3/La différenciation et spécialisation cellulaire.md",
     "Excalidraw",
@@ -222,10 +227,8 @@
     "Lycée/Français/Epreuve de bac de Français.md",
     "Lycée/Français/Poésie/L'amour courtois.md",
     "Lycée/Français/Roman",
-    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
     "Collège/Français/Lexique du théâtre.md",
     "Lycée/SVT/Chapitre 1/Activité 3/Untitled",
-    "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/Géographie/G1/G1.2/G1.2.1",
     "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
     "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
@@ -240,7 +243,6 @@
     "Lycée/SVT/Chapitre 1/Activité 4/Les matrices extracellulaire.md",
     "Lycée/SVT/Chapitre 1/Activité 4",
     "Lycée/SVT/Chapitre 1/Activité 3",
-    "Lycée/SVT/Chapitre 1/TP 2",
     "Lycée/Français/Grammaire/Figures de styles.md",
     "Collège/Français/Figures de styles.md",
     "Collège/Français/Propositions subordonnées.md",
@@ -252,7 +254,6 @@
     "Lycée/Images/README/Pasted image 20241014163853.png",
     "Lycée/Images/README/Pasted image 20241014163822.png",
     "Lycée/Images/README/Pasted image 20241014162522.png",
-    "Lycée/Images/README/Pasted image 20241014161406.png",
     "Untitled.canvas"
   ]
 }
