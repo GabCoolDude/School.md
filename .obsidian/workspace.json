@@ -13,26 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
+                "file": "Lycée/Français/Roman/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Le métabolisme cellulaire"
+              "title": "Untitled"
             }
           },
           {
-            "id": "9db6fa2eda071dee",
+            "id": "38fabd9604a87bf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Lycée/Français/Drawing 2024-11-08 15.47.44.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-08 15.47.44.excalidraw"
             }
           }
         ],
@@ -211,14 +209,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9db6fa2eda071dee",
+  "active": "38fabd9604a87bf1",
   "lastOpenFiles": [
+    "Lycée/Français/Roman/Untitled.md",
+    "Lycée/Français/Drawing 2024-11-08 15.47.44.excalidraw.md",
+    "Lycée/Français/Epreuve de bac de Français.md",
+    "Lycée/EMC/Harcèlement/Harcèlement.md",
     "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
     "conflict-files-obsidian-git.md",
     "Lycée/Images/SVT/Pasted image 20241107140359.png",
     "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
     "Lycée/Géographie/G1/G1.2/G1.2.2",
-    "Lycée/EMC/Harcèlement/Harcèlement.md",
     "Lycée/EMC/Harcèlement",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
@@ -235,13 +236,11 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Lycée/Français/Roman/Untitled.md",
     "Lycée/Anglais/Chapter 2/Class 4.md",
     "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
     "Lycée/Géographie/G1/G1.2/G1.2.1",
     "Lycée/Géographie/G1/G1.2",
     "Lycée/Français/Roman",
-    "Lycée/Français/Epreuve de bac de Français.md",
     "Template.md",
     "Lycée/Images/SVT/Capture d'écran 2024-10-31 150918.png",
     "Lycée/Images/SVT/Capture d'écran 2024-10-31 150823.png",
