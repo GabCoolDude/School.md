@@ -11,12 +11,14 @@
             "id": "6a603587dcb3addd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lycée/Français/Epreuves de Bac de Français.md"
+                "file": "Lycée/Français/Poésie/Romances sans paroles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Epreuves de Bac de Français"
+              "icon": "lucide-file",
+              "title": "Romances sans paroles"
             }
           }
         ]
@@ -196,9 +198,10 @@
   },
   "active": "6a603587dcb3addd",
   "lastOpenFiles": [
+    "Lycée/Français/Epreuves de Bac de Français.md",
+    "Lycée/Français/Poésie/Romances sans paroles.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Lycée/Français/Epreuves de Bac de Français.md",
     "Lycée/Français/Roman/Untitled.md",
     "Lycée/Français/Epreuve de bac de Français.md",
     "Lycée/EMC/Harcèlement/Harcèlement.md",
@@ -233,7 +236,6 @@
     "Lycée/Images/SVT/Capture d'écran 2024-10-31 150823.png",
     "README.md",
     "Lycée/Images/SVT",
-    "Lycée/Images/SVT/Capture d'écran 2024-10-31 150040.png",
     "Lycée/Français/Poésie/L'amour courtois.md",
     "Lycée/SVT/Chapitre 2",
     "Lycée/SVT/Chapitre 1/TP 1/Observation de EV unicellulaire au microscope optique.md",
