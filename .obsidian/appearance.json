@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Whisky",
+  "cssTheme": "",
   "translucency": false,
   "textFontFamily": "Rubik",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Rubik",
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "baseFontSize": 18
