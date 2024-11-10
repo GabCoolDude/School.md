@@ -15,3 +15,9 @@ Mon poème préféré de ce recueil est *Spleen* de la section "Aquarelles", car
 4. Quelles sont les thématiques principales de ce recueil ?
 
 Les thème principales de ce recueil sont l'amour et la fuite du temps.
+
+5. Verlaine utilise différents types de mètres (nombre de syllabes par vers) dans ce recueil. Donnez des exemples de deux types de mètres utilisés en précisant le nom des poèmes.
+
+Verlaine utilise les décasyllabes (par example dans le poème VII de "Ariettes oubliées") et les octosyllabes (par exemple dans le poème VIII de "Ariettes oubliées")
+
+6. Le « je » est-il présent dans tous les poèmes du recueil ? Quel est l’effet produit ?
