@@ -6,4 +6,6 @@ Paul Verlaine est un poète et écrivain français du 19ème siècle qui est né
 
 2.  Combien le recueil Romances sans paroles compte-t-il de sections ? Nommez-les et indiquez le nombre de poèmes contenus dans chacune d’elles.
    
-   Le recueil compte 4 sections, "Ariettes oubliées" qui a 9 poèmes, 
+Le recueil compte 4 sections, "Ariettes oubliées" qui a 9 poèmes, "Paysages Belges" qui compte 6 poèmes, "Birds in the night" qui n'a qu'un seul long poème et "Aquarelles" qui possède 7 poèmes.
+   
+3. Quel poème avez-vous préféré ? Pourquoi ? Justifiez votre choix en précisant ce qui vous a touché(e) ou intéressé(e) dans ce poème.
