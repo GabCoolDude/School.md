@@ -10,3 +10,4 @@ Le recueil compte 4 sections, "Ariettes oubliées" qui a 9 poèmes, "Paysages Be
    
 3. Quel poème avez-vous préféré ? Pourquoi ? Justifiez votre choix en précisant ce qui vous a touché(e) ou intéressé(e) dans ce poème.
 
+Mon poème préféré de ce recueil est *Spleen* de la section "Aquarelles"
