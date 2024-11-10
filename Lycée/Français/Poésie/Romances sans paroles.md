@@ -10,4 +10,8 @@ Le recueil compte 4 sections, "Ariettes oubliées" qui a 9 poèmes, "Paysages Be
    
 3. Quel poème avez-vous préféré ? Pourquoi ? Justifiez votre choix en précisant ce qui vous a touché(e) ou intéressé(e) dans ce poème.
 
-Mon poème préféré de ce recueil est *Spleen* de la section "Aquarelles"
+Mon poème préféré de ce recueil est *Spleen* de la section "Aquarelles", car dans un recueil rempli de quatrains, on voit enfin des distiques et aussi il y a beaucoup de métaphores qui parlent de couleurs.
+
+4. Quelles sont les thématiques principales de ce recueil ?
+
+Les thème principales de ce recueil sont l'amour et la fuite du temps.
