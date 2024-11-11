@@ -192,8 +192,7 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "soundscapes:Soundscapes: My Music": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "soundscapes:Soundscapes: My Music": false
     }
   },
   "active": "6a603587dcb3addd",
