@@ -1,4 +1,4 @@
-# Fashion and the environment
+# Fast Fashion and the environment
 
 **Problems:**
 

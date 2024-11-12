@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
+                "file": "Lycée/Anglais/Chapter 2/Class 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Des inégalités de développement à toutes les échelles"
+              "title": "Class 4"
             }
           }
         ]
@@ -203,14 +203,15 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "soundscapes:Soundscapes: My Music": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9e182cfc9882e97a",
   "lastOpenFiles": [
-    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
     "Lycée/Français/Epreuves de Bac de Français.md",
     "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
     "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/EMC/Harcèlement/Harcèlement.md",
     "Lycée/Français/Poésie/Questionnaire de lecture.md",
