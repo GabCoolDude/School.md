@@ -22,4 +22,7 @@ Voici les choses qui fait absolument faire et savoir pour faire une bonne analys
 ### La rédaction du brouillon
 
 - **Consacrer une feuille de brouillon par partie**. Notez sur une feuille l'idée directrice de la partie. Ajoutez les deux ou trois arguments qui constituent chaque paragraphe et insérez vos citations. Procédez ainsi pour compléter, sur une nouvelle feuille, chaque partie avec ses paragraphes
-- **La rédaction d'un première version**.
+- **La rédaction d'un première version**. Cette première version au brouillon peut ressembler à un plan très détaillé. Développez vos explications. Pensez à aérer votre travail afin de pouvoir ajouter d'éventuels oublis. N'hésitez pas à raturer et à remplacer un mot ou une phrase qui ne convient pas. Si vous n'avez pas le temps de rédiger une première version au brouillon, passez directement au propre
+
+>[!QUESTION] Comment faire quand on ne connaît pas l'auteur du texte ?
+>En vous appuyant sur la date de publication du texte, vous pouvez dans ce cas le replacer dans son époque et vérifier s'il réagit ou non à des événements historiques. Vous pouvez aussi l'inscrire dans un mouvement et observer s'il suit ou pas les règles du genre auquel il appartient
