@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxFolderOpen",
       "SiExcalidraw",
       "BoBxsFolder",
       "BoBxsFileMd",
-      "BoBxImage",
-      "BoBxImages"
+      "BoBxImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -223,5 +223,10 @@
   "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md": "BoBxsFileMd",
   "Lycée/Anglais/Chapter 2/Class 4.md": "BoBxsFileMd",
   "Lycée/Français/Poésie/Questionnaire de lecture.md": "BoBxsFileMd",
-  "Lycée/Français/Grammaire/Commentaire composé.md": "BoBxsFileMd"
+  "Lycée/Français/Grammaire/Commentaire composé.md": "BoBxsFileMd",
+  "Lycée/Français/Roman/Untitled.md": "BoBxsFileMd",
+  "Lycée/Français/Epreuves de Bac de Français.md": "SiExcalidraw",
+  "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md": "BoBxsFileMd",
+  "Lycée/EMC/Harcèlement/Harcèlement.md": "BoBxsFileMd",
+  "Lycée/EMC/Harcèlement": "BoBxFolderOpen"
 }
