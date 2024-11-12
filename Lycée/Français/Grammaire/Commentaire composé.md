@@ -18,4 +18,8 @@ Voici les choses qui fait absolument faire et savoir pour faire une bonne analys
 ### Faire un plan de commentaire
 
 - **Faire une problématique**. L'intérêt principal du texte doit être formulé sous la forme d'une ou plusieurs questions. C'est l'étude du texte qui permet de les formuler.
-- **Suivre les pistes de lecture.**
+- **Suivre les pistes de lecture**. Pour les séries Générales, chaque réponse apportée à la problématique constitue une partie du plan. Ce plan peut suivre le déroulement du texte ou bien proposer deux ou trois thèmes qui regroupent les remarques de l'analyse. Pour les séries Technologiques, les pistes de lecture sont donnés avec le sujet.
+### La rédaction du brouillon
+
+- **Consacrer une feuille de brouillon par partie**. Notez sur une feuille l'idée directrice de la partie. Ajoutez les deux ou trois arguments qui constituent chaque paragraphe et insérez vos citations. Procédez ainsi pour compléter, sur une nouvelle feuille, chaque partie avec ses paragraphes
+- **La rédaction d'un première version**.
