@@ -14,3 +14,9 @@
 - Buy used items
 - Buy second-hand
 - We want to keep clothes in use longer
+# Making your own clothes
+
+- Read the text. Say how thrift stores were seen in the past.
+Thrift stores were badly viewed by the public.
+- When did this vision change ?
+This vision changed around 2016
