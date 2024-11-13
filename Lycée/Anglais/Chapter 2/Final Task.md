@@ -18,4 +18,4 @@ Question 1:
 
 Question 2:
 - **Hmm... I haven't really paid much attention to that before. I think it would probably have to be a black or gray tracksuit.**
-- *Interesting... I have multiple outfits that I like, but my favorite one is*
+- *Interesting... I have multiple outfits that I like, but I'd have to say my two most favorite outfits are trav*
