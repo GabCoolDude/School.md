@@ -21,4 +21,4 @@ Question 2:
 - *Interesting... I have multiple outfits that I like, but I'd have to say my two most favorite outfits are traditional outfits like kimonos and also suits.*
 
 Question 3: 
-- **Now that I think about it...**
+- **Now that I think about it... I kinda uses clothes to express **
