@@ -17,4 +17,5 @@ Question 1:
 - *Fashion has always been important to me, because it allows people to express their true identity and who they really are.*
 
 Question 2:
-- **Hmm... I haven't really paid much attention to that before. I think it would probably have to be **
+- **Hmm... I haven't really paid much attention to that before. I think it would probably have to be a black or gray tracksuit.**
+- *Interesting... I have multiple outfits that I like, but my favorite one is*
