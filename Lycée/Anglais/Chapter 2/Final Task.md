@@ -12,5 +12,9 @@ Customer who loves fashion and buys clothes regularly: **Gabriel**
 
 Give developed answers to each question, use lessons and the vocabulary seen in class.
 
-- **Well... For me, fashion is not very important because, I don't really pay attention to what I wear, I just wear what looks cool to me and what fits me.**
+Question 1:
+- **Well… For me, fashion is not very important because, I don't really pay attention to what I wear, I just wear what looks cool to me and what fits me.**
 - *Fashion has always been important to me, because it allows people to express their true identity and who they really are.*
+
+Question 2:
+- **Hmm... I haven't really paid much attention to that before. I think it would probably have to be **
