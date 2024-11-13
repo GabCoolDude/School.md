@@ -6,4 +6,8 @@
 5. Do you think fast fashion is good for the environment ?
 # Etape 1
 
-Fashion designer
+Fashion designer who wants to change things and express their identity with fashion: <mark style="background: #BBFABBA6;">Rifa</mark>
+Customer who loves fashion and buys clothes regurlarly: <mark style="background: #ABF7F7A6;">Gabriel</mark>
+# Etape 2
+
+Give developed answers to each question, use lessons and the vocabulary seen in class.
