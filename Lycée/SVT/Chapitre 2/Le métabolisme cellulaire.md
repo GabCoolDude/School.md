@@ -62,5 +62,16 @@ ou corail/algue hébergée...)
 - **Microbiote:** Ensemble des micro-organismes vivant dans un écosystème donné.
 ## Exemple chez des mutants d'euglènes
 
+![[Pasted image 20241114121447.png]]
 Les euglènes sont des algues chlorophylliennes, elles possèdent donc des chloroplastes qui donnent une couleur verte à la cellule.
-La forme mutante d'euglènes ne possède pas de chloroplastes et est donc incolore
+La forme mutante d'euglènes ne possède pas de chloroplastes et est donc incolore.
+
+![[Pasted image 20241114121545.png]]
+Pour les euglènes de couleur verte (chlorophylliennes), on observe dans l'enceinte, une diminution du dioxygène à l'obscurité et au contraire une production de dioxygène à la lumière, inversement pour le CO2.
+
+![[Pasted image 20241114121637.png]]
+Pour les euglènes blanche (non chlorophylliennes), on observe dans l'enceinte quelque soit les conditions d'éclairage, une diminution du dioxygène et au contraire une production de CO2.
+
+On peut supposer que l'absence de chloroplastes chez les euglènes de couleur claire empêche la réalisation de la photosynthèse à la lumière.
+
+![[Pasted image 20241114121804.png]]
