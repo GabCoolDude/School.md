@@ -24,4 +24,4 @@ Dans ce chapitre, on va voir les défis de la démographie et du développement
 
 **Conclusion:**
 Les inégalités de développement traversent le monde à toutes les échelles. 1% des personnes les plus fortunés détiennent plus que les 99% des autres habitants de la planète.
-Mais, il existe 
+Mais, il existe des solutions pour réduire les inégalités. Le Brésil a mis en place en 2003 la *Bolsa familia*: des subventions qui sont conditionnés à l'éducation des enfants. Cette politique de redistribution des richesses a permis de réduire
