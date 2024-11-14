@@ -60,4 +60,7 @@ ou corail/algue hébergée...)
 
 - **Symbiose:** Association biologique, durable et réciproquement profitable, entre deux organismes vivants.
 - **Microbiote:** Ensemble des micro-organismes vivant dans un écosystème donné.
+## Exemple chez des mutants d'euglènes
 
+Les euglènes sont des algues chlorophylliennes, elles possèdent donc des chloroplastes qui donnent une couleur verte à la cellule.
+La forme mutante d'euglènes ne possède pas de chloroplastes et est donc incolore
