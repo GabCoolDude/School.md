@@ -20,4 +20,6 @@
 
 A l'échelle des Etats, les inégalités sont particulièrement fortes. La croissance est captée par les grandes métropoles insérés dans la mondialisation. Au Brésil, la région du **Sudeste** qui concentrent les principales métropoles, représente à elle seule plus de 60% du PIB nationale.
 
-![[Pasted image 20241114091734.png]]
+Titre: Les inégalités de développement au Brésil
+![[croquis brésil.png]]
+![[croquis brésil légende.jpg]]

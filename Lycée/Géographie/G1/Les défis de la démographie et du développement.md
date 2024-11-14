@@ -19,3 +19,5 @@ Dans ce chapitre, on va voir les défis de la démographie et du développement
 
 [[Des inégalités de développement à toutes les échelles]]
 ## 3. Les inégalités à l'échelle locale
+
+[[Les inégalités à l'échelle locale]]
