@@ -39,7 +39,7 @@ autotrophes
 
 **Équation bilan de la photosynthèse:**
 $$
-6CO_2 + 12H_2O + lumière + pigment photos = C_6H_{12}O_6(glucose) + 6O_2 + 6H_2O
+6CO_2 + 12H_2O + lumière + pigment\;photos = C_6H_{12}O_6(glucose) + 6O_2 + 6H_2O
 $$
 
 ![[Capture d'écran 2024-10-31 150918.png]]
@@ -81,7 +81,7 @@ On peut supposer que l'absence de chloroplastes chez les euglènes de couleur cl
 ![[Pasted image 20241114121804.png]]
 **Réaction Bilan de la photosynthèse:**
 $$
-CO^2 + H_2O + sels minéraux + lumière =  + O^2 + H_2O
+CO^2 + H_2O + sels\; minéraux + lumière =  + O^2 + H_2O
 $$
 
 De même, on a observé certaines levures mutantes, qui ne peuvent pas utiliser le glucose injecté dans le milieu, ni effectuer la respiration contrairement aux levures dites « sauvages ». On trouve qu’elles ne possèdent pas de mitochondries fonctionnelles. La présence ou l’absence de mitochondries ou de chloroplastes modifie donc le métabolisme (contrôlé par le programme génétique).
