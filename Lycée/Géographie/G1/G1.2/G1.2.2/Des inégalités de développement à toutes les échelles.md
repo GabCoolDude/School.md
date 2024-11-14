@@ -23,3 +23,5 @@ A l'échelle des Etats, les inégalités sont particulièrement fortes. La crois
 Titre: Les inégalités de développement au Brésil
 ![[croquis brésil.png]]
 ![[croquis brésil légende.jpg]]
+
+A voir ensuite: [[Les inégalités à l'échelle locale]]

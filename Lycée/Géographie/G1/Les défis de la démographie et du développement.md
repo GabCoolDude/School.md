@@ -21,3 +21,7 @@ Dans ce chapitre, on va voir les défis de la démographie et du développement
 ## 3. Les inégalités à l'échelle locale
 
 [[Les inégalités à l'échelle locale]]
+
+**Conclusion:**
+Les inégalités de développement traversent le monde à toutes les échelles. 1% des personnes les plus fortunés détiennent plus que les 99% des autres habitants de la planète.
+Mais, il existe 
