@@ -20,3 +20,5 @@ Par exemple:
 - du matériel (fauteuil roulant, appareil auditif, canes…)
 - du financier (assurance, retraites privées…)
 - des services (cours adaptés, voyages…)
+
+A voir ensuite: [[Les défis de la démographie et du développement#]]
