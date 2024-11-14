@@ -75,3 +75,7 @@ Pour les euglènes blanche (non chlorophylliennes), on observe dans l'enceinte q
 On peut supposer que l'absence de chloroplastes chez les euglènes de couleur claire empêche la réalisation de la photosynthèse à la lumière.
 
 ![[Pasted image 20241114121804.png]]
+**Réaction Bilan de la photosynthèse:**
+```
+
+```
