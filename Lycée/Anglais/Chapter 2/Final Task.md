@@ -25,3 +25,5 @@ Question 3:
 - *For once during this show, I agree with you. I use my clothes and my fashion as tools to say what I think and also to bring out my true identity.*
 
 Question 4:
+- **No, like I said before, I just use them to express my identity and nothing else.**
+- *Of course, I use them to say what I think about culture, politics, controversial topics, etcetera...*
