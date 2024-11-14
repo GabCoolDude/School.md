@@ -27,3 +27,5 @@ Question 3:
 Question 4:
 - **No, like I said before, I just use them to express my identity and nothing else.**
 - *Of course, I use them to say what I think about culture, politics, controversial topics, etcetera...*
+
+Question 5:
