@@ -83,3 +83,5 @@ On peut supposer que l'absence de chloroplastes chez les euglènes de couleur cl
 $$
 CO^2 + H_2O + sels minéraux + lumière =  + O^2 + H_2O
 $$
+
+De même, on a observé certaines levures mutantes, qui ne peuvent pas utiliser le glucose injecté dans le milieu, ni effectuer la respiration contrairement aux levures dites « sauvages ». On trouve qu’elles ne possèdent pas de mitochondries fonctionnelles. La présence ou l’absence de mitochondries ou de chloroplastes modifie donc le métabolisme (contrôlé par le programme génétique).
