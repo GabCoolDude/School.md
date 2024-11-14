@@ -22,4 +22,6 @@ Question 2:
 
 Question 3: 
 - **Now that I think about it... I kinda use clothes to express who I think I really am, by wearing what looks cool to me.**
-- *For once during this show, I agree with you. *
+- *For once during this show, I agree with you. I use my clothes and my fashion as tools to say what I think and also to bring out my true identity.*
+
+Question 4:
