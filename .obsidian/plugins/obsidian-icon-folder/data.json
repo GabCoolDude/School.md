@@ -230,5 +230,14 @@
   "Lycée/EMC/Harcèlement/Harcèlement.md": "BoBxsFileMd",
   "Lycée/EMC/Harcèlement": "BoBxFolderOpen",
   "Lycée/Français/Roman": "BoBxsFolder",
-  "Lycée/Anglais/Chapter 2/Final Task.md": "BoBxsFileMd"
+  "Lycée/Anglais/Chapter 2/Final Task.md": "BoBxsFileMd",
+  "Lycée/Géographie/G1/G1.2/G1.2.2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#e49307"
+  },
+  "Lycée/Géographie/G1/G1.2/G1.2.3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#f59f0a"
+  },
+  "Lycée/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md": "BoBxsFileMd"
 }
