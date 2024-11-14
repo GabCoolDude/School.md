@@ -21,4 +21,4 @@ Par exemple:
 - du financier (assurance, retraites privées…)
 - des services (cours adaptés, voyages…)
 
-A voir ensuite: [[Les défis de la démographie et du développement#]]
+A voir ensuite: [[Les défis de la démographie et du développement#II - L'inégal développement dans le monde]]
