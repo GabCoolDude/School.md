@@ -29,4 +29,5 @@ Question 4:
 - *Of course, I use them to say what I think about culture, politics, controversial topics, etcetera...*
 
 Question 5:
-- ****
+- **Uhh... I don't exactly know what fast fashion is, but if it allows me to get my clothes faster, then I'm all for it.**
+- *Of course not, Fast Fashion is bad for the environment and it's also bad for the fashion industry in general.*
