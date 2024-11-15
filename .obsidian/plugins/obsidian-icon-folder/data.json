@@ -241,5 +241,8 @@
     "iconColor": "#f59f0a"
   },
   "Lycée/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md": "BoBxsFileMd",
-  "Lycée/SES": "BoBxsFolder"
+  "Lycée/SES": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0df8c9"
+  }
 }
