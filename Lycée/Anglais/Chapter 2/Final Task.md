@@ -41,4 +41,15 @@ Question 1:
 - *fashion, very important, allows people to express themselves*
 
 Question 2:
-- **hmmm..., **
+- **hmmm..., not paid much attention to that before, think probably gray or black tracksuit**
+- *interesting..., multiple outfits i like, two most favourite, traditional, kimonos and also suits*
+
+Question 3:
+- **now that i think about it, kinda, express who i really am, by wearing what is cool**
+- *for once during this show, i agree. use my clothes and fashion, tools, say what i think*
+
+Question 4:
+- **no, just use them to express myself**
+- *of course, say what i think about, culture, politics, controversial topics*
+
+Question
