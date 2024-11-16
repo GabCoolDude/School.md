@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Français/Natures (classes grammaticales).md",
+                "file": "Collège/Français/Fonctions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natures (classes grammaticales)"
+              "title": "Fonctions"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "6a603587dcb3addd",
   "lastOpenFiles": [
+    "Collège/Français/Natures (classes grammaticales).md",
     "Collège/Français/Fonctions.md",
     "Collège/Français/Important à réviser.md",
     "Lycée/Français/Grammaire/Figures de styles.md",
@@ -244,7 +245,6 @@
     "Lycée/Géographie/G1/G1.2/G1.2.1",
     "Lycée/Géographie/G1/G1.2",
     "Lycée/Français/Roman",
-    "Template.md",
     "Untitled.canvas"
   ]
 }
