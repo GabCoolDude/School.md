@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collège/Français/Fonctions.md",
+                "file": "Lycée/Anglais/Chapter 2/Final Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fonctions"
+              "title": "Final Task"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "fdfa689b3a4791af",
@@ -140,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collège/Français/Fonctions.md"
+                "file": "Lycée/Anglais/Chapter 2/Final Task.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fonctions"
+              "title": "Outline of Final Task"
             }
           }
         ],
@@ -193,13 +192,14 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "6a603587dcb3addd",
   "lastOpenFiles": [
-    "Collège/Français/Natures (classes grammaticales).md",
     "Collège/Français/Fonctions.md",
+    "Collège/Français/Natures (classes grammaticales).md",
     "Collège/Français/Important à réviser.md",
     "Lycée/Français/Grammaire/Figures de styles.md",
     "Lycée/Français/Grammaire/Commentaire composé.md",

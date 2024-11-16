@@ -31,3 +31,14 @@ Question 4:
 Question 5:
 - **Uhh... I don't exactly know what fast fashion is, but if it allows me to get my clothes faster, then I'm all for it.**
 - *Of course not, Fast Fashion is bad for the environment and it's also bad for the fashion industry in general.*
+
+# Etape 3 
+
+Keywords
+
+Question 1:
+- **well..., for me, not important, not pay attention to what i wear, just wear what is cool and what fits**
+- *fashion, very important, allows people to express themselves*
+
+Question 2:
+- **hmmm..., **
