@@ -10,7 +10,9 @@ La respiration a lieu dans les cellules des eucaryotes, au niveau des *mitochond
 **NB : les EV autotrophes pluricellulaires (ex végétaux, algues), réalisent aussi la respiration pour dégrader les sucres produits lors de la photosynthèse.**
 
 **Équation Bilan de la respiration:**
-C6H12O6(glucose) + 6 O2 → 6 CO2 + 6 H2O
+$$
+C_6H_{12}O_6(glucose) + 6O_2 = 6 CO_2 + 6 H_2O
+$$
 
 - **Mitochondrie :** organite intracellulaire qui permet la dégradation de molécule organique pour la production de l’énergie cellulaire. Il est présent chez les cellules des eucaryotes, les bactéries ne possèdent pas de mitochondrie,
 
@@ -36,7 +38,9 @@ Exemples : les cellules des racines, ou les cellules des tiges, ne sont pas
 autotrophes
 
 **Équation bilan de la photosynthèse:**
-6 CO2 + 12 H2O + lumière +pigment photos → C6H12O6 + 6 O2 + 6 H2O
+$$
+6CO_2 + 12H_2O + lumière + pigment\;photos = C_6H_{12}O_6(glucose) + 6O_2 + 6H_2O
+$$
 
 ![[Capture d'écran 2024-10-31 150918.png]]
 
@@ -60,4 +64,24 @@ ou corail/algue hébergée...)
 
 - **Symbiose:** Association biologique, durable et réciproquement profitable, entre deux organismes vivants.
 - **Microbiote:** Ensemble des micro-organismes vivant dans un écosystème donné.
+## Exemple chez des mutants d'euglènes (correction du TD)
 
+![[Pasted image 20241114121447.png]]
+Les euglènes sont des algues chlorophylliennes, elles possèdent donc des chloroplastes qui donnent une couleur verte à la cellule.
+La forme mutante d'euglènes ne possède pas de chloroplastes et est donc incolore.
+
+![[Pasted image 20241114121545.png]]
+Pour les euglènes de couleur verte (chlorophylliennes), on observe dans l'enceinte, une diminution du dioxygène à l'obscurité et au contraire une production de dioxygène à la lumière, inversement pour le CO2.
+
+![[Pasted image 20241114121637.png]]
+Pour les euglènes blanche (non chlorophylliennes), on observe dans l'enceinte quelque soit les conditions d'éclairage, une diminution du dioxygène et au contraire une production de CO2.
+
+On peut supposer que l'absence de chloroplastes chez les euglènes de couleur claire empêche la réalisation de la photosynthèse à la lumière.
+
+![[Pasted image 20241114121804.png]]
+**Réaction Bilan de la photosynthèse:**
+$$
+CO^2 + H_2O + sels\; minéraux + lumière =  + O^2 + H_2O
+$$
+
+De même, on a observé certaines levures mutantes, qui ne peuvent pas utiliser le glucose injecté dans le milieu, ni effectuer la respiration contrairement aux levures dites « sauvages ». On trouve qu’elles ne possèdent pas de mitochondries fonctionnelles. La présence ou l’absence de mitochondries ou de chloroplastes modifie donc le métabolisme (contrôlé par le programme génétique).

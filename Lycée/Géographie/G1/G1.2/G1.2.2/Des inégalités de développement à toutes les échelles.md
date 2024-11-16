@@ -19,3 +19,9 @@
 **Emergence:** Désigne les pays qui n'ont pas atteint un stade équilibré de développement du fait, notamment, de structures institutionnelles faibles, de politiques hésitantes et de très fortes inégalités sociales.
 
 A l'échelle des Etats, les inégalités sont particulièrement fortes. La croissance est captée par les grandes métropoles insérés dans la mondialisation. Au Brésil, la région du **Sudeste** qui concentrent les principales métropoles, représente à elle seule plus de 60% du PIB nationale.
+
+Titre: Les inégalités de développement au Brésil
+![[croquis brésil.png]]
+![[croquis brésil légende.jpg]]
+
+A voir ensuite: [[Les inégalités à l'échelle locale]]

@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxFolderOpen",
       "SiExcalidraw",
       "BoBxsFolder",
       "BoBxsFileMd",
-      "BoBxImage",
-      "BoBxImages"
+      "BoBxImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,7 +30,8 @@
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "Collège": "🏫",
   "Collège/Fiche de révisions": "BoBxFolderOpen",
@@ -222,5 +223,26 @@
   },
   "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md": "BoBxsFileMd",
   "Lycée/Anglais/Chapter 2/Class 4.md": "BoBxsFileMd",
-  "Lycée/Français/Poésie/Questionnaire de lecture.md": "BoBxsFileMd"
+  "Lycée/Français/Poésie/Questionnaire de lecture.md": "BoBxsFileMd",
+  "Lycée/Français/Grammaire/Commentaire composé.md": "BoBxsFileMd",
+  "Lycée/Français/Roman/Untitled.md": "BoBxsFileMd",
+  "Lycée/Français/Epreuves de Bac de Français.md": "SiExcalidraw",
+  "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md": "BoBxsFileMd",
+  "Lycée/EMC/Harcèlement/Harcèlement.md": "BoBxsFileMd",
+  "Lycée/EMC/Harcèlement": "BoBxFolderOpen",
+  "Lycée/Français/Roman": "BoBxsFolder",
+  "Lycée/Anglais/Chapter 2/Final Task.md": "BoBxsFileMd",
+  "Lycée/Géographie/G1/G1.2/G1.2.2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#e49307"
+  },
+  "Lycée/Géographie/G1/G1.2/G1.2.3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#f59f0a"
+  },
+  "Lycée/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md": "BoBxsFileMd",
+  "Lycée/SES": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0df8c9"
+  }
 }

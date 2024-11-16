@@ -26,3 +26,5 @@ Pour mesurer l'IDH, il faut combiner trois espèces:
 | Russie     | 13000$/hab.         |                  |                       |      |
 | Pakistan   | moins de 1500$/hab. |                  |                       |      |
 | Japon      | plus de 30000$/hab. |                  |                       |      |
+
+A voir ensuite: [[Des inégalités de développement à toutes les échelles]]

@@ -1,11 +1,11 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "translucency": false,
   "textFontFamily": "Rubik",
   "interfaceFontFamily": "Rubik",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "baseFontSize": 18
+  "baseFontSize": 17
 }

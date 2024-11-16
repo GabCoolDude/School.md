@@ -13,3 +13,5 @@ Il existe à l'échelle mondiale une fracture Nord-Sud, qui est caractérisé pa
 - **Fécondité** plus basse au Nord (2 enfants par femme < 3,5 enfants par femme)
 
 ![[modèle trans. démo..png]]
+
+A voir ensuite: [[Les défis du vieillissement]]

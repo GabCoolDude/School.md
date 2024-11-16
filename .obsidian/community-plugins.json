@@ -13,8 +13,9 @@
   "pomodoro-timer",
   "beautitab",
   "buttons",
-  "soundscapes",
   "settings-search",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-hider",
+  "obsidian-minimal-settings"
 ]
