@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53846dccf98223f1",
+        "id": "c5e9487c376998d8",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7dec85bbaa0e15",
+            "id": "6a603587dcb3addd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
+                "file": "Lycée/Anglais/Chapter 2/Class 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15.11.24 - Intervention de 100 000 entreprises"
+              "title": "Class 4"
             }
           }
         ]
@@ -84,69 +84,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8af945e6f34a821",
-        "type": "tabs",
-        "dimension": 40.16203703703704,
-        "children": [
-          {
-            "id": "c32f29fbef61878c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "238ad3c68b9aee53",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "abefcbaf41914b12",
         "type": "tabs",
-        "dimension": 59.83796296296296,
         "children": [
-          {
-            "id": "c0df9b15c61c235a",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
-          {
-            "id": "bb7677158c2e19e0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Les défis du viellisement"
-            }
-          },
           {
             "id": "2428d82ec6335f5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du viellisement.md",
+                "file": "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +103,21 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Les défis du viellisement"
+              "title": "Backlinks for Le métabolisme cellulaire"
+            }
+          },
+          {
+            "id": "bb7677158c2e19e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Le métabolisme cellulaire"
             }
           },
           {
@@ -178,13 +139,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md"
+                "file": "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 15.11.24 - Intervention de 100 000 entreprises"
+              "title": "Outline of Le métabolisme cellulaire"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "43cae8065496540c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32f29fbef61878c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "398d707ac1e4d9de",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,42 +193,37 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "soundscapes:Soundscapes: My Music": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd7dec85bbaa0e15",
+  "active": "6a603587dcb3addd",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
-    "Lycée/Anglais/Chapter 2/Final Task.md",
     "Lycée/SES",
-    "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
-    "Lycée/Français/Epreuves de Bac de Français.md",
     "Lycée/Images/SVT/Pasted image 20241114121804.png",
     "Lycée/Images/SVT/Pasted image 20241114121637.png",
     "Lycée/Images/SVT/Pasted image 20241114121545.png",
     "Lycée/Images/SVT/Pasted image 20241114121447.png",
-    "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
-    "Lycée/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
-    "Lycée/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md",
-    "Lycée/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
-    "Lycée/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md",
-    "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
-    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
-    "Lycée/Géographie/G1/G1.2/G1.2.3",
-    "Lycée/Images/Géographie/Capture d'écran 2024-10-11 095916.png",
-    "Lycée/Images/Géographie/croquis brésil légende.jpg",
     "Lycée/Images/Géographie/croquis brésil.png",
-    "Lycée/Anglais/Chapter 2/Class 4.md",
-    "Lycée/Français/Grammaire/Figures de styles.md",
+    "Lycée/Images/Géographie/croquis brésil légende.jpg",
+    "Lycée/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.3",
     "Lycée/Français/Grammaire/Commentaire composé.md",
-    "Lycée/EMC/Harcèlement/Harcèlement.md",
+    "Lycée/Anglais/Chapter 2/Final Task.md",
+    "Lycée/Anglais/Chapter 2/Class 3.md",
     "Lycée/Français/Poésie/Questionnaire de lecture.md",
+    "Lycée/Français/Epreuves de Bac de Français.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+    "Lycée/Français/Roman/Untitled.md",
+    "Lycée/Français/Epreuve de bac de Français.md",
+    "Lycée/EMC/Harcèlement/Harcèlement.md",
+    "Lycée/SVT/Chapitre 2/Le métabolisme cellulaire.md",
+    "conflict-files-obsidian-git.md",
+    "Lycée/Images/SVT/Pasted image 20241107140359.png",
+    "Lycée/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.2",
+    "Lycée/EMC/Harcèlement",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
@@ -246,16 +231,19 @@
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Lycée/EMC/Harcèlement",
-    "README.md",
-    "Lycée/Géographie/G1/G1.2/G1.2.2",
-    "conflict-files-obsidian-git.md",
-    "Lycée/Français/Roman",
-    "Lycée/SVT/Chapitre 1/Activité 3/Untitled",
+    "Lycée/Anglais/Chapter 2/Class 4.md",
+    "Lycée/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
     "Lycée/Géographie/G1/G1.2/G1.2.1",
+    "Lycée/Géographie/G1/G1.2",
+    "Lycée/Français/Roman",
+    "Template.md",
+    "README.md",
+    "Lycée/Français/Poésie/L'amour courtois.md",
+    "Lycée/SVT/Chapitre 1/TP 1/Observation de EV unicellulaire au microscope optique.md",
     "Untitled.canvas"
   ]
 }
