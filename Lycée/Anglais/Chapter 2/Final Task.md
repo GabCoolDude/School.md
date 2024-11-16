@@ -52,4 +52,6 @@ Question 4:
 - **no, just use them to express myself**
 - *of course, say what i think about, culture, politics, controversial topics*
 
-Question
+Question 5:
+- **uhh..., idk what fast fashion is, allows to get clothes faster, then im for it**
+- *of course not. is bad for the environment and industry*
