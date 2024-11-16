@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Class 4"
             }
+          },
+          {
+            "id": "9fde9c0f2b6d3276",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +205,10 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "soundscapes:Soundscapes: My Music": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "6a603587dcb3addd",
+  "active": "9fde9c0f2b6d3276",
   "lastOpenFiles": [
     "Lycée/Anglais/Chapter 2/Class 3.md",
     "Lycée/Français/Poésie/Questionnaire de lecture.md",
