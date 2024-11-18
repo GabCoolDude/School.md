@@ -7,3 +7,5 @@ Oui, on peut quantifier la biodiversité à la Vallée aux loups en comptant le 
 Oui, la vallée aux loups contient plusieurs écosystèmes, par exemple, il y a des rivières, une grotte, et de la forêt.
 
  **Est-ce que on peut comparer la biodiversité de la vallée aux loups à celle d'autres écosystèmes ?**
+
+On peut comparer la biodiversité de la Vallée-aux-loups
