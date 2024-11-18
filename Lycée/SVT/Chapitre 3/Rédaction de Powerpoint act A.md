@@ -8,4 +8,8 @@ Oui, la vallée aux loups contient plusieurs écosystèmes, par exemple, il y a 
 
  **Est-ce que on peut comparer la biodiversité de la vallée aux loups à celle d'autres écosystèmes ?**
 
-On peut comparer la biodiversité de la Vallée-aux-loups
+On peut comparer la biodiversité de la Vallée-aux-loups à la biodiversité du Parc des sceaux. Il y a de la forêt et de l'eau dans les deux.
+
+**Quels facteurs peuvent faire varier la biodiversité ?**
+
+Les êtres étrangers à l'écosystème peuvent déranger l'équilibre de l'écosystème
