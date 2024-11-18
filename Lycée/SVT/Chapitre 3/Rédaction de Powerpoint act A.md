@@ -12,4 +12,4 @@ On peut comparer la biodiversité de la Vallée-aux-loups à la biodiversité du
 
 **Quels facteurs peuvent faire varier la biodiversité ?**
 
-Les êtres étrangers à l'écosystème peuvent déranger l'équilibre de l'écosystème
+Les êtres vivants étrangers à l'écosystème peuvent déranger l'équilibre de l'écosystème en tuant des animaux qui sont essentiels à l'écosystème.
