@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/SVT/Chapitre 3/Rédaction de Powerpoint act A.md",
+                "file": "Lycée/Anglais/Chapter 2/Final Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rédaction de Powerpoint act A"
+              "title": "Final Task"
             }
           }
         ]
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/SVT/Chapitre 3/Rédaction de Powerpoint act A.md"
+                "file": "Lycée/Anglais/Chapter 2/Final Task.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rédaction de Powerpoint act A"
+              "title": "Outline of Final Task"
             }
           }
         ]
@@ -203,13 +203,14 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bd7dec85bbaa0e15",
   "lastOpenFiles": [
-    "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
     "Lycée/SVT/Chapitre 3/Rédaction de Powerpoint act A.md",
+    "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
     "conflict-files-obsidian-git.md",
     "Lycée/SVT/Chapitre 3",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
