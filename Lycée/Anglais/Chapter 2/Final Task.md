@@ -31,3 +31,27 @@ Question 4:
 Question 5:
 - **Uhh... I don't exactly know what fast fashion is, but if it allows me to get my clothes faster, then I'm all for it.**
 - *Of course not, Fast Fashion is bad for the environment and it's also bad for the fashion industry in general.*
+
+# Etape 3 
+
+Keywords
+
+Question 1:
+- **well..., for me, not important, not pay attention to what i wear, just wear what is cool and what fits**
+- *fashion, very important, allows people to express themselves*
+
+Question 2:
+- **hmmm..., not paid much attention to that before, think probably gray or black tracksuit**
+- *interesting..., multiple outfits i like, two most favourite, traditional, kimonos and also suits*
+
+Question 3:
+- **now that i think about it, kinda, express who i really am, by wearing what is cool**
+- *for once during this show, i agree. use my clothes and fashion, tools, say what i think*
+
+Question 4:
+- **no, just use them to express myself**
+- *of course, say what i think about, culture, politics, controversial topics*
+
+Question 5:
+- **uhh..., idk what fast fashion is, allows to get clothes faster, then im for it**
+- *of course not. is bad for the environment and industry*
