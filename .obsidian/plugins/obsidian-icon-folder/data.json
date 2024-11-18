@@ -244,5 +244,9 @@
   "Lycée/SES": {
     "iconName": "BoBxsFolder",
     "iconColor": "#0df8c9"
+  },
+  "Lycée/SVT/Chapitre 3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#41e506"
   }
 }
