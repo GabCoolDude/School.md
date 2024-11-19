@@ -4,3 +4,4 @@ Une croissance démographique ralentie:
 
 Des contrastes de densité:
 - Le déclin se poursuit au Nord-Est et au Centre. Les littoraux méditerranéens et atlantiques attirent les populations = **littoralisation**
+- Les grandes métropoles concentrent les populations = **métropolisation**
