@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md",
+                "file": "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Un territoire inégalitaire"
+              "title": "Les défis de la démographie et du développement"
             }
           }
         ]
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md"
+                "file": "Lycée/Géographie/G1/Les défis de la démographie et du développement.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Un territoire inégalitaire"
+              "title": "Outline of Les défis de la démographie et du développement"
             }
           }
         ]
@@ -207,10 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd7dec85bbaa0e15",
+  "active": "8512c0ca28a16fd9",
   "lastOpenFiles": [
-    "Lycée/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
+    "Lycée/Géographie/G1/G1.3/G1.3.3",
     "Lycée/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md",
+    "Lycée/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
     "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/Géographie/G1/G1.3/G1.3.2",
     "Lycée/Géographie/G1/G1.3/G1.3.1",
@@ -250,7 +251,6 @@
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Darken background color.svg",
-    "Excalidraw/Scripts/Downloaded/Darken background color.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
