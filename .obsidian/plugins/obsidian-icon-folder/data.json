@@ -248,5 +248,9 @@
   "Lycée/SVT/Chapitre 3": {
     "iconName": "BoBxFolderOpen",
     "iconColor": "#41e506"
+  },
+  "Lycée/Géographie/G1/G1.3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#ea980b"
   }
 }

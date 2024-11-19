@@ -25,12 +25,14 @@
             "id": "0d4d3a94e142189e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Lycée/Géographie/G1/Les défis de la démographie et du développement.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Les défis de la démographie et du développement"
             }
           }
         ],
@@ -191,10 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Français/Poésie/L'amour courtois.md"
+                "file": "Lycée/Géographie/G1/Les défis de la démographie et du développement.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of L'amour courtois"
+              "title": "Outline of Les défis de la démographie et du développement"
             }
           }
         ]
@@ -216,11 +218,13 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0d4d3a94e142189e",
   "lastOpenFiles": [
+    "Lycée/Géographie/G1/G1.3",
     "Lycée/SVT/Chapitre 3/Rédaction de Powerpoint act A.md",
     "Lycée/Anglais/Chapter 2/Final Task.md",
     "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
@@ -259,7 +263,6 @@
     "Excalidraw/Scripts/Downloaded/Darken background color.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
