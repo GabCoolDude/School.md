@@ -20,6 +20,10 @@ I - Atout pour le développement
 
 idée: la croissance démographique est un atout
 
-exemple: 
+exemple: france
 
 II - Frein pour le développement
+
+idée: la croissance démographique n'est pas bonne pour le développement
+
+exemple: inde
