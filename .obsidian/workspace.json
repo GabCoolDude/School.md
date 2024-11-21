@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
+                "file": "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paragraphe argumenté"
+              "title": "Une planète de plus en plus peuplée"
+            }
+          },
+          {
+            "id": "b36d755e1f1e803f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Les critères du développement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md"
+                "file": "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Paragraphe argumenté"
+              "title": "Outline of Les critères du développement"
             }
           }
         ]
@@ -207,10 +222,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd7dec85bbaa0e15",
+  "active": "b36d755e1f1e803f",
   "lastOpenFiles": [
-    "Lycée/Anglais/Chapter 3/Class 1.md",
+    "Lycée/Histoire-Géo/Géographie/G1/Les défis de la démographie et du développement.md",
+    "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
+    "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md",
+    "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
     "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
+    "Pasted image 20241121094606.png",
+    "Lycée/Anglais/Chapter 3/Class 1.md",
     "Lycée/Histoire-Géo/Méthode",
     "Lycée/Histoire-Géo",
     "Lycée/Anglais/Chapter 3/Introduction.md",
@@ -221,14 +241,12 @@
     "Lycée/Anglais/Untitled.md",
     "Lycée/Français/Poésie/Questionnaire de lecture.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3/Les Outre-mer.md",
-    "Lycée/Histoire-Géo/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1",
     "Lycée/Français/Poésie/L'amour courtois.md",
-    "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3",
     "Lycée/Anglais/Chapter 2/Final Task.md",
     "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
@@ -242,8 +260,6 @@
     "Lycée/Images/SVT/Pasted image 20241114121637.png",
     "Lycée/Images/SVT/Pasted image 20241114121545.png",
     "Lycée/Images/SVT/Pasted image 20241114121447.png",
-    "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md",
-    "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
@@ -251,10 +267,8 @@
     "Lycée/Images/Géographie/Capture d'écran 2024-10-11 095916.png",
     "Lycée/Images/Géographie/croquis brésil légende.jpg",
     "Lycée/Images/Géographie/croquis brésil.png",
-    "Lycée/Anglais/Chapter 2/Class 4.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "Excalidraw/Scripts/Downloaded/Darken background color.svg",
     "Untitled.canvas"
   ]
 }
