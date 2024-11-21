@@ -14,4 +14,6 @@ Sur la copie (40 min):
 
 Sujet: La croissance démographique est-elle un frein ou un moteur du développement ?
 
-L'augmentation de la population est-elle bien ou mal pour le développement d'un pays ? Dans un premier temps, on va 
+L'augmentation de la population est-elle bien ou mal pour le développement d'un pays ? Dans un premier temps, on va étudier un exemple où la croissance démographique est un atout du développement. Puis, on va donner un exemple où la croissance démographique est un frein pour le développement.
+
+I - 
