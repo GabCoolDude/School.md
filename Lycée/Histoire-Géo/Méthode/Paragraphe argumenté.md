@@ -14,3 +14,4 @@ Sur la copie (40 min):
 
 Sujet: La croissance démographique est-elle un frein ou un moteur du développement ?
 
+L'augmentation de la population est-elle bien ou mal pour le développement d'un pays ? Dans un premier temps, on va 
