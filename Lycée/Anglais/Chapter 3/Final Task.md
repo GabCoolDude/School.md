@@ -1,0 +1,1 @@
+Record a 2-minute audio file for NPR radio, answering the question "What is the power of protest songs?"
