@@ -25,30 +25,18 @@
             "id": "bc092413c09f86e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "8d4892c03816e380",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Paragraphe argumenté"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Paragraphe argumenté"
             }
           }
         ],
@@ -223,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d4892c03816e380",
+  "active": "bc092413c09f86e3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Lycée/SVT/Chapitre 3/Untitled.md",
