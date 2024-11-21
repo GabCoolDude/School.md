@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Final Task"
             }
+          },
+          {
+            "id": "bc092413c09f86e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "6a603587dcb3addd",
+  "active": "bc092413c09f86e3",
   "lastOpenFiles": [
     "Collège/Français/Fonctions.md",
     "Collège/Français/Natures (classes grammaticales).md",
