@@ -18,6 +18,8 @@ L'augmentation de la population est-elle bien ou mal pour le développement d'un
 
 I - Atout pour le développement
 
-idée
+idée: la croissance démographique est un atout
+
+exemple: 
 
 II - Frein pour le développement
