@@ -271,5 +271,6 @@
     "iconName": "BoBxsFolder",
     "iconColor": "#0b83f4"
   },
-  "Lycée/Histoire-Géo": "LiFolder"
+  "Lycée/Histoire-Géo": "LiFolder",
+  "Lycée/Histoire-Géo/Méthode": "LiFolder"
 }
