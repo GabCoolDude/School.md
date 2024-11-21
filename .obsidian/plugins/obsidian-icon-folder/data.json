@@ -184,7 +184,6 @@
   "Lycée/Anglais/Chapter 2/Class 4.md": "BoBxsFileMd",
   "Lycée/Français/Poésie/Questionnaire de lecture.md": "BoBxsFileMd",
   "Lycée/Français/Grammaire/Commentaire composé.md": "BoBxsFileMd",
-  "Lycée/Français/Roman/Untitled.md": "BoBxsFileMd",
   "Lycée/Français/Epreuves de Bac de Français.md": "SiExcalidraw",
   "Lycée/EMC/Harcèlement/Harcèlement.md": "BoBxsFileMd",
   "Lycée/EMC/Harcèlement": "BoBxFolderOpen",
@@ -272,5 +271,6 @@
     "iconColor": "#0b83f4"
   },
   "Lycée/Histoire-Géo": "LiFolder",
-  "Lycée/Histoire-Géo/Méthode": "LiFolder"
+  "Lycée/Histoire-Géo/Méthode": "LiFolder",
+  "Lycée/Français/Roman/Tous les matins du monde.md": "BoBxsFileMd"
 }
