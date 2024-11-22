@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Français/Roman/Tous les matins du monde.md",
+                "file": "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tous les matins du monde"
+              "title": "Paragraphe argumenté"
             }
           },
           {
@@ -192,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Français/Roman/Tous les matins du monde.md"
+                "file": "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tous les matins du monde"
+              "title": "Outline of Paragraphe argumenté"
             }
           }
         ]
@@ -217,14 +217,17 @@
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bd7dec85bbaa0e15",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
+    "Lycée/Français/Roman/Tous les matins du monde.md",
     "Lycée/SVT/Chapitre 3/Untitled.md",
     "Lycée/Français/Untitled",
-    "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
     "Lycée/Histoire-Géo/Géographie/G1/Les défis de la démographie et du développement.md",
@@ -252,7 +255,6 @@
     "Lycée/Histoire-Géo/Géographie/G1/G1.3",
     "Lycée/Anglais/Chapter 2/Final Task.md",
     "Lycée/SES/15.11.24 - Intervention de 100 000 entreprises.md",
-    "conflict-files-obsidian-git.md",
     "Lycée/SVT/Chapitre 3",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Lycée/SES",

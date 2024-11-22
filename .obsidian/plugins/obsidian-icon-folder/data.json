@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolder",
       "BoBxFolderOpen",
       "SiExcalidraw",
       "BoBxsFolder",
-      "BoBxsFileMd"
+      "BoBxsFileMd",
+      "BoBxImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -96,6 +96,10 @@
   },
   "Lycée": "📚",
   "Lycée/Images": "BoBxImages",
+  "Lycée/Histoire": {
+    "iconName": "BoBxsFolder",
+    "iconColor": "#0b83f4"
+  },
   "Lycée/Français": "BoBxsFolder",
   "Lycée/EMC": {
     "iconName": "BoBxsFolder",
@@ -192,85 +196,5 @@
   "Lycée/SES": {
     "iconName": "BoBxsFolder",
     "iconColor": "#0df8c9"
-  },
-  "Lycée/SVT/Chapitre 3": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#41e506"
-  },
-  "Lycée/Anglais/Chapter 3": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#9107ed"
-  },
-  "Lycée/Anglais/Chapter 3/Final Task.md": "BoBxsFileMd",
-  "Lycée/Anglais/Chapter 3/Introduction.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie": {
-    "iconName": "BoBxsFolder",
-    "iconColor": "#fba209"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#f69f09"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#fba40e"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#ffa50a"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#ea980b"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/Les défis de la démographie et du développement.md": "BoBxsFileBlank",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#fda50d"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.3": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#fea50b"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.2": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#fea710"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.2": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#e49307"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.3": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#f59f0a"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#ffa50a"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#eb980a"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#e49307"
-  },
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3": "BoBxFolderOpen",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.3/Les défis du vieillissement.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.2/De larges différences dans le monde.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.3/Les inégalités à l'échelle locale.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3/Les Outre-mer.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Histoire": {
-    "iconName": "BoBxsFolder",
-    "iconColor": "#0b83f4"
-  },
-  "Lycée/Histoire-Géo": "LiFolder",
-  "Lycée/Histoire-Géo/Méthode": "LiFolder",
-  "Lycée/Français/Roman/Tous les matins du monde.md": "BoBxsFileMd"
+  }
 }
