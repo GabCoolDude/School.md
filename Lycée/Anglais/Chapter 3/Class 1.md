@@ -11,6 +11,4 @@ It is a very powerful sentence and slogan. When you go to this event, you become
 ## Read the Cultural Fact. Explain why this music festival was powerful
 
 There were a lot of people. It highlighted the power of music against Vietnam.
-# Read the text and answer the questions
-## Read the text give your own definition of "protest music".
 

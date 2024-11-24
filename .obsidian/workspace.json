@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+                "file": "Lycée/Anglais/Chapter 3/Class 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liberté d'expression"
+              "title": "Class 1"
             }
           },
           {
@@ -192,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/EMC/Liberté d'expression/Liberté d'expression.md"
+                "file": "Lycée/Anglais/Chapter 3/Class 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Liberté d'expression"
+              "title": "Outline of Class 1"
             }
           }
         ]
@@ -223,8 +223,10 @@
   },
   "active": "bd7dec85bbaa0e15",
   "lastOpenFiles": [
-    "Lycée/EMC/Harcèlement/Harcèlement.md",
+    "Lycée/Anglais/Chapter 3/Introduction.md",
+    "Lycée/Anglais/Chapter 3/Final Task.md",
     "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
+    "Lycée/EMC/Harcèlement/Harcèlement.md",
     "Lycée/Histoire-Géo/Méthode/Paragraphe argumenté.md",
     "conflict-files-obsidian-git.md",
     "Lycée/Français/Roman/Tous les matins du monde.md",
@@ -241,8 +243,6 @@
     "Lycée/Anglais/Chapter 3/Class 1.md",
     "Lycée/Histoire-Géo/Méthode",
     "Lycée/Histoire-Géo",
-    "Lycée/Anglais/Chapter 3/Introduction.md",
-    "Lycée/Anglais/Chapter 3/Final Task.md",
     "Lycée/Anglais/Chapter 2/Class 1.md",
     "Lycée/SVT/Chapitre 3/Rédaction de Powerpoint act A.md",
     "Lycée/Anglais/Chapter 3",
