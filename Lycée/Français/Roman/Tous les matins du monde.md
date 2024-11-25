@@ -29,4 +29,4 @@ C'est un auteur français né en 1948 en Normandie. Il est issue d'une famille o
 - la mort
 # Le contexte historique
 
-Le récit se déroule entre 1650 et 1689 pendant le règne de Louis XIV (le roi soleil). Son régime était celui d'une monarchie absolue: le roi a tous les pouvoirs, son pouvoir est divin
+Le récit se déroule entre 1650 et 1689 pendant le règne de Louis XIV (le roi soleil). Son régime était celui d'une monarchie absolue: le roi a tous les pouvoirs, son pouvoir est divin, les artistes doivent se mettre au service du roi.
