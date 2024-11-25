@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a5eddefeb5c41514",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lycée/Français/Drawing 2024-11-25 16.00.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-25 16.00.57.excalidraw"
+            }
+          },
+          {
             "id": "b36d755e1f1e803f",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Une croissance démographique à plusieurs vitesse"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,10 +205,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Français/Roman/Tous les matins du monde.md"
+                "file": "Lycée/Français/Drawing 2024-11-25 16.00.57.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tous les matins du monde"
+              "title": "Outline of Drawing 2024-11-25 16.00.57.excalidraw"
             }
           }
         ]
@@ -221,10 +234,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd7dec85bbaa0e15",
+  "active": "a5eddefeb5c41514",
   "lastOpenFiles": [
-    "Lycée/Français/Types de narrateurs.md",
     "Lycée/Français/Roman/Tous les matins du monde.md",
+    "Lycée/Français/Drawing 2024-11-25 16.00.57.excalidraw.md",
+    "Lycée/Français/Types de narrateurs.md",
     "Lycée/Anglais/Chapter 3/Class 1.md",
     "Lycée/Anglais/Chapter 3/Protest song devoir.md",
     "Lycée/Anglais/Chapter 3/Introduction.md",
@@ -257,7 +271,6 @@
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1",
     "Lycée/Français/Poésie/L'amour courtois.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3",
-    "Lycée/Anglais/Chapter 2/Final Task.md",
     "Lycée/SVT/Chapitre 3",
     "Lycée/SES",
     "Lycée/Images/SVT/Pasted image 20241114121804.png",
