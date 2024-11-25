@@ -4,7 +4,7 @@ Find a protest song in English.
 3/ Focus one 1 specific paragraph and explain why it's your favorite.  
 Présentation à l'oral devant la classe, travail noté.
 
-I chose the song "Get Up, Stand Up" from the group "The Fabulous Wailers", which famously has Bob Marley as it's lead singer. This song tells people that they need to get up and fight for their rights instead of just accepting things the way they were. I chose this song because I like it and also because I didn't know that Bob Marley was in a group before i discovered this song and that made me interested in listening to it.
+I chose the song "Get Up, Stand Up" from the group "The Fabulous Wailers", the song was in response to a civilian uprise in Jamaica. This song tells people that they need to get up and fight for their rights instead of just accepting things the way they were. I chose this song because I like it and also because I didn't know that Bob Marley was in a group before i discovered this song and that made me interested in listening to it.
 
 If i had to choose 1 verse, I would choose the 2nd verse which is
 

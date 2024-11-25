@@ -196,5 +196,10 @@
   "Lycée/SES": {
     "iconName": "BoBxsFolder",
     "iconColor": "#0df8c9"
-  }
+  },
+  "Lycée/Anglais/Chapter 3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#8b07e4"
+  },
+  "Lycée/Anglais/Chapter 3/Class 1.md": "BoBxsFileMd"
 }
