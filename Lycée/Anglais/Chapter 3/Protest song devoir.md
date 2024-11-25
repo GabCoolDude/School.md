@@ -18,8 +18,3 @@ And now you see the light
 You stand up for your rights
 
 It says that if you just wait for God to act and change things, nothing will happen, you have to get out there and make your own changes.
-# Mots-clés
-
-chose "Get Up, Stand Up" from "The Fabulous Wailers", which has Bob Marley = lead singer. song tells people to fight for rights instead of accepting things. chose this song because like it and didn't know that bob was in group.
-
-if choose 1 verse, choose 2nd verse, talks about, if you wait for god, nothing will happen, you have to make you own changes.
