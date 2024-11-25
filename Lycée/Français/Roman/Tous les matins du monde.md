@@ -18,3 +18,7 @@ Le personnage principal est un musicien
 Le chapitre constitue l'incipit du roman. Il présente les personnages principaux, le slieux, le temps et le contexte. Les personnages principaux sont ici: Monsieur de Saint-Colombe et se deux filles, Madeleine et Toinette. Quignard insiste sur le personnage de Sainte-Colombe, sure sa vie et son art. Monsieur Marais n'apparaît qu'au chapitre 8.
 
 Alain Corneau, au contraire, débute son film avec le point de vue de Marin Marais. Il y a donc un changement de perspective.
+
+# Présentation de l'auteur : Pascal Quignard
+
+C'est un auteur français né en 1948 en Normandie. Il est issue d'une famille 
