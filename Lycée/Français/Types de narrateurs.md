@@ -1,0 +1,1 @@
+Narrateur extra-diégétique = extérieur à l'histoire
