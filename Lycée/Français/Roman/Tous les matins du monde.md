@@ -24,3 +24,9 @@ Alain Corneau, au contraire, débute son film avec le point de vue de Marin Mara
 C'est un auteur français né en 1948 en Normandie. Il est issue d'une famille où il y avait des traditions musicales et littéraires: son Père était professeur de lettres classique issue d'une famille de musiciens et aussi un organiste (musicien qui joue de l'orgue) et sa Mère était aussi professeur de lettres. Il a fait des études musicales poussées.
 ## Thème principaux
 - le silence
+- le language
+- l'art
+- la mort
+# Le contexte historique
+
+Le récit se déroule entre 1650 et 1689 pendant le règne de Louis XIV (le roi soleil). Son régime était celui d'une monarchie absolue: le roi a tous les pouvoirs, son pouvoir est divin
