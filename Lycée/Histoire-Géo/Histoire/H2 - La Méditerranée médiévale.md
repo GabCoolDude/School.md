@@ -8,5 +8,5 @@
 |           Langue écrite<br>majoritaire           |         Latin         |        Latin         |       Arabe       |
 |          Nature du<br>régime politique           |                       |                      |                   |
 |             La ou les<br>capitale(s)             |    Constantinople     |         Rome         |     Jérusalem     |
-| Evolution du XIIe<br>à la fin du XIIIe<br>siècle |                       |                      |                   |
+| Evolution du XIIe<br>à la fin du XIIIe<br>siècle |  Déclin territorial   |                      |                   |
 
