@@ -11,9 +11,14 @@
             "id": "ce177365bfeaf118",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "H2 - La Méditerranée médiévale"
             }
           }
         ]
@@ -172,9 +177,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of H2 - La Méditerranée médiévale"
             }
           }
         ]
@@ -202,6 +209,7 @@
   },
   "active": "ce177365bfeaf118",
   "lastOpenFiles": [
+    "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
     "Lycée/Français/Roman/Tous les matins du monde.md",
     "Lycée/Histoire-Géo/Histoire",
