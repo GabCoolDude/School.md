@@ -4,53 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "53846dccf98223f1",
+        "id": "6d906918ccb59450",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7dec85bbaa0e15",
+            "id": "ce177365bfeaf118",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycée/Français/Roman/Tous les matins du monde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tous les matins du monde"
-            }
-          },
-          {
-            "id": "a5eddefeb5c41514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycée/Français/Roman/Tous les matins du monde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tous les matins du monde"
-            }
-          },
-          {
-            "id": "b36d755e1f1e803f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Une croissance démographique à plusieurs vitesse"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lycée/Français/Roman/Tous les matins du monde.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Tous les matins du monde"
+              "title": "Outline"
             }
           }
         ]
@@ -236,10 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5eddefeb5c41514",
+  "active": "ce177365bfeaf118",
   "lastOpenFiles": [
-    "Lycée/Français/Grammaire/Types de narrateurs.md",
+    "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
     "Lycée/Français/Roman/Tous les matins du monde.md",
+    "Lycée/Histoire-Géo/Histoire",
+    "Lycée/Français/Grammaire/Types de narrateurs.md",
     "Lycée/Français/Types de narrateurs.md",
     "Lycée/Anglais/Chapter 3/Class 1.md",
     "Lycée/Anglais/Chapter 3/Protest song devoir.md",
@@ -252,7 +218,6 @@
     "Lycée/SVT/Chapitre 3/Untitled.md",
     "Lycée/Français/Untitled",
     "Lycée/Histoire-Géo/Géographie/G1/G1.1/G1.1.1/Une planète de plus en plus peuplée.md",
-    "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md",
     "Lycée/Histoire-Géo/Géographie/G1/Les défis de la démographie et du développement.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
@@ -271,10 +236,8 @@
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1",
-    "Lycée/Français/Poésie/L'amour courtois.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.3",
     "Lycée/SVT/Chapitre 3",
-    "Lycée/SES",
     "Lycée/Images/SVT/Pasted image 20241114121804.png",
     "Lycée/Images/SVT/Pasted image 20241114121637.png",
     "Lycée/Images/SVT/Pasted image 20241114121545.png",
