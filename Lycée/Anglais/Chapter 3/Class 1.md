@@ -14,3 +14,5 @@ There were a lot of people. It highlighted the power of music against Vietnam.
 Protest music is music that aims to send social messages, make a change and denounce on an issue (= a problem)
 
 Police brutality, environmental destruction and the inequality between the poor and then rich can all be denounced by art and music
+
+Protest songs can bring more attention to a particular issue, address and issue, encourage to resist oppression, give unity to a movement, encourage people to fight for freedom, equality, justice and peace.
