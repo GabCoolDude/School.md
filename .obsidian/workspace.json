@@ -207,8 +207,7 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
   "active": "bc092413c09f86e3",
