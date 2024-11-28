@@ -9,8 +9,6 @@ Vous avez dit que les écosystèmes c'est dans un milieu spécifique, est-ce-que
 Kenny et Lucie:
 
 C'est quoi un coucou ?
-
-
 # Qu'est-ce-qu'on peut améliorer sur sa présentation ?
 
 Répartition des rôles 
