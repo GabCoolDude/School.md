@@ -14,12 +14,12 @@
 # H2.2 - La Méditerranée, un espace de conflits et d'affrontements
 
 
-|                                                                                | Introduction |
-| ------------------------------------------------------------------------------ | ------------ |
-| Nature (type de texte,<br>d'image, de carte...)                                |              |
-| Source                                                                         |              |
-| Date                                                                           |              |
-| Auteur                                                                         |              |
-| Destinataire                                                                   |              |
-| Contexte (que se passe<br>-t-il au moment de la<br>production du <br>document) |              |
-| Point de vue de l'auteur<br>(est-il-neutre ?)                                  |              |
+|                                                                                | Introduction                                             |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| Nature (type de texte,<br>d'image, de carte...)                                | Ce document est un extrait                               |
+| Source                                                                         |                                                          |
+| Date                                                                           |                                                          |
+| Auteur                                                                         |                                                          |
+| Destinataire                                                                   |                                                          |
+| Contexte (que se passe<br>-t-il au moment de la<br>production du <br>document) |                                                          |
+| Point de vue de l'auteur<br>(est-il-neutre ?)                                  | L'auteur n'est pas neutre, il est du côté des chrétiens. |
