@@ -14,12 +14,17 @@
 # H2.2 - La Méditerranée, un espace de conflits et d'affrontements
 
 
-|                                                                                | Introduction                                                                                       |
-| :----------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------- |
-|                Nature (type de texte,<br>d'image, de carte...)                 | Ce document est un écrit d'une éloge (discours)                                                    |
-|                                     Source                                     | Ce document vient d'une éloge (un discours)                                                        |
-|                                      Date                                      | Il date de 1129                                                                                    |
-|                                     Auteur                                     | Il a été écrit par Bernard de Clairvaux                                                            |
-|                                  Destinataire                                  | Il est destiné aux chrétiens (pour les soutenir) <br>et aussi aux musulmans (pour leur faire peur) |
-| Contexte (que se passe<br>-t-il au moment de la<br>production du <br>document) | Au moment de l'écriture de ce document,<br>la deuxième croisade                                    |
-|                 Point de vue de l'auteur<br>(est-il-neutre ?)                  | L'auteur n'est pas neutre, il est du côté des chrétiens.                                           |
+|                                                                                | Introduction                                                            |
+| :----------------------------------------------------------------------------: | ----------------------------------------------------------------------- |
+|                Nature (type de texte,<br>d'image, de carte...)                 | Ce document est un écrit d'une éloge (discours)                         |
+|                                     Source                                     | Ce document vient de *Eloge de la nouvelle chevalerie*                  |
+|                                      Date                                      | Il date de 1129                                                         |
+|                                     Auteur                                     | Il a été écrit par Bernard de Clairvaux                                 |
+|                                  Destinataire                                  | Il est destiné aux chrétiens.                                           |
+| Contexte (que se passe<br>-t-il au moment de la<br>production du <br>document) | Au moment de l'écriture de ce document,<br>la deuxième croisade à lieu. |
+|                 Point de vue de l'auteur<br>(est-il-neutre ?)                  | L'auteur n'est pas neutre, il est du côté des chrétiens.                |
+Développement
+
+| Citations | Reformulations |
+| --------- | -------------- |
+|           |                |
