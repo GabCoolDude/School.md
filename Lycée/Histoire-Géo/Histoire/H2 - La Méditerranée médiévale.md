@@ -25,6 +25,8 @@
 Développement:
 Bernard de Clairvaux défend un combat du bien contre le mal
 
-| Citations                                                                    | Reformulations   |
-| ---------------------------------------------------------------------------- | ---------------- |
-| "Il venge le Christ de ceux<br>qui font le mal ; il défend<br>les chrétiens" | Cette guerre est |
+| Citations                                                                                                                | Reformulations                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| "Il venge le Christ de ceux<br>qui font le mal ; il défend<br>les chrétiens"                                             | Cette guerre a pour but de défendre les chrétiens.                                                                       |
+| "il est l'exécuteur de la <br>volonté divine, que ce soit<br>pour châtier les malfaiteurs<br>ou pour glorifier les bons" | Cela indique que Dieu pensent des musulmans comme<br>des malfaiteurs, et que donc cette guerre est justifié<br>par Dieu. |
+|                                                                                                                          |                                                                                                                          |
