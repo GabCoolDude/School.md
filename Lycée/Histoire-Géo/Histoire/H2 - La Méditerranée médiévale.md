@@ -11,11 +11,10 @@
 
 ![[Screenshot 2024-11-28 at 09.23.04.png]]
 
-# H2.2 - La Méditerranée, un espace de conflits et d'affrontements
-
+# H2.2 - La Méditerranée, un espace de conflits et d’affrontements
 
 |                                                                                | Introduction                                                            |
-| :----------------------------------------------------------------------------: | ----------------------------------------------------------------------- |
+|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------- |
 |                Nature (type de texte,<br>d'image, de carte...)                 | Ce document est un écrit d'une éloge (discours)                         |
 |                                     Source                                     | Ce document vient de *Eloge de la nouvelle chevalerie*                  |
 |                                      Date                                      | Il date de 1129                                                         |
@@ -23,8 +22,9 @@
 |                                  Destinataire                                  | Il est destiné aux chrétiens.                                           |
 | Contexte (que se passe<br>-t-il au moment de la<br>production du <br>document) | Au moment de l'écriture de ce document,<br>la deuxième croisade à lieu. |
 |                 Point de vue de l'auteur<br>(est-il-neutre ?)                  | L'auteur n'est pas neutre, il est du côté des chrétiens.                |
-Développement
+Développement:
+Bernard de Clairvaux défend un combat du bien contre le mal
 
-| Citations | Reformulations |
-| --------- | -------------- |
-|           |                |
+| Citations                                                                    | Reformulations   |
+| ---------------------------------------------------------------------------- | ---------------- |
+| "Il venge le Christ de ceux<br>qui font le mal ; il défend<br>les chrétiens" | Cette guerre est |
