@@ -37,7 +37,7 @@ Le récit se déroule entre 1650 et 1689 pendant le règne de Louis XIV (le roi 
 Le narrateur adopte un point de vue internet au moment où M. de Ste Colombe rêva d'aller dans l'eau.
 ## 2. Repérez des éléments qui relèvent du registre fantastique 
 
-
+"Il n'eur pas besoin de se reporter à son livre. Sa main se dirigeait d'elle-même sur la touche de sont instrument ‘“ë«¡Çø}—"
 ## 3. Quels sont les deux interprétations possibles de l'apparition finale ?
 
 
