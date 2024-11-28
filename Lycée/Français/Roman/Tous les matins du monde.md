@@ -34,7 +34,7 @@ Le récit se déroule entre 1650 et 1689 pendant le règne de Louis XIV (le roi 
 
 ## 1. A quels moments le narrateur adopte-t-il le point de vue interne de M. de Ste Colombe ? Quel effet cela crée-t-il ?
 
-
+Le narrateur adopte un point de vue internet au moment où M. de Ste Colombe rêva d'aller dans l'eau.
 ## 2. Repérez des éléments qui relèvent du registre fantastique 
 
 
