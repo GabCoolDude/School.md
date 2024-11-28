@@ -259,8 +259,14 @@
   },
   "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.1/Une croissance démographique à plusieurs vitesse.md": "BoBxsFileMd",
   "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2/Un territoire inégalitaire.md": "BoBxsFileMd",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2": "BoBxFolderOpen",
-  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3": "BoBxFolderOpen",
+  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.2": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#da8e0b"
+  },
+  "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3": {
+    "iconName": "BoBxFolderOpen",
+    "iconColor": "#e7a108"
+  },
   "Lycée/Histoire-Géo/Géographie/G1/G1.3/G1.3.3/Les Outre-mer.md": "BoBxsFileMd",
   "Lycée/Histoire-Géo/Géographie/G1/Les défis de la démographie et du développement.md": "BoBxsFileMd",
   "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md": "BoBxsFileMd",
