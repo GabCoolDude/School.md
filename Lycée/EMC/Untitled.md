@@ -1,1 +1,1 @@
-La liberté à des limites nécessaires, ces limites, fixées par le droit, garantissent à tous la liberté nécessaire en donn
+La liberté à des limites nécessaires, ces limites, fixées par le droit, garantissent à tous la liberté nécessaire en donnant un cadre.
