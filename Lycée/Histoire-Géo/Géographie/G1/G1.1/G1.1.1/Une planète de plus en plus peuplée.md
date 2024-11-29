@@ -2,7 +2,7 @@
 - Cette croissance est **concentrée en Asie** (Inde et Chine)
 - La population est de **plus en plus urbaine** : **56% en 2023 et 66% en** ***(selon les prévisions)*** **en 2060**
 
-Il existe différentes trajectoires démographiques, ce qui veut dire qu' il y a des pays dont la démographie augmente et d’autres dont la démographie baisse.
+Il existe différentes trajectoires démographiques, ce qui veut dire qu'il y a des pays dont la démographie augmente et d’autres dont la démographie baisse.
 
 Ceci peut s’expliquer par la **transition démographique**.
 
