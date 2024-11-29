@@ -105,15 +105,10 @@
     "iconName": "BoBxsFolder",
     "iconColor": "#e811cc"
   },
-  "Lycée/EMC/Liberté d'expression": {
-    "iconName": "BoBxFolderOpen",
-    "iconColor": "#eb0fce"
-  },
   "Lycée/Anglais": {
     "iconName": "BoBxsFolder",
     "iconColor": "#9900ff"
   },
-  "Lycée/EMC/Liberté d'expression/Liberté d'expression.md": "BoBxsFileMd",
   "Lycée/Images/README/Pasted image 20241014161406.png": "BoBxImage",
   "Lycée/Images/README/Pasted image 20241014162522.png": "BoBxImage",
   "Lycée/Images/README/Pasted image 20241014163822.png": "BoBxImage",
