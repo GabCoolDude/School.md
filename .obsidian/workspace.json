@@ -11,12 +11,14 @@
             "id": "ce177365bfeaf118",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Lycée/EMC/Harcèlement/Harcèlement.md"
+                "file": "Lycée/EMC/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Harcèlement"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -176,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/EMC/Harcèlement/Harcèlement.md"
+                "file": "Lycée/EMC/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Harcèlement"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -207,6 +209,8 @@
   },
   "active": "ce177365bfeaf118",
   "lastOpenFiles": [
+    "Lycée/EMC/Harcèlement/Harcèlement.md",
+    "Lycée/EMC/Untitled.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.2/Des inégalités de développement à toutes les échelles.md",
     "Lycée/EMC/Liberté d'expression/Liberté d'expression.md",
     "Lycée/Histoire-Géo/Géographie/G1/G1.2/G1.2.1/Les critères du développement.md",
@@ -232,7 +236,6 @@
     "Lycée/Anglais/Chapter 3/Protest song devoir.md",
     "Lycée/Anglais/Chapter 3/Introduction.md",
     "Lycée/Anglais/Chapter 3/Final Task.md",
-    "Lycée/EMC/Harcèlement/Harcèlement.md",
     "conflict-files-obsidian-git.md",
     "Lycée/Français/Untitled",
     "Pasted image 20241121094606.png",
