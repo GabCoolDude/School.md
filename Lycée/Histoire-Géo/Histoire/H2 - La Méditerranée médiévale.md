@@ -37,3 +37,6 @@ Bernard de Clairvaux justifie la violence comme nécessaire
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | "il vaut mieux que les païens<br>soient tués, plutôt que de<br>laisser la menace (...)"(l. 8-9)                                  | Il dit que les païens doivent être tués car ils sont une menace.                                                      |
 | "il est l'exécuteur de la <br>volonté divine, que ce soit<br>pour châtier les malfaiteurs<br>ou pour glorifier les bons"(l. 4-5) | Cela indique que Dieu pensent des païens comme<br>des malfaiteurs, et que donc cette guerre est justifié<br>par Dieu. |
+## Bilan
+
+- **Croisade :** expédition militaire entreprise par des chrétiens dans un objectif religieux
