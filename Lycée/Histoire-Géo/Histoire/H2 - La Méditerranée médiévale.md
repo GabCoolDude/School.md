@@ -40,3 +40,7 @@ Bernard de Clairvaux justifie la violence comme nécessaire
 ## Bilan
 
 - **Croisade :** expédition militaire entreprise par des chrétiens dans un objectif religieux
+
+Bernard de Clairvaux (1090-1153) est un abbé dirigeant une communauté religieuse en Bourgogne.
+
+L'un de ses moines devient pape au nom d'Eugène III. Il devient alors très influent dans le monde chrétien.
