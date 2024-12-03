@@ -25,15 +25,15 @@
 Développement:
 Bernard de Clairvaux défend un combat du bien contre le mal
 
-| Citations                                                                    | Reformulations                                     |
-| ---------------------------------------------------------------------------- | -------------------------------------------------- |
-| "Il venge le Christ de ceux<br>qui font le mal ; il défend<br>les chrétiens" | Cette guerre a pour but de défendre les chrétiens. |
-|                                                                              |                                                    |
-|                                                                              |                                                    |
+| Citations                                                           | Reformulations |
+| ------------------------------------------------------------------- | -------------- |
+| "Il venge le Christ de ceux<br>qui font le mal" (l. 6)              |                |
+| "c'est en toute sécurité<br>qu'il combattent pour leur<br>seigneru" |                |
+|                                                                     |                |
 Bernard de Clairvaux justifie la violence comme nécessaire
 
 | Citations                                                                                                                | Reformulations                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | "il est l'exécuteur de la <br>volonté divine, que ce soit<br>pour châtier les malfaiteurs<br>ou pour glorifier les bons" | Cela indique que Dieu pensent des musulmans comme<br>des malfaiteurs, et que donc cette guerre est justifié<br>par Dieu. |
-| "il vaut mieux que les païens<br>soient tués, plutôt que de<br>laisser la menace (...)"                                  | Les païens doivent être tués car ils sont une menc                                                                       |
+| "il vaut mieux que les païens<br>soient tués, plutôt que de<br>laisser la menace (...)"                                  | Les païens doivent être tués car ils sont une menace.                                                                    |
 |                                                                                                                          |                                                                                                                          |
