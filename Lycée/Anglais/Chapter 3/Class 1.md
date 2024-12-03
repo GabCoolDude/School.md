@@ -16,3 +16,24 @@ Protest music is music that aims to send social messages, make a change and deno
 Police brutality, environmental destruction and the inequality between the poor and then rich can all be denounced by art and music
 
 Protest songs can bring more attention to a particular issue, address and issue, encourage to resist oppression, give unity to a movement, encourage people to fight for freedom, equality, justice and peace.
+
+# Activity : Making a difference through songs - Reading comprehension
+
+1. Read the text and give your own definition of "protest music". (Use WordReference if needed) :
+Protest music is music that aims to (the aim = the gool) send social messages, make a change and denounce an issue (a problem).
+
+2. In the text find 3 issues that art and music denounce :
+- Police brutality
+- Environmental destruction 
+- Inequality = The gap (difference) between the poor and the rich people.
+- Racism
+- Injustice
+
+3. Pick out all the expressions that art and music can contribute to change : 
+Protest songs can : 
+- Bring more attention to a particular issue
+- Address an issue = Solve a problem
+- Encourage = Motivate
+- To resist oppression
+- Give unity to a mouvement
+- Encourage people to fight for freedom, equality, justice, and peace.
