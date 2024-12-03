@@ -9,3 +9,12 @@
 2. Find the cause that she defended
 -Respect
 -Against segregation
+
+3. Pick out all the positive adjectives in the text used to describe her and her career:
+-prominent
+-entertainer
+-inspire
+
+4. Pick out all the passages that show that Aretha Franklin was important and influential
+-"she not only used her voice to entertain, but to uplift and inspire generations through songs that have become anthems."
+-""
