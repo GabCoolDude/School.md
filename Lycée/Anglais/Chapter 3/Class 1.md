@@ -19,8 +19,8 @@ Protest songs can bring more attention to a particular issue, address and issue,
 
 # Activity : Making a difference through songs - Reading comprehension
 
-1. Read the text and give your own definition of "protest music". (Use WordReference if needed) :
-Protest music is music that aims to (the aim = the gool) send social messages, make a change and denounce an issue (a problem).
+1. Read the text and give your own definition of "protest music".
+Protest music is music that aims to (the aim = the goal) send social messages, make a change and denounce an issue (a problem).
 
 2. In the text find 3 issues that art and music denounce :
 - Police brutality
