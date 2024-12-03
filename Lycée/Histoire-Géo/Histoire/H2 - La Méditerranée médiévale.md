@@ -12,6 +12,7 @@
 ![[Screenshot 2024-11-28 at 09.23.04.png]]
 
 # H2.2 - La Méditerranée, un espace de conflits et d’affrontements
+## Analyse de document
 
 |                                                                                | Introduction                                                            |
 |:------------------------------------------------------------------------------:|:----------------------------------------------------------------------- |
@@ -25,15 +26,14 @@
 Développement:
 Bernard de Clairvaux défend un combat du bien contre le mal
 
-| Citations                                                                                                | Reformulations                                                                                      |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| "Il venge le Christ de ceux<br>qui font le mal" (l. 6)                                                   | Il dit que les chevaliers vengent le Christ des païens.                                             |
-| "c'est en toute sécurité<br>qu'il combattent pour leur<br>seigneur, sans avoir à <br>craindre de pêcher" | Il dit que les chevaliers n'ont pas besoin d'avoir peur <br>de faire un pêcher en tuant des païens. |
-|                                                                                                          |                                                                                                     |
+| Citations                                                                                                | Reformulations                                                                                              |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| "c'est en toute sécurité<br>qu'il combattent pour leur<br>seigneur, sans avoir à <br>craindre de pêcher" | Il dit que les chevaliers n'ont pas besoin d'avoir peur <br>de faire un pêcher en tuant des païens.         |
+| "Il venge le Christ de ceux<br>qui font le mal" (l. 6)                                                   | Bernard de Clairvaux dit que les chevaliers vengent <br>le Christ des pêchers qui sont fait par les païens. |
+
 Bernard de Clairvaux justifie la violence comme nécessaire
 
 | Citations                                                                                                                | Reformulations                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | "il est l'exécuteur de la <br>volonté divine, que ce soit<br>pour châtier les malfaiteurs<br>ou pour glorifier les bons" | Cela indique que Dieu pensent des musulmans comme<br>des malfaiteurs, et que donc cette guerre est justifié<br>par Dieu. |
 | "il vaut mieux que les païens<br>soient tués, plutôt que de<br>laisser la menace (...)"                                  | Il dit que les païens doivent être tués car ils sont une menace.                                                         |
-|                                                                                                                          |                                                                                                                          |
