@@ -44,3 +44,5 @@ Bernard de Clairvaux justifie la violence comme nécessaire
 Bernard de Clairvaux (1090-1153) est un abbé dirigeant une communauté religieuse en Bourgogne.
 
 L'un de ses moines devient pape au nom d'Eugène III. Il devient alors très influent dans le monde chrétien.
+
+Il prêche auprès du rois de France Louis VII, la deuxième croisade. Elle a pour objectif d'assurer le pèlerinage vers Jérusalem où se trouverait le Saint-Sépulcre (tombeau du Christ).
