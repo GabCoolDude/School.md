@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md",
+                "file": "Lycée/Anglais/Chapter 3/Class 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "H2 - La Méditerranée médiévale"
+              "title": "Class 3"
             }
           }
         ]
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md"
+                "file": "Lycée/Anglais/Chapter 3/Class 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of H2 - La Méditerranée médiévale"
+              "title": "Outline of Class 3"
             }
           }
         ]
@@ -207,15 +207,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8512c0ca28a16fd9",
+  "active": "ce177365bfeaf118",
   "lastOpenFiles": [
+    "Lycée/Anglais/Chapter 3/Class 1.md",
+    "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md",
     "Lycée/Images/Histoire/Flèche chrono. croisades.png",
     "Lycée/Anglais/Chapter 3/Class 3.md",
-    "Lycée/Anglais/Chapter 3/Class 1.md",
     "Lycée/Anglais/Chapter 3/Protest song devoir.md",
     "Lycée/Anglais/Chapter 3/Introduction.md",
     "Lycée/Anglais/Chapter 3/Final Task.md",
-    "Lycée/Histoire-Géo/Histoire/H2 - La Méditerranée médiévale.md",
     "Lycée/Histoire-Géo/Histoire/Drawing 2024-12-03 10.52.34.excalidraw.md",
     "Lycée/EMC/Untitled.md",
     "Lycée/EMC/Harcèlement/Harcèlement.md",
@@ -254,7 +254,6 @@
     "Lycée/Images/SVT/Pasted image 20241114121447.png",
     "Lycée/Images/Géographie/Capture d'écran 2024-10-11 095916.png",
     "Lycée/Images/Géographie/croquis brésil légende.jpg",
-    "Lycée/Images/Géographie/croquis brésil.png",
     "Untitled.canvas"
   ]
 }
