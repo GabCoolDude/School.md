@@ -17,4 +17,4 @@ The text describes here as prominent, shining and uplifting.
 
 5. The "civil rights movement" is mentioned several times in the text: what do you know about the civil right movement in the USA ?
 
-I know
+The civil rights movement was a social movement in the US from 1954 to 1968 that aimed to abort racial segregation against black people. Segregation was the separation of African Americans from white people in public places
