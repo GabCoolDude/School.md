@@ -50,15 +50,14 @@ Il prêche auprès du rois de France Louis VII, la deuxième croisade. Elle a po
 
 # H2.3 - La Méditerranée, un espace d'échanges économiques
 ## H2.3.1 Venise grande puissance maritime et commerciale
-### Tableau
 
-| Questions                           | Réponses |
-| ----------------------------------- | -------- |
-| Quels éléments de la ville illustre |          |
-|                                     |          |
-|                                     |          |
-|                                     |          |
-|                                     |          |
-|                                     |          |
-|                                     |          |
-|                                     |          |
+| Questions                                                                                                                 | Réponses                                        |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Quels éléments de la ville illustrent la puissance des marchands vénitiens au Moyen-Âge ?                                 | L'architecture                                  |
+| Quel est le régime politique en place à Venise ?<br>Qu'est-ce que le palais des doges ?                                   | République<br>siège magistrale et de la justice |
+| Quels sont les moyens utilisés par l'Etat pour favoriser les marchands vénitiens en Méditerranée ? Relevez deux exemples. |                                                 |
+| Quelle est la stratégie de la république de Venise sur le commerce du sel ?                                               |                                                 |
+| Quels sont les principaux produits échangés par les marchan                                                               |                                                 |
+|                                                                                                                           |                                                 |
+|                                                                                                                           |                                                 |
+|                                                                                                                           |                                                 |
