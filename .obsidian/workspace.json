@@ -89,16 +89,6 @@
         "dimension": 40.16203703703704,
         "children": [
           {
-            "id": "c32f29fbef61878c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "238ad3c68b9aee53",
             "type": "leaf",
             "state": {
@@ -108,8 +98,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "abefcbaf41914b12",
