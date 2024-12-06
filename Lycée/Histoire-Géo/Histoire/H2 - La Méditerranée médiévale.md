@@ -49,15 +49,15 @@ L'un de ses moines devient pape au nom d'Eugène III. Il devient alors très inf
 Il prêche auprès du rois de France Louis VII, la deuxième croisade. Elle a pour objectif d'assurer le pèlerinage vers Jérusalem où se trouverait le Saint-Sépulcre (tombeau du Christ).
 
 # H2.3 - La Méditerranée, un espace d'échanges économiques
-## H2.3.1 Venise grande puissance maritime et commerciale
+## H2.3.1 Venise, grande puissance maritime et commerciale
 
-| Questions                                                                                                                 | Réponses                                        |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| Quels éléments de la ville illustrent la puissance des marchands vénitiens au Moyen-Âge ?                                 | L'architecture                                  |
-| Quel est le régime politique en place à Venise ?<br>Qu'est-ce que le palais des doges ?                                   | République<br>siège magistrale et de la justice |
-| Quels sont les moyens utilisés par l'Etat pour favoriser les marchands vénitiens en Méditerranée ? Relevez deux exemples. |                                                 |
-| Quelle est la stratégie de la république de Venise sur le commerce du sel ?                                               |                                                 |
-| Quels sont les principaux produits échangés par les marchan                                                               |                                                 |
-|                                                                                                                           |                                                 |
-|                                                                                                                           |                                                 |
-|                                                                                                                           |                                                 |
+| Questions                                                                                                                 | Réponses                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Quels éléments de la ville illustrent la puissance des marchands vénitiens au Moyen-Âge ?                                 | L'architecture illustre la puissance des marchands.                                                                         |
+| Quel est le régime politique en place à Venise ?<br>Qu'est-ce que le palais des doges ?                                   | Le régime politique est une République du commerce. Le palais des doges est le siège politique, administratif et juridique. |
+| Quels sont les moyens utilisés par l'Etat pour favoriser les marchands vénitiens en Méditerranée ? Relevez deux exemples. |                                                                                                                             |
+| Quelle est la stratégie de la république de Venise sur le commerce du sel ?                                               |                                                                                                                             |
+| Quels sont les principaux produits échangés par les marchands du Moyen-Âge ?                                              |                                                                                                                             |
+| Comment Venise affirme-t-elle sa supériorité sur l'Empire byzantin ?                                                      |                                                                                                                             |
+| Quels éléments de la basilique St Marc illustrent la puissance de Venise ?                                                |                                                                                                                             |
+| Décrivez l'arsenal de Venise. Que dit-il de la puissance de la ville ?                                                    |                                                                                                                             |
